@@ -33,7 +33,7 @@ analysis.py
 - High-risk customer
 
 - Risk bands: 0–25 Low, 26–39 Medium, above 40 High.
-- 
+
 ## Excel calculation & dashboard
 - KPI analysis
 - pivot analysis
