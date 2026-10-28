@@ -1,0 +1,16 @@
+country,country_risk_level,risk_score
+India,Low,10
+USA,Low,10
+UK,Low,10
+Singapore,Low,10
+UAE,Low,10
+Germany,Low,10
+France,Low,10
+Canada,Low,10
+Australia,Low,10
+Hong Kong,Low,10
+Switzerland,Low,10
+Nigeria,High,40
+Russia,High,40
+Cayman Islands,High,40
+Panama,High,40

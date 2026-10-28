@@ -1,0 +1,2001 @@
+customer_id,occupation,source_of_funds,expected_monthly_transaction,expected_transaction_country,kyc_status
+C100000,Consultant,Unknown,487360.16,USA,Verified
+C100001,Student,Investments,134335.5,USA,Verified
+C100002,Consultant,Unknown,45260.78,USA,Verified
+C100003,Consultant,Salary,358354.05,India,Verified
+C100004,Business Owner,Business Income,56328.11,UK,Pending
+C100005,Self-Employed,Business Income,337905.36,India,Verified
+C100006,Self-Employed,Salary,165841.85,UAE,Verified
+C100007,Student,Salary,90400.42,Singapore,Verified
+C100008,Salaried,Inheritance,72060.36,UK,Verified
+C100009,Salaried,Salary,356131.57,USA,Verified
+C100010,Business Owner,Investments,274046.59,UAE,Verified
+C100011,Student,Business Income,189713.91,UAE,Verified
+C100012,Consultant,Business Income,377347.24,UK,Verified
+C100013,Consultant,Business Income,317904.69,UAE,Verified
+C100014,Consultant,Salary,426402.02,USA,Verified
+C100015,Salaried,Inheritance,49194.5,Singapore,Verified
+C100016,Self-Employed,Salary,228981.01,UAE,Verified
+C100017,Salaried,Unknown,78198.78,Singapore,Verified
+C100018,Student,Unknown,259606.57,Singapore,Verified
+C100019,Student,Investments,230435.58,India,Verified
+C100020,Self-Employed,Salary,54767.47,Singapore,Verified
+C100021,Self-Employed,Business Income,460102.96,USA,Expired
+C100022,Self-Employed,Business Income,424167.02,UAE,Verified
+C100023,Retired,Salary,308863.22,UAE,Verified
+C100024,Business Owner,Inheritance,473462.76,USA,Verified
+C100025,Student,Investments,179503.06,USA,Verified
+C100026,Business Owner,Salary,51392.45,UAE,Verified
+C100027,Student,Business Income,216988.67,Singapore,Verified
+C100028,Consultant,Business Income,357001.91,India,Verified
+C100029,Self-Employed,Salary,433940.52,UAE,Verified
+C100030,Retired,Investments,259612.35,Singapore,Verified
+C100031,Student,Business Income,62348.07,India,Verified
+C100032,Student,Business Income,224907.07,Singapore,Verified
+C100033,Retired,Business Income,282250.57,Singapore,Verified
+C100034,Self-Employed,Savings,85250.63,USA,Verified
+C100035,Salaried,Salary,407996.23,Singapore,Verified
+C100036,Consultant,Business Income,464840.02,UAE,Verified
+C100037,Self-Employed,Salary,46264.53,UK,Verified
+C100038,Business Owner,Salary,69121.26,Singapore,Verified
+C100039,Self-Employed,Unknown,445628.74,Singapore,Verified
+C100040,Business Owner,Inheritance,165090.53,UK,Verified
+C100041,Business Owner,Savings,121197.92,UAE,Verified
+C100042,Business Owner,Salary,381487.23,Singapore,Verified
+C100043,Student,Salary,266954.46,UK,Verified
+C100044,Consultant,Business Income,446713.21,UK,Verified
+C100045,Business Owner,Savings,372353.83,India,Verified
+C100046,Salaried,Savings,279764.42,India,Verified
+C100047,Consultant,Savings,350733.82,USA,Verified
+C100048,Self-Employed,Business Income,356265.86,Singapore,Verified
+C100049,Self-Employed,Salary,400860.33,UAE,Verified
+C100050,Business Owner,Business Income,288980.69,India,Verified
+C100051,Salaried,Unknown,492858.22,India,Verified
+C100052,Business Owner,Unknown,336384.42,UK,Verified
+C100053,Self-Employed,Investments,79286.51,UK,Verified
+C100054,Retired,Salary,212391.91,USA,Verified
+C100055,Retired,Business Income,201901.64,USA,Verified
+C100056,Salaried,Inheritance,243981.02,UK,Verified
+C100057,Consultant,Business Income,460394.69,India,Verified
+C100058,Consultant,Salary,318825.87,India,Verified
+C100059,Business Owner,Salary,232865.18,Singapore,Verified
+C100060,Business Owner,Investments,478304.35,UAE,Verified
+C100061,Student,Salary,66413.11,Singapore,Verified
+C100062,Business Owner,Salary,201715.37,Singapore,Verified
+C100063,Salaried,Business Income,218077.72,India,Verified
+C100064,Business Owner,Salary,130539.09,Singapore,Pending
+C100065,Self-Employed,Salary,495067.87,India,Verified
+C100066,Business Owner,Business Income,371938.22,India,Verified
+C100067,Self-Employed,Business Income,353181.33,India,Verified
+C100068,Salaried,Business Income,305090.35,UAE,Expired
+C100069,Retired,Salary,303035.33,UAE,Verified
+C100070,Salaried,Savings,350025.86,UAE,Verified
+C100071,Student,Business Income,28930.65,UK,Verified
+C100072,Student,Salary,431439.56,UAE,Verified
+C100073,Consultant,Investments,75075.73,Singapore,Verified
+C100074,Retired,Business Income,257965.25,India,Verified
+C100075,Salaried,Investments,28816.72,Singapore,Verified
+C100076,Self-Employed,Investments,189967.13,UK,Pending
+C100077,Self-Employed,Business Income,109865.78,USA,Verified
+C100078,Consultant,Inheritance,180838.83,UAE,Verified
+C100079,Consultant,Salary,268782.17,Singapore,Verified
+C100080,Retired,Business Income,141375.61,UK,Verified
+C100081,Business Owner,Savings,60545.23,UAE,Verified
+C100082,Self-Employed,Business Income,199447.03,USA,Verified
+C100083,Retired,Investments,458510.52,Singapore,Verified
+C100084,Student,Savings,218495.82,UK,Verified
+C100085,Student,Salary,23785.93,Singapore,Pending
+C100086,Business Owner,Inheritance,495525.36,India,Verified
+C100087,Business Owner,Salary,245377.44,Singapore,Verified
+C100088,Business Owner,Savings,74234.94,India,Verified
+C100089,Student,Investments,144222.36,Singapore,Pending
+C100090,Self-Employed,Investments,60109.21,India,Pending
+C100091,Retired,Investments,253719.38,India,Verified
+C100092,Self-Employed,Salary,87529.88,India,Verified
+C100093,Business Owner,Savings,258623.05,UK,Verified
+C100094,Self-Employed,Business Income,433296.8,UAE,Verified
+C100095,Consultant,Savings,108886.28,India,Verified
+C100096,Student,Unknown,119089.61,UAE,Expired
+C100097,Retired,Business Income,230943.0,USA,Verified
+C100098,Student,Savings,105107.67,UK,Verified
+C100099,Self-Employed,Salary,390688.82,UAE,Verified
+C100100,Self-Employed,Salary,294665.93,Singapore,Verified
+C100101,Retired,Investments,494460.96,India,Verified
+C100102,Business Owner,Salary,488099.52,UK,Verified
+C100103,Salaried,Investments,305367.96,USA,Verified
+C100104,Student,Investments,338252.66,UAE,Verified
+C100105,Consultant,Investments,329751.68,India,Verified
+C100106,Salaried,Business Income,288344.23,UK,Verified
+C100107,Student,Investments,196047.46,UAE,Verified
+C100108,Consultant,Business Income,22357.75,UK,Verified
+C100109,Consultant,Investments,249444.65,UK,Verified
+C100110,Retired,Salary,145943.68,UAE,Verified
+C100111,Business Owner,Unknown,53975.48,USA,Verified
+C100112,Business Owner,Business Income,480031.47,India,Verified
+C100113,Consultant,Salary,321281.02,India,Verified
+C100114,Self-Employed,Salary,236132.51,UK,Verified
+C100115,Salaried,Savings,269570.19,USA,Verified
+C100116,Retired,Salary,368764.43,UK,Verified
+C100117,Self-Employed,Salary,321158.04,Singapore,Verified
+C100118,Consultant,Savings,410411.5,USA,Verified
+C100119,Self-Employed,Investments,53948.04,UK,Verified
+C100120,Self-Employed,Business Income,467969.82,Singapore,Verified
+C100121,Consultant,Investments,105685.0,USA,Verified
+C100122,Student,Investments,106894.8,UK,Verified
+C100123,Business Owner,Savings,83930.21,USA,Verified
+C100124,Salaried,Business Income,407495.8,India,Verified
+C100125,Self-Employed,Savings,85253.09,UAE,Verified
+C100126,Salaried,Unknown,28069.6,Singapore,Verified
+C100127,Retired,Savings,305065.12,Singapore,Verified
+C100128,Self-Employed,Salary,270233.47,UAE,Verified
+C100129,Business Owner,Investments,50648.33,Singapore,Pending
+C100130,Salaried,Inheritance,350153.23,UK,Verified
+C100131,Business Owner,Business Income,253023.11,USA,Pending
+C100132,Retired,Investments,278463.8,Singapore,Verified
+C100133,Business Owner,Inheritance,490400.23,India,Verified
+C100134,Consultant,Business Income,307512.43,USA,Verified
+C100135,Self-Employed,Business Income,174141.63,UK,Verified
+C100136,Salaried,Business Income,364271.41,UK,Verified
+C100137,Student,Business Income,410810.96,USA,Verified
+C100138,Salaried,Savings,395329.82,UK,Verified
+C100139,Business Owner,Inheritance,295229.05,UAE,Verified
+C100140,Self-Employed,Salary,223853.06,India,Verified
+C100141,Salaried,Unknown,78982.01,USA,Verified
+C100142,Consultant,Salary,53272.73,India,Verified
+C100143,Retired,Salary,233463.92,USA,Verified
+C100144,Salaried,Salary,350376.4,India,Verified
+C100145,Student,Business Income,215786.63,UK,Verified
+C100146,Consultant,Savings,430592.4,UK,Verified
+C100147,Student,Salary,87688.8,Singapore,Pending
+C100148,Salaried,Business Income,392592.98,USA,Verified
+C100149,Retired,Business Income,141369.07,UK,Verified
+C100150,Salaried,Salary,390685.3,India,Verified
+C100151,Retired,Salary,448848.77,UK,Verified
+C100152,Consultant,Inheritance,357344.99,UK,Verified
+C100153,Business Owner,Salary,212116.41,UK,Verified
+C100154,Salaried,Savings,381909.51,India,Pending
+C100155,Consultant,Salary,418494.73,India,Verified
+C100156,Salaried,Salary,389255.94,UK,Pending
+C100157,Consultant,Salary,395402.37,USA,Verified
+C100158,Student,Business Income,104098.43,Singapore,Verified
+C100159,Self-Employed,Inheritance,117483.41,India,Verified
+C100160,Self-Employed,Salary,248426.03,UK,Verified
+C100161,Self-Employed,Savings,476605.51,India,Verified
+C100162,Self-Employed,Business Income,304897.88,UAE,Verified
+C100163,Salaried,Salary,264986.23,India,Verified
+C100164,Self-Employed,Investments,287031.73,UAE,Verified
+C100165,Consultant,Savings,198643.13,USA,Verified
+C100166,Self-Employed,Savings,26050.36,UAE,Verified
+C100167,Student,Business Income,219920.42,India,Verified
+C100168,Student,Inheritance,404387.47,UAE,Verified
+C100169,Student,Investments,69630.48,Singapore,Verified
+C100170,Consultant,Savings,112381.87,Singapore,Verified
+C100171,Self-Employed,Business Income,52792.8,USA,Verified
+C100172,Retired,Business Income,490715.75,USA,Verified
+C100173,Self-Employed,Salary,291932.44,USA,Verified
+C100174,Business Owner,Business Income,113554.19,Singapore,Verified
+C100175,Business Owner,Salary,97840.18,UAE,Verified
+C100176,Student,Salary,92381.59,UAE,Verified
+C100177,Consultant,Salary,393730.2,UAE,Verified
+C100178,Student,Salary,218625.96,Singapore,Pending
+C100179,Retired,Salary,374575.4,India,Verified
+C100180,Business Owner,Investments,279952.68,UAE,Verified
+C100181,Retired,Salary,203197.48,Singapore,Verified
+C100182,Self-Employed,Business Income,47043.24,Singapore,Pending
+C100183,Retired,Savings,100877.78,India,Verified
+C100184,Self-Employed,Salary,290131.96,UK,Verified
+C100185,Retired,Business Income,185733.02,UK,Verified
+C100186,Business Owner,Salary,25049.24,India,Verified
+C100187,Retired,Business Income,157916.02,USA,Verified
+C100188,Salaried,Investments,300100.36,Singapore,Verified
+C100189,Business Owner,Business Income,426194.68,Singapore,Verified
+C100190,Retired,Salary,424424.3,UK,Verified
+C100191,Salaried,Savings,152177.8,India,Verified
+C100192,Self-Employed,Business Income,167158.61,Singapore,Verified
+C100193,Salaried,Business Income,180312.15,UAE,Verified
+C100194,Self-Employed,Unknown,495926.66,UAE,Verified
+C100195,Business Owner,Investments,36230.72,India,Verified
+C100196,Consultant,Business Income,340834.0,USA,Pending
+C100197,Self-Employed,Savings,391793.82,Singapore,Verified
+C100198,Salaried,Investments,253056.84,India,Verified
+C100199,Self-Employed,Savings,46454.63,UK,Pending
+C100200,Retired,Salary,243711.63,India,Pending
+C100201,Retired,Savings,441920.69,India,Verified
+C100202,Self-Employed,Salary,408003.59,Singapore,Pending
+C100203,Self-Employed,Business Income,231050.09,Singapore,Verified
+C100204,Salaried,Business Income,274865.85,UAE,Verified
+C100205,Retired,Salary,44425.96,Singapore,Verified
+C100206,Student,Investments,69670.1,UAE,Verified
+C100207,Student,Unknown,453297.18,Singapore,Verified
+C100208,Self-Employed,Salary,93166.95,USA,Verified
+C100209,Consultant,Business Income,267805.25,UAE,Verified
+C100210,Salaried,Salary,453964.28,Singapore,Verified
+C100211,Student,Salary,394752.19,USA,Verified
+C100212,Consultant,Salary,127245.58,UAE,Verified
+C100213,Self-Employed,Salary,223886.2,UAE,Verified
+C100214,Student,Savings,411550.18,India,Verified
+C100215,Consultant,Salary,453368.94,Singapore,Verified
+C100216,Business Owner,Inheritance,312986.67,Singapore,Verified
+C100217,Self-Employed,Salary,458775.07,UK,Verified
+C100218,Salaried,Business Income,232456.43,UAE,Expired
+C100219,Retired,Investments,52001.32,UAE,Pending
+C100220,Self-Employed,Salary,432776.68,USA,Verified
+C100221,Self-Employed,Investments,406293.15,Singapore,Verified
+C100222,Student,Salary,346875.69,Singapore,Verified
+C100223,Self-Employed,Salary,130884.78,USA,Verified
+C100224,Business Owner,Savings,32879.14,USA,Verified
+C100225,Student,Savings,398150.75,UAE,Verified
+C100226,Consultant,Investments,118572.55,UAE,Verified
+C100227,Consultant,Salary,22926.07,India,Verified
+C100228,Salaried,Inheritance,98772.59,UK,Verified
+C100229,Business Owner,Business Income,350511.87,USA,Expired
+C100230,Business Owner,Investments,233119.06,UK,Verified
+C100231,Consultant,Salary,278201.04,India,Verified
+C100232,Salaried,Business Income,192894.83,Singapore,Verified
+C100233,Salaried,Salary,455072.36,Singapore,Verified
+C100234,Student,Salary,30742.75,UAE,Verified
+C100235,Student,Investments,299607.22,India,Verified
+C100236,Student,Inheritance,474361.38,Singapore,Verified
+C100237,Self-Employed,Business Income,134210.22,Singapore,Verified
+C100238,Retired,Savings,221219.94,India,Verified
+C100239,Self-Employed,Investments,360544.98,India,Verified
+C100240,Consultant,Salary,291326.57,UAE,Verified
+C100241,Salaried,Salary,459310.04,India,Pending
+C100242,Retired,Salary,300661.19,USA,Pending
+C100243,Self-Employed,Savings,176519.87,USA,Verified
+C100244,Student,Business Income,181431.44,UAE,Verified
+C100245,Self-Employed,Savings,260084.58,India,Verified
+C100246,Student,Investments,261664.39,UAE,Verified
+C100247,Business Owner,Investments,485616.47,India,Verified
+C100248,Salaried,Inheritance,78537.26,UK,Verified
+C100249,Self-Employed,Savings,330842.83,UAE,Pending
+C100250,Student,Business Income,337456.42,Singapore,Verified
+C100251,Self-Employed,Salary,341517.96,Singapore,Pending
+C100252,Self-Employed,Business Income,183602.12,UAE,Verified
+C100253,Consultant,Salary,179797.82,Singapore,Expired
+C100254,Self-Employed,Salary,185292.49,UK,Verified
+C100255,Salaried,Savings,374023.82,USA,Verified
+C100256,Consultant,Salary,434116.55,USA,Verified
+C100257,Student,Business Income,239255.58,USA,Verified
+C100258,Student,Salary,219737.59,India,Verified
+C100259,Retired,Salary,265972.1,India,Verified
+C100260,Salaried,Salary,410967.77,India,Verified
+C100261,Business Owner,Business Income,98535.08,India,Verified
+C100262,Self-Employed,Business Income,381056.87,Singapore,Verified
+C100263,Retired,Salary,325201.11,USA,Verified
+C100264,Consultant,Salary,26037.96,USA,Verified
+C100265,Salaried,Inheritance,242945.81,India,Verified
+C100266,Student,Salary,315651.05,USA,Verified
+C100267,Salaried,Savings,398733.74,Singapore,Verified
+C100268,Self-Employed,Salary,468477.4,UK,Verified
+C100269,Student,Investments,436643.59,UK,Verified
+C100270,Consultant,Savings,182476.43,UAE,Verified
+C100271,Student,Salary,350076.59,UAE,Verified
+C100272,Consultant,Salary,478891.47,UAE,Verified
+C100273,Retired,Salary,247294.05,UAE,Verified
+C100274,Consultant,Salary,188522.0,UAE,Verified
+C100275,Salaried,Investments,326089.27,India,Verified
+C100276,Salaried,Salary,51202.31,Singapore,Verified
+C100277,Student,Salary,464614.52,UK,Verified
+C100278,Salaried,Investments,84896.35,UK,Verified
+C100279,Business Owner,Salary,47684.33,UK,Verified
+C100280,Salaried,Salary,113362.36,India,Verified
+C100281,Self-Employed,Savings,426829.25,UAE,Verified
+C100282,Consultant,Investments,393601.47,India,Verified
+C100283,Self-Employed,Business Income,423970.24,UK,Verified
+C100284,Business Owner,Business Income,158446.05,India,Verified
+C100285,Retired,Savings,74839.58,UAE,Verified
+C100286,Salaried,Savings,263159.7,UK,Verified
+C100287,Salaried,Business Income,462832.51,UK,Verified
+C100288,Self-Employed,Salary,150628.61,UK,Verified
+C100289,Student,Investments,356361.47,Singapore,Verified
+C100290,Business Owner,Salary,88503.74,India,Verified
+C100291,Consultant,Inheritance,198396.09,India,Verified
+C100292,Salaried,Salary,119673.12,India,Verified
+C100293,Student,Business Income,88278.54,India,Verified
+C100294,Salaried,Savings,186625.72,UK,Verified
+C100295,Student,Salary,454647.88,UK,Pending
+C100296,Salaried,Salary,268754.33,Singapore,Verified
+C100297,Retired,Salary,410967.87,UAE,Verified
+C100298,Self-Employed,Investments,74658.95,USA,Verified
+C100299,Self-Employed,Investments,483391.3,Singapore,Verified
+C100300,Business Owner,Business Income,189328.5,USA,Verified
+C100301,Salaried,Business Income,50460.7,India,Verified
+C100302,Salaried,Salary,394119.27,USA,Verified
+C100303,Consultant,Salary,209700.06,UAE,Verified
+C100304,Self-Employed,Savings,214735.41,UAE,Verified
+C100305,Business Owner,Salary,52195.75,UAE,Verified
+C100306,Student,Salary,283231.18,UK,Verified
+C100307,Salaried,Savings,123563.03,UAE,Verified
+C100308,Business Owner,Salary,276574.19,Singapore,Verified
+C100309,Self-Employed,Unknown,276209.22,Singapore,Verified
+C100310,Business Owner,Investments,160140.45,Singapore,Verified
+C100311,Self-Employed,Investments,50971.81,Singapore,Verified
+C100312,Salaried,Business Income,46175.45,UAE,Verified
+C100313,Salaried,Savings,455545.4,UAE,Verified
+C100314,Retired,Business Income,471024.54,UK,Verified
+C100315,Salaried,Business Income,48607.36,UK,Verified
+C100316,Student,Unknown,414048.91,UK,Verified
+C100317,Retired,Savings,76141.29,USA,Verified
+C100318,Business Owner,Investments,446017.27,UK,Expired
+C100319,Self-Employed,Business Income,334520.6,USA,Expired
+C100320,Student,Savings,106730.22,UK,Verified
+C100321,Retired,Savings,471446.97,Singapore,Verified
+C100322,Salaried,Salary,235663.48,India,Verified
+C100323,Retired,Investments,168590.54,USA,Verified
+C100324,Retired,Salary,335319.23,USA,Verified
+C100325,Salaried,Investments,91527.78,India,Verified
+C100326,Salaried,Investments,272164.5,India,Verified
+C100327,Student,Business Income,110425.76,USA,Verified
+C100328,Salaried,Investments,182010.95,USA,Verified
+C100329,Consultant,Salary,402904.36,India,Verified
+C100330,Salaried,Salary,430189.27,UK,Verified
+C100331,Student,Investments,354566.32,UK,Verified
+C100332,Self-Employed,Investments,318621.26,UAE,Verified
+C100333,Salaried,Salary,473401.34,UAE,Verified
+C100334,Salaried,Business Income,28873.82,USA,Verified
+C100335,Self-Employed,Savings,215752.09,UK,Verified
+C100336,Consultant,Salary,274681.91,Singapore,Verified
+C100337,Salaried,Salary,263029.62,UAE,Verified
+C100338,Student,Inheritance,464148.77,UAE,Verified
+C100339,Consultant,Salary,280714.52,UK,Verified
+C100340,Self-Employed,Salary,218744.94,USA,Verified
+C100341,Retired,Salary,427289.67,UK,Verified
+C100342,Consultant,Business Income,248495.33,USA,Verified
+C100343,Student,Inheritance,158309.56,India,Verified
+C100344,Self-Employed,Investments,335995.29,UK,Verified
+C100345,Student,Salary,359961.96,USA,Verified
+C100346,Consultant,Investments,105591.28,UAE,Verified
+C100347,Retired,Business Income,56844.46,India,Verified
+C100348,Business Owner,Salary,135494.83,Singapore,Verified
+C100349,Student,Salary,160035.55,UAE,Verified
+C100350,Business Owner,Savings,147895.96,India,Verified
+C100351,Salaried,Salary,223266.22,UK,Verified
+C100352,Salaried,Salary,441464.33,Singapore,Verified
+C100353,Retired,Salary,167060.94,USA,Verified
+C100354,Student,Salary,97928.06,Singapore,Pending
+C100355,Business Owner,Inheritance,211578.42,India,Verified
+C100356,Student,Salary,23693.06,India,Verified
+C100357,Salaried,Business Income,452436.04,Singapore,Verified
+C100358,Salaried,Salary,419113.74,USA,Verified
+C100359,Consultant,Savings,495015.63,Singapore,Verified
+C100360,Consultant,Business Income,480130.38,USA,Verified
+C100361,Retired,Salary,326787.91,India,Verified
+C100362,Student,Investments,300702.68,UK,Verified
+C100363,Self-Employed,Business Income,106496.24,USA,Verified
+C100364,Student,Inheritance,390032.94,Singapore,Verified
+C100365,Business Owner,Savings,214472.87,India,Verified
+C100366,Student,Inheritance,287456.3,UAE,Pending
+C100367,Self-Employed,Business Income,255588.54,Singapore,Verified
+C100368,Salaried,Business Income,424541.29,UK,Verified
+C100369,Salaried,Savings,295963.96,UAE,Verified
+C100370,Retired,Salary,430661.46,Singapore,Verified
+C100371,Salaried,Salary,234374.82,UAE,Verified
+C100372,Retired,Business Income,409541.22,UAE,Verified
+C100373,Student,Savings,150694.34,UK,Verified
+C100374,Salaried,Inheritance,347260.4,Singapore,Pending
+C100375,Retired,Savings,233904.33,UAE,Verified
+C100376,Salaried,Savings,49383.86,India,Verified
+C100377,Salaried,Investments,151982.43,UAE,Verified
+C100378,Consultant,Business Income,259084.69,UK,Verified
+C100379,Self-Employed,Investments,319651.53,UAE,Verified
+C100380,Self-Employed,Salary,142213.47,Singapore,Verified
+C100381,Self-Employed,Savings,159721.5,UK,Verified
+C100382,Consultant,Salary,439114.52,India,Verified
+C100383,Salaried,Salary,30947.11,Singapore,Verified
+C100384,Self-Employed,Salary,260060.47,USA,Verified
+C100385,Consultant,Salary,460727.44,India,Pending
+C100386,Business Owner,Business Income,496326.3,UAE,Verified
+C100387,Student,Savings,461199.34,USA,Verified
+C100388,Self-Employed,Salary,170030.19,UAE,Verified
+C100389,Consultant,Salary,94819.93,USA,Verified
+C100390,Student,Savings,298774.54,USA,Verified
+C100391,Business Owner,Business Income,393547.75,UAE,Verified
+C100392,Self-Employed,Salary,234774.68,USA,Verified
+C100393,Consultant,Salary,449775.94,USA,Verified
+C100394,Consultant,Salary,303673.0,USA,Verified
+C100395,Salaried,Savings,75240.42,India,Verified
+C100396,Consultant,Salary,330817.66,USA,Verified
+C100397,Salaried,Investments,157586.83,USA,Verified
+C100398,Consultant,Salary,91590.39,UAE,Expired
+C100399,Retired,Salary,393816.32,UK,Verified
+C100400,Consultant,Salary,25908.94,UAE,Verified
+C100401,Student,Business Income,314448.22,USA,Verified
+C100402,Self-Employed,Salary,37187.78,UAE,Verified
+C100403,Retired,Investments,400945.32,UK,Verified
+C100404,Student,Unknown,155504.7,UAE,Pending
+C100405,Retired,Investments,445079.46,UAE,Verified
+C100406,Student,Salary,338747.39,USA,Verified
+C100407,Consultant,Savings,197953.54,India,Verified
+C100408,Consultant,Investments,480581.54,USA,Verified
+C100409,Retired,Inheritance,147551.24,UK,Verified
+C100410,Retired,Salary,418315.14,UK,Verified
+C100411,Business Owner,Salary,396924.18,India,Verified
+C100412,Salaried,Salary,249111.96,UK,Pending
+C100413,Salaried,Salary,378254.29,Singapore,Verified
+C100414,Self-Employed,Savings,144200.08,USA,Verified
+C100415,Salaried,Salary,278206.05,Singapore,Pending
+C100416,Self-Employed,Salary,371189.4,Singapore,Verified
+C100417,Salaried,Savings,131104.22,UAE,Verified
+C100418,Retired,Savings,140638.89,UAE,Verified
+C100419,Salaried,Salary,449449.52,India,Verified
+C100420,Consultant,Salary,317971.94,UK,Verified
+C100421,Business Owner,Inheritance,309604.76,UAE,Verified
+C100422,Self-Employed,Salary,305614.63,Singapore,Verified
+C100423,Student,Unknown,252345.78,UAE,Verified
+C100424,Retired,Salary,53588.45,Singapore,Verified
+C100425,Student,Savings,25988.19,USA,Verified
+C100426,Retired,Salary,341296.46,Singapore,Verified
+C100427,Consultant,Salary,485249.73,UK,Verified
+C100428,Student,Investments,72002.0,India,Verified
+C100429,Salaried,Salary,299076.91,UAE,Verified
+C100430,Retired,Business Income,42320.47,Singapore,Verified
+C100431,Student,Business Income,28040.76,UAE,Verified
+C100432,Self-Employed,Business Income,40781.42,India,Verified
+C100433,Business Owner,Salary,185086.37,India,Verified
+C100434,Consultant,Investments,48041.45,UK,Verified
+C100435,Salaried,Business Income,313741.27,India,Verified
+C100436,Student,Business Income,223358.05,UK,Verified
+C100437,Self-Employed,Salary,204485.28,Singapore,Verified
+C100438,Salaried,Business Income,335484.9,India,Verified
+C100439,Self-Employed,Investments,273801.3,UAE,Verified
+C100440,Retired,Investments,40016.17,UK,Verified
+C100441,Self-Employed,Investments,53337.31,UK,Verified
+C100442,Consultant,Salary,87339.68,UK,Verified
+C100443,Student,Investments,420084.94,India,Verified
+C100444,Salaried,Salary,404649.27,USA,Verified
+C100445,Student,Salary,480272.74,India,Verified
+C100446,Self-Employed,Savings,388734.79,UK,Verified
+C100447,Student,Savings,194700.36,Singapore,Pending
+C100448,Self-Employed,Salary,38993.83,UK,Verified
+C100449,Salaried,Business Income,41220.22,India,Verified
+C100450,Student,Savings,348181.28,USA,Verified
+C100451,Student,Investments,42631.11,USA,Verified
+C100452,Retired,Salary,29949.29,UK,Verified
+C100453,Student,Business Income,365121.51,USA,Pending
+C100454,Business Owner,Savings,69540.24,India,Pending
+C100455,Self-Employed,Salary,496621.58,UAE,Expired
+C100456,Self-Employed,Salary,423585.13,India,Verified
+C100457,Consultant,Salary,238903.4,USA,Verified
+C100458,Business Owner,Unknown,297280.78,UAE,Verified
+C100459,Business Owner,Salary,355159.44,USA,Expired
+C100460,Self-Employed,Inheritance,320513.02,Singapore,Verified
+C100461,Business Owner,Salary,267591.03,USA,Verified
+C100462,Self-Employed,Salary,302932.39,USA,Verified
+C100463,Salaried,Inheritance,492518.04,India,Verified
+C100464,Salaried,Savings,333195.47,India,Verified
+C100465,Consultant,Unknown,106652.22,UAE,Verified
+C100466,Business Owner,Savings,126588.36,UAE,Verified
+C100467,Salaried,Inheritance,499787.78,UAE,Verified
+C100468,Consultant,Business Income,294793.48,Singapore,Verified
+C100469,Salaried,Investments,394992.68,India,Verified
+C100470,Salaried,Business Income,260933.34,UAE,Verified
+C100471,Salaried,Business Income,444644.3,UAE,Verified
+C100472,Business Owner,Inheritance,111509.6,UAE,Verified
+C100473,Retired,Salary,418235.12,Singapore,Verified
+C100474,Self-Employed,Business Income,481763.69,India,Verified
+C100475,Self-Employed,Business Income,107480.7,UK,Verified
+C100476,Self-Employed,Investments,322586.83,India,Verified
+C100477,Business Owner,Salary,166199.04,UAE,Verified
+C100478,Student,Business Income,275593.73,India,Verified
+C100479,Self-Employed,Savings,33621.3,Singapore,Verified
+C100480,Consultant,Salary,150603.13,India,Expired
+C100481,Retired,Salary,446698.68,Singapore,Verified
+C100482,Retired,Business Income,289881.28,India,Verified
+C100483,Consultant,Business Income,291682.56,UK,Verified
+C100484,Student,Salary,121124.96,India,Verified
+C100485,Retired,Savings,219988.23,UK,Pending
+C100486,Student,Investments,497513.2,Singapore,Verified
+C100487,Self-Employed,Salary,329285.58,India,Verified
+C100488,Salaried,Salary,371698.87,UAE,Verified
+C100489,Salaried,Business Income,461526.75,Singapore,Verified
+C100490,Retired,Salary,247757.55,USA,Verified
+C100491,Consultant,Salary,441903.66,Singapore,Verified
+C100492,Self-Employed,Business Income,34937.27,USA,Verified
+C100493,Business Owner,Business Income,262426.54,UK,Verified
+C100494,Self-Employed,Investments,266977.33,UK,Expired
+C100495,Student,Savings,48485.39,Singapore,Verified
+C100496,Consultant,Salary,301137.04,India,Verified
+C100497,Retired,Savings,74463.32,USA,Verified
+C100498,Self-Employed,Salary,365495.13,India,Verified
+C100499,Business Owner,Salary,145419.3,India,Verified
+C100500,Salaried,Salary,381848.65,USA,Verified
+C100501,Retired,Business Income,140453.99,Singapore,Verified
+C100502,Consultant,Salary,452004.06,USA,Verified
+C100503,Consultant,Savings,313251.1,India,Verified
+C100504,Business Owner,Salary,419781.4,USA,Verified
+C100505,Self-Employed,Salary,403631.78,Singapore,Verified
+C100506,Retired,Business Income,247302.33,UK,Verified
+C100507,Business Owner,Business Income,433512.37,Singapore,Pending
+C100508,Student,Business Income,436411.67,UAE,Verified
+C100509,Salaried,Business Income,373495.02,UK,Verified
+C100510,Self-Employed,Savings,168460.57,India,Verified
+C100511,Student,Savings,361391.54,UK,Pending
+C100512,Salaried,Business Income,126809.08,Singapore,Verified
+C100513,Salaried,Business Income,283291.71,India,Verified
+C100514,Student,Unknown,438475.87,USA,Verified
+C100515,Self-Employed,Salary,398252.14,India,Verified
+C100516,Self-Employed,Inheritance,40986.03,India,Verified
+C100517,Consultant,Salary,354997.89,UAE,Verified
+C100518,Self-Employed,Investments,418663.68,UAE,Verified
+C100519,Salaried,Salary,234093.98,USA,Verified
+C100520,Salaried,Salary,160350.45,India,Verified
+C100521,Salaried,Salary,257125.02,UK,Verified
+C100522,Salaried,Savings,179541.3,India,Verified
+C100523,Student,Business Income,90614.88,USA,Verified
+C100524,Self-Employed,Investments,320155.54,Singapore,Verified
+C100525,Salaried,Salary,436892.33,UAE,Verified
+C100526,Salaried,Business Income,203804.09,Singapore,Verified
+C100527,Business Owner,Savings,303576.52,USA,Verified
+C100528,Retired,Inheritance,461429.44,USA,Verified
+C100529,Business Owner,Salary,141433.5,USA,Verified
+C100530,Salaried,Salary,85809.12,Singapore,Verified
+C100531,Self-Employed,Salary,360319.74,UAE,Verified
+C100532,Business Owner,Salary,225167.05,Singapore,Pending
+C100533,Self-Employed,Unknown,458198.52,UK,Verified
+C100534,Retired,Salary,303656.38,Singapore,Verified
+C100535,Student,Inheritance,164582.42,India,Pending
+C100536,Business Owner,Investments,261736.59,India,Verified
+C100537,Retired,Salary,452992.15,USA,Verified
+C100538,Self-Employed,Salary,318967.52,USA,Verified
+C100539,Salaried,Salary,446085.91,India,Pending
+C100540,Retired,Salary,483840.4,UAE,Verified
+C100541,Retired,Salary,88053.96,UAE,Verified
+C100542,Self-Employed,Business Income,23316.36,UK,Verified
+C100543,Consultant,Business Income,146747.52,Singapore,Verified
+C100544,Self-Employed,Savings,318182.7,India,Verified
+C100545,Consultant,Investments,347214.11,India,Verified
+C100546,Student,Inheritance,218029.87,India,Verified
+C100547,Student,Salary,420446.41,UAE,Verified
+C100548,Consultant,Salary,378995.51,India,Verified
+C100549,Student,Salary,131864.53,India,Verified
+C100550,Consultant,Salary,140184.67,UK,Verified
+C100551,Student,Salary,149885.48,UK,Verified
+C100552,Self-Employed,Investments,384847.64,Singapore,Verified
+C100553,Business Owner,Salary,28125.12,USA,Verified
+C100554,Business Owner,Savings,49290.02,USA,Verified
+C100555,Consultant,Business Income,399504.11,USA,Verified
+C100556,Salaried,Investments,117355.16,UAE,Verified
+C100557,Self-Employed,Business Income,327768.14,Singapore,Verified
+C100558,Retired,Business Income,421369.06,UAE,Verified
+C100559,Salaried,Savings,252653.59,Singapore,Verified
+C100560,Consultant,Business Income,133160.04,UK,Verified
+C100561,Consultant,Investments,280534.03,UAE,Verified
+C100562,Business Owner,Investments,79087.58,USA,Verified
+C100563,Salaried,Salary,330659.58,USA,Pending
+C100564,Salaried,Business Income,456137.76,UAE,Verified
+C100565,Self-Employed,Business Income,189032.68,UAE,Verified
+C100566,Salaried,Unknown,159991.98,USA,Verified
+C100567,Salaried,Salary,400684.07,India,Verified
+C100568,Salaried,Inheritance,377629.46,India,Verified
+C100569,Self-Employed,Savings,117395.77,UAE,Verified
+C100570,Retired,Inheritance,195579.08,USA,Verified
+C100571,Consultant,Salary,82185.31,India,Verified
+C100572,Salaried,Salary,226175.89,India,Verified
+C100573,Consultant,Salary,101794.6,USA,Verified
+C100574,Salaried,Savings,289282.79,Singapore,Verified
+C100575,Business Owner,Salary,289871.08,UK,Pending
+C100576,Salaried,Salary,150140.24,UAE,Verified
+C100577,Salaried,Salary,103411.01,Singapore,Verified
+C100578,Salaried,Salary,134548.44,UK,Verified
+C100579,Business Owner,Business Income,487521.57,India,Verified
+C100580,Business Owner,Business Income,436357.77,UAE,Verified
+C100581,Business Owner,Business Income,236883.4,USA,Verified
+C100582,Consultant,Salary,487472.32,USA,Verified
+C100583,Student,Investments,119719.23,India,Verified
+C100584,Student,Investments,457163.97,Singapore,Verified
+C100585,Consultant,Inheritance,444662.72,UAE,Verified
+C100586,Consultant,Salary,153741.86,USA,Verified
+C100587,Business Owner,Business Income,278088.11,UAE,Verified
+C100588,Self-Employed,Savings,242735.72,UAE,Verified
+C100589,Business Owner,Salary,266280.48,UK,Verified
+C100590,Salaried,Inheritance,422055.59,India,Verified
+C100591,Retired,Salary,132805.33,Singapore,Verified
+C100592,Business Owner,Business Income,333705.77,Singapore,Verified
+C100593,Student,Salary,190449.23,USA,Verified
+C100594,Retired,Unknown,493559.92,USA,Verified
+C100595,Business Owner,Business Income,287565.4,UAE,Verified
+C100596,Retired,Savings,238696.72,USA,Verified
+C100597,Business Owner,Inheritance,81979.17,Singapore,Verified
+C100598,Salaried,Salary,372635.64,USA,Verified
+C100599,Salaried,Salary,267097.97,USA,Verified
+C100600,Salaried,Salary,234536.73,Singapore,Verified
+C100601,Retired,Savings,322012.86,Singapore,Verified
+C100602,Business Owner,Business Income,484079.73,UK,Verified
+C100603,Self-Employed,Business Income,348051.35,India,Verified
+C100604,Business Owner,Savings,435297.66,UK,Verified
+C100605,Self-Employed,Investments,406811.0,Singapore,Verified
+C100606,Retired,Investments,460302.15,UK,Verified
+C100607,Retired,Inheritance,404186.76,UK,Verified
+C100608,Salaried,Salary,372778.72,USA,Verified
+C100609,Student,Salary,385964.72,USA,Verified
+C100610,Business Owner,Savings,61759.86,Singapore,Verified
+C100611,Salaried,Salary,471164.92,UAE,Verified
+C100612,Retired,Salary,134454.08,India,Verified
+C100613,Salaried,Salary,414856.91,Singapore,Verified
+C100614,Self-Employed,Inheritance,128237.76,UAE,Verified
+C100615,Salaried,Business Income,464848.17,India,Verified
+C100616,Business Owner,Salary,330034.73,Singapore,Verified
+C100617,Consultant,Salary,133138.86,UAE,Pending
+C100618,Self-Employed,Investments,226575.91,Singapore,Verified
+C100619,Salaried,Salary,379189.62,Singapore,Verified
+C100620,Salaried,Salary,88833.6,UK,Verified
+C100621,Retired,Salary,499126.33,UAE,Verified
+C100622,Student,Savings,300176.28,UK,Verified
+C100623,Retired,Savings,195684.47,UK,Verified
+C100624,Consultant,Business Income,64879.02,India,Verified
+C100625,Consultant,Salary,401800.33,UK,Verified
+C100626,Student,Business Income,308530.56,Singapore,Expired
+C100627,Consultant,Inheritance,366174.96,India,Verified
+C100628,Business Owner,Business Income,336150.12,UK,Pending
+C100629,Self-Employed,Business Income,222528.96,USA,Verified
+C100630,Business Owner,Investments,478631.12,India,Verified
+C100631,Salaried,Salary,437202.01,India,Verified
+C100632,Self-Employed,Unknown,58076.55,India,Verified
+C100633,Student,Savings,104091.73,India,Expired
+C100634,Retired,Business Income,308159.73,UAE,Verified
+C100635,Salaried,Salary,378028.41,India,Verified
+C100636,Salaried,Investments,207374.46,UAE,Verified
+C100637,Salaried,Business Income,95135.22,UK,Verified
+C100638,Student,Business Income,105139.52,Singapore,Verified
+C100639,Self-Employed,Business Income,230355.56,India,Verified
+C100640,Self-Employed,Investments,53389.5,UAE,Verified
+C100641,Salaried,Salary,475676.97,India,Verified
+C100642,Retired,Unknown,450452.91,UAE,Verified
+C100643,Business Owner,Salary,279157.07,UAE,Verified
+C100644,Student,Salary,278937.03,Singapore,Verified
+C100645,Student,Investments,163987.59,UAE,Verified
+C100646,Salaried,Savings,327365.59,UAE,Verified
+C100647,Student,Investments,379356.56,UAE,Verified
+C100648,Consultant,Inheritance,477239.78,India,Verified
+C100649,Consultant,Business Income,483927.1,UK,Verified
+C100650,Self-Employed,Salary,492605.46,Singapore,Verified
+C100651,Retired,Investments,348185.42,UAE,Pending
+C100652,Retired,Savings,334925.99,India,Verified
+C100653,Business Owner,Salary,263893.44,USA,Verified
+C100654,Salaried,Savings,183893.95,UAE,Verified
+C100655,Retired,Salary,257738.3,UAE,Verified
+C100656,Retired,Salary,410223.03,UK,Verified
+C100657,Consultant,Investments,155969.76,UAE,Verified
+C100658,Consultant,Business Income,293151.11,UAE,Verified
+C100659,Self-Employed,Salary,124502.87,USA,Verified
+C100660,Salaried,Investments,258994.29,Singapore,Verified
+C100661,Retired,Salary,374610.94,UAE,Verified
+C100662,Business Owner,Inheritance,235310.93,Singapore,Verified
+C100663,Self-Employed,Unknown,192884.07,UAE,Pending
+C100664,Student,Business Income,498878.6,UK,Verified
+C100665,Salaried,Business Income,304499.0,UAE,Verified
+C100666,Salaried,Savings,92580.11,India,Verified
+C100667,Self-Employed,Investments,252651.14,UK,Verified
+C100668,Business Owner,Business Income,164252.69,UK,Verified
+C100669,Business Owner,Savings,50824.33,USA,Verified
+C100670,Self-Employed,Salary,255820.24,India,Verified
+C100671,Business Owner,Business Income,270070.53,Singapore,Verified
+C100672,Business Owner,Savings,147724.01,Singapore,Pending
+C100673,Consultant,Business Income,111234.84,UAE,Expired
+C100674,Consultant,Business Income,490271.42,UAE,Verified
+C100675,Retired,Salary,237120.7,UK,Verified
+C100676,Student,Savings,443686.89,UK,Expired
+C100677,Self-Employed,Salary,300594.6,Singapore,Verified
+C100678,Retired,Business Income,421553.55,Singapore,Verified
+C100679,Consultant,Investments,100883.23,Singapore,Verified
+C100680,Self-Employed,Salary,33671.39,USA,Verified
+C100681,Business Owner,Savings,58754.92,Singapore,Verified
+C100682,Student,Business Income,126808.05,Singapore,Verified
+C100683,Student,Business Income,35142.22,Singapore,Verified
+C100684,Business Owner,Salary,163882.81,UK,Verified
+C100685,Salaried,Salary,327807.08,UK,Verified
+C100686,Self-Employed,Salary,266978.09,UAE,Verified
+C100687,Salaried,Salary,350952.9,Singapore,Verified
+C100688,Student,Business Income,459563.89,India,Verified
+C100689,Consultant,Salary,24884.48,USA,Expired
+C100690,Business Owner,Salary,474612.27,UK,Verified
+C100691,Student,Salary,328247.55,Singapore,Verified
+C100692,Student,Business Income,482471.54,UAE,Verified
+C100693,Student,Business Income,109045.62,India,Verified
+C100694,Salaried,Salary,244565.69,Singapore,Verified
+C100695,Consultant,Salary,87594.22,USA,Verified
+C100696,Retired,Investments,167438.97,Singapore,Verified
+C100697,Student,Salary,168198.45,UK,Verified
+C100698,Self-Employed,Business Income,130143.69,UAE,Verified
+C100699,Business Owner,Inheritance,243030.03,UAE,Verified
+C100700,Retired,Salary,439900.23,UAE,Verified
+C100701,Salaried,Business Income,168686.92,USA,Verified
+C100702,Consultant,Business Income,88224.03,India,Verified
+C100703,Salaried,Investments,130607.75,UK,Verified
+C100704,Retired,Salary,326526.43,USA,Verified
+C100705,Salaried,Salary,259864.42,UAE,Verified
+C100706,Salaried,Investments,379081.37,Singapore,Verified
+C100707,Self-Employed,Salary,390772.81,Singapore,Verified
+C100708,Self-Employed,Salary,373378.9,USA,Verified
+C100709,Business Owner,Salary,22786.4,UK,Pending
+C100710,Self-Employed,Salary,23750.99,USA,Verified
+C100711,Business Owner,Inheritance,357110.61,USA,Verified
+C100712,Consultant,Investments,176499.29,UAE,Verified
+C100713,Consultant,Business Income,58539.57,USA,Verified
+C100714,Retired,Salary,223403.88,Singapore,Verified
+C100715,Business Owner,Salary,338595.71,UK,Verified
+C100716,Consultant,Salary,88996.71,Singapore,Verified
+C100717,Student,Salary,216743.62,UAE,Verified
+C100718,Self-Employed,Salary,256395.33,UK,Verified
+C100719,Student,Salary,385664.76,India,Verified
+C100720,Retired,Inheritance,231469.77,UAE,Verified
+C100721,Self-Employed,Salary,232423.97,UK,Verified
+C100722,Self-Employed,Savings,29257.25,India,Verified
+C100723,Business Owner,Salary,215157.42,India,Verified
+C100724,Self-Employed,Business Income,101021.36,UK,Verified
+C100725,Consultant,Salary,64116.17,UK,Verified
+C100726,Retired,Business Income,159980.6,USA,Verified
+C100727,Consultant,Salary,393663.3,USA,Verified
+C100728,Salaried,Investments,310758.13,USA,Verified
+C100729,Self-Employed,Salary,61916.18,India,Verified
+C100730,Student,Salary,466038.58,UK,Pending
+C100731,Self-Employed,Savings,382868.64,UAE,Expired
+C100732,Consultant,Salary,452811.81,India,Pending
+C100733,Student,Business Income,316616.14,USA,Verified
+C100734,Self-Employed,Salary,167709.52,India,Verified
+C100735,Consultant,Unknown,49965.9,UAE,Verified
+C100736,Business Owner,Salary,436949.81,UAE,Verified
+C100737,Salaried,Business Income,397072.46,UK,Verified
+C100738,Business Owner,Savings,249495.42,Singapore,Verified
+C100739,Business Owner,Business Income,322949.43,India,Verified
+C100740,Salaried,Salary,133009.04,UK,Verified
+C100741,Retired,Salary,347037.36,UK,Verified
+C100742,Consultant,Salary,85639.62,USA,Verified
+C100743,Salaried,Unknown,265436.6,India,Verified
+C100744,Retired,Inheritance,333267.13,UK,Verified
+C100745,Retired,Salary,378392.16,UK,Expired
+C100746,Salaried,Salary,51453.93,UAE,Verified
+C100747,Salaried,Savings,310674.28,UK,Verified
+C100748,Business Owner,Salary,246859.54,UK,Verified
+C100749,Consultant,Salary,195843.49,India,Verified
+C100750,Student,Investments,280221.01,India,Verified
+C100751,Business Owner,Investments,259711.05,UK,Verified
+C100752,Consultant,Investments,24959.43,India,Verified
+C100753,Salaried,Investments,263667.91,UK,Verified
+C100754,Consultant,Savings,150088.85,Singapore,Verified
+C100755,Retired,Investments,413669.45,USA,Verified
+C100756,Consultant,Business Income,454240.56,UK,Verified
+C100757,Business Owner,Inheritance,211191.73,USA,Verified
+C100758,Self-Employed,Business Income,236345.93,India,Verified
+C100759,Retired,Savings,332842.72,USA,Verified
+C100760,Salaried,Business Income,197627.04,Singapore,Verified
+C100761,Self-Employed,Business Income,347898.47,UK,Verified
+C100762,Salaried,Salary,284666.37,USA,Verified
+C100763,Retired,Salary,488336.07,India,Verified
+C100764,Business Owner,Business Income,202413.28,Singapore,Verified
+C100765,Retired,Salary,155197.11,Singapore,Verified
+C100766,Consultant,Savings,20920.72,UAE,Verified
+C100767,Consultant,Business Income,104621.28,India,Verified
+C100768,Consultant,Business Income,475402.29,USA,Pending
+C100769,Self-Employed,Salary,35493.8,India,Verified
+C100770,Consultant,Savings,24262.37,Singapore,Verified
+C100771,Student,Salary,153812.69,Singapore,Verified
+C100772,Retired,Business Income,291245.0,UK,Expired
+C100773,Consultant,Investments,180018.17,UK,Expired
+C100774,Retired,Investments,211987.82,India,Verified
+C100775,Retired,Investments,448510.25,UAE,Verified
+C100776,Consultant,Salary,252604.91,USA,Verified
+C100777,Business Owner,Salary,80507.71,UAE,Pending
+C100778,Salaried,Savings,55772.61,India,Verified
+C100779,Self-Employed,Business Income,123173.25,USA,Verified
+C100780,Retired,Salary,28902.54,UAE,Verified
+C100781,Salaried,Savings,440320.58,USA,Verified
+C100782,Business Owner,Salary,200538.55,UAE,Verified
+C100783,Student,Inheritance,150024.86,Singapore,Verified
+C100784,Self-Employed,Investments,318163.65,UAE,Pending
+C100785,Retired,Salary,481652.48,UAE,Verified
+C100786,Consultant,Business Income,228683.1,UAE,Verified
+C100787,Salaried,Inheritance,448984.81,India,Verified
+C100788,Self-Employed,Salary,487733.14,USA,Verified
+C100789,Student,Business Income,177940.04,Singapore,Verified
+C100790,Retired,Business Income,79837.62,UK,Verified
+C100791,Retired,Investments,410525.35,India,Verified
+C100792,Retired,Salary,448089.4,UAE,Verified
+C100793,Salaried,Savings,495549.02,USA,Verified
+C100794,Student,Business Income,225655.6,UAE,Verified
+C100795,Salaried,Salary,362745.2,India,Verified
+C100796,Salaried,Investments,51793.99,Singapore,Verified
+C100797,Student,Business Income,468605.33,UK,Verified
+C100798,Business Owner,Business Income,189801.57,USA,Verified
+C100799,Consultant,Salary,64323.85,Singapore,Verified
+C100800,Retired,Investments,22786.24,USA,Pending
+C100801,Salaried,Salary,414396.27,India,Verified
+C100802,Consultant,Business Income,491534.33,UK,Verified
+C100803,Retired,Business Income,60698.58,Singapore,Verified
+C100804,Business Owner,Unknown,225462.0,Singapore,Verified
+C100805,Consultant,Investments,270607.52,India,Verified
+C100806,Business Owner,Savings,233088.26,UAE,Verified
+C100807,Retired,Business Income,311386.34,UAE,Verified
+C100808,Salaried,Salary,239793.38,UAE,Verified
+C100809,Retired,Inheritance,464790.33,India,Verified
+C100810,Student,Savings,342797.04,UK,Verified
+C100811,Student,Business Income,487719.84,UAE,Verified
+C100812,Business Owner,Unknown,235069.86,India,Verified
+C100813,Consultant,Salary,152685.45,India,Verified
+C100814,Business Owner,Unknown,393755.85,USA,Verified
+C100815,Self-Employed,Salary,212793.13,Singapore,Verified
+C100816,Retired,Salary,89745.95,UAE,Verified
+C100817,Consultant,Salary,263115.87,UAE,Verified
+C100818,Student,Business Income,236820.49,India,Verified
+C100819,Salaried,Salary,205725.21,UK,Pending
+C100820,Student,Salary,346336.59,UAE,Verified
+C100821,Consultant,Inheritance,281275.96,UK,Verified
+C100822,Retired,Salary,403698.33,India,Pending
+C100823,Salaried,Salary,124642.67,Singapore,Verified
+C100824,Consultant,Salary,154166.68,UK,Verified
+C100825,Consultant,Business Income,461021.87,Singapore,Pending
+C100826,Consultant,Salary,267149.62,USA,Verified
+C100827,Salaried,Salary,21858.99,Singapore,Expired
+C100828,Business Owner,Business Income,362646.68,USA,Verified
+C100829,Self-Employed,Salary,190399.8,UK,Verified
+C100830,Consultant,Salary,169146.68,UAE,Verified
+C100831,Self-Employed,Investments,249414.5,UAE,Verified
+C100832,Business Owner,Salary,400925.48,Singapore,Verified
+C100833,Consultant,Salary,102282.56,India,Verified
+C100834,Salaried,Salary,84074.34,USA,Verified
+C100835,Student,Salary,249526.47,India,Verified
+C100836,Student,Salary,378821.37,India,Pending
+C100837,Salaried,Inheritance,470160.12,UAE,Verified
+C100838,Salaried,Investments,437196.62,Singapore,Verified
+C100839,Retired,Savings,40977.02,UAE,Verified
+C100840,Self-Employed,Business Income,274350.24,USA,Expired
+C100841,Retired,Salary,205621.81,Singapore,Verified
+C100842,Business Owner,Investments,442749.72,India,Expired
+C100843,Business Owner,Investments,361080.05,India,Verified
+C100844,Self-Employed,Savings,293031.46,USA,Verified
+C100845,Consultant,Inheritance,407612.96,Singapore,Pending
+C100846,Salaried,Unknown,345837.62,UK,Verified
+C100847,Business Owner,Investments,437238.7,USA,Verified
+C100848,Business Owner,Salary,228278.01,UAE,Verified
+C100849,Salaried,Salary,96444.88,UAE,Verified
+C100850,Business Owner,Salary,403848.89,India,Verified
+C100851,Consultant,Salary,410361.31,USA,Verified
+C100852,Student,Investments,131534.79,UAE,Verified
+C100853,Salaried,Unknown,497599.97,UK,Verified
+C100854,Retired,Investments,223861.4,UAE,Verified
+C100855,Retired,Salary,499773.15,USA,Verified
+C100856,Student,Salary,387548.06,USA,Verified
+C100857,Retired,Savings,273607.35,USA,Expired
+C100858,Business Owner,Salary,381714.51,Singapore,Verified
+C100859,Student,Salary,165066.13,USA,Verified
+C100860,Student,Business Income,330048.19,UAE,Verified
+C100861,Consultant,Salary,198701.16,Singapore,Verified
+C100862,Self-Employed,Salary,256409.04,UK,Verified
+C100863,Consultant,Salary,411839.86,USA,Verified
+C100864,Retired,Salary,60702.05,UK,Verified
+C100865,Retired,Salary,456364.11,UK,Verified
+C100866,Business Owner,Savings,465555.85,UAE,Verified
+C100867,Self-Employed,Business Income,254446.84,India,Verified
+C100868,Student,Business Income,450609.25,India,Verified
+C100869,Salaried,Investments,44231.92,UAE,Verified
+C100870,Salaried,Salary,229886.69,India,Verified
+C100871,Consultant,Business Income,86332.65,UAE,Verified
+C100872,Retired,Savings,27579.86,Singapore,Verified
+C100873,Self-Employed,Salary,349917.83,UK,Verified
+C100874,Business Owner,Savings,438661.76,Singapore,Verified
+C100875,Self-Employed,Savings,482210.1,UAE,Verified
+C100876,Business Owner,Business Income,220373.42,USA,Verified
+C100877,Salaried,Business Income,68356.02,USA,Verified
+C100878,Consultant,Salary,112916.73,Singapore,Verified
+C100879,Consultant,Salary,152368.95,India,Verified
+C100880,Self-Employed,Savings,225133.4,India,Verified
+C100881,Self-Employed,Salary,318381.92,USA,Verified
+C100882,Student,Savings,347643.83,Singapore,Verified
+C100883,Self-Employed,Inheritance,116015.03,Singapore,Verified
+C100884,Salaried,Savings,376462.35,Singapore,Verified
+C100885,Salaried,Salary,458310.03,India,Verified
+C100886,Retired,Inheritance,199300.64,UK,Verified
+C100887,Business Owner,Salary,200099.23,USA,Verified
+C100888,Salaried,Inheritance,309803.44,Singapore,Verified
+C100889,Retired,Salary,29627.58,UK,Verified
+C100890,Salaried,Business Income,100250.24,UK,Verified
+C100891,Business Owner,Business Income,481763.58,India,Verified
+C100892,Salaried,Savings,315757.84,UK,Pending
+C100893,Student,Investments,262172.33,India,Verified
+C100894,Student,Savings,371976.4,Singapore,Pending
+C100895,Student,Savings,423181.12,USA,Verified
+C100896,Self-Employed,Business Income,251861.12,USA,Verified
+C100897,Self-Employed,Business Income,265296.71,India,Verified
+C100898,Retired,Salary,214402.43,Singapore,Verified
+C100899,Student,Salary,79340.59,Singapore,Verified
+C100900,Salaried,Savings,241974.96,India,Verified
+C100901,Student,Salary,141574.25,UK,Verified
+C100902,Student,Unknown,279124.61,USA,Expired
+C100903,Consultant,Salary,433400.62,UAE,Verified
+C100904,Consultant,Inheritance,436470.09,USA,Verified
+C100905,Salaried,Business Income,463876.2,UAE,Verified
+C100906,Salaried,Business Income,447228.58,UK,Verified
+C100907,Salaried,Business Income,364369.95,UAE,Expired
+C100908,Salaried,Salary,213920.48,UK,Verified
+C100909,Retired,Investments,322675.54,UK,Verified
+C100910,Consultant,Salary,399770.3,UAE,Verified
+C100911,Student,Salary,454445.52,UAE,Verified
+C100912,Self-Employed,Salary,107617.48,UAE,Verified
+C100913,Retired,Unknown,256261.73,India,Verified
+C100914,Self-Employed,Business Income,322543.05,UAE,Verified
+C100915,Retired,Salary,443179.42,USA,Verified
+C100916,Salaried,Investments,153175.05,UAE,Verified
+C100917,Salaried,Salary,459573.76,UK,Verified
+C100918,Salaried,Salary,114556.07,UK,Pending
+C100919,Student,Investments,280443.65,Singapore,Verified
+C100920,Self-Employed,Investments,313567.99,India,Verified
+C100921,Business Owner,Savings,286725.96,UK,Pending
+C100922,Business Owner,Savings,49863.37,UK,Verified
+C100923,Student,Salary,202763.65,USA,Verified
+C100924,Business Owner,Business Income,429272.23,UK,Verified
+C100925,Salaried,Savings,213619.21,India,Verified
+C100926,Business Owner,Investments,492806.4,Singapore,Verified
+C100927,Self-Employed,Savings,429018.57,India,Verified
+C100928,Student,Salary,326822.17,UAE,Verified
+C100929,Student,Savings,168517.56,UK,Verified
+C100930,Salaried,Salary,231276.06,UAE,Verified
+C100931,Student,Investments,458929.82,USA,Verified
+C100932,Salaried,Inheritance,189323.79,India,Verified
+C100933,Consultant,Investments,219513.32,UAE,Verified
+C100934,Business Owner,Inheritance,252956.8,USA,Pending
+C100935,Self-Employed,Salary,445421.39,UAE,Verified
+C100936,Business Owner,Salary,70878.05,India,Verified
+C100937,Self-Employed,Salary,389512.73,USA,Verified
+C100938,Student,Salary,167332.25,India,Verified
+C100939,Retired,Salary,410544.46,USA,Verified
+C100940,Student,Investments,326700.25,UK,Verified
+C100941,Business Owner,Salary,392071.47,USA,Verified
+C100942,Consultant,Inheritance,110146.44,India,Verified
+C100943,Business Owner,Business Income,299438.14,USA,Verified
+C100944,Student,Salary,307745.46,India,Verified
+C100945,Consultant,Salary,328484.16,Singapore,Verified
+C100946,Business Owner,Salary,327129.28,UAE,Verified
+C100947,Business Owner,Salary,137818.7,India,Verified
+C100948,Business Owner,Salary,70082.81,UAE,Verified
+C100949,Consultant,Salary,53714.93,UAE,Verified
+C100950,Student,Investments,187571.87,India,Verified
+C100951,Business Owner,Salary,127536.03,UK,Expired
+C100952,Student,Business Income,23661.8,USA,Verified
+C100953,Student,Business Income,383170.98,UAE,Verified
+C100954,Business Owner,Business Income,35738.84,USA,Verified
+C100955,Retired,Investments,415944.59,USA,Verified
+C100956,Self-Employed,Salary,23944.93,Singapore,Verified
+C100957,Retired,Savings,248618.62,USA,Verified
+C100958,Self-Employed,Business Income,286065.7,Singapore,Verified
+C100959,Consultant,Unknown,45264.7,India,Verified
+C100960,Self-Employed,Salary,406546.86,India,Verified
+C100961,Business Owner,Salary,316330.96,UK,Verified
+C100962,Business Owner,Salary,483739.24,India,Verified
+C100963,Student,Savings,405266.41,India,Verified
+C100964,Salaried,Salary,245585.76,UK,Pending
+C100965,Retired,Salary,271256.1,UAE,Verified
+C100966,Retired,Salary,265697.47,UK,Verified
+C100967,Consultant,Salary,106535.14,India,Verified
+C100968,Consultant,Business Income,383548.62,USA,Verified
+C100969,Student,Salary,21380.74,Singapore,Verified
+C100970,Self-Employed,Salary,251524.41,UK,Verified
+C100971,Student,Savings,487232.43,UAE,Pending
+C100972,Self-Employed,Investments,357778.36,USA,Verified
+C100973,Student,Salary,355234.04,UAE,Verified
+C100974,Self-Employed,Investments,295718.37,UK,Verified
+C100975,Student,Business Income,79709.45,USA,Verified
+C100976,Student,Inheritance,228640.4,USA,Verified
+C100977,Self-Employed,Salary,22592.46,UK,Verified
+C100978,Consultant,Savings,337605.75,UAE,Expired
+C100979,Business Owner,Savings,271883.51,Singapore,Verified
+C100980,Self-Employed,Inheritance,293783.39,India,Verified
+C100981,Consultant,Inheritance,82499.91,USA,Verified
+C100982,Retired,Business Income,130427.97,India,Pending
+C100983,Salaried,Savings,342740.33,Singapore,Verified
+C100984,Retired,Salary,53023.11,UAE,Verified
+C100985,Retired,Investments,134425.86,UK,Verified
+C100986,Consultant,Salary,91877.13,USA,Verified
+C100987,Consultant,Salary,213351.09,USA,Verified
+C100988,Business Owner,Salary,249675.22,India,Verified
+C100989,Salaried,Investments,147546.05,UAE,Verified
+C100990,Consultant,Salary,40550.59,UAE,Verified
+C100991,Student,Savings,255329.26,UAE,Verified
+C100992,Self-Employed,Salary,187064.24,India,Verified
+C100993,Student,Salary,73094.53,India,Verified
+C100994,Student,Savings,111030.18,UK,Verified
+C100995,Student,Unknown,91110.64,UAE,Verified
+C100996,Business Owner,Inheritance,222226.87,USA,Verified
+C100997,Business Owner,Salary,327320.62,Singapore,Verified
+C100998,Business Owner,Business Income,25999.35,UK,Verified
+C100999,Retired,Salary,89882.11,UK,Verified
+C101000,Retired,Business Income,52320.34,UAE,Verified
+C101001,Business Owner,Salary,149170.62,UAE,Verified
+C101002,Retired,Salary,78831.0,India,Pending
+C101003,Consultant,Savings,451989.69,UK,Verified
+C101004,Business Owner,Salary,226350.33,Singapore,Verified
+C101005,Salaried,Business Income,443168.51,UAE,Verified
+C101006,Consultant,Salary,84738.29,India,Verified
+C101007,Consultant,Salary,216091.99,UAE,Verified
+C101008,Retired,Business Income,24644.71,USA,Verified
+C101009,Student,Savings,138195.49,USA,Verified
+C101010,Salaried,Salary,343145.16,UAE,Verified
+C101011,Consultant,Savings,459449.9,Singapore,Verified
+C101012,Student,Salary,376805.65,Singapore,Verified
+C101013,Business Owner,Savings,170892.71,USA,Verified
+C101014,Business Owner,Investments,248865.57,USA,Verified
+C101015,Student,Savings,420925.92,UK,Verified
+C101016,Consultant,Investments,201885.97,UAE,Pending
+C101017,Student,Savings,276766.47,India,Expired
+C101018,Business Owner,Salary,34698.54,UK,Verified
+C101019,Self-Employed,Business Income,498473.11,UAE,Verified
+C101020,Consultant,Unknown,323995.09,UK,Verified
+C101021,Retired,Savings,164894.57,India,Verified
+C101022,Consultant,Savings,196452.26,UAE,Verified
+C101023,Student,Unknown,427534.98,Singapore,Verified
+C101024,Salaried,Salary,453268.94,UK,Verified
+C101025,Retired,Salary,277673.26,UAE,Verified
+C101026,Self-Employed,Savings,478578.09,UAE,Verified
+C101027,Retired,Savings,431841.06,Singapore,Verified
+C101028,Business Owner,Business Income,217414.39,UAE,Verified
+C101029,Retired,Salary,121173.75,UAE,Verified
+C101030,Retired,Business Income,453954.29,UAE,Verified
+C101031,Student,Salary,54812.09,UAE,Verified
+C101032,Retired,Salary,402757.48,India,Verified
+C101033,Consultant,Salary,464596.28,Singapore,Verified
+C101034,Retired,Investments,329800.97,UAE,Verified
+C101035,Self-Employed,Inheritance,212858.29,UAE,Verified
+C101036,Salaried,Salary,144551.16,Singapore,Pending
+C101037,Consultant,Salary,382742.6,UAE,Verified
+C101038,Student,Unknown,97814.61,India,Verified
+C101039,Student,Business Income,193764.22,UAE,Verified
+C101040,Consultant,Salary,479881.11,UAE,Verified
+C101041,Consultant,Salary,253338.88,Singapore,Verified
+C101042,Consultant,Investments,316366.13,India,Expired
+C101043,Retired,Business Income,160533.34,USA,Pending
+C101044,Retired,Salary,79548.75,India,Verified
+C101045,Salaried,Salary,498029.1,USA,Verified
+C101046,Consultant,Investments,476573.79,UK,Verified
+C101047,Business Owner,Salary,223327.01,Singapore,Verified
+C101048,Student,Unknown,323889.95,UK,Verified
+C101049,Consultant,Inheritance,350427.41,USA,Verified
+C101050,Retired,Salary,33372.26,India,Verified
+C101051,Business Owner,Salary,498313.1,India,Verified
+C101052,Student,Business Income,378592.25,UAE,Verified
+C101053,Salaried,Salary,497917.08,India,Verified
+C101054,Retired,Inheritance,344434.93,UK,Verified
+C101055,Salaried,Savings,80269.79,UK,Verified
+C101056,Business Owner,Salary,221238.98,UAE,Expired
+C101057,Retired,Business Income,171079.03,UK,Verified
+C101058,Retired,Business Income,234904.34,USA,Verified
+C101059,Business Owner,Inheritance,400734.75,India,Verified
+C101060,Business Owner,Savings,38766.43,Singapore,Verified
+C101061,Salaried,Salary,92624.47,UAE,Verified
+C101062,Retired,Savings,498693.36,USA,Verified
+C101063,Salaried,Savings,303729.56,UK,Verified
+C101064,Salaried,Salary,383426.77,India,Verified
+C101065,Business Owner,Investments,20491.16,USA,Verified
+C101066,Salaried,Salary,489796.58,India,Verified
+C101067,Salaried,Business Income,459044.7,India,Pending
+C101068,Consultant,Savings,146674.92,UK,Verified
+C101069,Student,Salary,97699.11,Singapore,Verified
+C101070,Self-Employed,Inheritance,87171.16,UK,Verified
+C101071,Student,Salary,420816.39,Singapore,Verified
+C101072,Consultant,Salary,390250.26,India,Verified
+C101073,Self-Employed,Salary,129154.4,India,Verified
+C101074,Student,Business Income,285174.59,UAE,Verified
+C101075,Consultant,Savings,290374.89,UK,Verified
+C101076,Student,Salary,174001.95,USA,Verified
+C101077,Salaried,Salary,162978.91,India,Verified
+C101078,Self-Employed,Salary,482113.16,UK,Verified
+C101079,Self-Employed,Investments,38925.38,Singapore,Verified
+C101080,Business Owner,Investments,99569.87,India,Verified
+C101081,Retired,Salary,182985.67,UAE,Verified
+C101082,Student,Business Income,132136.72,UK,Verified
+C101083,Consultant,Business Income,457379.79,Singapore,Pending
+C101084,Consultant,Business Income,322787.78,UK,Verified
+C101085,Retired,Salary,72777.41,UAE,Verified
+C101086,Business Owner,Salary,253259.7,UAE,Verified
+C101087,Self-Employed,Salary,280584.17,Singapore,Verified
+C101088,Salaried,Salary,290033.08,UK,Verified
+C101089,Self-Employed,Salary,225321.15,UAE,Verified
+C101090,Consultant,Business Income,168137.6,UAE,Verified
+C101091,Business Owner,Salary,268421.97,USA,Verified
+C101092,Business Owner,Inheritance,103953.74,UAE,Verified
+C101093,Business Owner,Salary,164212.06,UAE,Verified
+C101094,Retired,Business Income,358682.39,USA,Verified
+C101095,Retired,Savings,220225.86,UAE,Verified
+C101096,Salaried,Inheritance,222577.54,Singapore,Verified
+C101097,Salaried,Salary,237429.46,Singapore,Verified
+C101098,Self-Employed,Salary,83763.33,India,Verified
+C101099,Retired,Investments,65105.31,India,Verified
+C101100,Business Owner,Salary,269100.57,India,Verified
+C101101,Retired,Investments,487276.81,USA,Verified
+C101102,Consultant,Salary,96325.51,Singapore,Verified
+C101103,Consultant,Business Income,106489.74,USA,Verified
+C101104,Self-Employed,Investments,483424.32,UK,Verified
+C101105,Business Owner,Salary,42235.09,USA,Verified
+C101106,Salaried,Business Income,274520.86,Singapore,Pending
+C101107,Consultant,Salary,308942.63,Singapore,Verified
+C101108,Self-Employed,Salary,89959.58,UAE,Verified
+C101109,Self-Employed,Investments,390756.53,UK,Verified
+C101110,Salaried,Investments,87853.14,Singapore,Verified
+C101111,Student,Investments,471383.2,UK,Verified
+C101112,Retired,Business Income,62309.39,USA,Verified
+C101113,Business Owner,Business Income,465076.62,Singapore,Verified
+C101114,Consultant,Business Income,301962.31,India,Verified
+C101115,Retired,Investments,130287.3,UK,Verified
+C101116,Consultant,Salary,462217.13,India,Verified
+C101117,Consultant,Savings,479873.46,Singapore,Verified
+C101118,Business Owner,Business Income,427976.62,USA,Pending
+C101119,Consultant,Business Income,467000.43,India,Verified
+C101120,Consultant,Salary,296099.32,USA,Verified
+C101121,Student,Business Income,31006.45,USA,Verified
+C101122,Consultant,Savings,280027.04,UAE,Expired
+C101123,Consultant,Salary,394983.24,India,Verified
+C101124,Salaried,Investments,34697.11,UAE,Verified
+C101125,Retired,Investments,406041.64,UAE,Verified
+C101126,Retired,Savings,245346.17,Singapore,Verified
+C101127,Self-Employed,Inheritance,467936.05,UK,Verified
+C101128,Self-Employed,Business Income,91274.23,UAE,Verified
+C101129,Retired,Investments,229440.41,India,Verified
+C101130,Self-Employed,Salary,145661.21,USA,Verified
+C101131,Student,Unknown,199801.26,UAE,Verified
+C101132,Student,Salary,273302.71,USA,Verified
+C101133,Retired,Salary,232353.42,UAE,Verified
+C101134,Salaried,Investments,190041.25,Singapore,Verified
+C101135,Business Owner,Savings,240468.23,Singapore,Verified
+C101136,Consultant,Business Income,153166.43,USA,Verified
+C101137,Retired,Investments,360257.29,Singapore,Verified
+C101138,Self-Employed,Unknown,187036.95,UAE,Verified
+C101139,Self-Employed,Business Income,192740.08,Singapore,Verified
+C101140,Self-Employed,Business Income,144057.84,UAE,Verified
+C101141,Student,Business Income,468735.84,UK,Verified
+C101142,Retired,Salary,260958.84,USA,Verified
+C101143,Salaried,Business Income,245627.65,Singapore,Verified
+C101144,Self-Employed,Savings,488752.07,UK,Verified
+C101145,Self-Employed,Investments,68254.11,Singapore,Verified
+C101146,Retired,Unknown,360388.61,UK,Verified
+C101147,Business Owner,Investments,35746.69,India,Verified
+C101148,Self-Employed,Inheritance,427973.76,Singapore,Pending
+C101149,Self-Employed,Investments,476489.71,UAE,Verified
+C101150,Consultant,Salary,345963.28,UK,Verified
+C101151,Business Owner,Savings,211125.78,UK,Verified
+C101152,Salaried,Investments,166855.54,Singapore,Verified
+C101153,Student,Inheritance,166993.35,India,Expired
+C101154,Business Owner,Salary,161794.46,USA,Verified
+C101155,Self-Employed,Business Income,463256.96,USA,Verified
+C101156,Student,Business Income,151602.74,UAE,Verified
+C101157,Student,Salary,50260.53,UAE,Verified
+C101158,Salaried,Savings,202740.7,India,Verified
+C101159,Salaried,Salary,111189.13,UK,Verified
+C101160,Salaried,Business Income,176617.52,UK,Verified
+C101161,Student,Business Income,446001.04,UK,Pending
+C101162,Consultant,Salary,133917.27,UAE,Verified
+C101163,Student,Business Income,206937.17,UK,Verified
+C101164,Consultant,Salary,184622.6,India,Expired
+C101165,Business Owner,Investments,129865.74,USA,Verified
+C101166,Consultant,Savings,83892.89,USA,Verified
+C101167,Student,Savings,105220.95,Singapore,Verified
+C101168,Business Owner,Salary,166332.08,USA,Pending
+C101169,Retired,Salary,148839.75,India,Pending
+C101170,Retired,Business Income,475350.13,UAE,Verified
+C101171,Student,Investments,222769.82,UAE,Verified
+C101172,Retired,Investments,441664.38,India,Verified
+C101173,Business Owner,Savings,403984.12,Singapore,Verified
+C101174,Salaried,Business Income,333329.15,India,Verified
+C101175,Business Owner,Salary,103576.92,Singapore,Verified
+C101176,Student,Investments,391366.12,Singapore,Verified
+C101177,Student,Salary,238283.77,India,Verified
+C101178,Business Owner,Unknown,128179.72,UAE,Verified
+C101179,Self-Employed,Investments,244279.32,UAE,Expired
+C101180,Business Owner,Salary,316725.99,Singapore,Verified
+C101181,Student,Inheritance,452939.23,UAE,Verified
+C101182,Salaried,Inheritance,303935.96,India,Verified
+C101183,Self-Employed,Salary,77614.3,UAE,Verified
+C101184,Self-Employed,Business Income,178810.63,India,Verified
+C101185,Student,Business Income,99525.7,Singapore,Verified
+C101186,Business Owner,Salary,332676.0,India,Verified
+C101187,Salaried,Business Income,82773.76,India,Verified
+C101188,Self-Employed,Investments,470922.1,Singapore,Pending
+C101189,Salaried,Investments,131422.5,USA,Expired
+C101190,Business Owner,Business Income,297517.04,UK,Verified
+C101191,Retired,Salary,362003.39,Singapore,Verified
+C101192,Consultant,Salary,353998.37,Singapore,Verified
+C101193,Retired,Business Income,404647.0,Singapore,Verified
+C101194,Student,Savings,363817.52,UK,Verified
+C101195,Retired,Savings,33515.05,UK,Verified
+C101196,Self-Employed,Business Income,330987.23,USA,Verified
+C101197,Retired,Salary,371927.86,India,Verified
+C101198,Self-Employed,Salary,89132.69,USA,Expired
+C101199,Business Owner,Inheritance,336417.25,USA,Verified
+C101200,Student,Investments,432306.7,UAE,Verified
+C101201,Self-Employed,Savings,230537.2,UK,Verified
+C101202,Self-Employed,Business Income,246622.05,India,Pending
+C101203,Salaried,Inheritance,254740.05,Singapore,Verified
+C101204,Salaried,Business Income,212343.64,UK,Pending
+C101205,Consultant,Inheritance,493771.34,USA,Expired
+C101206,Retired,Inheritance,430191.86,UAE,Verified
+C101207,Self-Employed,Salary,479127.58,Singapore,Pending
+C101208,Business Owner,Inheritance,80221.68,USA,Verified
+C101209,Retired,Salary,241536.94,USA,Verified
+C101210,Student,Investments,479590.06,UK,Verified
+C101211,Salaried,Salary,123276.21,Singapore,Verified
+C101212,Consultant,Unknown,383608.27,Singapore,Verified
+C101213,Salaried,Salary,269993.98,India,Verified
+C101214,Self-Employed,Investments,329303.86,USA,Verified
+C101215,Self-Employed,Business Income,365833.77,India,Verified
+C101216,Consultant,Salary,38099.31,Singapore,Verified
+C101217,Self-Employed,Salary,349226.79,Singapore,Verified
+C101218,Self-Employed,Salary,187519.83,UAE,Verified
+C101219,Self-Employed,Salary,122986.46,Singapore,Verified
+C101220,Business Owner,Salary,111935.65,India,Verified
+C101221,Consultant,Salary,247596.05,UAE,Verified
+C101222,Business Owner,Savings,323709.59,Singapore,Verified
+C101223,Self-Employed,Business Income,303596.52,UAE,Verified
+C101224,Consultant,Investments,485922.04,USA,Verified
+C101225,Consultant,Inheritance,308988.37,UK,Verified
+C101226,Salaried,Salary,168521.05,Singapore,Verified
+C101227,Retired,Business Income,386035.84,India,Verified
+C101228,Retired,Investments,340771.27,India,Verified
+C101229,Consultant,Savings,292326.36,India,Verified
+C101230,Consultant,Salary,93617.01,UK,Verified
+C101231,Student,Business Income,178967.97,UK,Verified
+C101232,Business Owner,Investments,234140.68,UK,Verified
+C101233,Business Owner,Savings,497287.13,USA,Pending
+C101234,Business Owner,Inheritance,109280.74,UAE,Pending
+C101235,Salaried,Business Income,82323.79,USA,Verified
+C101236,Retired,Inheritance,132879.69,UAE,Verified
+C101237,Self-Employed,Salary,97869.54,UK,Verified
+C101238,Self-Employed,Savings,178367.85,USA,Verified
+C101239,Retired,Savings,347615.46,UAE,Verified
+C101240,Consultant,Savings,51956.1,Singapore,Verified
+C101241,Consultant,Investments,278848.88,India,Verified
+C101242,Self-Employed,Salary,370693.69,USA,Expired
+C101243,Self-Employed,Savings,486808.82,UK,Verified
+C101244,Student,Salary,77513.99,USA,Verified
+C101245,Business Owner,Savings,279171.95,UAE,Verified
+C101246,Salaried,Savings,195196.67,India,Verified
+C101247,Retired,Salary,63734.64,India,Verified
+C101248,Business Owner,Savings,395726.41,UK,Verified
+C101249,Student,Business Income,335021.24,USA,Verified
+C101250,Business Owner,Inheritance,191701.13,USA,Verified
+C101251,Consultant,Unknown,307875.77,India,Verified
+C101252,Student,Salary,314863.47,UK,Verified
+C101253,Retired,Business Income,458621.27,UK,Verified
+C101254,Self-Employed,Investments,34056.53,India,Verified
+C101255,Student,Investments,45725.96,UK,Verified
+C101256,Retired,Investments,158563.01,USA,Verified
+C101257,Consultant,Savings,440765.07,India,Verified
+C101258,Salaried,Investments,400718.45,Singapore,Verified
+C101259,Self-Employed,Unknown,222696.74,India,Verified
+C101260,Self-Employed,Salary,359510.94,India,Verified
+C101261,Salaried,Investments,191368.03,UK,Verified
+C101262,Student,Investments,348622.87,USA,Verified
+C101263,Retired,Savings,386322.09,UAE,Verified
+C101264,Consultant,Inheritance,55905.48,USA,Verified
+C101265,Consultant,Business Income,458496.12,Singapore,Verified
+C101266,Student,Salary,275570.26,USA,Verified
+C101267,Business Owner,Inheritance,115356.56,UAE,Verified
+C101268,Business Owner,Business Income,485458.35,USA,Verified
+C101269,Consultant,Salary,209053.97,India,Verified
+C101270,Self-Employed,Salary,494515.83,UAE,Verified
+C101271,Salaried,Business Income,397240.58,Singapore,Verified
+C101272,Consultant,Savings,262721.67,UK,Verified
+C101273,Student,Business Income,261380.74,UK,Verified
+C101274,Salaried,Inheritance,84773.21,Singapore,Verified
+C101275,Self-Employed,Unknown,390326.41,UAE,Verified
+C101276,Self-Employed,Salary,488534.86,India,Verified
+C101277,Student,Savings,263234.5,India,Verified
+C101278,Consultant,Savings,222832.56,UAE,Verified
+C101279,Consultant,Salary,462691.04,USA,Verified
+C101280,Consultant,Business Income,255327.19,UAE,Verified
+C101281,Self-Employed,Salary,367265.79,Singapore,Verified
+C101282,Student,Savings,163095.99,India,Verified
+C101283,Salaried,Savings,381604.35,Singapore,Pending
+C101284,Salaried,Business Income,446933.96,USA,Pending
+C101285,Student,Salary,371565.71,USA,Verified
+C101286,Consultant,Salary,214338.06,Singapore,Verified
+C101287,Self-Employed,Investments,71684.51,India,Verified
+C101288,Business Owner,Investments,60526.4,Singapore,Verified
+C101289,Salaried,Investments,253165.18,UK,Pending
+C101290,Student,Salary,478913.98,USA,Verified
+C101291,Student,Investments,168438.24,UK,Verified
+C101292,Self-Employed,Savings,355372.75,India,Pending
+C101293,Business Owner,Investments,306430.81,UAE,Verified
+C101294,Self-Employed,Savings,386264.9,Singapore,Verified
+C101295,Business Owner,Business Income,122722.13,UAE,Expired
+C101296,Self-Employed,Salary,445921.38,India,Verified
+C101297,Self-Employed,Savings,115739.5,Singapore,Verified
+C101298,Business Owner,Salary,193331.77,Singapore,Verified
+C101299,Retired,Salary,365445.41,USA,Verified
+C101300,Student,Inheritance,461917.98,Singapore,Pending
+C101301,Self-Employed,Salary,382051.43,India,Verified
+C101302,Retired,Business Income,142047.22,India,Verified
+C101303,Self-Employed,Savings,257747.84,Singapore,Verified
+C101304,Retired,Inheritance,253949.95,UK,Verified
+C101305,Self-Employed,Salary,108372.98,UK,Verified
+C101306,Consultant,Salary,24226.19,USA,Verified
+C101307,Self-Employed,Salary,313747.8,India,Verified
+C101308,Student,Business Income,231874.72,India,Verified
+C101309,Self-Employed,Salary,432561.8,Singapore,Verified
+C101310,Retired,Salary,137538.57,Singapore,Verified
+C101311,Salaried,Salary,204541.61,Singapore,Verified
+C101312,Consultant,Salary,497488.52,UK,Verified
+C101313,Salaried,Salary,346001.26,India,Verified
+C101314,Retired,Inheritance,62768.56,Singapore,Verified
+C101315,Business Owner,Business Income,274896.16,UK,Verified
+C101316,Student,Business Income,272630.15,USA,Verified
+C101317,Retired,Business Income,276830.96,UK,Verified
+C101318,Consultant,Investments,342047.84,UAE,Verified
+C101319,Salaried,Salary,205110.66,USA,Verified
+C101320,Self-Employed,Investments,272049.38,UK,Verified
+C101321,Self-Employed,Business Income,321918.39,UAE,Verified
+C101322,Retired,Salary,136609.0,Singapore,Verified
+C101323,Retired,Investments,22494.08,USA,Verified
+C101324,Business Owner,Salary,167996.85,Singapore,Verified
+C101325,Retired,Investments,350102.73,Singapore,Verified
+C101326,Self-Employed,Business Income,196085.88,UK,Verified
+C101327,Student,Investments,308054.77,India,Verified
+C101328,Business Owner,Salary,285461.15,India,Verified
+C101329,Self-Employed,Salary,332813.4,UK,Verified
+C101330,Self-Employed,Investments,435262.56,Singapore,Verified
+C101331,Business Owner,Salary,245811.56,UAE,Verified
+C101332,Business Owner,Business Income,148047.32,UK,Verified
+C101333,Self-Employed,Business Income,54972.85,Singapore,Verified
+C101334,Business Owner,Business Income,51225.92,Singapore,Verified
+C101335,Salaried,Savings,128824.24,UK,Verified
+C101336,Retired,Business Income,222206.51,UK,Verified
+C101337,Business Owner,Salary,205958.39,India,Verified
+C101338,Salaried,Salary,72833.33,UK,Verified
+C101339,Consultant,Salary,171486.09,UK,Verified
+C101340,Retired,Salary,183862.5,UK,Verified
+C101341,Business Owner,Inheritance,112061.84,Singapore,Verified
+C101342,Retired,Investments,345777.23,UAE,Verified
+C101343,Consultant,Savings,424349.82,UAE,Verified
+C101344,Student,Business Income,90804.37,UK,Verified
+C101345,Self-Employed,Savings,449756.13,India,Verified
+C101346,Salaried,Inheritance,113610.68,UK,Verified
+C101347,Business Owner,Salary,208729.03,USA,Verified
+C101348,Retired,Business Income,248839.29,Singapore,Verified
+C101349,Student,Salary,454103.51,Singapore,Verified
+C101350,Student,Business Income,254637.1,Singapore,Verified
+C101351,Retired,Investments,473790.1,India,Verified
+C101352,Business Owner,Business Income,222730.23,UAE,Verified
+C101353,Self-Employed,Inheritance,62023.09,India,Verified
+C101354,Retired,Investments,365699.82,India,Verified
+C101355,Consultant,Salary,107653.1,USA,Verified
+C101356,Self-Employed,Investments,340232.98,India,Verified
+C101357,Self-Employed,Investments,412163.89,USA,Verified
+C101358,Retired,Salary,328356.44,India,Verified
+C101359,Salaried,Business Income,327347.62,USA,Verified
+C101360,Salaried,Investments,261440.03,Singapore,Verified
+C101361,Student,Business Income,74450.78,UAE,Verified
+C101362,Salaried,Salary,472179.54,USA,Verified
+C101363,Self-Employed,Salary,298368.18,UK,Verified
+C101364,Retired,Savings,282921.92,UAE,Verified
+C101365,Business Owner,Business Income,218909.75,USA,Verified
+C101366,Student,Investments,129812.89,India,Verified
+C101367,Business Owner,Salary,425199.57,USA,Verified
+C101368,Salaried,Salary,330858.52,Singapore,Verified
+C101369,Self-Employed,Salary,298859.99,USA,Verified
+C101370,Student,Salary,63353.71,USA,Verified
+C101371,Salaried,Salary,99389.78,UAE,Verified
+C101372,Consultant,Business Income,487021.86,USA,Verified
+C101373,Business Owner,Investments,32258.68,India,Verified
+C101374,Business Owner,Business Income,224946.36,UK,Verified
+C101375,Retired,Salary,285634.01,USA,Verified
+C101376,Consultant,Business Income,482038.17,India,Verified
+C101377,Consultant,Salary,92851.45,UAE,Pending
+C101378,Business Owner,Salary,308388.1,Singapore,Verified
+C101379,Business Owner,Salary,277345.94,India,Verified
+C101380,Student,Business Income,284206.09,UAE,Verified
+C101381,Salaried,Business Income,315155.6,Singapore,Verified
+C101382,Self-Employed,Investments,197938.49,UK,Verified
+C101383,Consultant,Savings,90136.52,USA,Verified
+C101384,Consultant,Salary,402010.42,USA,Verified
+C101385,Salaried,Savings,469362.51,India,Verified
+C101386,Student,Business Income,470878.69,USA,Verified
+C101387,Consultant,Savings,426988.93,UK,Pending
+C101388,Self-Employed,Business Income,246966.86,USA,Expired
+C101389,Student,Business Income,85817.59,USA,Verified
+C101390,Retired,Savings,133643.09,India,Expired
+C101391,Business Owner,Inheritance,480184.23,UK,Verified
+C101392,Self-Employed,Salary,263588.63,UAE,Verified
+C101393,Self-Employed,Investments,288329.92,Singapore,Verified
+C101394,Consultant,Salary,270698.05,UK,Verified
+C101395,Salaried,Salary,194386.09,UK,Verified
+C101396,Business Owner,Salary,391833.44,USA,Verified
+C101397,Salaried,Salary,105536.71,UAE,Verified
+C101398,Salaried,Savings,252250.94,UK,Verified
+C101399,Business Owner,Savings,237276.39,India,Verified
+C101400,Student,Salary,58531.0,USA,Verified
+C101401,Retired,Salary,171706.65,UK,Verified
+C101402,Salaried,Inheritance,296754.47,India,Verified
+C101403,Self-Employed,Salary,493740.98,UAE,Verified
+C101404,Business Owner,Savings,165986.51,Singapore,Verified
+C101405,Consultant,Salary,405371.57,Singapore,Verified
+C101406,Retired,Salary,122557.58,USA,Verified
+C101407,Student,Salary,202854.21,Singapore,Verified
+C101408,Consultant,Salary,254503.26,India,Verified
+C101409,Salaried,Salary,59593.25,UK,Verified
+C101410,Salaried,Investments,239932.19,Singapore,Verified
+C101411,Salaried,Savings,365248.32,UAE,Verified
+C101412,Consultant,Business Income,427245.8,UAE,Verified
+C101413,Self-Employed,Salary,319187.21,UK,Verified
+C101414,Self-Employed,Salary,288164.82,Singapore,Verified
+C101415,Student,Salary,309614.24,India,Verified
+C101416,Student,Inheritance,32684.49,Singapore,Verified
+C101417,Business Owner,Savings,47648.16,Singapore,Verified
+C101418,Retired,Business Income,358814.0,India,Verified
+C101419,Student,Salary,288806.53,UAE,Verified
+C101420,Student,Salary,210384.99,USA,Verified
+C101421,Retired,Inheritance,380265.8,UAE,Verified
+C101422,Self-Employed,Savings,32896.26,UAE,Pending
+C101423,Student,Unknown,106683.01,USA,Verified
+C101424,Retired,Salary,153585.26,India,Verified
+C101425,Retired,Salary,228669.72,UAE,Verified
+C101426,Consultant,Salary,54370.74,UK,Verified
+C101427,Student,Business Income,94674.06,Singapore,Verified
+C101428,Retired,Business Income,345639.72,UK,Verified
+C101429,Retired,Salary,134247.1,India,Verified
+C101430,Retired,Salary,455986.47,USA,Verified
+C101431,Student,Business Income,166896.04,UAE,Pending
+C101432,Business Owner,Salary,253888.02,UK,Verified
+C101433,Student,Salary,249173.87,India,Verified
+C101434,Business Owner,Savings,220996.77,UK,Verified
+C101435,Student,Salary,386138.93,UK,Verified
+C101436,Student,Inheritance,230765.29,India,Verified
+C101437,Retired,Salary,109343.87,India,Verified
+C101438,Consultant,Savings,296007.04,India,Verified
+C101439,Business Owner,Investments,217630.13,Singapore,Verified
+C101440,Salaried,Business Income,123674.65,India,Pending
+C101441,Consultant,Salary,470486.17,UK,Verified
+C101442,Consultant,Salary,268456.69,Singapore,Verified
+C101443,Consultant,Inheritance,316919.14,India,Verified
+C101444,Student,Salary,139854.19,USA,Verified
+C101445,Retired,Business Income,355985.23,Singapore,Verified
+C101446,Salaried,Salary,492864.15,UAE,Verified
+C101447,Business Owner,Salary,472231.65,UK,Verified
+C101448,Student,Investments,112646.84,India,Verified
+C101449,Student,Business Income,478074.42,UK,Verified
+C101450,Student,Salary,180461.65,UK,Verified
+C101451,Student,Salary,409428.74,UK,Verified
+C101452,Retired,Salary,493687.02,India,Verified
+C101453,Retired,Investments,207029.93,UAE,Verified
+C101454,Consultant,Savings,495732.58,UAE,Verified
+C101455,Self-Employed,Salary,262589.38,USA,Verified
+C101456,Consultant,Salary,332127.56,India,Verified
+C101457,Student,Salary,431608.29,Singapore,Verified
+C101458,Salaried,Investments,337372.86,India,Verified
+C101459,Student,Business Income,454296.39,UAE,Verified
+C101460,Consultant,Business Income,127216.24,USA,Verified
+C101461,Retired,Salary,430022.31,Singapore,Verified
+C101462,Self-Employed,Savings,432020.52,UK,Verified
+C101463,Retired,Inheritance,440452.93,India,Verified
+C101464,Business Owner,Salary,395286.72,UAE,Verified
+C101465,Consultant,Salary,400138.76,UK,Verified
+C101466,Consultant,Business Income,350512.15,USA,Verified
+C101467,Consultant,Business Income,423838.02,UK,Verified
+C101468,Retired,Business Income,389007.93,India,Verified
+C101469,Self-Employed,Savings,49441.66,UAE,Verified
+C101470,Student,Investments,221202.54,UAE,Verified
+C101471,Retired,Business Income,332477.65,UK,Pending
+C101472,Self-Employed,Business Income,382545.63,India,Verified
+C101473,Self-Employed,Business Income,109790.9,Singapore,Verified
+C101474,Business Owner,Business Income,247782.2,UAE,Verified
+C101475,Student,Salary,56552.13,USA,Verified
+C101476,Retired,Savings,35399.84,USA,Verified
+C101477,Student,Investments,257060.79,UK,Verified
+C101478,Student,Salary,242325.57,India,Verified
+C101479,Business Owner,Savings,67585.23,Singapore,Verified
+C101480,Consultant,Salary,213986.67,India,Verified
+C101481,Self-Employed,Business Income,309667.45,UAE,Verified
+C101482,Business Owner,Salary,347253.87,UK,Pending
+C101483,Self-Employed,Savings,112598.58,Singapore,Verified
+C101484,Salaried,Salary,181319.54,UAE,Verified
+C101485,Retired,Savings,83195.29,UK,Verified
+C101486,Student,Salary,127912.93,UK,Verified
+C101487,Consultant,Salary,448582.16,USA,Verified
+C101488,Salaried,Salary,182424.69,UAE,Verified
+C101489,Salaried,Business Income,252669.91,India,Pending
+C101490,Salaried,Business Income,327009.58,India,Verified
+C101491,Student,Salary,441838.9,USA,Verified
+C101492,Self-Employed,Inheritance,276313.13,India,Verified
+C101493,Self-Employed,Business Income,324825.53,USA,Verified
+C101494,Retired,Salary,42979.69,UAE,Verified
+C101495,Retired,Salary,372406.6,UK,Verified
+C101496,Student,Inheritance,221371.46,Singapore,Verified
+C101497,Self-Employed,Investments,346943.82,India,Verified
+C101498,Consultant,Salary,120698.35,UK,Verified
+C101499,Self-Employed,Inheritance,471835.48,USA,Verified
+C101500,Retired,Salary,65148.5,USA,Verified
+C101501,Salaried,Salary,113623.67,UK,Verified
+C101502,Student,Investments,246378.84,India,Verified
+C101503,Consultant,Investments,152001.13,UAE,Verified
+C101504,Student,Inheritance,162395.94,Singapore,Verified
+C101505,Business Owner,Inheritance,257497.26,Singapore,Pending
+C101506,Salaried,Unknown,412023.85,Singapore,Verified
+C101507,Student,Business Income,223068.21,UK,Verified
+C101508,Consultant,Salary,464246.44,India,Verified
+C101509,Business Owner,Business Income,218235.84,USA,Verified
+C101510,Business Owner,Salary,241036.01,UK,Pending
+C101511,Business Owner,Savings,425838.98,UK,Expired
+C101512,Business Owner,Investments,276002.34,UK,Pending
+C101513,Self-Employed,Inheritance,392992.44,UAE,Verified
+C101514,Self-Employed,Savings,308769.28,Singapore,Verified
+C101515,Self-Employed,Salary,44489.89,Singapore,Verified
+C101516,Salaried,Salary,490305.93,India,Verified
+C101517,Retired,Savings,356632.1,Singapore,Verified
+C101518,Self-Employed,Investments,57688.96,UK,Verified
+C101519,Salaried,Salary,284270.5,UAE,Verified
+C101520,Salaried,Salary,462749.51,USA,Verified
+C101521,Retired,Inheritance,222910.23,USA,Verified
+C101522,Business Owner,Savings,437281.34,UAE,Verified
+C101523,Self-Employed,Salary,165911.42,USA,Verified
+C101524,Business Owner,Salary,116815.27,USA,Verified
+C101525,Salaried,Inheritance,401290.04,Singapore,Verified
+C101526,Self-Employed,Salary,140414.39,UK,Verified
+C101527,Self-Employed,Salary,326790.65,USA,Verified
+C101528,Student,Investments,443452.78,India,Verified
+C101529,Salaried,Savings,420082.76,Singapore,Verified
+C101530,Business Owner,Investments,450220.29,UK,Verified
+C101531,Student,Business Income,150321.75,UK,Verified
+C101532,Retired,Salary,165711.24,UK,Verified
+C101533,Consultant,Inheritance,92412.48,India,Verified
+C101534,Self-Employed,Salary,173720.85,India,Verified
+C101535,Business Owner,Salary,255012.67,India,Expired
+C101536,Self-Employed,Salary,106976.73,USA,Verified
+C101537,Consultant,Salary,339724.22,UK,Verified
+C101538,Self-Employed,Inheritance,324004.53,Singapore,Verified
+C101539,Consultant,Salary,429743.12,India,Verified
+C101540,Consultant,Business Income,23722.4,Singapore,Verified
+C101541,Retired,Inheritance,301595.68,UAE,Verified
+C101542,Business Owner,Salary,364785.1,UK,Verified
+C101543,Retired,Salary,444820.35,India,Pending
+C101544,Business Owner,Salary,163671.2,USA,Verified
+C101545,Student,Salary,28896.85,UAE,Pending
+C101546,Consultant,Business Income,455884.94,India,Verified
+C101547,Student,Salary,246571.4,Singapore,Verified
+C101548,Business Owner,Investments,325309.26,UK,Verified
+C101549,Student,Unknown,203431.22,Singapore,Verified
+C101550,Business Owner,Salary,219503.73,Singapore,Verified
+C101551,Business Owner,Salary,105465.96,UK,Verified
+C101552,Business Owner,Salary,153314.63,UK,Verified
+C101553,Student,Salary,53320.69,Singapore,Verified
+C101554,Consultant,Salary,198768.57,India,Verified
+C101555,Salaried,Inheritance,195032.51,USA,Verified
+C101556,Student,Salary,406669.06,UAE,Verified
+C101557,Student,Investments,405657.6,UAE,Expired
+C101558,Salaried,Salary,188048.56,UAE,Verified
+C101559,Retired,Business Income,330263.46,USA,Verified
+C101560,Consultant,Salary,348708.76,USA,Verified
+C101561,Salaried,Salary,37274.25,UAE,Verified
+C101562,Business Owner,Investments,155115.19,India,Verified
+C101563,Retired,Salary,356933.62,UK,Verified
+C101564,Self-Employed,Salary,71135.33,UK,Expired
+C101565,Retired,Salary,81741.93,Singapore,Verified
+C101566,Business Owner,Business Income,92611.01,Singapore,Pending
+C101567,Self-Employed,Business Income,413686.13,USA,Verified
+C101568,Business Owner,Salary,117388.5,India,Verified
+C101569,Consultant,Business Income,151608.94,UK,Verified
+C101570,Student,Inheritance,283641.64,UAE,Verified
+C101571,Retired,Salary,285439.53,Singapore,Verified
+C101572,Self-Employed,Business Income,89618.7,UK,Verified
+C101573,Retired,Savings,61383.28,Singapore,Verified
+C101574,Consultant,Savings,57884.14,USA,Verified
+C101575,Salaried,Salary,249559.87,UAE,Verified
+C101576,Retired,Salary,92345.76,India,Pending
+C101577,Business Owner,Salary,465397.53,USA,Verified
+C101578,Consultant,Salary,159451.37,India,Verified
+C101579,Student,Salary,492690.44,Singapore,Verified
+C101580,Salaried,Savings,91649.04,India,Verified
+C101581,Self-Employed,Salary,248545.99,UK,Verified
+C101582,Student,Salary,73718.99,USA,Verified
+C101583,Self-Employed,Salary,105114.71,Singapore,Verified
+C101584,Salaried,Savings,281700.15,USA,Verified
+C101585,Salaried,Business Income,155679.5,UK,Pending
+C101586,Student,Salary,113240.2,UAE,Verified
+C101587,Salaried,Business Income,130070.47,India,Verified
+C101588,Salaried,Salary,415445.91,Singapore,Verified
+C101589,Consultant,Salary,92682.43,USA,Verified
+C101590,Salaried,Investments,149293.18,UK,Verified
+C101591,Consultant,Business Income,156127.93,India,Verified
+C101592,Consultant,Business Income,488951.66,UAE,Verified
+C101593,Consultant,Savings,354387.06,India,Verified
+C101594,Business Owner,Business Income,218761.57,Singapore,Verified
+C101595,Student,Salary,186880.06,India,Verified
+C101596,Consultant,Salary,476680.78,Singapore,Verified
+C101597,Business Owner,Salary,23231.2,Singapore,Verified
+C101598,Salaried,Salary,95491.22,Singapore,Verified
+C101599,Self-Employed,Salary,49799.7,UK,Verified
+C101600,Salaried,Business Income,421394.65,UAE,Verified
+C101601,Salaried,Salary,351285.81,Singapore,Pending
+C101602,Self-Employed,Salary,361144.82,UAE,Pending
+C101603,Self-Employed,Savings,161058.67,UK,Verified
+C101604,Salaried,Business Income,376226.05,UAE,Verified
+C101605,Self-Employed,Salary,99430.16,India,Verified
+C101606,Consultant,Business Income,302433.54,USA,Verified
+C101607,Self-Employed,Savings,152866.69,Singapore,Verified
+C101608,Self-Employed,Business Income,312914.76,UAE,Verified
+C101609,Salaried,Savings,222339.74,India,Verified
+C101610,Salaried,Investments,483309.31,UAE,Verified
+C101611,Salaried,Salary,122081.77,India,Verified
+C101612,Business Owner,Investments,28464.36,UAE,Verified
+C101613,Consultant,Investments,378085.84,USA,Verified
+C101614,Student,Salary,470890.49,USA,Verified
+C101615,Consultant,Investments,127200.4,Singapore,Verified
+C101616,Consultant,Business Income,320493.5,USA,Verified
+C101617,Retired,Salary,23937.54,USA,Verified
+C101618,Self-Employed,Salary,322289.75,India,Pending
+C101619,Student,Salary,365942.94,UK,Verified
+C101620,Retired,Business Income,64915.02,India,Verified
+C101621,Consultant,Unknown,82966.28,Singapore,Verified
+C101622,Retired,Business Income,446070.0,India,Pending
+C101623,Salaried,Business Income,120035.91,India,Pending
+C101624,Retired,Salary,485054.58,UAE,Verified
+C101625,Consultant,Investments,103773.6,UAE,Verified
+C101626,Self-Employed,Savings,34480.84,UK,Verified
+C101627,Salaried,Salary,72208.35,UAE,Pending
+C101628,Student,Salary,272552.45,UAE,Verified
+C101629,Business Owner,Business Income,303998.23,USA,Verified
+C101630,Self-Employed,Salary,255640.23,USA,Verified
+C101631,Business Owner,Salary,108910.9,India,Verified
+C101632,Retired,Salary,339639.86,UAE,Expired
+C101633,Business Owner,Savings,454743.06,USA,Verified
+C101634,Salaried,Savings,200021.6,USA,Verified
+C101635,Self-Employed,Investments,359071.52,Singapore,Verified
+C101636,Salaried,Savings,22498.39,UK,Verified
+C101637,Student,Investments,382979.31,UK,Verified
+C101638,Student,Business Income,244951.18,USA,Verified
+C101639,Retired,Investments,181802.37,UK,Verified
+C101640,Consultant,Business Income,321166.29,USA,Verified
+C101641,Student,Salary,220694.35,Singapore,Verified
+C101642,Business Owner,Salary,116731.34,UAE,Verified
+C101643,Consultant,Business Income,86723.4,Singapore,Verified
+C101644,Salaried,Savings,311401.03,UAE,Verified
+C101645,Consultant,Salary,60453.26,Singapore,Verified
+C101646,Consultant,Business Income,140185.04,USA,Verified
+C101647,Salaried,Business Income,379834.85,Singapore,Verified
+C101648,Consultant,Salary,451398.31,India,Verified
+C101649,Student,Salary,75093.68,USA,Verified
+C101650,Business Owner,Savings,259126.0,UK,Verified
+C101651,Consultant,Unknown,61979.98,UK,Verified
+C101652,Self-Employed,Investments,59941.72,Singapore,Verified
+C101653,Self-Employed,Business Income,413004.66,India,Verified
+C101654,Salaried,Salary,386311.05,UK,Verified
+C101655,Self-Employed,Salary,148049.37,UAE,Verified
+C101656,Student,Salary,387481.15,Singapore,Verified
+C101657,Retired,Investments,100960.98,UAE,Verified
+C101658,Consultant,Inheritance,276713.5,USA,Verified
+C101659,Consultant,Salary,208205.18,India,Verified
+C101660,Consultant,Investments,281601.81,India,Verified
+C101661,Business Owner,Inheritance,318277.6,UAE,Verified
+C101662,Business Owner,Salary,251540.26,USA,Verified
+C101663,Consultant,Investments,445408.68,Singapore,Verified
+C101664,Student,Savings,333207.27,Singapore,Verified
+C101665,Business Owner,Savings,47423.66,USA,Verified
+C101666,Consultant,Business Income,492406.39,UK,Pending
+C101667,Business Owner,Savings,381699.67,India,Verified
+C101668,Self-Employed,Salary,143095.61,UK,Verified
+C101669,Self-Employed,Salary,91121.65,Singapore,Verified
+C101670,Salaried,Investments,225416.92,Singapore,Verified
+C101671,Business Owner,Salary,108947.42,Singapore,Verified
+C101672,Student,Investments,453752.72,Singapore,Verified
+C101673,Student,Business Income,381259.67,Singapore,Verified
+C101674,Retired,Salary,389288.88,UK,Verified
+C101675,Salaried,Salary,24224.49,UK,Verified
+C101676,Student,Business Income,128705.12,UAE,Verified
+C101677,Student,Salary,350842.99,India,Pending
+C101678,Business Owner,Investments,375907.75,Singapore,Verified
+C101679,Self-Employed,Salary,250977.39,UAE,Verified
+C101680,Business Owner,Business Income,309801.25,USA,Verified
+C101681,Student,Salary,72691.98,UK,Verified
+C101682,Retired,Business Income,403884.95,Singapore,Verified
+C101683,Consultant,Business Income,369842.8,Singapore,Verified
+C101684,Consultant,Salary,118723.0,Singapore,Verified
+C101685,Consultant,Salary,187222.38,UK,Verified
+C101686,Salaried,Salary,413811.41,UAE,Verified
+C101687,Consultant,Salary,129827.98,UK,Verified
+C101688,Salaried,Inheritance,408747.11,UAE,Pending
+C101689,Retired,Inheritance,406563.03,USA,Pending
+C101690,Retired,Business Income,223772.02,UAE,Verified
+C101691,Consultant,Business Income,415617.68,UK,Verified
+C101692,Business Owner,Savings,263593.49,Singapore,Verified
+C101693,Student,Investments,489980.5,India,Verified
+C101694,Consultant,Business Income,177439.53,Singapore,Verified
+C101695,Student,Investments,71211.7,India,Verified
+C101696,Consultant,Savings,46827.55,India,Verified
+C101697,Self-Employed,Salary,494046.0,UAE,Verified
+C101698,Salaried,Savings,53537.69,UAE,Verified
+C101699,Self-Employed,Savings,361886.72,USA,Verified
+C101700,Consultant,Investments,481635.93,Singapore,Verified
+C101701,Business Owner,Salary,311067.33,India,Verified
+C101702,Consultant,Inheritance,208310.82,UK,Verified
+C101703,Self-Employed,Investments,142643.88,UAE,Expired
+C101704,Retired,Business Income,463203.2,India,Verified
+C101705,Business Owner,Business Income,258419.0,USA,Verified
+C101706,Retired,Salary,232365.64,Singapore,Verified
+C101707,Business Owner,Salary,121827.63,India,Expired
+C101708,Business Owner,Salary,439697.51,UK,Verified
+C101709,Consultant,Savings,227519.61,UK,Verified
+C101710,Self-Employed,Salary,54543.0,Singapore,Verified
+C101711,Self-Employed,Savings,206244.72,India,Pending
+C101712,Business Owner,Business Income,99265.83,UK,Verified
+C101713,Student,Savings,86826.69,UAE,Verified
+C101714,Salaried,Savings,84716.0,Singapore,Verified
+C101715,Business Owner,Salary,128894.08,India,Verified
+C101716,Student,Salary,256961.29,India,Verified
+C101717,Student,Savings,79950.77,USA,Verified
+C101718,Business Owner,Savings,190818.5,Singapore,Pending
+C101719,Salaried,Salary,388887.25,UAE,Verified
+C101720,Salaried,Salary,320129.82,India,Verified
+C101721,Business Owner,Investments,24460.91,UAE,Verified
+C101722,Student,Savings,439355.76,USA,Verified
+C101723,Salaried,Business Income,390967.22,UAE,Verified
+C101724,Retired,Savings,205301.15,USA,Verified
+C101725,Student,Salary,499479.7,USA,Pending
+C101726,Salaried,Business Income,72644.76,India,Verified
+C101727,Business Owner,Salary,493688.08,UK,Verified
+C101728,Self-Employed,Savings,388943.94,India,Verified
+C101729,Retired,Salary,412117.92,USA,Verified
+C101730,Consultant,Savings,256004.29,USA,Verified
+C101731,Self-Employed,Salary,262677.24,Singapore,Verified
+C101732,Self-Employed,Investments,386967.42,UAE,Verified
+C101733,Consultant,Business Income,498263.05,India,Verified
+C101734,Salaried,Business Income,52185.14,Singapore,Verified
+C101735,Self-Employed,Savings,359275.21,UAE,Verified
+C101736,Salaried,Business Income,188164.02,USA,Verified
+C101737,Consultant,Business Income,208551.22,USA,Verified
+C101738,Student,Salary,267985.89,India,Verified
+C101739,Business Owner,Salary,257805.24,India,Verified
+C101740,Salaried,Investments,144838.85,UAE,Verified
+C101741,Business Owner,Business Income,478473.15,UAE,Verified
+C101742,Retired,Business Income,167967.73,India,Verified
+C101743,Self-Employed,Inheritance,494559.07,UK,Verified
+C101744,Salaried,Investments,378359.86,USA,Verified
+C101745,Salaried,Savings,176446.02,USA,Verified
+C101746,Student,Salary,205433.54,India,Verified
+C101747,Salaried,Salary,126763.25,UAE,Verified
+C101748,Consultant,Salary,176863.09,India,Verified
+C101749,Retired,Salary,123129.37,USA,Verified
+C101750,Consultant,Salary,172451.52,India,Verified
+C101751,Business Owner,Business Income,256860.74,Singapore,Verified
+C101752,Self-Employed,Investments,354099.48,Singapore,Verified
+C101753,Salaried,Salary,245931.68,UK,Verified
+C101754,Salaried,Investments,280765.25,UAE,Verified
+C101755,Retired,Investments,414306.02,UK,Verified
+C101756,Salaried,Inheritance,71413.87,UK,Verified
+C101757,Salaried,Business Income,274022.0,Singapore,Verified
+C101758,Student,Business Income,142607.53,UK,Verified
+C101759,Business Owner,Investments,349470.1,UAE,Verified
+C101760,Business Owner,Investments,177641.95,UK,Verified
+C101761,Student,Savings,365523.92,Singapore,Pending
+C101762,Consultant,Business Income,38553.43,India,Verified
+C101763,Retired,Business Income,305798.52,India,Verified
+C101764,Business Owner,Investments,347410.52,UAE,Verified
+C101765,Student,Inheritance,407355.97,India,Verified
+C101766,Retired,Savings,295842.75,UAE,Verified
+C101767,Business Owner,Salary,258693.75,UAE,Verified
+C101768,Self-Employed,Investments,278611.28,UK,Verified
+C101769,Retired,Salary,412834.22,UAE,Verified
+C101770,Self-Employed,Salary,124564.44,UAE,Verified
+C101771,Salaried,Investments,24733.53,India,Verified
+C101772,Consultant,Investments,234821.37,UK,Verified
+C101773,Retired,Business Income,98180.48,UK,Expired
+C101774,Salaried,Unknown,388111.54,India,Pending
+C101775,Retired,Savings,46350.26,Singapore,Verified
+C101776,Student,Savings,279743.15,India,Expired
+C101777,Retired,Investments,437091.24,USA,Verified
+C101778,Business Owner,Investments,410211.69,Singapore,Verified
+C101779,Self-Employed,Investments,462732.3,UK,Verified
+C101780,Consultant,Business Income,61022.43,USA,Verified
+C101781,Salaried,Salary,379943.95,India,Verified
+C101782,Retired,Salary,255621.28,Singapore,Verified
+C101783,Consultant,Salary,270892.94,UAE,Verified
+C101784,Business Owner,Business Income,114353.21,Singapore,Verified
+C101785,Consultant,Investments,367374.6,USA,Verified
+C101786,Student,Investments,201601.12,UAE,Verified
+C101787,Consultant,Investments,135524.93,Singapore,Verified
+C101788,Retired,Savings,324438.24,USA,Verified
+C101789,Retired,Salary,339243.61,India,Verified
+C101790,Retired,Investments,211854.22,UAE,Verified
+C101791,Consultant,Investments,439132.73,Singapore,Expired
+C101792,Student,Savings,155677.47,UAE,Verified
+C101793,Self-Employed,Savings,378209.92,India,Verified
+C101794,Salaried,Business Income,114490.2,UK,Verified
+C101795,Business Owner,Inheritance,194515.65,UAE,Verified
+C101796,Retired,Business Income,408019.52,USA,Pending
+C101797,Salaried,Unknown,177653.82,USA,Verified
+C101798,Consultant,Inheritance,424572.9,USA,Verified
+C101799,Self-Employed,Business Income,485282.2,UAE,Verified
+C101800,Business Owner,Savings,343096.09,USA,Verified
+C101801,Salaried,Salary,182260.73,USA,Expired
+C101802,Student,Savings,167771.72,UK,Verified
+C101803,Student,Business Income,222344.03,UAE,Expired
+C101804,Student,Business Income,71708.34,UK,Verified
+C101805,Student,Investments,307873.9,Singapore,Verified
+C101806,Self-Employed,Salary,208835.39,India,Pending
+C101807,Consultant,Inheritance,253370.97,UK,Verified
+C101808,Salaried,Investments,388867.47,Singapore,Verified
+C101809,Business Owner,Salary,297056.52,Singapore,Verified
+C101810,Consultant,Salary,352495.71,UK,Verified
+C101811,Student,Investments,271560.4,UAE,Verified
+C101812,Salaried,Salary,448455.45,Singapore,Verified
+C101813,Student,Salary,95764.26,UK,Verified
+C101814,Business Owner,Savings,244224.96,UAE,Verified
+C101815,Retired,Business Income,364493.15,UK,Pending
+C101816,Consultant,Business Income,410440.4,India,Verified
+C101817,Consultant,Salary,396713.13,USA,Verified
+C101818,Student,Savings,163938.98,USA,Verified
+C101819,Student,Investments,363703.13,India,Pending
+C101820,Salaried,Savings,340256.34,UK,Verified
+C101821,Consultant,Salary,438716.31,USA,Verified
+C101822,Salaried,Salary,156891.95,UAE,Verified
+C101823,Business Owner,Investments,83295.56,USA,Verified
+C101824,Student,Inheritance,352431.79,USA,Verified
+C101825,Retired,Salary,117017.24,India,Verified
+C101826,Self-Employed,Salary,342724.47,USA,Verified
+C101827,Business Owner,Salary,384969.08,UK,Verified
+C101828,Consultant,Savings,208496.1,UK,Pending
+C101829,Business Owner,Investments,325547.79,USA,Pending
+C101830,Self-Employed,Salary,258753.23,UK,Verified
+C101831,Self-Employed,Salary,328607.39,USA,Verified
+C101832,Business Owner,Salary,420212.87,India,Verified
+C101833,Consultant,Inheritance,58351.71,UK,Verified
+C101834,Retired,Inheritance,242830.04,India,Verified
+C101835,Consultant,Business Income,163197.42,UK,Verified
+C101836,Business Owner,Savings,99179.87,Singapore,Verified
+C101837,Consultant,Salary,214315.89,India,Verified
+C101838,Student,Savings,483107.66,India,Pending
+C101839,Business Owner,Salary,230500.41,Singapore,Verified
+C101840,Business Owner,Investments,321857.41,UK,Verified
+C101841,Self-Employed,Savings,470733.2,Singapore,Verified
+C101842,Retired,Salary,100481.32,UAE,Verified
+C101843,Retired,Investments,416488.47,UK,Verified
+C101844,Self-Employed,Salary,62601.32,Singapore,Verified
+C101845,Business Owner,Salary,91894.73,India,Verified
+C101846,Self-Employed,Salary,453133.46,Singapore,Verified
+C101847,Retired,Investments,48124.46,India,Verified
+C101848,Salaried,Inheritance,137082.34,UK,Verified
+C101849,Self-Employed,Salary,437676.89,UAE,Verified
+C101850,Self-Employed,Business Income,162576.74,UK,Verified
+C101851,Consultant,Investments,243810.02,USA,Verified
+C101852,Self-Employed,Salary,429870.17,India,Verified
+C101853,Consultant,Salary,458272.0,UAE,Verified
+C101854,Student,Investments,96028.68,India,Verified
+C101855,Student,Unknown,171505.14,UAE,Verified
+C101856,Salaried,Salary,348434.14,USA,Verified
+C101857,Salaried,Investments,280540.57,India,Verified
+C101858,Salaried,Salary,180076.63,UK,Pending
+C101859,Retired,Inheritance,80949.46,India,Verified
+C101860,Consultant,Savings,424203.5,UK,Verified
+C101861,Consultant,Business Income,275065.91,USA,Verified
+C101862,Student,Business Income,221555.92,India,Verified
+C101863,Consultant,Savings,396991.8,UK,Verified
+C101864,Self-Employed,Investments,46445.21,UK,Verified
+C101865,Consultant,Salary,247439.8,UAE,Verified
+C101866,Student,Inheritance,260092.05,UAE,Verified
+C101867,Salaried,Salary,121017.6,India,Verified
+C101868,Consultant,Investments,453530.12,India,Verified
+C101869,Business Owner,Savings,325250.41,India,Verified
+C101870,Salaried,Business Income,440228.97,USA,Verified
+C101871,Self-Employed,Salary,341846.9,UAE,Verified
+C101872,Business Owner,Savings,245042.47,Singapore,Verified
+C101873,Business Owner,Unknown,36021.33,UAE,Verified
+C101874,Self-Employed,Salary,430943.81,India,Verified
+C101875,Consultant,Inheritance,183893.95,UK,Verified
+C101876,Business Owner,Business Income,125159.67,UAE,Verified
+C101877,Business Owner,Savings,405144.23,USA,Verified
+C101878,Student,Inheritance,305295.38,India,Verified
+C101879,Salaried,Savings,323809.43,India,Verified
+C101880,Business Owner,Inheritance,423907.74,Singapore,Verified
+C101881,Salaried,Business Income,363489.66,India,Verified
+C101882,Retired,Salary,111930.62,UAE,Pending
+C101883,Self-Employed,Inheritance,122604.66,India,Verified
+C101884,Student,Salary,27303.49,UK,Verified
+C101885,Self-Employed,Business Income,111499.95,India,Verified
+C101886,Self-Employed,Inheritance,20708.88,USA,Verified
+C101887,Consultant,Savings,448397.31,USA,Verified
+C101888,Student,Savings,392296.65,India,Verified
+C101889,Self-Employed,Savings,412765.26,UK,Verified
+C101890,Self-Employed,Salary,138280.8,USA,Verified
+C101891,Retired,Savings,201600.01,Singapore,Verified
+C101892,Self-Employed,Inheritance,496200.58,UAE,Verified
+C101893,Self-Employed,Salary,78030.51,UAE,Verified
+C101894,Student,Investments,333063.81,Singapore,Verified
+C101895,Salaried,Salary,414420.8,USA,Verified
+C101896,Retired,Investments,162032.57,UK,Verified
+C101897,Retired,Savings,48591.38,Singapore,Verified
+C101898,Retired,Unknown,438792.19,Singapore,Pending
+C101899,Self-Employed,Business Income,74398.78,USA,Verified
+C101900,Salaried,Business Income,201901.51,Singapore,Verified
+C101901,Business Owner,Business Income,446444.62,UK,Verified
+C101902,Business Owner,Salary,336779.92,India,Verified
+C101903,Retired,Business Income,316423.4,Singapore,Verified
+C101904,Consultant,Investments,411005.2,India,Verified
+C101905,Retired,Business Income,38199.73,UAE,Verified
+C101906,Student,Salary,282129.71,Singapore,Verified
+C101907,Student,Business Income,88949.63,UAE,Verified
+C101908,Salaried,Salary,65088.03,India,Verified
+C101909,Salaried,Salary,458744.01,UAE,Verified
+C101910,Salaried,Inheritance,177358.93,UAE,Verified
+C101911,Consultant,Savings,334677.2,Singapore,Expired
+C101912,Self-Employed,Business Income,152951.28,Singapore,Verified
+C101913,Retired,Business Income,58824.99,UAE,Verified
+C101914,Salaried,Salary,405115.55,India,Verified
+C101915,Retired,Salary,130002.63,India,Verified
+C101916,Student,Investments,476304.41,UAE,Verified
+C101917,Salaried,Unknown,52193.29,Singapore,Pending
+C101918,Salaried,Inheritance,421286.98,USA,Verified
+C101919,Business Owner,Inheritance,401844.56,India,Verified
+C101920,Business Owner,Salary,285742.83,Singapore,Verified
+C101921,Self-Employed,Business Income,231873.71,India,Verified
+C101922,Consultant,Business Income,61976.94,USA,Verified
+C101923,Salaried,Salary,47040.76,Singapore,Verified
+C101924,Salaried,Inheritance,360798.53,UK,Verified
+C101925,Student,Savings,81926.21,India,Verified
+C101926,Retired,Salary,381243.31,USA,Verified
+C101927,Self-Employed,Investments,429999.86,UK,Verified
+C101928,Retired,Savings,47609.46,UK,Verified
+C101929,Business Owner,Salary,89817.47,India,Verified
+C101930,Business Owner,Investments,184528.75,USA,Verified
+C101931,Salaried,Investments,103099.0,USA,Verified
+C101932,Business Owner,Business Income,38539.72,India,Verified
+C101933,Business Owner,Business Income,369207.47,UK,Verified
+C101934,Consultant,Investments,239800.13,India,Verified
+C101935,Salaried,Investments,45758.47,Singapore,Verified
+C101936,Self-Employed,Savings,284102.46,UAE,Verified
+C101937,Business Owner,Salary,322818.31,UK,Verified
+C101938,Salaried,Business Income,52055.33,Singapore,Verified
+C101939,Salaried,Business Income,30429.23,Singapore,Verified
+C101940,Consultant,Investments,263097.79,UAE,Pending
+C101941,Retired,Salary,166811.87,UK,Verified
+C101942,Consultant,Business Income,456165.98,Singapore,Verified
+C101943,Salaried,Business Income,335371.98,India,Verified
+C101944,Retired,Salary,89276.49,UK,Verified
+C101945,Consultant,Business Income,357983.21,Singapore,Verified
+C101946,Student,Business Income,354746.99,USA,Verified
+C101947,Self-Employed,Salary,339187.27,India,Verified
+C101948,Consultant,Salary,282791.14,UK,Verified
+C101949,Salaried,Business Income,141084.58,India,Verified
+C101950,Consultant,Investments,273464.56,Singapore,Verified
+C101951,Self-Employed,Salary,409167.02,UAE,Verified
+C101952,Retired,Investments,308862.88,UK,Verified
+C101953,Salaried,Salary,280561.23,India,Verified
+C101954,Consultant,Savings,359546.69,India,Verified
+C101955,Salaried,Salary,308377.79,India,Verified
+C101956,Student,Salary,103536.83,Singapore,Verified
+C101957,Business Owner,Savings,309757.58,UAE,Verified
+C101958,Retired,Salary,22513.26,UAE,Verified
+C101959,Consultant,Salary,308418.99,UK,Verified
+C101960,Business Owner,Business Income,485148.23,UAE,Verified
+C101961,Salaried,Investments,395216.75,UAE,Verified
+C101962,Consultant,Business Income,41702.39,Singapore,Verified
+C101963,Business Owner,Salary,443482.28,USA,Verified
+C101964,Salaried,Inheritance,37480.97,India,Verified
+C101965,Consultant,Salary,252964.15,India,Verified
+C101966,Self-Employed,Business Income,61874.85,UAE,Verified
+C101967,Self-Employed,Savings,70625.64,Singapore,Verified
+C101968,Salaried,Investments,279509.2,UAE,Verified
+C101969,Business Owner,Salary,135544.11,UAE,Pending
+C101970,Self-Employed,Investments,76829.99,UK,Verified
+C101971,Salaried,Investments,276674.08,Singapore,Pending
+C101972,Business Owner,Salary,484992.95,Singapore,Verified
+C101973,Self-Employed,Salary,438524.21,India,Verified
+C101974,Salaried,Business Income,181714.31,UK,Pending
+C101975,Business Owner,Business Income,162642.13,India,Verified
+C101976,Salaried,Salary,178016.1,UAE,Verified
+C101977,Retired,Salary,36625.97,USA,Verified
+C101978,Business Owner,Savings,479994.7,UAE,Verified
+C101979,Retired,Investments,74304.87,USA,Verified
+C101980,Retired,Investments,471696.11,India,Pending
+C101981,Retired,Salary,385902.61,India,Verified
+C101982,Consultant,Salary,192672.44,UK,Verified
+C101983,Business Owner,Business Income,76071.59,UAE,Verified
+C101984,Student,Savings,399674.83,Singapore,Verified
+C101985,Salaried,Business Income,426167.95,UAE,Verified
+C101986,Retired,Inheritance,401291.28,India,Verified
+C101987,Self-Employed,Salary,364563.01,UAE,Pending
+C101988,Salaried,Business Income,426231.64,UAE,Verified
+C101989,Self-Employed,Salary,455952.34,Singapore,Verified
+C101990,Self-Employed,Salary,37259.31,USA,Verified
+C101991,Salaried,Inheritance,416417.29,UAE,Verified
+C101992,Student,Salary,451394.08,India,Verified
+C101993,Salaried,Investments,453960.84,UK,Expired
+C101994,Retired,Business Income,338617.6,UAE,Verified
+C101995,Business Owner,Savings,38849.45,UK,Verified
+C101996,Student,Investments,425680.72,India,Verified
+C101997,Business Owner,Savings,299383.53,USA,Verified
+C101998,Salaried,Salary,323495.34,USA,Verified
+C101999,Self-Employed,Business Income,249323.25,India,Pending

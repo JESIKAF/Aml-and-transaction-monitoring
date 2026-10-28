@@ -1,0 +1,1274 @@
+alert_id,transaction_id,customer_id,alert_type,alert_date,risk_score,alert_status,investigation_result,investigator,closure_date
+AL000001,T300014,C101311,High-risk country,2025-10-30,25,Closed,False Positive,INV122,2025-10-29
+AL000002,T300016,C101425,High-value transaction,2025-06-18,20,Open,False Positive,INV128,2025-06-26
+AL000003,T300026,C100740,High-value transaction + High-risk customer,2025-10-02,30,Closed,False Positive,INV109,2025-10-09
+AL000004,T300029,C100783,High-risk country,2025-09-23,25,Open,False Positive,INV116,2025-10-04
+AL000005,T300041,C100399,High-risk country,2025-03-27,25,Closed,False Positive,INV122,2025-03-25
+AL000006,T300048,C100464,High-risk country,2025-11-15,25,Closed,No Suspicious Activity,INV113,2025-11-28
+AL000007,T300050,C100964,High-risk country,2025-09-15,25,Closed,No Suspicious Activity,INV121,2025-09-23
+AL000008,T300053,C100032,High-risk country,2025-04-20,25,Closed,False Positive,INV107,2025-05-02
+AL000009,T300069,C100844,High-risk country,2025-09-01,25,Open,False Positive,INV109,2025-09-15
+AL000010,T300072,C100552,High-risk country + High-risk customer,2025-12-28,35,Closed,No Suspicious Activity,INV101,2025-12-26
+AL000011,T300082,C100152,High-risk country,2025-02-22,25,Closed,False Positive,INV100,2025-03-03
+AL000012,T300089,C101035,High-risk country + High-risk customer,2025-08-11,35,Open,No Suspicious Activity,INV115,2025-08-15
+AL000013,T300094,C100044,High-value transaction,2025-05-05,20,Open,No Suspicious Activity,INV114,2025-05-03
+AL000014,T300155,C101807,High-risk country,2025-11-19,25,Closed,False Positive,INV103,2025-11-27
+AL000015,T300176,C101121,High-risk country,2025-05-16,25,Open,False Positive,INV106,2025-05-23
+AL000016,T300211,C100193,High-risk country,2025-05-03,25,Open,False Positive,INV127,2025-05-07
+AL000017,T300219,C100848,High-risk country,2025-10-22,25,Closed,False Positive,INV109,2025-10-28
+AL000018,T300221,C101562,High-risk country,2025-11-18,25,Closed,Suspicious Activity,INV126,2025-11-25
+AL000019,T300223,C100569,Near-threshold transaction + High-risk customer,2025-08-22,25,Closed,False Positive,INV127,2025-08-27
+AL000020,T300225,C101907,High-value transaction,2025-11-04,20,Closed,False Positive,INV126,2025-11-16
+AL000021,T300257,C101546,High-risk country,2025-11-19,25,Closed,No Suspicious Activity,INV125,2025-11-21
+AL000022,T300265,C101396,High-value transaction,2025-05-23,20,Closed,False Positive,INV102,2025-06-04
+AL000023,T300267,C101872,High-risk country,2025-11-21,25,Closed,No Suspicious Activity,INV103,2025-11-27
+AL000024,T300271,C100557,High-risk country,2025-05-30,25,Closed,False Positive,INV117,2025-06-06
+AL000025,T300300,C101947,High-risk country,2025-12-19,25,Closed,False Positive,INV120,2025-12-31
+AL000026,T300302,C101678,High-risk country,2025-10-03,25,Closed,False Positive,INV129,2025-10-14
+AL000027,T300336,C100369,Near-threshold transaction + High-risk customer,2025-12-08,25,Closed,No Suspicious Activity,INV111,2025-12-22
+AL000028,T300349,C100015,High-risk country,2025-01-21,25,Closed,Suspicious Activity,INV127,2025-01-23
+AL000029,T300351,C101925,High-risk country,2025-07-09,25,Closed,False Positive,INV129,2025-07-18
+AL000030,T300388,C101643,High-risk country,2025-03-26,25,Closed,Suspicious Activity,INV112,2025-04-07
+AL000031,T300390,C100519,High-value transaction + High-risk customer,2025-05-13,30,Open,Suspicious Activity,INV129,2025-05-15
+AL000032,T300396,C101305,High-risk country,2025-03-20,25,Closed,False Positive,INV126,2025-03-19
+AL000033,T300404,C100045,High-risk country,2025-11-22,25,Closed,False Positive,INV108,2025-11-25
+AL000034,T300412,C100654,High-risk country,2025-08-14,25,Closed,False Positive,INV122,2025-08-16
+AL000035,T300415,C100242,High-risk country,2025-06-13,25,Closed,False Positive,INV107,2025-06-22
+AL000036,T300441,C101319,High-risk country,2025-12-27,25,Closed,False Positive,INV126,2026-01-01
+AL000037,T300451,C100682,High-risk country,2025-05-07,25,Open,False Positive,INV105,2025-05-08
+AL000038,T300463,C100963,High-risk country,2025-07-10,25,Closed,No Suspicious Activity,INV105,2025-07-18
+AL000039,T300475,C100068,High-risk country,2025-01-26,25,Closed,No Suspicious Activity,INV114,2025-01-29
+AL000040,T300480,C101036,High-risk country,2025-08-29,25,Closed,False Positive,INV108,2025-09-12
+AL000041,T300493,C101087,High-value transaction,2025-09-23,20,Closed,False Positive,INV112,2025-10-01
+AL000042,T300551,C101788,High-risk country,2025-08-31,25,Closed,False Positive,INV129,2025-09-12
+AL000043,T300556,C101894,High-risk country,2025-09-28,25,Open,False Positive,INV100,2025-10-03
+AL000044,T300558,C101639,High-value transaction + High-risk customer,2025-03-22,30,Closed,False Positive,INV113,2025-04-02
+AL000045,T300568,C100662,High-risk country + High-risk customer,2025-05-24,35,Open,Suspicious Activity,INV115,2025-05-28
+AL000046,T300585,C100965,High-risk country,2025-01-08,25,Closed,False Positive,INV129,2025-01-12
+AL000047,T300606,C100665,High-risk country,2025-07-09,25,Closed,False Positive,INV129,2025-07-19
+AL000048,T300612,C101372,High-risk country,2025-10-13,25,Closed,False Positive,INV120,2025-10-14
+AL000049,T300628,C101860,Near-threshold transaction + High-risk customer,2025-11-22,25,Closed,No Suspicious Activity,INV118,2025-11-29
+AL000050,T300632,C101020,High-risk country,2025-05-23,25,Closed,False Positive,INV129,2025-06-02
+AL000051,T300656,C100995,High-value transaction,2025-10-15,20,Closed,False Positive,INV124,2025-10-25
+AL000052,T300666,C100517,High-risk country,2025-05-21,25,Closed,False Positive,INV126,2025-05-24
+AL000053,T300684,C101158,High-risk country,2025-05-17,25,Closed,False Positive,INV111,2025-05-25
+AL000054,T300717,C101355,High-value transaction,2025-07-14,20,Closed,False Positive,INV118,2025-07-20
+AL000055,T300721,C100198,High-risk country,2025-10-17,25,Closed,False Positive,INV106,2025-10-21
+AL000056,T300741,C100985,High-risk country,2025-07-24,25,Closed,False Positive,INV127,2025-07-26
+AL000057,T300749,C101785,High-value transaction,2025-10-16,20,Closed,No Suspicious Activity,INV117,2025-10-26
+AL000058,T300761,C100540,High-risk country + High-risk customer,2025-02-01,35,Closed,False Positive,INV126,2025-02-05
+AL000059,T300769,C100906,High-risk country,2025-08-24,25,Closed,No Suspicious Activity,INV118,2025-09-06
+AL000060,T300774,C101601,High-value transaction,2025-10-11,20,Open,False Positive,INV121,2025-10-17
+AL000061,T300811,C100878,High-risk country,2025-11-22,25,Open,No Suspicious Activity,INV111,2025-11-29
+AL000062,T300855,C100215,High-value transaction,2025-10-24,20,Closed,Suspicious Activity,INV120,2025-11-04
+AL000063,T300862,C101214,High-risk country,2025-12-27,25,Closed,False Positive,INV120,2026-01-04
+AL000064,T300889,C100116,High-value transaction + High-risk customer,2025-08-14,30,Closed,Suspicious Activity,INV125,2025-08-15
+AL000065,T300909,C101614,High-risk country,2025-03-22,25,Closed,False Positive,INV112,2025-04-03
+AL000066,T300912,C101582,High-risk country,2025-09-01,25,Closed,False Positive,INV122,2025-09-01
+AL000067,T300975,C100594,High-risk country,2025-02-23,25,Closed,False Positive,INV112,2025-03-02
+AL000068,T301019,C101367,High-risk country,2025-09-27,25,Closed,False Positive,INV103,2025-09-26
+AL000069,T301041,C101435,High-risk country,2025-04-06,25,Closed,False Positive,INV122,2025-04-10
+AL000070,T301047,C101478,High-value transaction,2025-12-13,20,Open,False Positive,INV101,2025-12-13
+AL000071,T301054,C100096,High-risk country + Near-threshold transaction,2025-06-18,40,Closed,False Positive,INV108,2025-06-24
+AL000072,T301063,C100328,High-value transaction,2025-06-28,20,Closed,False Positive,INV118,2025-07-11
+AL000073,T301080,C100096,High-value transaction,2025-06-15,20,Closed,No Suspicious Activity,INV118,2025-06-17
+AL000074,T301085,C101103,High-risk country,2025-08-25,25,Closed,No Suspicious Activity,INV110,2025-08-29
+AL000075,T301128,C100044,High-risk country,2025-11-07,25,Closed,False Positive,INV129,2025-11-20
+AL000076,T301142,C101227,High-risk country,2025-11-13,25,Closed,Suspicious Activity,INV108,2025-11-12
+AL000077,T301204,C100698,High-value transaction,2025-08-31,20,Open,False Positive,INV105,2025-09-03
+AL000078,T301214,C100859,High-value transaction,2025-04-29,20,Closed,No Suspicious Activity,INV100,2025-05-07
+AL000079,T301229,C100769,High-risk country,2025-11-11,25,Open,Suspicious Activity,INV112,2025-11-22
+AL000080,T301230,C101219,High-value transaction,2025-06-20,20,Closed,No Suspicious Activity,INV126,2025-06-26
+AL000081,T301241,C101144,High-risk country,2025-05-25,25,Closed,False Positive,INV108,2025-06-07
+AL000082,T301293,C101248,High-risk country,2025-06-18,25,Open,No Suspicious Activity,INV104,2025-06-30
+AL000083,T301326,C101789,High-risk country,2025-09-28,25,Closed,False Positive,INV103,2025-10-01
+AL000084,T301346,C100886,High-risk country,2025-04-19,25,Closed,Suspicious Activity,INV117,2025-04-28
+AL000085,T301352,C101818,High-value transaction,2025-10-17,20,Closed,False Positive,INV107,2025-10-29
+AL000086,T301358,C100295,High-risk country,2025-10-01,25,Closed,No Suspicious Activity,INV113,2025-10-12
+AL000087,T301436,C101934,High-risk country,2025-06-26,25,Closed,False Positive,INV118,2025-07-05
+AL000088,T301437,C100051,High-risk country,2025-03-31,25,Closed,No Suspicious Activity,INV123,2025-03-31
+AL000089,T301444,C101629,High-risk country,2025-07-29,25,Closed,False Positive,INV117,2025-07-31
+AL000090,T301446,C101896,High-risk country,2025-12-08,25,Closed,No Suspicious Activity,INV119,2025-12-16
+AL000091,T301454,C101743,High-risk country,2025-09-24,25,Closed,False Positive,INV123,2025-10-02
+AL000092,T301461,C100460,Near-threshold transaction + High-risk customer,2025-07-19,25,Closed,False Positive,INV128,2025-07-29
+AL000093,T301481,C100649,High-risk country,2025-09-10,25,Closed,Suspicious Activity,INV110,2025-09-12
+AL000094,T301502,C101761,High-risk country,2025-10-15,25,Closed,False Positive,INV122,2025-10-22
+AL000095,T301509,C100568,High-risk country,2025-02-21,25,Closed,No Suspicious Activity,INV128,2025-03-03
+AL000096,T301510,C100993,High-risk country,2025-07-21,25,Closed,No Suspicious Activity,INV105,2025-07-27
+AL000097,T301520,C100257,High-risk country,2025-09-13,25,Closed,Suspicious Activity,INV126,2025-09-15
+AL000098,T301526,C101133,High-risk country + High-risk customer,2025-01-28,35,Closed,False Positive,INV100,2025-02-01
+AL000099,T301550,C101019,High-value transaction,2025-11-14,20,Closed,False Positive,INV120,2025-11-15
+AL000100,T301558,C100892,High-value transaction,2025-07-28,20,Open,No Suspicious Activity,INV128,2025-07-30
+AL000101,T301571,C101065,High-risk country,2025-03-31,25,Closed,False Positive,INV103,2025-04-07
+AL000102,T301602,C101783,High-risk country,2025-03-14,25,Closed,False Positive,INV126,2025-03-20
+AL000103,T301607,C101745,High-risk country + High-risk customer,2025-05-14,35,Closed,No Suspicious Activity,INV119,2025-05-21
+AL000104,T301608,C100032,High-risk country,2025-06-15,25,Closed,No Suspicious Activity,INV127,2025-06-17
+AL000105,T301609,C101860,Near-threshold transaction + High-risk customer,2025-09-10,25,Open,No Suspicious Activity,INV104,2025-09-12
+AL000106,T301612,C100359,High-risk country,2025-11-15,25,Open,Suspicious Activity,INV126,2025-11-23
+AL000107,T301622,C100770,High-risk country,2025-08-27,25,Closed,False Positive,INV106,2025-08-27
+AL000108,T301641,C100995,High-risk country,2025-05-19,25,Closed,False Positive,INV104,2025-05-27
+AL000109,T301666,C100052,High-risk country,2025-12-02,25,Closed,False Positive,INV104,2025-12-01
+AL000110,T301680,C101020,High-risk country,2025-11-19,25,Closed,False Positive,INV109,2025-11-23
+AL000111,T301693,C101416,High-risk country,2025-02-08,25,Closed,No Suspicious Activity,INV115,2025-02-09
+AL000112,T301694,C101983,High-risk country,2025-01-04,25,Open,No Suspicious Activity,INV105,2025-01-12
+AL000113,T301728,C100800,High-risk country,2025-12-23,25,Closed,False Positive,INV114,2025-12-21
+AL000114,T301750,C101987,High-risk country,2025-04-22,25,Closed,No Suspicious Activity,INV127,2025-04-28
+AL000115,T301757,C100305,High-risk country,2025-08-03,25,Closed,Suspicious Activity,INV102,2025-08-17
+AL000116,T301775,C100521,High-risk country,2025-08-13,25,Closed,False Positive,INV107,2025-08-25
+AL000117,T301779,C100182,High-risk country,2025-04-02,25,Open,False Positive,INV117,2025-04-06
+AL000118,T301795,C101246,High-risk country,2025-10-30,25,Closed,Suspicious Activity,INV113,2025-11-04
+AL000119,T301796,C100545,High-value transaction,2025-02-04,20,Closed,False Positive,INV111,2025-02-06
+AL000120,T301810,C100204,High-risk country,2025-01-31,25,Closed,No Suspicious Activity,INV113,2025-02-07
+AL000121,T301818,C100682,High-risk country + Near-threshold transaction,2025-06-09,40,Closed,False Positive,INV116,2025-06-17
+AL000122,T301822,C101310,High-value transaction,2025-09-29,20,Closed,Suspicious Activity,INV117,2025-09-29
+AL000123,T301823,C101511,High-risk country + High-risk customer,2025-09-06,35,Closed,False Positive,INV100,2025-09-12
+AL000124,T301828,C100545,High-risk country,2025-10-30,25,Closed,False Positive,INV118,2025-11-09
+AL000125,T301833,C101279,High-risk country,2025-11-04,25,Open,False Positive,INV129,2025-11-09
+AL000126,T301836,C101150,High-risk country,2025-08-20,25,Closed,False Positive,INV109,2025-08-27
+AL000127,T301847,C101545,High-risk country,2025-10-22,25,Closed,No Suspicious Activity,INV106,2025-11-04
+AL000128,T301850,C101701,High-risk country,2025-03-03,25,Open,Suspicious Activity,INV103,2025-03-05
+AL000129,T301852,C101347,High-risk country,2025-07-15,25,Closed,No Suspicious Activity,INV127,2025-07-24
+AL000130,T301858,C101760,High-risk country,2025-02-18,25,Closed,False Positive,INV114,2025-02-28
+AL000131,T301866,C100013,High-value transaction,2025-02-11,20,Closed,No Suspicious Activity,INV119,2025-02-11
+AL000132,T301883,C101354,High-risk country,2025-11-01,25,Open,False Positive,INV105,2025-11-11
+AL000133,T301909,C101020,High-risk country,2025-04-05,25,Closed,False Positive,INV104,2025-04-06
+AL000134,T301917,C100038,High-risk country,2025-04-05,25,Closed,False Positive,INV113,2025-04-06
+AL000135,T301932,C101140,High-risk country + Near-threshold transaction,2025-07-11,40,Closed,Suspicious Activity,INV114,2025-07-16
+AL000136,T301956,C100913,High-risk country,2025-07-02,25,Open,Suspicious Activity,INV104,2025-07-02
+AL000137,T301998,C100898,High-risk country,2025-09-18,25,Closed,Suspicious Activity,INV111,2025-09-19
+AL000138,T302000,C101385,High-risk country,2025-11-09,25,Closed,False Positive,INV101,2025-11-18
+AL000139,T302001,C100193,High-risk country,2025-08-28,25,Closed,False Positive,INV115,2025-09-06
+AL000140,T302025,C101509,High-value transaction,2025-12-29,20,Closed,False Positive,INV106,2025-12-31
+AL000141,T302075,C101752,High-risk country,2025-04-20,25,Closed,False Positive,INV117,2025-04-21
+AL000142,T302076,C100050,High-risk country,2025-12-19,25,Closed,False Positive,INV107,2025-12-23
+AL000143,T302096,C101218,High-risk country,2025-09-19,25,Open,False Positive,INV110,2025-09-23
+AL000144,T302134,C101401,High-risk country,2025-08-04,25,Closed,Suspicious Activity,INV102,2025-08-13
+AL000145,T302145,C100182,High-risk country,2025-01-05,25,Closed,Suspicious Activity,INV113,2025-01-07
+AL000146,T302165,C100211,High-risk country,2025-02-21,25,Closed,False Positive,INV104,2025-02-22
+AL000147,T302196,C100572,High-risk country,2025-03-14,25,Closed,No Suspicious Activity,INV127,2025-03-16
+AL000148,T302222,C101612,High-risk country,2025-03-06,25,Open,False Positive,INV120,2025-03-09
+AL000149,T302266,C100464,High-risk country,2025-06-24,25,Closed,Suspicious Activity,INV116,2025-07-03
+AL000150,T302292,C101466,High-risk country,2025-01-24,25,Closed,No Suspicious Activity,INV111,2025-01-27
+AL000151,T302300,C100249,High-value transaction + High-risk customer,2025-07-27,30,Open,False Positive,INV113,2025-07-28
+AL000152,T302315,C100789,High-risk country,2025-10-05,25,Closed,False Positive,INV124,2025-10-15
+AL000153,T302321,C101387,High-risk country,2025-10-21,25,Open,Suspicious Activity,INV103,2025-10-25
+AL000154,T302322,C101225,High-risk country,2025-03-21,25,Closed,False Positive,INV110,2025-03-27
+AL000155,T302333,C101820,High-risk country,2025-08-27,25,Closed,False Positive,INV125,2025-09-09
+AL000156,T302345,C100964,High-risk country,2025-02-11,25,Open,False Positive,INV115,2025-02-12
+AL000157,T302351,C100626,High-risk country,2025-01-30,25,Closed,No Suspicious Activity,INV102,2025-02-10
+AL000158,T302361,C101274,High-risk country,2025-11-26,25,Closed,False Positive,INV126,2025-11-30
+AL000159,T302363,C101051,High-risk country,2025-04-19,25,Closed,False Positive,INV101,2025-04-27
+AL000160,T302366,C100180,High-risk country,2025-06-18,25,Closed,False Positive,INV102,2025-06-25
+AL000161,T302388,C101943,High-risk country,2025-03-12,25,Closed,False Positive,INV116,2025-03-13
+AL000162,T302406,C101185,High-risk country,2025-12-24,25,Open,False Positive,INV110,2025-12-25
+AL000163,T302424,C101274,High-value transaction,2025-09-03,20,Open,No Suspicious Activity,INV116,2025-09-06
+AL000164,T302459,C100128,High-risk country,2025-11-02,25,Closed,No Suspicious Activity,INV128,2025-11-15
+AL000165,T302487,C100402,High-value transaction,2025-08-29,20,Closed,False Positive,INV100,2025-09-01
+AL000166,T302495,C100692,High-value transaction,2025-02-04,20,Closed,No Suspicious Activity,INV105,2025-02-14
+AL000167,T302507,C101849,High-risk country,2025-12-27,25,Closed,False Positive,INV120,2026-01-08
+AL000168,T302545,C100764,High-risk country,2025-12-07,25,Closed,False Positive,INV109,2025-12-07
+AL000169,T302562,C101087,High-risk country,2025-08-27,25,Closed,False Positive,INV126,2025-08-27
+AL000170,T302569,C101614,High-risk country,2025-06-02,25,Open,Suspicious Activity,INV122,2025-06-07
+AL000171,T302577,C101120,Near-threshold transaction + High-risk customer,2025-03-16,25,Open,False Positive,INV129,2025-03-17
+AL000172,T302588,C101259,High-risk country,2025-12-24,25,Closed,Suspicious Activity,INV119,2026-01-01
+AL000173,T302597,C100413,High-risk country,2025-11-09,25,Closed,Suspicious Activity,INV107,2025-11-18
+AL000174,T302601,C100650,High-risk country,2025-11-25,25,Closed,False Positive,INV126,2025-12-04
+AL000175,T302617,C100685,High-risk country,2025-04-09,25,Closed,False Positive,INV105,2025-04-22
+AL000176,T302627,C101285,High-risk country,2025-06-10,25,Closed,False Positive,INV127,2025-06-20
+AL000177,T302663,C101226,High-risk country,2025-01-23,25,Open,No Suspicious Activity,INV111,2025-02-02
+AL000178,T302669,C101231,High-risk country + High-risk customer,2025-01-24,35,Open,False Positive,INV109,2025-01-26
+AL000179,T302701,C101193,High-risk country,2025-06-19,25,Closed,Suspicious Activity,INV118,2025-06-18
+AL000180,T302721,C100666,High-risk country,2025-02-10,25,Closed,False Positive,INV123,2025-02-15
+AL000181,T302726,C101475,High-risk country,2025-12-07,25,Closed,Suspicious Activity,INV104,2025-12-21
+AL000182,T302727,C101837,High-risk country + High-risk customer,2025-06-12,35,Closed,False Positive,INV109,2025-06-17
+AL000183,T302750,C101974,High-value transaction,2025-11-23,20,Closed,False Positive,INV104,2025-12-04
+AL000184,T302765,C101745,Near-threshold transaction + High-risk customer,2025-11-21,25,Closed,Suspicious Activity,INV104,2025-11-22
+AL000185,T302767,C101919,High-risk country,2025-09-30,25,Closed,No Suspicious Activity,INV121,2025-10-03
+AL000186,T302770,C101987,High-risk country,2025-04-07,25,Closed,False Positive,INV115,2025-04-15
+AL000187,T302771,C101736,High-risk country,2025-12-19,25,Open,False Positive,INV128,2025-12-21
+AL000188,T302796,C101799,High-risk country,2025-04-08,25,Open,Suspicious Activity,INV116,2025-04-11
+AL000189,T302802,C101180,High-value transaction,2025-07-25,20,Closed,False Positive,INV116,2025-07-31
+AL000190,T302843,C100642,High-risk country,2025-09-25,25,Open,False Positive,INV107,2025-10-01
+AL000191,T302873,C100181,High-risk country,2026-01-01,25,Closed,Suspicious Activity,INV104,2026-01-07
+AL000192,T302881,C100121,High-risk country,2025-04-23,25,Closed,False Positive,INV116,2025-04-23
+AL000193,T302883,C100915,Near-threshold transaction + High-risk customer,2025-06-17,25,Closed,False Positive,INV103,2025-06-25
+AL000194,T302903,C100440,High-value transaction,2025-03-27,20,Closed,False Positive,INV118,2025-04-02
+AL000195,T302918,C101943,High-risk country,2025-05-22,25,Closed,No Suspicious Activity,INV110,2025-05-20
+AL000196,T302919,C100949,High-risk country,2025-08-20,25,Closed,Suspicious Activity,INV101,2025-08-25
+AL000197,T302924,C100340,High-risk country,2025-10-25,25,Closed,False Positive,INV126,2025-10-31
+AL000198,T302950,C101525,High-risk country,2025-04-27,25,Closed,False Positive,INV123,2025-05-03
+AL000199,T302964,C101416,High-risk country + Near-threshold transaction,2025-03-30,40,Closed,Suspicious Activity,INV117,2025-04-03
+AL000200,T302971,C101354,High-risk country,2025-04-20,25,Closed,False Positive,INV112,2025-04-25
+AL000201,T303016,C100393,High-risk country,2025-08-30,25,Closed,No Suspicious Activity,INV113,2025-09-08
+AL000202,T303029,C101570,High-risk country,2025-12-01,25,Closed,False Positive,INV112,2025-12-15
+AL000203,T303049,C100618,Near-threshold transaction + High-risk customer,2025-08-03,25,Closed,False Positive,INV115,2025-08-05
+AL000204,T303053,C101553,High-risk country,2025-04-16,25,Closed,No Suspicious Activity,INV101,2025-04-23
+AL000205,T303064,C100667,High-value transaction,2025-04-23,20,Closed,False Positive,INV103,2025-04-29
+AL000206,T303065,C101107,High-risk country,2025-03-21,25,Open,No Suspicious Activity,INV108,2025-04-02
+AL000207,T303068,C100346,High-risk country,2025-09-20,25,Closed,False Positive,INV106,2025-09-29
+AL000208,T303096,C101599,High-risk country,2025-02-27,25,Closed,No Suspicious Activity,INV125,2025-03-05
+AL000209,T303102,C100430,High-value transaction,2025-07-01,20,Closed,No Suspicious Activity,INV116,2025-07-09
+AL000210,T303121,C100704,High-risk country,2025-04-22,25,Closed,Suspicious Activity,INV120,2025-05-01
+AL000211,T303130,C100422,High-risk country,2025-08-08,25,Open,Suspicious Activity,INV115,2025-08-15
+AL000212,T303156,C101528,High-risk country,2025-11-09,25,Closed,No Suspicious Activity,INV116,2025-11-12
+AL000213,T303160,C100455,High-risk country,2025-09-16,25,Closed,False Positive,INV121,2025-09-29
+AL000214,T303162,C101246,High-risk country,2025-08-17,25,Open,Suspicious Activity,INV101,2025-08-28
+AL000215,T303198,C101562,High-risk country,2025-09-13,25,Closed,False Positive,INV118,2025-09-22
+AL000216,T303212,C101036,High-risk country,2025-11-08,25,Open,False Positive,INV127,2025-11-17
+AL000217,T303221,C101246,High-risk country,2025-05-30,25,Closed,Suspicious Activity,INV117,2025-06-03
+AL000218,T303238,C101936,High-risk country,2025-01-17,25,Closed,False Positive,INV103,2025-01-27
+AL000219,T303250,C100874,Near-threshold transaction + High-risk customer,2025-12-27,25,Closed,No Suspicious Activity,INV105,2025-12-29
+AL000220,T303280,C101393,High-risk country,2025-11-25,25,Closed,Suspicious Activity,INV101,2025-12-02
+AL000221,T303321,C100183,High-value transaction,2025-12-11,20,Open,False Positive,INV104,2025-12-17
+AL000222,T303325,C100506,High-risk country,2025-04-08,25,Closed,Suspicious Activity,INV118,2025-04-18
+AL000223,T303336,C101756,Near-threshold transaction + High-risk customer,2025-05-16,25,Closed,False Positive,INV104,2025-05-25
+AL000224,T303352,C100110,High-risk country,2025-12-13,25,Closed,No Suspicious Activity,INV123,2025-12-21
+AL000225,T303356,C101319,High-risk country,2025-04-14,25,Closed,False Positive,INV101,2025-04-27
+AL000226,T303410,C101895,High-value transaction,2025-11-07,20,Open,False Positive,INV112,2025-11-17
+AL000227,T303413,C100837,High-risk country,2025-05-06,25,Closed,Suspicious Activity,INV104,2025-05-16
+AL000228,T303415,C101257,High-value transaction,2025-04-27,20,Closed,False Positive,INV103,2025-05-04
+AL000229,T303423,C101112,High-risk country,2025-01-21,25,Closed,False Positive,INV105,2025-02-02
+AL000230,T303436,C100351,High-risk country,2025-01-22,25,Open,False Positive,INV100,2025-01-26
+AL000231,T303437,C100995,High-risk country,2025-08-12,25,Closed,No Suspicious Activity,INV119,2025-08-14
+AL000232,T303438,C100016,High-risk country,2025-11-19,25,Closed,False Positive,INV123,2025-11-26
+AL000233,T303447,C101203,High-value transaction,2025-12-03,20,Closed,False Positive,INV115,2025-12-12
+AL000234,T303450,C100060,High-risk country,2025-03-26,25,Closed,False Positive,INV109,2025-04-05
+AL000235,T303456,C100232,High-risk country,2025-11-08,25,Closed,Suspicious Activity,INV124,2025-11-21
+AL000236,T303464,C100238,High-risk country,2025-06-04,25,Closed,Suspicious Activity,INV101,2025-06-12
+AL000237,T303469,C100130,High-risk country,2025-06-24,25,Closed,Suspicious Activity,INV118,2025-06-26
+AL000238,T303474,C101050,High-value transaction,2025-08-20,20,Open,False Positive,INV102,2025-08-28
+AL000239,T303513,C100057,High-value transaction,2025-10-22,20,Closed,False Positive,INV116,2025-10-31
+AL000240,T303540,C100516,High-risk country,2025-03-04,25,Closed,Suspicious Activity,INV125,2025-03-10
+AL000241,T303544,C101219,High-risk country,2025-12-08,25,Open,False Positive,INV102,2025-12-10
+AL000242,T303546,C100999,High-risk country + High-risk customer,2025-01-16,35,Open,No Suspicious Activity,INV124,2025-01-15
+AL000243,T303560,C100953,High-risk country,2025-11-22,25,Closed,False Positive,INV105,2025-12-02
+AL000244,T303566,C100112,High-risk country,2025-10-20,25,Closed,No Suspicious Activity,INV119,2025-10-30
+AL000245,T303622,C101548,High-risk country,2025-07-22,25,Closed,False Positive,INV127,2025-07-29
+AL000246,T303629,C101625,High-value transaction,2025-06-22,20,Closed,No Suspicious Activity,INV117,2025-06-30
+AL000247,T303632,C100598,High-value transaction,2025-06-16,20,Closed,False Positive,INV105,2025-06-24
+AL000248,T303638,C100635,High-risk country,2025-08-27,25,Closed,No Suspicious Activity,INV112,2025-09-04
+AL000249,T303644,C100215,High-value transaction,2025-12-18,20,Closed,No Suspicious Activity,INV112,2025-12-23
+AL000250,T303649,C100429,High-risk country,2025-07-06,25,Closed,Suspicious Activity,INV126,2025-07-09
+AL000251,T303654,C101582,High-risk country,2025-11-13,25,Closed,False Positive,INV101,2025-11-17
+AL000252,T303661,C101771,High-value transaction + High-risk country,2025-06-15,45,Closed,False Positive,INV103,2025-06-24
+AL000253,T303667,C100653,High-risk country,2025-02-02,25,Closed,No Suspicious Activity,INV113,2025-02-12
+AL000254,T303672,C101179,High-value transaction,2025-07-17,20,Closed,No Suspicious Activity,INV106,2025-07-28
+AL000255,T303678,C100090,High-risk country,2025-01-22,25,Closed,False Positive,INV118,2025-01-22
+AL000256,T303689,C100889,High-risk country,2025-07-15,25,Closed,False Positive,INV126,2025-07-15
+AL000257,T303724,C101027,High-risk country,2025-12-19,25,Closed,False Positive,INV102,2025-12-19
+AL000258,T303736,C100364,High-risk country,2025-10-19,25,Closed,Suspicious Activity,INV119,2025-10-25
+AL000259,T303763,C101936,High-risk country,2025-03-05,25,Open,False Positive,INV105,2025-03-09
+AL000260,T303806,C101358,High-risk country,2025-03-05,25,Closed,False Positive,INV108,2025-03-13
+AL000261,T303816,C100345,High-risk country,2025-01-29,25,Open,False Positive,INV123,2025-01-31
+AL000262,T303829,C100083,Near-threshold transaction + High-risk customer,2025-02-11,25,Closed,False Positive,INV114,2025-02-12
+AL000263,T303839,C101996,High-value transaction,2025-12-05,20,Closed,False Positive,INV122,2025-12-13
+AL000264,T303856,C101229,High-risk country,2025-01-29,25,Open,No Suspicious Activity,INV126,2025-01-29
+AL000265,T303862,C101962,High-risk country,2025-11-01,25,Closed,False Positive,INV118,2025-11-07
+AL000266,T303886,C100419,High-value transaction,2025-08-08,20,Closed,False Positive,INV117,2025-08-17
+AL000267,T303901,C100070,High-risk country,2025-05-15,25,Open,False Positive,INV122,2025-05-16
+AL000268,T303946,C101666,High-value transaction,2025-02-09,20,Closed,False Positive,INV107,2025-02-17
+AL000269,T303948,C100952,High-risk country,2025-04-10,25,Closed,False Positive,INV123,2025-04-19
+AL000270,T303956,C100661,High-value transaction + High-risk country,2025-09-12,45,Open,Suspicious Activity,INV113,2025-09-25
+AL000271,T303963,C100123,High-value transaction,2025-11-04,20,Closed,False Positive,INV125,2025-11-07
+AL000272,T303968,C101228,High-risk country,2025-11-05,25,Closed,False Positive,INV126,2025-11-09
+AL000273,T303988,C100894,High-risk country,2025-02-02,25,Open,No Suspicious Activity,INV112,2025-02-05
+AL000274,T303996,C100807,High-risk country,2025-01-20,25,Closed,False Positive,INV128,2025-01-21
+AL000275,T304000,C101341,High-risk country,2025-08-20,25,Closed,False Positive,INV127,2025-08-31
+AL000276,T304003,C100678,High-risk country,2025-05-14,25,Closed,False Positive,INV102,2025-05-14
+AL000277,T304016,C101639,High-risk country + High-risk customer,2025-04-08,35,Closed,False Positive,INV118,2025-04-14
+AL000278,T304061,C100335,High-risk country + High-risk customer,2025-07-19,35,Closed,Suspicious Activity,INV101,2025-07-28
+AL000279,T304093,C101475,High-risk country + Near-threshold transaction,2025-04-26,40,Closed,Suspicious Activity,INV103,2025-05-04
+AL000280,T304103,C100592,High-risk country + Near-threshold transaction,2025-04-18,40,Closed,No Suspicious Activity,INV108,2025-04-27
+AL000281,T304106,C101655,High-value transaction,2025-05-24,20,Closed,False Positive,INV109,2025-05-31
+AL000282,T304108,C100811,High-risk country,2025-10-29,25,Closed,False Positive,INV104,2025-11-05
+AL000283,T304123,C101064,High-risk country,2025-11-02,25,Closed,False Positive,INV111,2025-11-12
+AL000284,T304126,C100107,High-value transaction + High-risk customer,2025-11-18,30,Closed,No Suspicious Activity,INV102,2025-11-22
+AL000285,T304138,C100269,High-risk country,2025-03-31,25,Closed,False Positive,INV101,2025-04-04
+AL000286,T304157,C101422,High-risk country,2025-11-11,25,Closed,No Suspicious Activity,INV107,2025-11-21
+AL000287,T304159,C101785,High-risk country,2025-12-06,25,Closed,Suspicious Activity,INV126,2025-12-15
+AL000288,T304160,C100622,High-value transaction + High-risk customer,2025-07-05,30,Closed,No Suspicious Activity,INV100,2025-07-17
+AL000289,T304168,C100368,High-risk country,2025-07-26,25,Closed,No Suspicious Activity,INV122,2025-07-28
+AL000290,T304186,C100721,High-risk country,2025-03-04,25,Open,Suspicious Activity,INV106,2025-03-17
+AL000291,T304193,C100977,High-risk country,2025-03-29,25,Closed,False Positive,INV126,2025-04-11
+AL000292,T304236,C101968,High-risk country,2025-05-19,25,Closed,No Suspicious Activity,INV119,2025-05-24
+AL000293,T304246,C101646,High-risk country,2025-08-16,25,Closed,False Positive,INV110,2025-08-27
+AL000294,T304249,C100579,High-value transaction,2025-11-24,20,Open,No Suspicious Activity,INV103,2025-12-02
+AL000295,T304265,C100966,High-value transaction,2025-04-18,20,Closed,Suspicious Activity,INV123,2025-04-18
+AL000296,T304266,C101753,High-risk country,2025-07-09,25,Closed,False Positive,INV118,2025-07-19
+AL000297,T304268,C100677,High-risk country,2025-05-12,25,Closed,False Positive,INV117,2025-05-15
+AL000298,T304295,C100784,High-risk country + High-risk customer,2025-01-06,35,Closed,False Positive,INV104,2025-01-17
+AL000299,T304323,C101707,High-value transaction,2025-12-28,20,Closed,False Positive,INV103,2025-12-29
+AL000300,T304353,C100763,High-risk country,2025-01-15,25,Closed,No Suspicious Activity,INV111,2025-01-14
+AL000301,T304358,C101306,High-risk country,2025-06-20,25,Closed,False Positive,INV109,2025-06-30
+AL000302,T304385,C101308,High-risk country,2025-10-22,25,Closed,False Positive,INV129,2025-10-29
+AL000303,T304388,C100161,High-risk country,2025-10-01,25,Open,No Suspicious Activity,INV122,2025-10-12
+AL000304,T304415,C100376,High-risk country,2025-10-08,25,Closed,Suspicious Activity,INV105,2025-10-16
+AL000305,T304420,C101022,High-risk country + High-risk customer,2025-11-06,35,Open,No Suspicious Activity,INV126,2025-11-05
+AL000306,T304433,C100915,High-risk country + Near-threshold transaction + High-risk customer,2025-05-30,50,Closed,False Positive,INV128,2025-06-09
+AL000307,T304447,C101407,High-risk country,2025-08-20,25,Closed,False Positive,INV108,2025-08-23
+AL000308,T304454,C100842,High-value transaction,2025-08-15,20,Open,No Suspicious Activity,INV111,2025-08-23
+AL000309,T304456,C101416,High-risk country,2025-01-26,25,Closed,Suspicious Activity,INV120,2025-01-28
+AL000310,T304458,C101335,High-risk country,2025-07-25,25,Closed,False Positive,INV125,2025-08-05
+AL000311,T304478,C100742,High-risk country + Near-threshold transaction,2025-03-03,40,Open,No Suspicious Activity,INV112,2025-03-06
+AL000312,T304485,C101991,High-risk country,2025-08-24,25,Closed,No Suspicious Activity,INV122,2025-09-03
+AL000313,T304501,C100487,High-risk country,2025-05-18,25,Closed,False Positive,INV112,2025-05-21
+AL000314,T304510,C101562,High-risk country,2025-12-04,25,Open,False Positive,INV101,2025-12-11
+AL000315,T304524,C101041,High-risk country,2025-01-24,25,Open,False Positive,INV105,2025-01-26
+AL000316,T304610,C101566,High-risk country,2025-11-26,25,Closed,False Positive,INV121,2025-12-01
+AL000317,T304650,C101288,High-risk country,2025-10-28,25,Closed,False Positive,INV119,2025-11-05
+AL000318,T304653,C100401,High-risk country,2025-01-24,25,Closed,False Positive,INV124,2025-01-24
+AL000319,T304724,C101407,High-risk country,2025-06-26,25,Closed,Suspicious Activity,INV106,2025-06-26
+AL000320,T304756,C101655,High-risk country,2025-08-13,25,Closed,False Positive,INV101,2025-08-25
+AL000321,T304776,C100423,High-risk country,2025-12-11,25,Closed,No Suspicious Activity,INV112,2025-12-11
+AL000322,T304780,C101311,High-risk country,2025-07-23,25,Closed,False Positive,INV122,2025-07-25
+AL000323,T304809,C101557,High-risk country + High-risk customer,2025-01-06,35,Closed,No Suspicious Activity,INV122,2025-01-11
+AL000324,T304822,C100678,High-risk country,2025-11-10,25,Closed,False Positive,INV129,2025-11-19
+AL000325,T304826,C101574,High-risk country + Near-threshold transaction,2025-08-16,40,Closed,False Positive,INV123,2025-08-18
+AL000326,T304831,C100337,High-risk country + High-risk customer,2025-01-08,35,Open,False Positive,INV103,2025-01-12
+AL000327,T304841,C100771,High-risk country,2025-01-22,25,Closed,Suspicious Activity,INV117,2025-02-02
+AL000328,T304845,C101792,High-risk country,2025-01-27,25,Closed,False Positive,INV124,2025-02-07
+AL000329,T304866,C101728,High-risk country + Near-threshold transaction,2025-03-21,40,Closed,Suspicious Activity,INV109,2025-03-28
+AL000330,T304869,C101706,High-risk country,2025-05-05,25,Closed,False Positive,INV109,2025-05-14
+AL000331,T304876,C101678,High-risk country,2025-02-25,25,Closed,No Suspicious Activity,INV112,2025-02-25
+AL000332,T304882,C101205,High-risk country,2025-05-03,25,Closed,False Positive,INV127,2025-05-07
+AL000333,T304891,C101751,High-value transaction,2025-06-15,20,Open,No Suspicious Activity,INV106,2025-06-18
+AL000334,T304909,C100906,High-risk country,2025-01-16,25,Closed,False Positive,INV119,2025-01-22
+AL000335,T304914,C100507,High-risk country,2025-11-17,25,Closed,False Positive,INV106,2025-11-15
+AL000336,T304930,C101571,High-risk country + High-risk customer,2025-12-23,35,Closed,Suspicious Activity,INV119,2025-12-25
+AL000337,T304944,C100377,High-risk country,2025-03-31,25,Open,No Suspicious Activity,INV117,2025-04-10
+AL000338,T304948,C101771,High-risk country,2025-01-27,25,Open,Suspicious Activity,INV118,2025-02-04
+AL000339,T305001,C101921,High-risk country,2025-11-27,25,Closed,False Positive,INV110,2025-12-05
+AL000340,T305041,C101410,High-risk country,2025-06-10,25,Closed,Suspicious Activity,INV123,2025-06-22
+AL000341,T305094,C100634,High-risk country,2025-04-04,25,Closed,Suspicious Activity,INV119,2025-04-10
+AL000342,T305099,C101103,High-risk country,2025-04-18,25,Open,False Positive,INV118,2025-04-28
+AL000343,T305122,C100818,High-value transaction,2025-03-13,20,Closed,False Positive,INV115,2025-03-26
+AL000344,T305141,C100212,High-risk country,2025-03-27,25,Closed,False Positive,INV128,2025-04-02
+AL000345,T305164,C100812,High-value transaction + High-risk country,2025-05-31,45,Open,Suspicious Activity,INV117,2025-06-09
+AL000346,T305208,C101933,High-risk country,2025-06-03,25,Closed,Suspicious Activity,INV104,2025-06-15
+AL000347,T305228,C100044,High-risk country,2025-01-15,25,Closed,Suspicious Activity,INV115,2025-01-26
+AL000348,T305242,C101103,High-value transaction,2025-09-23,20,Closed,No Suspicious Activity,INV116,2025-09-30
+AL000349,T305266,C101666,High-risk country,2025-08-19,25,Open,No Suspicious Activity,INV101,2025-08-18
+AL000350,T305269,C101085,Near-threshold transaction + High-risk customer,2025-12-09,25,Closed,False Positive,INV129,2025-12-20
+AL000351,T305274,C100489,High-value transaction,2025-05-16,20,Closed,Suspicious Activity,INV128,2025-05-16
+AL000352,T305283,C101222,High-risk country + Near-threshold transaction,2025-12-01,40,Closed,No Suspicious Activity,INV100,2025-12-01
+AL000353,T305284,C100977,High-risk country,2025-11-20,25,Closed,False Positive,INV126,2025-12-02
+AL000354,T305329,C100123,High-risk country,2025-06-01,25,Closed,No Suspicious Activity,INV113,2025-06-09
+AL000355,T305337,C100666,High-risk country,2025-09-10,25,Closed,False Positive,INV126,2025-09-21
+AL000356,T305338,C100062,High-risk country,2025-10-09,25,Open,Suspicious Activity,INV121,2025-10-17
+AL000357,T305347,C101026,High-risk country,2025-01-16,25,Closed,Suspicious Activity,INV104,2025-01-23
+AL000358,T305362,C101115,High-risk country,2025-09-06,25,Closed,No Suspicious Activity,INV122,2025-09-14
+AL000359,T305374,C100048,High-risk country + High-risk customer,2025-08-17,35,Closed,No Suspicious Activity,INV100,2025-08-28
+AL000360,T305407,C101180,High-risk country,2025-07-09,25,Closed,Suspicious Activity,INV102,2025-07-17
+AL000361,T305418,C100869,High-risk country + High-risk customer,2025-04-27,35,Closed,False Positive,INV121,2025-05-07
+AL000362,T305465,C101216,High-risk country,2025-08-24,25,Open,False Positive,INV116,2025-08-30
+AL000363,T305538,C100829,High-risk country,2025-01-17,25,Closed,False Positive,INV114,2025-01-28
+AL000364,T305590,C100725,Near-threshold transaction + High-risk customer,2025-10-09,25,Closed,False Positive,INV111,2025-10-12
+AL000365,T305616,C101074,Near-threshold transaction + High-risk customer,2025-03-10,25,Closed,Suspicious Activity,INV111,2025-03-17
+AL000366,T305622,C101274,High-risk country,2025-01-17,25,Open,No Suspicious Activity,INV110,2025-01-17
+AL000367,T305631,C101495,High-risk country,2025-08-20,25,Closed,False Positive,INV106,2025-08-31
+AL000368,T305641,C101991,High-value transaction,2025-10-03,20,Closed,False Positive,INV107,2025-10-11
+AL000369,T305647,C101243,High-value transaction + High-risk country,2025-02-15,45,Closed,False Positive,INV118,2025-02-26
+AL000370,T305666,C101959,High-risk country,2025-04-06,25,Closed,No Suspicious Activity,INV125,2025-04-16
+AL000371,T305672,C100297,High-risk country,2025-11-12,25,Closed,False Positive,INV124,2025-11-23
+AL000372,T305682,C101891,High-risk country,2025-03-14,25,Closed,No Suspicious Activity,INV123,2025-03-26
+AL000373,T305695,C101599,High-risk country,2025-03-14,25,Closed,Suspicious Activity,INV118,2025-03-13
+AL000374,T305698,C101528,High-risk country,2025-02-24,25,Closed,No Suspicious Activity,INV117,2025-03-08
+AL000375,T305703,C100616,High-risk country,2025-10-16,25,Open,False Positive,INV125,2025-10-28
+AL000376,T305711,C100904,High-risk country,2025-06-19,25,Closed,No Suspicious Activity,INV111,2025-06-23
+AL000377,T305712,C100048,High-risk country + High-risk customer,2025-03-16,35,Open,False Positive,INV128,2025-03-21
+AL000378,T305718,C101335,High-risk country,2025-04-04,25,Closed,Suspicious Activity,INV113,2025-04-14
+AL000379,T305720,C100800,High-risk country,2025-04-09,25,Open,False Positive,INV101,2025-04-16
+AL000380,T305728,C101736,High-risk country,2025-11-30,25,Closed,False Positive,INV105,2025-12-10
+AL000381,T305735,C100593,High-value transaction,2025-10-14,20,Closed,Suspicious Activity,INV124,2025-10-27
+AL000382,T305757,C101817,High-risk country,2025-10-21,25,Closed,No Suspicious Activity,INV103,2025-10-29
+AL000383,T305783,C101275,High-risk country,2025-05-24,25,Closed,Suspicious Activity,INV101,2025-06-03
+AL000384,T305814,C101206,High-risk country,2025-07-01,25,Closed,False Positive,INV128,2025-07-04
+AL000385,T305821,C101722,High-risk country,2025-04-09,25,Open,False Positive,INV126,2025-04-12
+AL000386,T305823,C100123,High-risk country,2025-06-20,25,Closed,Suspicious Activity,INV110,2025-06-22
+AL000387,T305864,C100418,High-risk country,2025-05-19,25,Closed,False Positive,INV111,2025-05-25
+AL000388,T305867,C100742,High-risk country,2025-09-25,25,Closed,False Positive,INV121,2025-09-26
+AL000389,T305904,C101379,High-value transaction,2025-05-16,20,Open,No Suspicious Activity,INV111,2025-05-16
+AL000390,T305909,C100663,High-risk country,2025-06-13,25,Closed,False Positive,INV101,2025-06-18
+AL000391,T305927,C100447,High-risk country,2025-08-26,25,Closed,False Positive,INV123,2025-08-28
+AL000392,T305950,C100682,High-risk country,2025-10-02,25,Closed,False Positive,INV127,2025-10-04
+AL000393,T305952,C101594,High-risk country,2025-02-23,25,Closed,No Suspicious Activity,INV118,2025-02-22
+AL000394,T305964,C100526,Near-threshold transaction + High-risk customer,2025-11-08,25,Closed,False Positive,INV120,2025-11-09
+AL000395,T306011,C100609,High-risk country,2025-01-24,25,Closed,False Positive,INV129,2025-02-02
+AL000396,T306014,C101528,High-risk country,2025-06-25,25,Closed,False Positive,INV127,2025-07-05
+AL000397,T306035,C100144,High-risk country,2025-02-15,25,Closed,False Positive,INV105,2025-02-23
+AL000398,T306036,C100608,High-value transaction + High-risk customer,2025-12-11,30,Closed,False Positive,INV121,2025-12-09
+AL000399,T306044,C101045,High-risk country,2025-06-05,25,Open,False Positive,INV125,2025-06-13
+AL000400,T306080,C100472,High-risk country,2025-09-27,25,Closed,False Positive,INV115,2025-10-03
+AL000401,T306127,C101056,High-risk country,2025-01-24,25,Closed,No Suspicious Activity,INV126,2025-02-02
+AL000402,T306132,C100695,High-value transaction,2025-06-24,20,Closed,False Positive,INV126,2025-06-30
+AL000403,T306141,C101135,Near-threshold transaction + High-risk customer,2025-05-28,25,Closed,False Positive,INV105,2025-06-05
+AL000404,T306153,C100782,High-risk country + Near-threshold transaction,2025-09-16,40,Closed,False Positive,INV120,2025-09-28
+AL000405,T306165,C101562,High-risk country,2025-07-11,25,Closed,False Positive,INV112,2025-07-10
+AL000406,T306186,C101979,High-risk country,2025-04-29,25,Closed,False Positive,INV124,2025-05-02
+AL000407,T306199,C100524,High-risk country,2025-09-20,25,Closed,False Positive,INV101,2025-10-01
+AL000408,T306209,C100246,High-value transaction,2025-06-07,20,Closed,No Suspicious Activity,INV118,2025-06-14
+AL000409,T306222,C100354,High-risk country,2025-09-05,25,Closed,False Positive,INV112,2025-09-16
+AL000410,T306229,C101412,High-risk country + Near-threshold transaction,2025-11-21,40,Closed,False Positive,INV104,2025-11-30
+AL000411,T306263,C100987,High-risk country + High-risk customer,2025-10-25,35,Closed,Suspicious Activity,INV127,2025-10-23
+AL000412,T306296,C101906,High-risk country,2025-12-01,25,Open,False Positive,INV119,2025-12-04
+AL000413,T306297,C101182,High-risk country,2025-10-27,25,Closed,No Suspicious Activity,INV128,2025-10-29
+AL000414,T306325,C100032,High-risk country,2025-01-27,25,Closed,False Positive,INV106,2025-01-29
+AL000415,T306343,C101801,High-risk country,2025-09-22,25,Closed,No Suspicious Activity,INV111,2025-09-26
+AL000416,T306344,C101846,High-risk country,2025-08-22,25,Open,False Positive,INV126,2025-08-26
+AL000417,T306356,C100513,High-risk country,2025-11-05,25,Closed,False Positive,INV121,2025-11-07
+AL000418,T306405,C100181,High-risk country,2025-11-19,25,Closed,False Positive,INV117,2025-11-24
+AL000419,T306424,C101999,High-value transaction + High-risk country,2025-05-28,45,Closed,False Positive,INV106,2025-06-05
+AL000420,T306427,C101007,High-risk country,2025-05-11,25,Closed,False Positive,INV128,2025-05-18
+AL000421,T306435,C100625,High-risk country + Near-threshold transaction,2025-12-12,40,Closed,False Positive,INV122,2025-12-13
+AL000422,T306436,C101708,High-risk country,2025-05-10,25,Open,False Positive,INV100,2025-05-22
+AL000423,T306437,C100650,High-risk country,2025-06-30,25,Open,False Positive,INV108,2025-07-07
+AL000424,T306448,C100338,High-risk country,2025-08-07,25,Closed,Suspicious Activity,INV102,2025-08-11
+AL000425,T306453,C101135,Near-threshold transaction + High-risk customer,2025-11-01,25,Closed,Suspicious Activity,INV108,2025-11-09
+AL000426,T306488,C100915,Near-threshold transaction + High-risk customer,2025-07-22,25,Closed,False Positive,INV102,2025-07-28
+AL000427,T306492,C100321,High-risk country,2025-12-27,25,Closed,Suspicious Activity,INV113,2025-12-29
+AL000428,T306507,C100084,High-risk country,2025-03-04,25,Closed,False Positive,INV107,2025-03-14
+AL000429,T306524,C101873,High-risk country,2025-09-19,25,Closed,No Suspicious Activity,INV119,2025-09-20
+AL000430,T306530,C100283,Near-threshold transaction + High-risk customer,2025-11-09,25,Open,False Positive,INV103,2025-11-14
+AL000431,T306623,C101444,High-risk country,2025-09-09,25,Closed,Suspicious Activity,INV119,2025-09-09
+AL000432,T306641,C100279,High-risk country + High-risk customer,2025-07-05,35,Open,False Positive,INV120,2025-07-06
+AL000433,T306667,C101408,High-value transaction,2025-01-13,20,Closed,No Suspicious Activity,INV119,2025-01-22
+AL000434,T306727,C101285,High-risk country + Near-threshold transaction,2025-07-31,40,Open,No Suspicious Activity,INV115,2025-08-05
+AL000435,T306736,C101281,High-risk country,2025-05-03,25,Open,False Positive,INV116,2025-05-14
+AL000436,T306752,C100045,High-risk country,2025-05-26,25,Closed,No Suspicious Activity,INV114,2025-06-04
+AL000437,T306759,C101000,High-value transaction,2025-12-20,20,Open,False Positive,INV103,2025-12-29
+AL000438,T306781,C100832,High-risk country,2025-02-12,25,Closed,No Suspicious Activity,INV116,2025-02-13
+AL000439,T306789,C100585,High-risk country,2025-10-01,25,Closed,No Suspicious Activity,INV105,2025-10-07
+AL000440,T306809,C100048,High-value transaction + High-risk customer,2025-08-28,30,Closed,False Positive,INV101,2025-08-30
+AL000441,T306810,C100747,High-risk country,2025-12-20,25,Closed,False Positive,INV112,2025-12-30
+AL000442,T306816,C101876,High-risk country,2025-04-08,25,Closed,False Positive,INV122,2025-04-18
+AL000443,T306836,C100759,Near-threshold transaction + High-risk customer,2025-05-11,25,Closed,Suspicious Activity,INV125,2025-05-20
+AL000444,T306864,C100123,High-risk country,2025-05-15,25,Closed,False Positive,INV114,2025-05-17
+AL000445,T306940,C100267,High-risk country,2025-09-27,25,Closed,Suspicious Activity,INV128,2025-10-06
+AL000446,T306941,C101567,High-risk country,2025-01-24,25,Closed,False Positive,INV129,2025-02-02
+AL000447,T306944,C100569,Near-threshold transaction + High-risk customer,2025-12-15,25,Closed,No Suspicious Activity,INV119,2025-12-20
+AL000448,T306963,C101810,High-risk country + High-risk customer,2025-11-03,35,Closed,Suspicious Activity,INV116,2025-11-06
+AL000449,T306988,C100926,High-risk country,2025-10-27,25,Closed,No Suspicious Activity,INV106,2025-11-04
+AL000450,T307008,C101458,High-risk country,2025-11-30,25,Closed,False Positive,INV101,2025-12-03
+AL000451,T307046,C100669,High-risk country,2025-02-13,25,Closed,False Positive,INV116,2025-02-23
+AL000452,T307052,C101518,High-risk country + Near-threshold transaction,2025-12-31,40,Closed,False Positive,INV119,2026-01-12
+AL000453,T307058,C101361,High-value transaction,2025-10-24,20,Closed,Suspicious Activity,INV114,2025-10-28
+AL000454,T307059,C101158,High-risk country,2025-05-10,25,Closed,Suspicious Activity,INV129,2025-05-22
+AL000455,T307067,C100965,High-risk country,2026-01-02,25,Closed,Suspicious Activity,INV110,2026-01-11
+AL000456,T307080,C101989,High-risk country,2025-12-31,25,Open,False Positive,INV124,2025-12-30
+AL000457,T307081,C101498,High-value transaction,2025-04-04,20,Closed,False Positive,INV100,2025-04-12
+AL000458,T307142,C100019,High-risk country,2025-04-27,25,Closed,No Suspicious Activity,INV119,2025-05-09
+AL000459,T307247,C100513,High-risk country,2025-05-08,25,Closed,False Positive,INV124,2025-05-20
+AL000460,T307256,C101546,High-risk country,2025-11-06,25,Closed,False Positive,INV101,2025-11-10
+AL000461,T307294,C100078,High-risk country,2025-08-07,25,Closed,False Positive,INV116,2025-08-16
+AL000462,T307295,C101250,High-risk country,2025-12-24,25,Closed,False Positive,INV105,2025-12-29
+AL000463,T307324,C101457,High-risk country,2025-11-15,25,Open,False Positive,INV116,2025-11-25
+AL000464,T307333,C100635,High-value transaction,2025-08-30,20,Closed,Suspicious Activity,INV124,2025-08-29
+AL000465,T307338,C100229,High-risk country,2025-07-09,25,Open,False Positive,INV103,2025-07-12
+AL000466,T307390,C100249,Near-threshold transaction + High-risk customer,2025-08-21,25,Open,Suspicious Activity,INV119,2025-09-03
+AL000467,T307399,C100282,High-risk country,2025-09-24,25,Closed,False Positive,INV115,2025-09-27
+AL000468,T307401,C100528,High-risk country,2025-02-04,25,Closed,False Positive,INV128,2025-02-13
+AL000469,T307420,C101028,High-risk country,2025-03-20,25,Open,False Positive,INV100,2025-03-28
+AL000470,T307423,C101305,High-risk country,2025-11-25,25,Closed,Suspicious Activity,INV129,2025-11-26
+AL000471,T307438,C100521,High-risk country,2025-08-23,25,Closed,False Positive,INV114,2025-08-30
+AL000472,T307476,C100786,High-risk country,2025-08-07,25,Closed,False Positive,INV112,2025-08-11
+AL000473,T307478,C100123,High-risk country,2025-01-05,25,Closed,No Suspicious Activity,INV113,2025-01-09
+AL000474,T307479,C101641,High-risk country,2025-09-13,25,Closed,False Positive,INV121,2025-09-12
+AL000475,T307495,C101125,High-risk country,2025-10-21,25,Closed,No Suspicious Activity,INV119,2025-10-31
+AL000476,T307500,C101317,High-risk country,2025-10-07,25,Closed,False Positive,INV117,2025-10-16
+AL000477,T307502,C100695,High-value transaction,2025-05-04,20,Closed,False Positive,INV118,2025-05-04
+AL000478,T307529,C101814,High-risk country,2025-12-28,25,Closed,No Suspicious Activity,INV129,2026-01-03
+AL000479,T307591,C101014,Near-threshold transaction + High-risk customer,2025-07-03,25,Closed,False Positive,INV103,2025-07-03
+AL000480,T307631,C100434,High-risk country,2025-12-30,25,Closed,Suspicious Activity,INV128,2026-01-09
+AL000481,T307634,C100758,High-risk country + High-risk customer,2025-07-01,35,Closed,No Suspicious Activity,INV104,2025-07-08
+AL000482,T307635,C101180,High-risk country,2025-02-23,25,Closed,False Positive,INV106,2025-02-27
+AL000483,T307687,C101732,High-value transaction + High-risk customer,2025-01-28,30,Closed,No Suspicious Activity,INV113,2025-02-09
+AL000484,T307693,C101010,High-risk country,2025-04-14,25,Closed,False Positive,INV122,2025-04-17
+AL000485,T307709,C100429,High-risk country,2025-06-19,25,Closed,Suspicious Activity,INV106,2025-06-28
+AL000486,T307710,C101059,High-value transaction,2025-09-26,20,Closed,False Positive,INV105,2025-10-09
+AL000487,T307724,C101105,High-risk country,2025-08-31,25,Closed,False Positive,INV125,2025-08-29
+AL000488,T307776,C101935,High-risk country,2025-01-23,25,Closed,False Positive,INV109,2025-01-29
+AL000489,T307832,C100974,High-value transaction,2025-10-06,20,Closed,False Positive,INV117,2025-10-20
+AL000490,T307836,C101607,High-risk country,2025-06-15,25,Closed,No Suspicious Activity,INV108,2025-06-21
+AL000491,T307859,C101639,High-risk country + High-risk customer,2025-04-21,35,Closed,False Positive,INV125,2025-05-01
+AL000492,T307868,C100850,High-value transaction,2025-03-13,20,Closed,False Positive,INV106,2025-03-23
+AL000493,T307882,C101783,High-risk country,2025-02-24,25,Closed,No Suspicious Activity,INV128,2025-03-09
+AL000494,T307891,C100641,High-risk country,2025-06-12,25,Closed,No Suspicious Activity,INV122,2025-06-21
+AL000495,T307897,C101475,High-risk country,2025-08-18,25,Closed,False Positive,INV104,2025-08-28
+AL000496,T307907,C100443,High-risk country,2025-07-11,25,Closed,Suspicious Activity,INV115,2025-07-11
+AL000497,T307913,C101121,High-value transaction,2025-09-23,20,Closed,False Positive,INV115,2025-10-02
+AL000498,T307920,C101049,High-value transaction,2025-12-05,20,Closed,Suspicious Activity,INV126,2025-12-07
+AL000499,T307959,C101728,High-risk country,2025-09-02,25,Closed,False Positive,INV101,2025-09-12
+AL000500,T307967,C101319,High-risk country,2025-07-06,25,Open,False Positive,INV106,2025-07-16
+AL000501,T307985,C100862,High-risk country,2025-06-26,25,Closed,False Positive,INV115,2025-07-08
+AL000502,T308020,C101012,High-value transaction,2025-12-24,20,Closed,No Suspicious Activity,INV100,2025-12-27
+AL000503,T308023,C100466,High-risk country,2025-10-25,25,Closed,Suspicious Activity,INV102,2025-10-26
+AL000504,T308049,C100017,High-risk country,2025-09-26,25,Open,False Positive,INV117,2025-10-01
+AL000505,T308061,C101045,High-risk country,2025-03-29,25,Closed,No Suspicious Activity,INV125,2025-04-02
+AL000506,T308065,C100280,High-risk country,2025-07-02,25,Closed,No Suspicious Activity,INV122,2025-07-09
+AL000507,T308069,C100231,High-risk country + Near-threshold transaction,2025-08-01,40,Closed,False Positive,INV106,2025-08-06
+AL000508,T308080,C101969,High-risk country,2025-05-02,25,Closed,False Positive,INV124,2025-05-14
+AL000509,T308085,C100141,High-risk country,2025-07-17,25,Closed,Suspicious Activity,INV120,2025-07-29
+AL000510,T308086,C100603,High-risk country,2025-05-22,25,Closed,Suspicious Activity,INV103,2025-05-25
+AL000511,T308114,C100287,High-risk country,2025-01-18,25,Open,No Suspicious Activity,INV122,2025-01-22
+AL000512,T308151,C100192,High-value transaction + High-risk country,2025-11-09,45,Closed,Suspicious Activity,INV101,2025-11-14
+AL000513,T308155,C100591,High-risk country,2025-05-09,25,Closed,Suspicious Activity,INV115,2025-05-09
+AL000514,T308162,C100662,High-value transaction + High-risk customer,2025-01-14,30,Closed,No Suspicious Activity,INV113,2025-01-26
+AL000515,T308193,C101928,High-risk country,2025-02-04,25,Closed,Suspicious Activity,INV100,2025-02-14
+AL000516,T308213,C100624,High-value transaction,2025-03-13,20,Closed,False Positive,INV120,2025-03-23
+AL000517,T308235,C100480,High-risk country + High-risk customer,2025-05-17,35,Open,Suspicious Activity,INV104,2025-05-21
+AL000518,T308240,C101854,High-value transaction,2025-09-16,20,Closed,No Suspicious Activity,INV119,2025-09-18
+AL000519,T308246,C100846,High-risk country,2025-11-29,25,Open,False Positive,INV102,2025-12-09
+AL000520,T308254,C101509,High-risk country,2025-01-31,25,Open,No Suspicious Activity,INV109,2025-02-04
+AL000521,T308258,C100307,High-value transaction,2025-03-30,20,Open,No Suspicious Activity,INV116,2025-04-09
+AL000522,T308277,C100464,High-risk country,2025-05-09,25,Closed,False Positive,INV107,2025-05-11
+AL000523,T308296,C101921,High-risk country,2025-06-18,25,Closed,False Positive,INV128,2025-06-21
+AL000524,T308314,C101971,High-risk country,2025-08-05,25,Closed,False Positive,INV108,2025-08-09
+AL000525,T308356,C101175,High-risk country,2025-12-08,25,Open,False Positive,INV116,2025-12-15
+AL000526,T308375,C100909,Near-threshold transaction + High-risk customer,2025-11-17,25,Closed,False Positive,INV100,2025-11-24
+AL000527,T308390,C101521,High-risk country,2025-02-11,25,Closed,No Suspicious Activity,INV113,2025-02-13
+AL000528,T308393,C101403,High-risk country,2025-02-01,25,Closed,False Positive,INV116,2025-02-06
+AL000529,T308401,C100666,High-value transaction,2025-01-06,20,Open,No Suspicious Activity,INV113,2025-01-08
+AL000530,T308417,C101582,High-value transaction,2025-01-25,20,Open,Suspicious Activity,INV110,2025-01-31
+AL000531,T308427,C100921,High-risk country + Near-threshold transaction,2025-12-05,40,Closed,False Positive,INV108,2025-12-12
+AL000532,T308452,C101025,High-value transaction,2025-08-10,20,Closed,Suspicious Activity,INV122,2025-08-10
+AL000533,T308471,C101392,High-risk country,2025-08-07,25,Closed,False Positive,INV100,2025-08-16
+AL000534,T308482,C101589,High-risk country,2025-12-05,25,Closed,False Positive,INV126,2025-12-14
+AL000535,T308489,C101888,High-risk country,2025-01-05,25,Closed,Suspicious Activity,INV116,2025-01-14
+AL000536,T308523,C100338,High-value transaction,2025-07-28,20,Closed,No Suspicious Activity,INV119,2025-07-27
+AL000537,T308524,C100806,High-risk country,2025-08-05,25,Closed,Suspicious Activity,INV120,2025-08-10
+AL000538,T308528,C100898,High-value transaction,2025-09-27,20,Closed,False Positive,INV124,2025-10-02
+AL000539,T308561,C101557,High-value transaction + High-risk customer,2025-10-11,30,Closed,False Positive,INV107,2025-10-17
+AL000540,T308569,C100117,High-risk country,2025-06-18,25,Closed,No Suspicious Activity,INV111,2025-06-21
+AL000541,T308579,C100695,High-risk country,2025-10-09,25,Closed,False Positive,INV103,2025-10-14
+AL000542,T308645,C100896,High-risk country,2025-12-14,25,Open,Suspicious Activity,INV100,2025-12-16
+AL000543,T308647,C100249,High-risk country + High-risk customer,2025-06-27,35,Open,False Positive,INV106,2025-07-09
+AL000544,T308648,C101370,High-risk country,2025-05-25,25,Closed,False Positive,INV102,2025-06-07
+AL000545,T308663,C100302,High-risk country,2025-07-04,25,Open,False Positive,INV121,2025-07-17
+AL000546,T308664,C101713,High-value transaction,2025-07-08,20,Closed,False Positive,INV108,2025-07-16
+AL000547,T308679,C101257,High-risk country,2025-09-07,25,Closed,No Suspicious Activity,INV101,2025-09-15
+AL000548,T308684,C101984,High-risk country,2025-03-31,25,Open,Suspicious Activity,INV125,2025-04-01
+AL000549,T308707,C100317,High-value transaction,2025-11-28,20,Closed,No Suspicious Activity,INV119,2025-12-08
+AL000550,T308711,C101435,High-risk country,2025-07-31,25,Closed,Suspicious Activity,INV107,2025-08-10
+AL000551,T308742,C100051,High-risk country,2025-08-30,25,Closed,No Suspicious Activity,INV109,2025-09-03
+AL000552,T308745,C100594,High-risk country,2025-12-04,25,Closed,No Suspicious Activity,INV103,2025-12-17
+AL000553,T308775,C101200,High-risk country,2025-11-03,25,Closed,False Positive,INV128,2025-11-04
+AL000554,T308778,C101692,High-risk country,2025-02-04,25,Closed,Suspicious Activity,INV117,2025-02-13
+AL000555,T308788,C101586,High-risk country,2025-02-28,25,Closed,No Suspicious Activity,INV115,2025-03-02
+AL000556,T308791,C100472,High-risk country,2025-10-19,25,Closed,No Suspicious Activity,INV115,2025-10-31
+AL000557,T308832,C100369,Near-threshold transaction + High-risk customer,2025-10-20,25,Closed,False Positive,INV108,2025-10-23
+AL000558,T308839,C101981,High-risk country,2025-07-26,25,Closed,False Positive,INV117,2025-07-30
+AL000559,T308853,C100024,High-risk country,2025-11-18,25,Open,False Positive,INV103,2025-11-19
+AL000560,T308855,C101316,High-risk country,2025-06-08,25,Closed,False Positive,INV129,2025-06-11
+AL000561,T308861,C100798,High-risk country + High-risk customer,2025-05-14,35,Closed,False Positive,INV128,2025-05-23
+AL000562,T308922,C101985,High-risk country,2025-08-16,25,Closed,No Suspicious Activity,INV104,2025-08-24
+AL000563,T308935,C100223,High-risk country,2025-07-11,25,Open,False Positive,INV125,2025-07-12
+AL000564,T308952,C100810,High-risk country,2025-11-20,25,Closed,False Positive,INV119,2025-11-26
+AL000565,T308964,C101213,High-risk country,2025-10-28,25,Open,False Positive,INV121,2025-11-07
+AL000566,T308974,C100915,Near-threshold transaction + High-risk customer,2025-02-09,25,Closed,False Positive,INV126,2025-02-11
+AL000567,T308984,C100507,High-risk country,2025-02-25,25,Closed,Suspicious Activity,INV124,2025-02-26
+AL000568,T309012,C100971,High-risk country,2025-03-14,25,Closed,Suspicious Activity,INV113,2025-03-22
+AL000569,T309015,C100315,High-value transaction,2025-01-16,20,Closed,No Suspicious Activity,INV122,2025-01-16
+AL000570,T309043,C100911,High-risk country,2025-04-28,25,Closed,False Positive,INV128,2025-04-26
+AL000571,T309048,C100654,High-risk country + Near-threshold transaction,2025-08-08,40,Closed,Suspicious Activity,INV111,2025-08-21
+AL000572,T309052,C101818,High-risk country,2025-12-21,25,Closed,False Positive,INV102,2025-12-27
+AL000573,T309059,C100603,High-risk country,2025-02-08,25,Closed,No Suspicious Activity,INV122,2025-02-13
+AL000574,T309074,C100117,High-risk country,2025-06-23,25,Open,No Suspicious Activity,INV111,2025-06-29
+AL000575,T309103,C100622,Near-threshold transaction + High-risk customer,2025-07-19,25,Closed,False Positive,INV106,2025-07-19
+AL000576,T309148,C101010,High-risk country,2025-05-18,25,Closed,False Positive,INV111,2025-05-30
+AL000577,T309153,C101647,High-value transaction,2025-12-18,20,Closed,No Suspicious Activity,INV121,2025-12-19
+AL000578,T309178,C100699,High-risk country,2025-11-09,25,Open,False Positive,INV125,2025-11-13
+AL000579,T309183,C100631,High-risk country,2025-11-01,25,Closed,False Positive,INV124,2025-11-03
+AL000580,T309184,C101027,High-risk country,2025-12-14,25,Closed,No Suspicious Activity,INV111,2025-12-26
+AL000581,T309185,C101571,Near-threshold transaction + High-risk customer,2025-12-06,25,Closed,False Positive,INV104,2025-12-12
+AL000582,T309198,C100949,High-risk country,2025-10-31,25,Closed,False Positive,INV100,2025-10-30
+AL000583,T309200,C101676,High-risk country,2025-12-23,25,Open,False Positive,INV107,2025-12-23
+AL000584,T309208,C100319,High-risk country,2025-01-29,25,Closed,False Positive,INV124,2025-02-03
+AL000585,T309212,C101478,High-value transaction,2025-09-07,20,Open,False Positive,INV125,2025-09-15
+AL000586,T309219,C101925,High-value transaction,2025-10-11,20,Closed,No Suspicious Activity,INV126,2025-10-14
+AL000587,T309223,C100105,High-value transaction,2025-03-26,20,Open,False Positive,INV125,2025-03-28
+AL000588,T309235,C100919,High-risk country,2025-12-27,25,Open,No Suspicious Activity,INV102,2025-12-31
+AL000589,T309269,C100496,High-value transaction,2025-02-25,20,Open,False Positive,INV114,2025-03-06
+AL000590,T309270,C101479,High-risk country,2025-08-12,25,Closed,No Suspicious Activity,INV125,2025-08-17
+AL000591,T309285,C101381,High-risk country,2025-12-07,25,Closed,False Positive,INV116,2025-12-08
+AL000592,T309287,C100211,High-risk country,2025-06-22,25,Closed,False Positive,INV120,2025-07-01
+AL000593,T309314,C101228,High-risk country,2025-09-24,25,Closed,No Suspicious Activity,INV128,2025-09-26
+AL000594,T309331,C101630,High-risk country,2025-05-17,25,Closed,False Positive,INV114,2025-05-24
+AL000595,T309338,C100335,High-risk country + High-risk customer,2025-05-13,35,Closed,No Suspicious Activity,INV123,2025-05-14
+AL000596,T309362,C101329,High-risk country + High-risk customer,2025-02-24,35,Closed,False Positive,INV129,2025-03-08
+AL000597,T309370,C101699,High-risk country,2025-08-08,25,Closed,No Suspicious Activity,INV122,2025-08-15
+AL000598,T309380,C101634,High-risk country,2025-06-27,25,Closed,No Suspicious Activity,INV121,2025-07-01
+AL000599,T309385,C101396,High-risk country,2025-10-18,25,Open,False Positive,INV110,2025-10-26
+AL000600,T309403,C100141,High-risk country,2025-02-15,25,Closed,False Positive,INV116,2025-02-25
+AL000601,T309410,C100130,High-risk country,2025-02-26,25,Closed,Suspicious Activity,INV103,2025-03-03
+AL000602,T309411,C101935,High-risk country,2025-01-14,25,Closed,False Positive,INV105,2025-01-24
+AL000603,T309425,C101345,High-value transaction,2025-10-25,20,Closed,Suspicious Activity,INV120,2025-11-02
+AL000604,T309458,C101862,High-value transaction,2025-07-09,20,Closed,No Suspicious Activity,INV129,2025-07-13
+AL000605,T309479,C101807,High-value transaction,2025-05-31,20,Closed,Suspicious Activity,INV118,2025-06-12
+AL000606,T309498,C101406,High-risk country,2025-03-23,25,Closed,False Positive,INV115,2025-03-28
+AL000607,T309516,C101134,High-value transaction,2025-09-23,20,Closed,No Suspicious Activity,INV124,2025-09-30
+AL000608,T309560,C100083,Near-threshold transaction + High-risk customer,2025-04-30,25,Closed,False Positive,INV126,2025-05-08
+AL000609,T309570,C101045,High-value transaction,2025-06-05,20,Closed,False Positive,INV129,2025-06-06
+AL000610,T309582,C101341,High-risk country,2025-07-17,25,Closed,Suspicious Activity,INV119,2025-07-26
+AL000611,T309586,C100455,High-value transaction,2025-05-22,20,Closed,False Positive,INV128,2025-05-23
+AL000612,T309608,C101711,High-risk country,2025-05-13,25,Closed,False Positive,INV110,2025-05-14
+AL000613,T309610,C100472,High-risk country,2025-10-26,25,Open,False Positive,INV123,2025-10-30
+AL000614,T309623,C101932,High-value transaction,2025-12-17,20,Closed,Suspicious Activity,INV124,2025-12-22
+AL000615,T309625,C101634,High-risk country,2025-08-02,25,Open,No Suspicious Activity,INV103,2025-08-09
+AL000616,T309662,C100499,High-risk country,2025-08-21,25,Closed,False Positive,INV122,2025-09-02
+AL000617,T309707,C100915,Near-threshold transaction + High-risk customer,2025-12-06,25,Closed,False Positive,INV125,2025-12-10
+AL000618,T309714,C100238,High-risk country,2025-05-27,25,Open,No Suspicious Activity,INV104,2025-06-04
+AL000619,T309719,C101663,High-risk country,2025-02-28,25,Closed,No Suspicious Activity,INV105,2025-03-11
+AL000620,T309720,C101375,High-value transaction,2025-10-04,20,Closed,False Positive,INV128,2025-10-14
+AL000621,T309733,C100368,High-risk country,2025-05-22,25,Open,False Positive,INV103,2025-05-31
+AL000622,T309735,C101882,High-value transaction,2025-01-29,20,Closed,False Positive,INV100,2025-02-01
+AL000623,T309738,C100789,High-risk country,2025-01-07,25,Closed,False Positive,INV121,2025-01-10
+AL000624,T309743,C100110,High-risk country,2025-03-23,25,Closed,No Suspicious Activity,INV104,2025-03-25
+AL000625,T309766,C100677,High-risk country,2025-04-22,25,Closed,False Positive,INV110,2025-05-04
+AL000626,T309774,C100740,High-risk country + High-risk customer,2025-07-01,35,Closed,False Positive,INV120,2025-07-06
+AL000627,T309779,C100116,Near-threshold transaction + High-risk customer,2025-03-24,25,Closed,False Positive,INV111,2025-04-02
+AL000628,T309798,C101728,High-risk country,2025-07-15,25,Closed,False Positive,INV110,2025-07-22
+AL000629,T309806,C100062,High-risk country,2025-06-10,25,Closed,No Suspicious Activity,INV107,2025-06-15
+AL000630,T309815,C100720,High-risk country,2025-02-19,25,Closed,False Positive,INV122,2025-03-01
+AL000631,T309820,C101639,Near-threshold transaction + High-risk customer,2025-06-09,25,Closed,False Positive,INV118,2025-06-19
+AL000632,T309834,C101497,Near-threshold transaction + High-risk customer,2025-10-13,25,Closed,No Suspicious Activity,INV119,2025-10-23
+AL000633,T309840,C101245,High-risk country,2025-11-02,25,Closed,False Positive,INV121,2025-11-08
+AL000634,T309842,C100548,High-value transaction,2025-08-07,20,Open,False Positive,INV106,2025-08-15
+AL000635,T309852,C101305,High-risk country,2025-04-29,25,Open,No Suspicious Activity,INV121,2025-04-28
+AL000636,T309857,C100782,High-risk country,2025-05-29,25,Open,No Suspicious Activity,INV119,2025-06-09
+AL000637,T309859,C101178,High-risk country + High-risk customer,2025-10-05,35,Closed,False Positive,INV119,2025-10-07
+AL000638,T309882,C100800,High-risk country,2025-04-13,25,Closed,No Suspicious Activity,INV116,2025-04-13
+AL000639,T309893,C101356,High-risk country,2025-12-27,25,Closed,False Positive,INV126,2026-01-04
+AL000640,T309906,C101787,High-value transaction,2025-10-01,20,Closed,False Positive,INV123,2025-10-06
+AL000641,T309943,C100521,High-value transaction,2025-05-05,20,Closed,False Positive,INV120,2025-05-08
+AL000642,T309969,C101179,High-value transaction,2025-11-25,20,Closed,Suspicious Activity,INV114,2025-11-26
+AL000643,T309988,C101324,High-risk country,2025-11-03,25,Open,False Positive,INV118,2025-11-15
+AL000644,T310003,C101103,High-risk country,2025-03-26,25,Closed,No Suspicious Activity,INV105,2025-03-26
+AL000645,T310068,C100904,High-risk country,2025-04-13,25,Closed,No Suspicious Activity,INV115,2025-04-11
+AL000646,T310070,C100429,High-risk country,2025-05-13,25,Closed,False Positive,INV106,2025-05-24
+AL000647,T310093,C100579,High-risk country,2025-06-02,25,Open,False Positive,INV118,2025-06-12
+AL000648,T310098,C101794,High-risk country,2025-01-11,25,Open,False Positive,INV125,2025-01-10
+AL000649,T310100,C101310,High-risk country,2025-04-03,25,Open,No Suspicious Activity,INV116,2025-04-03
+AL000650,T310122,C101678,High-value transaction,2025-02-13,20,Closed,No Suspicious Activity,INV110,2025-02-20
+AL000651,T310150,C100690,High-risk country + Near-threshold transaction,2025-07-09,40,Open,Suspicious Activity,INV124,2025-07-14
+AL000652,T310169,C100717,High-risk country,2025-01-20,25,Closed,False Positive,INV125,2025-02-01
+AL000653,T310186,C101935,High-risk country,2025-02-13,25,Open,False Positive,INV121,2025-02-22
+AL000654,T310203,C100642,High-risk country,2025-09-27,25,Closed,False Positive,INV113,2025-09-29
+AL000655,T310208,C100896,High-risk country,2025-04-15,25,Closed,False Positive,INV119,2025-04-23
+AL000656,T310209,C101662,High-risk country,2025-11-04,25,Closed,No Suspicious Activity,INV125,2025-11-17
+AL000657,T310214,C100964,High-value transaction + High-risk country,2025-09-11,45,Closed,False Positive,INV102,2025-09-21
+AL000658,T310219,C101112,High-value transaction + High-risk country,2025-08-12,45,Open,No Suspicious Activity,INV104,2025-08-17
+AL000659,T310232,C101309,High-risk country,2025-12-25,25,Closed,False Positive,INV117,2026-01-03
+AL000660,T310278,C100237,High-risk country,2025-01-29,25,Open,False Positive,INV117,2025-02-09
+AL000661,T310291,C100078,High-risk country,2025-04-10,25,Closed,False Positive,INV113,2025-04-11
+AL000662,T310305,C101338,High-value transaction,2025-12-03,20,Open,Suspicious Activity,INV116,2025-12-14
+AL000663,T310333,C100367,High-risk country,2025-11-22,25,Closed,No Suspicious Activity,INV105,2025-12-04
+AL000664,T310339,C101946,High-risk country,2025-03-25,25,Closed,No Suspicious Activity,INV125,2025-04-07
+AL000665,T310364,C100338,High-value transaction,2025-02-16,20,Closed,False Positive,INV127,2025-02-23
+AL000666,T310380,C100245,High-risk country + Near-threshold transaction,2025-09-27,40,Closed,False Positive,INV119,2025-10-02
+AL000667,T310383,C100480,High-risk country + High-risk customer,2025-10-09,35,Closed,False Positive,INV107,2025-10-10
+AL000668,T310392,C101520,High-risk country,2025-06-18,25,Closed,No Suspicious Activity,INV113,2025-06-25
+AL000669,T310411,C100369,Near-threshold transaction + High-risk customer,2025-03-01,25,Closed,Suspicious Activity,INV105,2025-03-08
+AL000670,T310448,C101975,High-risk country,2025-02-04,25,Open,False Positive,INV118,2025-02-07
+AL000671,T310479,C101584,High-value transaction,2025-04-23,20,Closed,Suspicious Activity,INV100,2025-05-03
+AL000672,T310483,C101894,High-risk country,2025-11-29,25,Open,False Positive,INV121,2025-12-06
+AL000673,T310487,C101341,High-risk country + Near-threshold transaction,2025-09-04,40,Closed,False Positive,INV125,2025-09-13
+AL000674,T310491,C101341,High-risk country,2025-03-02,25,Open,No Suspicious Activity,INV106,2025-03-12
+AL000675,T310502,C101574,High-risk country,2025-09-28,25,Closed,False Positive,INV109,2025-10-07
+AL000676,T310509,C101331,High-risk country + High-risk customer,2025-12-23,35,Open,False Positive,INV103,2025-12-26
+AL000677,T310514,C101999,High-risk country,2025-07-30,25,Closed,False Positive,INV128,2025-08-07
+AL000678,T310516,C100788,High-value transaction,2025-12-05,20,Closed,No Suspicious Activity,INV129,2025-12-17
+AL000679,T310521,C101093,High-value transaction,2025-11-28,20,Closed,Suspicious Activity,INV103,2025-12-01
+AL000680,T310537,C101029,Near-threshold transaction + High-risk customer,2025-06-09,25,Closed,False Positive,INV120,2025-06-13
+AL000681,T310554,C100394,High-risk country,2025-07-23,25,Closed,False Positive,INV123,2025-07-30
+AL000682,T310562,C100349,High-value transaction,2025-03-01,20,Open,No Suspicious Activity,INV118,2025-03-01
+AL000683,T310570,C101948,High-risk country,2025-10-15,25,Closed,False Positive,INV113,2025-10-19
+AL000684,T310580,C100124,High-risk country,2025-12-30,25,Closed,False Positive,INV118,2025-12-29
+AL000685,T310587,C100754,High-risk country,2025-08-23,25,Open,Suspicious Activity,INV111,2025-08-26
+AL000686,T310596,C101272,High-value transaction + High-risk customer,2025-10-23,30,Open,False Positive,INV119,2025-10-31
+AL000687,T310601,C100708,High-value transaction,2025-04-06,20,Closed,False Positive,INV108,2025-04-14
+AL000688,T310633,C100055,High-risk country,2025-03-09,25,Closed,Suspicious Activity,INV127,2025-03-20
+AL000689,T310688,C101937,High-risk country + High-risk customer,2025-03-04,35,Closed,False Positive,INV129,2025-03-03
+AL000690,T310707,C101308,High-risk country,2025-02-16,25,Closed,False Positive,INV109,2025-02-23
+AL000691,T310744,C100608,Near-threshold transaction + High-risk customer,2025-10-10,25,Open,False Positive,INV128,2025-10-14
+AL000692,T310780,C101912,High-risk country + High-risk customer,2025-08-31,35,Closed,Suspicious Activity,INV114,2025-09-01
+AL000693,T310804,C101387,High-risk country,2025-07-07,25,Closed,False Positive,INV101,2025-07-09
+AL000694,T310805,C101972,High-risk country + High-risk customer,2025-02-24,35,Closed,False Positive,INV117,2025-03-04
+AL000695,T310815,C100608,High-risk country + High-risk customer,2025-07-08,35,Closed,False Positive,INV118,2025-07-10
+AL000696,T310846,C101669,High-risk country,2025-08-10,25,Closed,False Positive,INV119,2025-08-09
+AL000697,T310854,C100211,High-risk country,2025-04-12,25,Open,False Positive,INV120,2025-04-16
+AL000698,T310871,C100464,High-risk country,2025-02-16,25,Closed,Suspicious Activity,INV109,2025-02-26
+AL000699,T310890,C100713,High-risk country,2025-05-30,25,Closed,False Positive,INV119,2025-06-02
+AL000700,T310891,C101703,High-risk country,2025-09-02,25,Closed,Suspicious Activity,INV126,2025-09-13
+AL000701,T310902,C100013,High-value transaction,2025-11-03,20,Closed,False Positive,INV102,2025-11-02
+AL000702,T310907,C100740,High-risk country + High-risk customer,2025-05-30,35,Open,Suspicious Activity,INV114,2025-06-02
+AL000703,T310938,C101406,High-value transaction,2025-01-15,20,Closed,Suspicious Activity,INV104,2025-01-21
+AL000704,T310939,C101605,High-risk country,2025-03-11,25,Open,Suspicious Activity,INV118,2025-03-20
+AL000705,T310941,C101438,High-value transaction,2025-01-31,20,Closed,False Positive,INV115,2025-02-04
+AL000706,T310945,C101991,High-value transaction,2025-10-25,20,Closed,False Positive,INV102,2025-10-26
+AL000707,T310956,C100226,High-risk country,2025-10-15,25,Open,No Suspicious Activity,INV127,2025-10-15
+AL000708,T310966,C101956,High-risk country,2025-09-18,25,Closed,Suspicious Activity,INV128,2025-09-21
+AL000709,T310996,C101592,Near-threshold transaction + High-risk customer,2025-09-26,25,Closed,False Positive,INV112,2025-10-04
+AL000710,T311018,C101641,High-risk country,2025-07-23,25,Closed,False Positive,INV115,2025-08-01
+AL000711,T311021,C100000,High-risk country,2025-06-04,25,Closed,False Positive,INV111,2025-06-08
+AL000712,T311028,C100055,High-value transaction,2025-02-16,20,Open,No Suspicious Activity,INV121,2025-02-20
+AL000713,T311043,C100303,High-risk country,2025-09-10,25,Closed,Suspicious Activity,INV103,2025-09-21
+AL000714,T311049,C101902,High-risk country,2025-12-22,25,Open,False Positive,INV105,2025-12-30
+AL000715,T311057,C101024,High-risk country,2025-12-10,25,Closed,False Positive,INV124,2025-12-15
+AL000716,T311069,C101926,High-risk country,2025-02-22,25,Open,False Positive,INV129,2025-02-26
+AL000717,T311073,C100745,High-value transaction,2025-10-01,20,Closed,Suspicious Activity,INV108,2025-10-09
+AL000718,T311088,C101154,High-risk country,2025-09-06,25,Closed,No Suspicious Activity,INV122,2025-09-09
+AL000719,T311105,C101860,Near-threshold transaction + High-risk customer,2025-04-08,25,Closed,No Suspicious Activity,INV123,2025-04-13
+AL000720,T311129,C101975,High-risk country,2025-05-14,25,Closed,No Suspicious Activity,INV104,2025-05-16
+AL000721,T311134,C100497,High-risk country + Near-threshold transaction,2025-11-15,40,Closed,No Suspicious Activity,INV120,2025-11-18
+AL000722,T311139,C101994,High-risk country,2025-03-10,25,Closed,False Positive,INV116,2025-03-21
+AL000723,T311161,C100236,High-risk country,2026-01-03,25,Closed,False Positive,INV126,2026-01-04
+AL000724,T311163,C100212,High-risk country,2025-11-19,25,Open,False Positive,INV128,2025-11-20
+AL000725,T311174,C100855,High-risk country,2025-10-02,25,Closed,Suspicious Activity,INV100,2025-10-15
+AL000726,T311238,C100340,High-value transaction,2025-03-02,20,Closed,No Suspicious Activity,INV128,2025-03-09
+AL000727,T311252,C100242,High-risk country,2025-05-21,25,Closed,False Positive,INV100,2025-06-01
+AL000728,T311255,C101975,High-value transaction,2025-07-15,20,Closed,No Suspicious Activity,INV114,2025-07-13
+AL000729,T311257,C100720,High-risk country,2025-06-19,25,Open,False Positive,INV109,2025-06-30
+AL000730,T311261,C101125,High-risk country,2025-06-13,25,Closed,No Suspicious Activity,INV104,2025-06-22
+AL000731,T311271,C100898,High-risk country,2025-07-27,25,Closed,False Positive,INV116,2025-08-02
+AL000732,T311284,C101591,High-risk country,2025-04-30,25,Closed,No Suspicious Activity,INV127,2025-05-03
+AL000733,T311296,C100660,High-risk country,2025-08-01,25,Closed,False Positive,INV124,2025-08-02
+AL000734,T311301,C100060,High-risk country,2025-02-08,25,Open,Suspicious Activity,INV122,2025-02-07
+AL000735,T311355,C101394,High-risk country,2025-04-10,25,Closed,False Positive,INV126,2025-04-17
+AL000736,T311402,C100848,High-risk country,2025-01-28,25,Closed,False Positive,INV111,2025-02-02
+AL000737,T311405,C100734,High-risk country,2025-10-20,25,Closed,False Positive,INV128,2025-10-22
+AL000738,T311411,C100502,High-risk country,2025-12-07,25,Closed,No Suspicious Activity,INV116,2025-12-13
+AL000739,T311413,C101107,High-risk country,2025-09-13,25,Closed,False Positive,INV124,2025-09-23
+AL000740,T311438,C101733,High-risk country,2025-06-24,25,Closed,False Positive,INV128,2025-07-01
+AL000741,T311451,C100190,High-risk country + High-risk customer,2025-06-13,35,Closed,False Positive,INV128,2025-06-25
+AL000742,T311473,C101743,High-risk country,2025-12-10,25,Closed,Suspicious Activity,INV113,2025-12-13
+AL000743,T311479,C100134,High-risk country,2025-04-19,25,Open,Suspicious Activity,INV124,2025-04-25
+AL000744,T311490,C101752,High-risk country,2025-01-16,25,Closed,False Positive,INV108,2025-01-26
+AL000745,T311540,C100107,High-risk country + High-risk customer,2025-04-28,35,Closed,No Suspicious Activity,INV122,2025-05-04
+AL000746,T311545,C101053,High-risk country,2025-06-18,25,Closed,No Suspicious Activity,INV103,2025-06-19
+AL000747,T311547,C101133,High-value transaction + High-risk customer,2025-07-12,30,Open,False Positive,INV109,2025-07-11
+AL000748,T311556,C100625,High-value transaction,2025-05-30,20,Open,Suspicious Activity,INV114,2025-06-06
+AL000749,T311566,C100277,High-risk country,2025-08-07,25,Open,False Positive,INV129,2025-08-12
+AL000750,T311582,C101871,High-risk country,2025-10-30,25,Closed,Suspicious Activity,INV104,2025-10-29
+AL000751,T311583,C100257,High-risk country,2025-09-03,25,Closed,No Suspicious Activity,INV108,2025-09-05
+AL000752,T311604,C101876,High-value transaction,2025-07-05,20,Open,False Positive,INV122,2025-07-12
+AL000753,T311614,C101773,High-risk country,2025-07-02,25,Closed,False Positive,INV126,2025-07-01
+AL000754,T311616,C101643,High-risk country,2025-08-28,25,Open,False Positive,INV127,2025-09-01
+AL000755,T311628,C100771,High-value transaction,2025-10-02,20,Closed,Suspicious Activity,INV107,2025-10-15
+AL000756,T311636,C101378,High-risk country,2025-11-13,25,Closed,No Suspicious Activity,INV113,2025-11-18
+AL000757,T311645,C101666,High-risk country,2025-11-15,25,Open,False Positive,INV119,2025-11-25
+AL000758,T311665,C100957,High-risk country,2025-11-22,25,Closed,False Positive,INV119,2025-12-02
+AL000759,T311676,C101901,High-risk country,2025-01-15,25,Closed,False Positive,INV111,2025-01-18
+AL000760,T311679,C100977,High-risk country,2025-11-27,25,Closed,Suspicious Activity,INV126,2025-11-27
+AL000761,T311692,C100534,High-value transaction,2025-10-01,20,Closed,False Positive,INV115,2025-10-06
+AL000762,T311693,C101645,High-risk country,2025-06-28,25,Closed,Suspicious Activity,INV113,2025-06-29
+AL000763,T311698,C100005,High-risk country,2025-11-19,25,Closed,False Positive,INV110,2025-11-26
+AL000764,T311705,C100750,High-value transaction,2025-06-29,20,Closed,No Suspicious Activity,INV116,2025-07-09
+AL000765,T311708,C100321,High-value transaction,2025-07-25,20,Closed,False Positive,INV126,2025-08-03
+AL000766,T311793,C101586,High-risk country,2025-11-17,25,Open,No Suspicious Activity,INV124,2025-11-25
+AL000767,T311796,C101410,High-risk country,2025-08-30,25,Closed,False Positive,INV125,2025-08-30
+AL000768,T311801,C101555,High-risk country,2025-04-01,25,Open,False Positive,INV118,2025-04-04
+AL000769,T311812,C100269,High-risk country,2025-10-18,25,Closed,False Positive,INV102,2025-10-24
+AL000770,T311832,C101732,High-risk country + High-risk customer,2025-01-31,35,Closed,No Suspicious Activity,INV118,2025-02-02
+AL000771,T311837,C101912,High-value transaction + High-risk customer,2025-02-09,30,Open,No Suspicious Activity,INV123,2025-02-15
+AL000772,T311843,C101085,High-risk country + High-risk customer,2026-01-02,35,Closed,False Positive,INV121,2026-01-07
+AL000773,T311849,C100800,High-risk country,2025-05-13,25,Closed,False Positive,INV119,2025-05-21
+AL000774,T311870,C100294,High-value transaction,2025-04-25,20,Closed,False Positive,INV115,2025-04-30
+AL000775,T311874,C100280,High-value transaction,2025-09-13,20,Open,False Positive,INV114,2025-09-19
+AL000776,T311884,C101633,High-risk country,2025-11-25,25,Closed,Suspicious Activity,INV124,2025-12-05
+AL000777,T311927,C100689,High-risk country + High-risk customer,2025-08-30,35,Closed,False Positive,INV122,2025-09-05
+AL000778,T311928,C100345,High-value transaction,2025-01-12,20,Closed,False Positive,INV101,2025-01-14
+AL000779,T311957,C100083,Near-threshold transaction + High-risk customer,2025-07-15,25,Closed,False Positive,INV120,2025-07-15
+AL000780,T311978,C100695,High-value transaction,2025-05-26,20,Closed,False Positive,INV127,2025-06-05
+AL000781,T311984,C100460,High-value transaction + High-risk customer,2025-10-22,30,Closed,No Suspicious Activity,INV101,2025-10-24
+AL000782,T312016,C101093,High-risk country,2025-02-06,25,Closed,No Suspicious Activity,INV105,2025-02-12
+AL000783,T312033,C101607,High-risk country,2025-06-18,25,Closed,False Positive,INV110,2025-06-19
+AL000784,T312036,C100552,Near-threshold transaction + High-risk customer,2025-12-12,25,Closed,Suspicious Activity,INV125,2025-12-23
+AL000785,T312040,C100418,High-risk country,2025-09-13,25,Closed,False Positive,INV121,2025-09-17
+AL000786,T312041,C100601,High-value transaction,2025-04-11,20,Open,Suspicious Activity,INV126,2025-04-23
+AL000787,T312048,C101915,High-risk country,2025-04-22,25,Closed,Suspicious Activity,INV106,2025-04-30
+AL000788,T312053,C100771,High-risk country,2025-04-06,25,Closed,False Positive,INV116,2025-04-12
+AL000789,T312060,C101545,High-risk country,2025-02-21,25,Closed,False Positive,INV121,2025-02-26
+AL000790,T312067,C100593,High-value transaction,2025-08-30,20,Open,Suspicious Activity,INV114,2025-09-12
+AL000791,T312108,C100122,High-risk country,2025-07-21,25,Closed,No Suspicious Activity,INV112,2025-07-24
+AL000792,T312123,C100201,High-value transaction,2025-12-20,20,Closed,Suspicious Activity,INV100,2025-12-26
+AL000793,T312207,C101555,High-risk country,2025-05-04,25,Open,False Positive,INV129,2025-05-06
+AL000794,T312215,C101511,High-risk country + High-risk customer,2025-04-12,35,Closed,No Suspicious Activity,INV115,2025-04-24
+AL000795,T312259,C101785,High-risk country,2025-04-12,25,Closed,False Positive,INV112,2025-04-15
+AL000796,T312266,C100874,Near-threshold transaction + High-risk customer,2025-02-12,25,Closed,False Positive,INV127,2025-02-15
+AL000797,T312289,C101971,High-risk country,2025-04-28,25,Closed,False Positive,INV104,2025-05-05
+AL000798,T312292,C100740,High-risk country + High-risk customer,2025-04-04,35,Closed,False Positive,INV123,2025-04-04
+AL000799,T312316,C100602,High-risk country,2025-07-26,25,Closed,False Positive,INV120,2025-07-29
+AL000800,T312320,C101322,High-risk country,2025-12-21,25,Closed,No Suspicious Activity,INV101,2025-12-22
+AL000801,T312328,C101859,High-value transaction,2025-11-30,20,Closed,Suspicious Activity,INV107,2025-11-30
+AL000802,T312337,C100940,High-risk country,2025-03-05,25,Open,No Suspicious Activity,INV109,2025-03-11
+AL000803,T312341,C100999,High-risk country + High-risk customer,2025-01-24,35,Closed,Suspicious Activity,INV111,2025-01-24
+AL000804,T312356,C100874,High-risk country + High-risk customer,2025-05-12,35,Closed,No Suspicious Activity,INV109,2025-05-19
+AL000805,T312399,C100733,Near-threshold transaction + High-risk customer,2025-02-16,25,Closed,False Positive,INV102,2025-02-22
+AL000806,T312400,C100668,High-risk country,2025-12-26,25,Closed,False Positive,INV126,2025-12-27
+AL000807,T312419,C100454,High-risk country,2025-09-29,25,Closed,No Suspicious Activity,INV104,2025-09-27
+AL000808,T312433,C101380,High-risk country,2025-10-08,25,Closed,Suspicious Activity,INV127,2025-10-17
+AL000809,T312501,C101701,High-risk country,2025-03-18,25,Closed,No Suspicious Activity,INV112,2025-03-21
+AL000810,T312509,C101016,High-risk country,2025-12-07,25,Open,Suspicious Activity,INV118,2025-12-15
+AL000811,T312517,C101477,High-risk country,2025-03-09,25,Closed,Suspicious Activity,INV111,2025-03-15
+AL000812,T312533,C101566,High-risk country,2025-01-31,25,Closed,False Positive,INV128,2025-02-09
+AL000813,T312535,C101142,High-risk country,2025-01-27,25,Closed,Suspicious Activity,INV117,2025-02-05
+AL000814,T312541,C100253,High-risk country,2025-12-26,25,Closed,No Suspicious Activity,INV123,2026-01-02
+AL000815,T312544,C101599,High-value transaction,2025-03-05,20,Closed,Suspicious Activity,INV115,2025-03-11
+AL000816,T312550,C101501,High-risk country,2025-06-13,25,Closed,False Positive,INV104,2025-06-24
+AL000817,T312551,C100665,High-risk country,2025-11-05,25,Closed,False Positive,INV103,2025-11-11
+AL000818,T312569,C100580,High-risk country,2025-03-19,25,Closed,No Suspicious Activity,INV107,2025-03-30
+AL000819,T312611,C101937,High-risk country + High-risk customer,2025-03-15,35,Closed,False Positive,INV122,2025-03-14
+AL000820,T312620,C100923,High-risk country,2025-05-26,25,Closed,False Positive,INV124,2025-06-03
+AL000821,T312635,C100832,High-value transaction,2025-10-08,20,Closed,False Positive,INV103,2025-10-16
+AL000822,T312637,C100540,Near-threshold transaction + High-risk customer,2025-08-19,25,Closed,No Suspicious Activity,INV109,2025-08-23
+AL000823,T312641,C101319,High-risk country,2025-02-05,25,Closed,False Positive,INV103,2025-02-16
+AL000824,T312642,C100180,High-risk country,2025-06-27,25,Closed,False Positive,INV111,2025-07-09
+AL000825,T312646,C100193,High-value transaction + High-risk country,2025-09-29,45,Closed,Suspicious Activity,INV108,2025-10-10
+AL000826,T312649,C100773,High-value transaction,2025-11-22,20,Open,False Positive,INV107,2025-11-30
+AL000827,T312655,C101396,High-risk country,2025-09-16,25,Closed,False Positive,INV100,2025-09-21
+AL000828,T312676,C101354,High-risk country,2025-08-18,25,Closed,No Suspicious Activity,INV119,2025-08-22
+AL000829,T312686,C101934,High-risk country,2025-07-30,25,Closed,No Suspicious Activity,INV119,2025-07-29
+AL000830,T312716,C100122,High-risk country,2025-01-05,25,Closed,False Positive,INV118,2025-01-04
+AL000831,T312724,C100742,High-value transaction,2025-06-23,20,Closed,Suspicious Activity,INV100,2025-07-02
+AL000832,T312740,C100350,High-risk country,2025-01-20,25,Closed,False Positive,INV121,2025-01-21
+AL000833,T312778,C101103,High-value transaction,2025-06-03,20,Closed,False Positive,INV121,2025-06-09
+AL000834,T312780,C100627,High-risk country,2025-08-08,25,Closed,No Suspicious Activity,INV129,2025-08-19
+AL000835,T312803,C101782,High-risk country,2025-01-06,25,Closed,No Suspicious Activity,INV120,2025-01-14
+AL000836,T312845,C100084,High-risk country,2025-02-25,25,Closed,False Positive,INV118,2025-02-25
+AL000837,T312849,C100585,High-value transaction,2025-08-27,20,Closed,No Suspicious Activity,INV102,2025-08-28
+AL000838,T312889,C100190,High-value transaction + High-risk customer,2025-03-31,30,Open,Suspicious Activity,INV116,2025-04-05
+AL000839,T312890,C101265,High-risk country,2025-06-28,25,Closed,No Suspicious Activity,INV120,2025-07-12
+AL000840,T312914,C101463,High-risk country,2025-11-15,25,Closed,Suspicious Activity,INV115,2025-11-27
+AL000841,T312932,C100700,High-risk country,2025-01-11,25,Open,No Suspicious Activity,INV118,2025-01-09
+AL000842,T312940,C100261,Near-threshold transaction + High-risk customer,2025-06-17,25,Closed,False Positive,INV120,2025-06-29
+AL000843,T312946,C100168,High-risk country,2025-07-02,25,Open,False Positive,INV120,2025-07-13
+AL000844,T312953,C101476,High-risk country,2025-02-16,25,Open,No Suspicious Activity,INV123,2025-02-27
+AL000845,T312966,C100470,High-risk country,2025-08-24,25,Open,No Suspicious Activity,INV102,2025-08-25
+AL000846,T312983,C100022,High-risk country,2025-05-02,25,Closed,False Positive,INV128,2025-05-07
+AL000847,T313016,C100057,High-risk country,2025-03-06,25,Closed,False Positive,INV106,2025-03-17
+AL000848,T313019,C101021,Near-threshold transaction + High-risk customer,2025-03-17,25,Closed,No Suspicious Activity,INV102,2025-03-20
+AL000849,T313034,C101690,High-value transaction,2025-12-23,20,Closed,Suspicious Activity,INV110,2026-01-04
+AL000850,T313071,C100396,High-value transaction,2025-08-28,20,Closed,No Suspicious Activity,INV125,2025-08-30
+AL000851,T313075,C100754,High-risk country,2025-07-23,25,Open,False Positive,INV123,2025-07-28
+AL000852,T313091,C101895,High-value transaction,2025-04-29,20,Closed,Suspicious Activity,INV115,2025-05-12
+AL000853,T313135,C100524,High-value transaction,2025-07-08,20,Closed,Suspicious Activity,INV111,2025-07-11
+AL000854,T313151,C101842,High-risk country,2025-12-28,25,Closed,False Positive,INV122,2026-01-07
+AL000855,T313159,C101887,High-risk country,2025-08-28,25,Closed,False Positive,INV117,2025-09-07
+AL000856,T313187,C101310,High-risk country,2025-06-17,25,Closed,Suspicious Activity,INV106,2025-06-18
+AL000857,T313198,C100093,High-risk country,2025-11-21,25,Closed,False Positive,INV127,2025-11-24
+AL000858,T313211,C101896,High-risk country,2025-04-21,25,Closed,False Positive,INV117,2025-04-21
+AL000859,T313215,C101841,High-risk country,2025-06-26,25,Closed,Suspicious Activity,INV127,2025-07-08
+AL000860,T313224,C101008,High-value transaction,2025-02-11,20,Closed,False Positive,INV108,2025-02-20
+AL000861,T313236,C101105,High-value transaction,2025-03-11,20,Closed,False Positive,INV111,2025-03-17
+AL000862,T313239,C100553,High-risk country,2025-02-14,25,Open,False Positive,INV103,2025-02-27
+AL000863,T313259,C100973,High-risk country,2025-09-05,25,Closed,False Positive,INV111,2025-09-11
+AL000864,T313263,C101017,High-risk country,2025-12-04,25,Closed,False Positive,INV110,2025-12-10
+AL000865,T313267,C100881,High-risk country,2025-07-05,25,Closed,No Suspicious Activity,INV103,2025-07-12
+AL000866,T313289,C101601,High-risk country,2025-07-15,25,Open,Suspicious Activity,INV122,2025-07-19
+AL000867,T313295,C101297,High-risk country,2025-11-30,25,Closed,No Suspicious Activity,INV127,2025-12-09
+AL000868,T313299,C100496,High-value transaction,2025-07-18,20,Closed,False Positive,INV110,2025-07-20
+AL000869,T313301,C101316,High-value transaction,2025-09-07,20,Closed,No Suspicious Activity,INV125,2025-09-18
+AL000870,T313310,C100980,High-risk country,2025-10-27,25,Closed,False Positive,INV125,2025-11-07
+AL000871,T313311,C100915,Near-threshold transaction + High-risk customer,2025-04-13,25,Closed,False Positive,INV102,2025-04-21
+AL000872,T313325,C100489,High-risk country,2025-08-04,25,Closed,Suspicious Activity,INV113,2025-08-16
+AL000873,T313333,C101888,High-risk country,2025-07-16,25,Closed,False Positive,INV126,2025-07-16
+AL000874,T313335,C100858,High-risk country,2025-10-23,25,Closed,No Suspicious Activity,INV119,2025-10-28
+AL000875,T313338,C100489,High-risk country,2025-03-11,25,Closed,False Positive,INV117,2025-03-18
+AL000876,T313348,C100050,High-risk country,2025-11-21,25,Closed,Suspicious Activity,INV114,2025-11-28
+AL000877,T313349,C101804,High-value transaction,2025-01-24,20,Closed,Suspicious Activity,INV128,2025-02-05
+AL000878,T313352,C100539,High-value transaction + High-risk customer,2025-04-22,30,Open,No Suspicious Activity,INV104,2025-04-21
+AL000879,T313364,C101186,High-risk country + High-risk customer,2025-04-23,35,Open,Suspicious Activity,INV115,2025-04-23
+AL000880,T313367,C101198,High-risk country,2025-01-10,25,Closed,False Positive,INV105,2025-01-21
+AL000881,T313394,C101118,High-risk country,2025-02-09,25,Closed,Suspicious Activity,INV125,2025-02-21
+AL000882,T313400,C101779,Near-threshold transaction + High-risk customer,2025-07-19,25,Closed,False Positive,INV100,2025-07-22
+AL000883,T313449,C100499,High-risk country,2025-08-24,25,Closed,False Positive,INV107,2025-08-28
+AL000884,T313453,C100454,High-risk country + Near-threshold transaction,2025-06-24,40,Closed,False Positive,INV108,2025-07-04
+AL000885,T313484,C100206,High-value transaction,2025-06-25,20,Closed,False Positive,INV121,2025-06-30
+AL000886,T313488,C101451,Near-threshold transaction + High-risk customer,2025-02-18,25,Closed,False Positive,INV117,2025-03-02
+AL000887,T313492,C101509,High-risk country,2025-04-20,25,Closed,Suspicious Activity,INV126,2025-05-04
+AL000888,T313522,C101752,High-risk country,2025-08-13,25,Closed,Suspicious Activity,INV113,2025-08-16
+AL000889,T313550,C101833,High-risk country + Near-threshold transaction,2025-03-16,40,Closed,False Positive,INV111,2025-03-21
+AL000890,T313586,C101226,High-risk country,2025-03-30,25,Closed,False Positive,INV110,2025-04-09
+AL000891,T313594,C100518,High-risk country,2025-04-11,25,Closed,No Suspicious Activity,INV105,2025-04-16
+AL000892,T313605,C101167,High-risk country + Near-threshold transaction,2025-07-03,40,Closed,False Positive,INV112,2025-07-08
+AL000893,T313621,C101049,High-value transaction,2025-04-10,20,Closed,Suspicious Activity,INV108,2025-04-14
+AL000894,T313626,C100608,Near-threshold transaction + High-risk customer,2025-10-08,25,Closed,False Positive,INV108,2025-10-12
+AL000895,T313630,C100816,High-risk country,2025-08-02,25,Closed,False Positive,INV101,2025-08-12
+AL000896,T313669,C100680,High-risk country,2025-06-10,25,Closed,Suspicious Activity,INV114,2025-06-22
+AL000897,T313720,C100806,High-risk country,2025-10-17,25,Open,False Positive,INV127,2025-10-23
+AL000898,T313727,C101290,High-value transaction,2025-02-18,20,Closed,Suspicious Activity,INV111,2025-02-24
+AL000899,T313733,C100702,High-value transaction,2025-07-17,20,Closed,False Positive,INV101,2025-07-28
+AL000900,T313774,C100160,High-value transaction,2025-01-25,20,Closed,No Suspicious Activity,INV127,2025-01-26
+AL000901,T313809,C101525,High-risk country + Near-threshold transaction,2025-01-20,40,Closed,Suspicious Activity,INV119,2025-01-22
+AL000902,T313838,C100682,High-risk country,2025-09-28,25,Closed,False Positive,INV113,2025-10-06
+AL000903,T313839,C100183,High-risk country,2025-09-14,25,Open,False Positive,INV113,2025-09-24
+AL000904,T313887,C100343,High-risk country + High-risk customer,2025-06-17,35,Closed,False Positive,INV128,2025-06-23
+AL000905,T313915,C101791,High-risk country,2025-03-19,25,Closed,False Positive,INV119,2025-03-26
+AL000906,T313916,C100413,High-risk country,2025-10-18,25,Open,Suspicious Activity,INV128,2025-10-31
+AL000907,T313944,C100471,High-risk country,2025-12-31,25,Closed,False Positive,INV105,2026-01-08
+AL000908,T313947,C101781,High-value transaction,2025-10-04,20,Closed,False Positive,INV111,2025-10-09
+AL000909,T313953,C101274,High-risk country,2025-02-25,25,Closed,False Positive,INV118,2025-03-01
+AL000910,T313961,C101096,High-risk country,2025-04-26,25,Closed,False Positive,INV119,2025-05-06
+AL000911,T313963,C101730,High-risk country,2025-11-23,25,Closed,No Suspicious Activity,INV101,2025-11-21
+AL000912,T313967,C101523,High-risk country,2025-03-31,25,Closed,Suspicious Activity,INV127,2025-04-13
+AL000913,T313968,C100944,High-risk country + High-risk customer,2025-06-15,35,Closed,False Positive,INV113,2025-06-26
+AL000914,T313985,C101092,High-risk country,2025-06-23,25,Closed,No Suspicious Activity,INV105,2025-07-02
+AL000915,T314000,C100453,High-risk country,2025-11-08,25,Closed,No Suspicious Activity,INV124,2025-11-15
+AL000916,T314031,C101589,High-risk country,2025-06-05,25,Closed,No Suspicious Activity,INV106,2025-06-17
+AL000917,T314046,C101200,High-risk country,2025-11-23,25,Closed,Suspicious Activity,INV118,2025-12-06
+AL000918,T314054,C101305,High-value transaction + High-risk country,2025-05-28,45,Closed,No Suspicious Activity,INV112,2025-05-30
+AL000919,T314087,C101994,High-risk country,2025-11-25,25,Closed,False Positive,INV107,2025-11-27
+AL000920,T314093,C101999,High-value transaction,2025-11-21,20,Open,False Positive,INV113,2025-12-01
+AL000921,T314113,C100563,High-value transaction,2025-01-16,20,Open,Suspicious Activity,INV110,2025-01-26
+AL000922,T314117,C100974,High-risk country,2025-04-11,25,Closed,False Positive,INV120,2025-04-14
+AL000923,T314136,C101525,High-risk country,2025-07-24,25,Closed,No Suspicious Activity,INV100,2025-07-30
+AL000924,T314192,C101440,High-value transaction,2025-06-14,20,Open,No Suspicious Activity,INV125,2025-06-18
+AL000925,T314218,C101007,High-risk country,2025-07-04,25,Closed,False Positive,INV111,2025-07-09
+AL000926,T314244,C101498,High-risk country,2025-12-02,25,Closed,False Positive,INV106,2025-12-16
+AL000927,T314248,C100017,High-risk country,2025-10-11,25,Open,No Suspicious Activity,INV107,2025-10-10
+AL000928,T314264,C101327,High-risk country,2025-06-26,25,Closed,False Positive,INV120,2025-07-09
+AL000929,T314273,C100063,High-risk country,2025-08-11,25,Closed,Suspicious Activity,INV129,2025-08-17
+AL000930,T314293,C101839,High-risk country,2025-03-17,25,Open,No Suspicious Activity,INV111,2025-03-23
+AL000931,T314308,C101138,High-value transaction,2025-11-14,20,Open,False Positive,INV108,2025-11-22
+AL000932,T314315,C101985,High-risk country,2025-02-04,25,Closed,False Positive,INV104,2025-02-14
+AL000933,T314327,C100844,High-risk country,2025-08-19,25,Open,False Positive,INV110,2025-08-20
+AL000934,T314335,C100745,High-risk country + Near-threshold transaction,2025-08-28,40,Closed,False Positive,INV121,2025-08-26
+AL000935,T314350,C101711,High-risk country,2025-02-04,25,Closed,False Positive,INV106,2025-02-03
+AL000936,T314388,C100539,High-risk country + High-risk customer,2025-10-12,35,Closed,False Positive,INV101,2025-10-13
+AL000937,T314397,C101188,High-risk country,2025-01-02,25,Closed,False Positive,INV111,2025-01-12
+AL000938,T314410,C100198,High-risk country + Near-threshold transaction,2025-01-15,40,Closed,Suspicious Activity,INV105,2025-01-17
+AL000939,T314421,C100091,High-risk country,2025-12-28,25,Open,False Positive,INV115,2025-12-29
+AL000940,T314430,C101032,High-risk country + Near-threshold transaction + High-risk customer,2025-08-16,50,Open,False Positive,INV129,2025-08-20
+AL000941,T314432,C100314,High-risk country,2025-09-28,25,Closed,False Positive,INV104,2025-10-01
+AL000942,T314444,C100376,High-risk country + Near-threshold transaction,2025-09-20,40,Closed,False Positive,INV114,2025-09-20
+AL000943,T314448,C100299,Near-threshold transaction + High-risk customer,2025-06-12,25,Closed,False Positive,INV107,2025-06-23
+AL000944,T314467,C101017,High-risk country,2025-04-04,25,Closed,False Positive,INV100,2025-04-06
+AL000945,T314497,C100543,High-risk country,2025-12-29,25,Closed,False Positive,INV110,2025-12-30
+AL000946,T314514,C100423,High-value transaction,2025-12-25,20,Closed,False Positive,INV119,2025-12-28
+AL000947,T314519,C101588,High-risk country,2025-01-04,25,Closed,False Positive,INV117,2025-01-12
+AL000948,T314523,C100961,High-risk country,2025-05-10,25,Closed,False Positive,INV127,2025-05-18
+AL000949,T314534,C101612,High-risk country,2025-03-20,25,Open,False Positive,INV107,2025-03-22
+AL000950,T314560,C100699,High-risk country,2025-10-21,25,Closed,False Positive,INV118,2025-10-22
+AL000951,T314578,C101047,High-risk country,2025-01-14,25,Closed,False Positive,INV106,2025-01-21
+AL000952,T314608,C101253,High-risk country,2025-07-31,25,Closed,Suspicious Activity,INV116,2025-08-11
+AL000953,T314625,C101205,High-risk country,2025-04-03,25,Closed,False Positive,INV112,2025-04-12
+AL000954,T314634,C100624,High-risk country,2025-08-17,25,Closed,False Positive,INV102,2025-08-19
+AL000955,T314660,C101183,High-risk country,2025-01-21,25,Open,Suspicious Activity,INV109,2025-02-01
+AL000956,T314670,C101993,High-value transaction + High-risk country,2025-05-04,45,Closed,False Positive,INV116,2025-05-07
+AL000957,T314687,C101127,High-risk country,2025-08-09,25,Closed,False Positive,INV113,2025-08-14
+AL000958,T314694,C101987,High-risk country,2025-02-19,25,Open,False Positive,INV113,2025-02-22
+AL000959,T314702,C101878,High-risk country,2025-05-02,25,Closed,False Positive,INV116,2025-05-10
+AL000960,T314732,C101106,High-risk country,2025-02-11,25,Closed,False Positive,INV114,2025-02-13
+AL000961,T314738,C100625,High-risk country,2025-07-19,25,Closed,No Suspicious Activity,INV113,2025-07-27
+AL000962,T314788,C100754,High-risk country,2025-12-11,25,Closed,False Positive,INV105,2025-12-10
+AL000963,T314807,C101906,High-risk country,2025-11-05,25,Closed,Suspicious Activity,INV123,2025-11-12
+AL000964,T314823,C100823,High-risk country,2025-05-04,25,Closed,False Positive,INV109,2025-05-10
+AL000965,T314843,C100290,High-risk country,2025-09-21,25,Closed,Suspicious Activity,INV109,2025-09-19
+AL000966,T314903,C101166,High-risk country,2025-06-07,25,Closed,False Positive,INV119,2025-06-17
+AL000967,T314911,C101503,High-risk country,2025-07-23,25,Open,Suspicious Activity,INV121,2025-07-31
+AL000968,T314927,C100602,High-risk country,2025-02-14,25,Closed,False Positive,INV118,2025-02-21
+AL000969,T314939,C101107,High-value transaction,2025-10-11,20,Open,False Positive,INV108,2025-10-18
+AL000970,T314965,C101575,High-risk country,2025-11-15,25,Closed,No Suspicious Activity,INV105,2025-11-25
+AL000971,T314981,C101498,High-risk country,2025-06-30,25,Closed,No Suspicious Activity,INV107,2025-07-07
+AL000972,T315002,C101725,High-risk country,2025-09-10,25,Closed,Suspicious Activity,INV109,2025-09-13
+AL000973,T315007,C101416,High-value transaction,2025-12-05,20,Closed,No Suspicious Activity,INV112,2025-12-10
+AL000974,T315013,C101367,High-risk country,2025-06-26,25,Closed,False Positive,INV103,2025-07-05
+AL000975,T315067,C101974,High-risk country,2025-04-11,25,Open,No Suspicious Activity,INV118,2025-04-18
+AL000976,T315086,C101885,High-risk country,2025-09-10,25,Closed,False Positive,INV100,2025-09-12
+AL000977,T315102,C100572,High-risk country,2025-11-22,25,Closed,No Suspicious Activity,INV124,2025-11-24
+AL000978,T315118,C100850,High-risk country,2025-08-19,25,Closed,No Suspicious Activity,INV100,2025-08-29
+AL000979,T315129,C101029,Near-threshold transaction + High-risk customer,2025-09-23,25,Closed,Suspicious Activity,INV114,2025-10-04
+AL000980,T315143,C101258,High-value transaction,2025-12-17,20,Closed,False Positive,INV103,2025-12-18
+AL000981,T315174,C101962,High-risk country,2025-05-13,25,Closed,False Positive,INV127,2025-05-21
+AL000982,T315184,C100608,High-value transaction + High-risk customer,2025-02-21,30,Closed,Suspicious Activity,INV116,2025-03-02
+AL000983,T315198,C101219,High-risk country,2025-09-15,25,Closed,False Positive,INV116,2025-09-24
+AL000984,T315202,C101946,High-value transaction,2025-06-24,20,Open,False Positive,INV115,2025-06-28
+AL000985,T315208,C101227,High-risk country,2025-03-15,25,Closed,False Positive,INV109,2025-03-26
+AL000986,T315216,C101229,High-risk country,2025-05-04,25,Open,Suspicious Activity,INV120,2025-05-05
+AL000987,T315217,C101810,Near-threshold transaction + High-risk customer,2025-10-08,25,Open,No Suspicious Activity,INV114,2025-10-13
+AL000988,T315247,C100972,High-risk country + High-risk customer,2025-05-12,35,Closed,False Positive,INV110,2025-05-17
+AL000989,T315289,C101857,High-risk country,2025-01-06,25,Closed,False Positive,INV103,2025-01-16
+AL000990,T315299,C100750,High-risk country,2025-10-15,25,Closed,No Suspicious Activity,INV112,2025-10-26
+AL000991,T315304,C101829,High-value transaction,2025-07-14,20,Closed,False Positive,INV121,2025-07-18
+AL000992,T315336,C100078,High-risk country,2025-10-23,25,Open,Suspicious Activity,INV127,2025-10-22
+AL000993,T315343,C101885,High-value transaction,2025-10-19,20,Closed,False Positive,INV105,2025-10-18
+AL000994,T315347,C101508,High-risk country,2025-10-09,25,Closed,False Positive,INV123,2025-10-17
+AL000995,T315355,C100760,High-risk country,2025-11-21,25,Closed,False Positive,INV121,2025-11-22
+AL000996,T315360,C101562,High-risk country,2025-12-18,25,Closed,False Positive,INV104,2025-12-24
+AL000997,T315388,C101876,High-risk country,2025-10-07,25,Closed,False Positive,INV115,2025-10-08
+AL000998,T315406,C101761,High-value transaction,2025-01-26,20,Closed,False Positive,INV120,2025-02-03
+AL000999,T315410,C101655,High-risk country,2025-05-13,25,Closed,False Positive,INV128,2025-05-21
+AL001000,T315453,C101658,High-risk country,2025-01-08,25,Closed,False Positive,INV111,2025-01-13
+AL001001,T315460,C100125,High-risk country,2025-08-08,25,Closed,No Suspicious Activity,INV101,2025-08-14
+AL001002,T315531,C100350,High-risk country,2025-04-12,25,Open,False Positive,INV104,2025-04-23
+AL001003,T315552,C100847,High-risk country,2025-06-12,25,Closed,False Positive,INV116,2025-06-25
+AL001004,T315555,C100598,High-value transaction,2025-05-15,20,Closed,Suspicious Activity,INV103,2025-05-16
+AL001005,T315558,C100528,High-value transaction,2025-03-07,20,Closed,False Positive,INV104,2025-03-16
+AL001006,T315569,C100077,High-risk country,2025-07-09,25,Closed,Suspicious Activity,INV116,2025-07-15
+AL001007,T315598,C101221,High-value transaction,2025-03-14,20,Closed,False Positive,INV127,2025-03-14
+AL001008,T315602,C100354,High-risk country,2025-10-30,25,Closed,No Suspicious Activity,INV115,2025-11-02
+AL001009,T315618,C100513,High-risk country,2025-01-06,25,Closed,False Positive,INV102,2025-01-05
+AL001010,T315628,C101680,High-risk country,2025-01-04,25,Closed,False Positive,INV124,2025-01-10
+AL001011,T315629,C100269,High-value transaction,2025-02-24,20,Closed,False Positive,INV127,2025-02-26
+AL001012,T315642,C100425,High-risk country,2025-03-29,25,Closed,Suspicious Activity,INV118,2025-03-30
+AL001013,T315659,C100780,High-value transaction,2025-09-23,20,Closed,Suspicious Activity,INV126,2025-10-03
+AL001014,T315674,C101422,High-risk country + Near-threshold transaction,2025-01-25,40,Closed,False Positive,INV105,2025-01-26
+AL001015,T315688,C101469,High-risk country,2025-01-18,25,Closed,False Positive,INV129,2025-01-31
+AL001016,T315690,C101521,High-risk country + Near-threshold transaction,2025-04-16,40,Closed,False Positive,INV123,2025-04-25
+AL001017,T315691,C101288,High-risk country,2025-01-21,25,Closed,False Positive,INV108,2025-01-31
+AL001018,T315694,C100379,High-value transaction,2025-07-20,20,Closed,No Suspicious Activity,INV116,2025-07-31
+AL001019,T315698,C101655,High-value transaction,2025-08-14,20,Closed,False Positive,INV117,2025-08-28
+AL001020,T315699,C100831,High-risk country,2025-07-30,25,Open,Suspicious Activity,INV112,2025-07-28
+AL001021,T315734,C100730,High-risk country,2025-07-05,25,Closed,Suspicious Activity,INV114,2025-07-09
+AL001022,T315737,C101634,High-risk country + Near-threshold transaction,2025-08-07,40,Closed,False Positive,INV114,2025-08-11
+AL001023,T315739,C101047,High-risk country,2025-06-11,25,Open,Suspicious Activity,INV113,2025-06-19
+AL001024,T315752,C101135,Near-threshold transaction + High-risk customer,2025-04-26,25,Open,Suspicious Activity,INV125,2025-05-01
+AL001025,T315761,C100083,High-risk country + High-risk customer,2025-08-26,35,Closed,Suspicious Activity,INV118,2025-08-29
+AL001026,T315787,C100351,High-value transaction,2025-12-08,20,Closed,Suspicious Activity,INV128,2025-12-11
+AL001027,T315804,C100394,High-risk country,2025-08-26,25,Closed,No Suspicious Activity,INV109,2025-08-27
+AL001028,T315815,C100090,High-risk country,2025-06-17,25,Open,Suspicious Activity,INV108,2025-06-22
+AL001029,T315847,C100595,High-value transaction + High-risk country,2025-12-04,45,Open,False Positive,INV107,2025-12-16
+AL001030,T315869,C101752,High-risk country + Near-threshold transaction,2025-04-19,40,Closed,False Positive,INV101,2025-04-30
+AL001031,T315874,C101936,High-risk country,2025-01-16,25,Closed,Suspicious Activity,INV104,2025-01-25
+AL001032,T315877,C100794,High-value transaction,2025-07-12,20,Closed,Suspicious Activity,INV113,2025-07-16
+AL001033,T315892,C101104,High-risk country,2025-05-24,25,Closed,False Positive,INV110,2025-06-04
+AL001034,T315900,C100526,High-risk country + High-risk customer,2025-03-26,35,Closed,No Suspicious Activity,INV112,2025-03-31
+AL001035,T315909,C100767,High-value transaction,2025-05-07,20,Closed,No Suspicious Activity,INV119,2025-05-12
+AL001036,T315936,C100662,High-value transaction + High-risk customer,2025-03-27,30,Closed,False Positive,INV116,2025-04-07
+AL001037,T315954,C100480,Near-threshold transaction + High-risk customer,2025-08-13,25,Open,False Positive,INV103,2025-08-16
+AL001038,T315978,C101479,High-risk country + Near-threshold transaction,2025-02-26,40,Open,False Positive,INV117,2025-03-03
+AL001039,T315998,C100284,High-risk country,2025-07-30,25,Closed,False Positive,INV110,2025-08-08
+AL001040,T316004,C101017,High-risk country,2025-11-07,25,Closed,No Suspicious Activity,INV111,2025-11-14
+AL001041,T316021,C101157,High-value transaction,2025-11-17,20,Closed,Suspicious Activity,INV126,2025-11-16
+AL001042,T316051,C101059,High-risk country,2025-10-28,25,Closed,False Positive,INV109,2025-10-29
+AL001043,T316056,C101678,High-risk country,2025-10-30,25,Open,False Positive,INV113,2025-11-01
+AL001044,T316059,C100236,High-risk country,2025-05-01,25,Open,False Positive,INV107,2025-05-01
+AL001045,T316069,C100258,High-risk country,2025-10-17,25,Closed,False Positive,INV100,2025-10-30
+AL001046,T316083,C100552,Near-threshold transaction + High-risk customer,2025-11-20,25,Closed,Suspicious Activity,INV110,2025-11-24
+AL001047,T316117,C100840,High-risk country,2025-04-22,25,Open,No Suspicious Activity,INV102,2025-05-01
+AL001048,T316118,C101074,Near-threshold transaction + High-risk customer,2025-06-23,25,Closed,False Positive,INV129,2025-06-25
+AL001049,T316175,C101457,High-value transaction,2025-12-16,20,Closed,False Positive,INV104,2025-12-27
+AL001050,T316186,C101522,High-value transaction,2025-02-07,20,Closed,False Positive,INV116,2025-02-09
+AL001051,T316195,C100622,Near-threshold transaction + High-risk customer,2025-05-29,25,Closed,No Suspicious Activity,INV114,2025-06-01
+AL001052,T316201,C100952,High-risk country,2025-05-12,25,Closed,False Positive,INV101,2025-05-12
+AL001053,T316218,C100248,High-value transaction,2025-11-14,20,Closed,No Suspicious Activity,INV102,2025-11-12
+AL001054,T316221,C101024,High-value transaction,2025-11-11,20,Open,Suspicious Activity,INV105,2025-11-22
+AL001055,T316235,C100724,Near-threshold transaction + High-risk customer,2025-09-19,25,Closed,False Positive,INV128,2025-10-01
+AL001056,T316254,C100335,High-risk country + High-risk customer,2025-01-14,35,Closed,No Suspicious Activity,INV126,2025-01-23
+AL001057,T316287,C100190,Near-threshold transaction + High-risk customer,2025-12-14,25,Open,False Positive,INV128,2025-12-17
+AL001058,T316336,C101322,High-risk country,2025-11-25,25,Closed,Suspicious Activity,INV116,2025-12-06
+AL001059,T316340,C100141,High-value transaction,2025-07-06,20,Closed,No Suspicious Activity,INV117,2025-07-15
+AL001060,T316365,C101563,High-risk country,2025-05-07,25,Closed,False Positive,INV117,2025-05-14
+AL001061,T316398,C100759,High-risk country + High-risk customer,2025-04-12,35,Closed,False Positive,INV123,2025-04-23
+AL001062,T316427,C101115,High-value transaction,2025-08-31,20,Closed,False Positive,INV124,2025-09-04
+AL001063,T316437,C101546,High-risk country,2025-08-06,25,Closed,False Positive,INV121,2025-08-11
+AL001064,T316477,C101853,High-risk country,2025-07-01,25,Closed,False Positive,INV102,2025-07-07
+AL001065,T316486,C101127,High-risk country,2025-07-25,25,Closed,False Positive,INV110,2025-08-01
+AL001066,T316489,C101814,High-risk country + Near-threshold transaction,2025-11-16,40,Closed,False Positive,INV127,2025-11-16
+AL001067,T316494,C100313,High-risk country + High-risk customer,2025-01-24,35,Closed,No Suspicious Activity,INV121,2025-01-26
+AL001068,T316550,C101363,High-risk country,2025-07-26,25,Closed,False Positive,INV118,2025-07-30
+AL001069,T316578,C101696,High-value transaction,2025-06-23,20,Closed,Suspicious Activity,INV100,2025-07-03
+AL001070,T316582,C101319,High-risk country,2025-07-08,25,Closed,No Suspicious Activity,INV106,2025-07-15
+AL001071,T316588,C100798,High-risk country + High-risk customer,2025-12-19,35,Closed,No Suspicious Activity,INV120,2025-12-22
+AL001072,T316599,C100068,High-risk country,2025-05-19,25,Open,False Positive,INV105,2025-05-25
+AL001073,T316600,C101361,High-risk country,2025-08-02,25,Open,No Suspicious Activity,INV115,2025-08-13
+AL001074,T316639,C100267,High-risk country,2025-09-24,25,Open,False Positive,INV108,2025-09-27
+AL001075,T316663,C101193,High-value transaction + High-risk country,2025-03-18,45,Open,False Positive,INV115,2025-03-22
+AL001076,T316722,C100717,High-risk country,2025-02-13,25,Closed,Suspicious Activity,INV106,2025-02-19
+AL001077,T316727,C101115,High-risk country + Near-threshold transaction,2025-01-18,40,Closed,False Positive,INV125,2025-01-25
+AL001078,T316734,C100993,High-risk country,2025-11-29,25,Closed,False Positive,INV128,2025-12-09
+AL001079,T316748,C101577,High-risk country,2025-01-09,25,Closed,False Positive,INV117,2025-01-20
+AL001080,T316765,C100229,High-risk country,2025-02-16,25,Closed,False Positive,INV126,2025-02-20
+AL001081,T316771,C100997,High-risk country,2025-12-17,25,Closed,Suspicious Activity,INV124,2025-12-18
+AL001082,T316811,C100471,High-risk country,2025-11-02,25,Closed,No Suspicious Activity,INV122,2025-11-09
+AL001083,T316823,C101331,Near-threshold transaction + High-risk customer,2025-08-05,25,Closed,No Suspicious Activity,INV128,2025-08-06
+AL001084,T316826,C100766,High-value transaction,2025-04-24,20,Closed,False Positive,INV129,2025-05-04
+AL001085,T316841,C100902,High-value transaction,2025-01-02,20,Closed,False Positive,INV126,2025-01-07
+AL001086,T316849,C101257,High-risk country,2025-05-12,25,Closed,False Positive,INV125,2025-05-18
+AL001087,T316859,C101465,High-risk country,2025-07-04,25,Closed,False Positive,INV122,2025-07-11
+AL001088,T316878,C101187,High-risk country,2025-03-25,25,Open,False Positive,INV100,2025-03-28
+AL001089,T316896,C100951,High-risk country + High-risk customer,2025-08-13,35,Closed,False Positive,INV107,2025-08-19
+AL001090,T316912,C101295,High-risk country,2025-09-22,25,Closed,False Positive,INV111,2025-09-24
+AL001091,T316948,C101504,High-risk country + Near-threshold transaction,2025-06-24,40,Closed,False Positive,INV114,2025-07-04
+AL001092,T316966,C101105,High-risk country,2025-04-27,25,Open,False Positive,INV121,2025-04-26
+AL001093,T316973,C101947,High-risk country,2025-04-09,25,Closed,False Positive,INV115,2025-04-17
+AL001094,T316990,C100365,High-value transaction,2025-12-10,20,Closed,False Positive,INV128,2025-12-23
+AL001095,T317053,C101739,High-risk country,2025-05-27,25,Closed,False Positive,INV110,2025-06-02
+AL001096,T317058,C101525,High-value transaction,2025-07-19,20,Closed,False Positive,INV119,2025-07-26
+AL001097,T317059,C100455,High-risk country,2025-06-04,25,Closed,False Positive,INV117,2025-06-08
+AL001098,T317089,C100121,High-value transaction,2025-08-02,20,Closed,No Suspicious Activity,INV116,2025-08-09
+AL001099,T317091,C101353,High-risk country,2025-07-24,25,Closed,False Positive,INV127,2025-07-29
+AL001100,T317099,C101182,High-risk country,2025-05-02,25,Closed,Suspicious Activity,INV115,2025-05-11
+AL001101,T317105,C100692,High-value transaction,2025-11-07,20,Closed,Suspicious Activity,INV121,2025-11-07
+AL001102,T317124,C101329,Near-threshold transaction + High-risk customer,2025-08-04,25,Closed,False Positive,INV119,2025-08-02
+AL001103,T317158,C101088,High-risk country,2025-05-14,25,Closed,False Positive,INV104,2025-05-19
+AL001104,T317165,C100062,High-risk country,2025-08-21,25,Closed,False Positive,INV112,2025-08-20
+AL001105,T317188,C101745,High-risk country + High-risk customer,2025-02-25,35,Open,False Positive,INV122,2025-03-02
+AL001106,T317258,C100965,High-risk country,2025-07-02,25,Closed,No Suspicious Activity,INV101,2025-07-09
+AL001107,T317277,C101473,High-value transaction,2025-02-17,20,Open,False Positive,INV102,2025-02-17
+AL001108,T317282,C100534,High-value transaction,2025-09-06,20,Closed,False Positive,INV104,2025-09-17
+AL001109,T317312,C100450,High-risk country,2025-08-21,25,Closed,False Positive,INV116,2025-08-31
+AL001110,T317338,C100413,High-risk country,2025-11-07,25,Closed,False Positive,INV104,2025-11-13
+AL001111,T317342,C100602,High-value transaction + High-risk country,2025-02-16,45,Closed,False Positive,INV120,2025-02-24
+AL001112,T317356,C100913,High-value transaction,2025-06-06,20,Open,False Positive,INV101,2025-06-05
+AL001113,T317358,C101268,High-risk country,2025-10-12,25,Closed,False Positive,INV120,2025-10-13
+AL001114,T317366,C100476,High-value transaction,2025-08-11,20,Open,No Suspicious Activity,INV121,2025-08-14
+AL001115,T317390,C101711,High-value transaction,2025-04-28,20,Closed,False Positive,INV111,2025-05-03
+AL001116,T317411,C100049,High-risk country,2025-09-18,25,Open,Suspicious Activity,INV127,2025-09-25
+AL001117,T317443,C100752,High-risk country,2025-09-09,25,Open,False Positive,INV116,2025-09-09
+AL001118,T317475,C100854,High-risk country + Near-threshold transaction,2025-03-28,40,Closed,No Suspicious Activity,INV100,2025-03-30
+AL001119,T317498,C100816,High-risk country,2025-03-18,25,Open,Suspicious Activity,INV123,2025-03-28
+AL001120,T317526,C100974,High-risk country,2025-10-09,25,Closed,False Positive,INV119,2025-10-09
+AL001121,T317544,C100794,High-risk country,2025-10-19,25,Closed,False Positive,INV124,2025-10-29
+AL001122,T317548,C101731,High-value transaction,2025-07-24,20,Closed,Suspicious Activity,INV122,2025-07-31
+AL001123,T317551,C101599,High-risk country,2025-02-06,25,Closed,No Suspicious Activity,INV108,2025-02-14
+AL001124,T317579,C101867,High-risk country,2025-06-24,25,Open,False Positive,INV122,2025-06-26
+AL001125,T317583,C101837,High-risk country + High-risk customer,2025-06-29,35,Closed,False Positive,INV129,2025-07-12
+AL001126,T317595,C101887,High-risk country,2025-09-25,25,Closed,Suspicious Activity,INV108,2025-10-03
+AL001127,T317613,C100754,High-risk country,2025-04-17,25,Closed,Suspicious Activity,INV128,2025-04-25
+AL001128,T317616,C101962,High-risk country,2025-02-27,25,Closed,Suspicious Activity,INV128,2025-03-04
+AL001129,T317648,C100601,High-risk country,2025-10-07,25,Closed,No Suspicious Activity,INV109,2025-10-16
+AL001130,T317680,C100634,High-risk country,2025-08-04,25,Closed,False Positive,INV110,2025-08-11
+AL001131,T317701,C101287,High-risk country + High-risk customer,2025-07-20,35,Open,False Positive,INV125,2025-07-29
+AL001132,T317720,C101198,High-value transaction,2025-06-09,20,Closed,No Suspicious Activity,INV100,2025-06-16
+AL001133,T317736,C100063,High-risk country,2025-10-30,25,Closed,False Positive,INV120,2025-11-01
+AL001134,T317794,C101437,High-risk country,2025-12-05,25,Closed,No Suspicious Activity,INV125,2025-12-18
+AL001135,T317801,C101076,High-risk country,2025-10-19,25,Open,No Suspicious Activity,INV126,2025-10-22
+AL001136,T317802,C101624,High-risk country,2025-01-06,25,Closed,False Positive,INV120,2025-01-16
+AL001137,T317812,C100509,High-risk country,2025-03-03,25,Open,False Positive,INV100,2025-03-14
+AL001138,T317814,C100161,High-value transaction,2025-10-28,20,Closed,False Positive,INV114,2025-11-03
+AL001139,T317815,C101200,High-risk country,2025-09-15,25,Closed,False Positive,INV108,2025-09-19
+AL001140,T317849,C101629,High-risk country,2025-04-25,25,Closed,No Suspicious Activity,INV116,2025-05-06
+AL001141,T317850,C100726,High-value transaction,2025-11-21,20,Closed,False Positive,INV100,2025-11-26
+AL001142,T317874,C101519,High-risk country,2025-03-19,25,Closed,False Positive,INV107,2025-03-19
+AL001143,T317875,C101200,High-risk country,2025-08-31,25,Closed,False Positive,INV117,2025-08-31
+AL001144,T317881,C100545,High-risk country,2025-04-01,25,Open,No Suspicious Activity,INV103,2025-04-10
+AL001145,T317899,C101036,High-risk country + Near-threshold transaction,2025-04-21,40,Closed,False Positive,INV127,2025-05-01
+AL001146,T317903,C101315,High-risk country,2025-08-08,25,Closed,Suspicious Activity,INV112,2025-08-19
+AL001147,T317904,C101607,High-risk country,2025-12-19,25,Closed,False Positive,INV117,2025-12-24
+AL001148,T317912,C101647,High-risk country,2025-02-04,25,Closed,No Suspicious Activity,INV100,2025-02-14
+AL001149,T317956,C101118,High-risk country + Near-threshold transaction,2025-02-19,40,Open,False Positive,INV101,2025-02-27
+AL001150,T317957,C100083,High-risk country + High-risk customer,2025-03-25,35,Open,False Positive,INV110,2025-04-06
+AL001151,T317968,C100084,High-risk country,2025-02-04,25,Open,Suspicious Activity,INV127,2025-02-11
+AL001152,T317978,C101510,High-risk country,2025-01-22,25,Closed,Suspicious Activity,INV128,2025-01-24
+AL001153,T317992,C100048,Near-threshold transaction + High-risk customer,2025-05-25,25,Closed,No Suspicious Activity,INV124,2025-05-29
+AL001154,T318037,C100290,High-risk country,2025-10-04,25,Closed,False Positive,INV128,2025-10-06
+AL001155,T318046,C101706,High-risk country,2025-03-11,25,Closed,False Positive,INV120,2025-03-13
+AL001156,T318052,C101009,High-risk country,2025-05-01,25,Closed,No Suspicious Activity,INV103,2025-05-12
+AL001157,T318094,C101820,High-risk country,2025-01-12,25,Closed,False Positive,INV128,2025-01-14
+AL001158,T318166,C101563,High-risk country,2025-10-17,25,Closed,False Positive,INV108,2025-10-19
+AL001159,T318184,C100084,High-risk country,2025-01-04,25,Closed,No Suspicious Activity,INV103,2025-01-14
+AL001160,T318194,C101579,High-risk country,2025-11-17,25,Closed,False Positive,INV127,2025-11-20
+AL001161,T318197,C100846,High-risk country,2025-10-24,25,Closed,False Positive,INV122,2025-11-02
+AL001162,T318203,C100105,High-value transaction,2025-12-02,20,Closed,Suspicious Activity,INV123,2025-12-09
+AL001163,T318205,C101920,High-risk country,2025-04-16,25,Closed,No Suspicious Activity,INV121,2025-04-17
+AL001164,T318227,C101132,High-risk country,2025-07-24,25,Closed,False Positive,INV122,2025-08-04
+AL001165,T318250,C101441,High-risk country,2025-07-28,25,Closed,False Positive,INV101,2025-08-04
+AL001166,T318255,C101847,High-value transaction,2025-08-10,20,Open,Suspicious Activity,INV105,2025-08-21
+AL001167,T318275,C101453,High-risk country,2025-12-04,25,Closed,No Suspicious Activity,INV125,2025-12-05
+AL001168,T318337,C101226,High-risk country,2025-05-25,25,Closed,Suspicious Activity,INV106,2025-06-05
+AL001169,T318345,C101043,High-value transaction,2025-12-18,20,Closed,False Positive,INV114,2025-12-29
+AL001170,T318363,C100724,Near-threshold transaction + High-risk customer,2025-01-13,25,Closed,No Suspicious Activity,INV118,2025-01-15
+AL001171,T318365,C100601,High-risk country,2025-07-10,25,Closed,No Suspicious Activity,INV101,2025-07-13
+AL001172,T318375,C100600,High-risk country,2025-09-19,25,Closed,No Suspicious Activity,INV105,2025-09-20
+AL001173,T318399,C101699,High-value transaction,2025-03-13,20,Closed,False Positive,INV112,2025-03-22
+AL001174,T318416,C101743,High-risk country,2025-01-21,25,Closed,Suspicious Activity,INV101,2025-01-29
+AL001175,T318430,C100261,High-risk country + High-risk customer,2025-10-14,35,Closed,False Positive,INV126,2025-10-21
+AL001176,T318431,C101787,High-risk country,2025-05-13,25,Closed,False Positive,INV110,2025-05-13
+AL001177,T318455,C100009,High-risk country,2025-12-26,25,Closed,No Suspicious Activity,INV112,2025-12-25
+AL001178,T318463,C100037,High-risk country,2025-10-04,25,Closed,False Positive,INV107,2025-10-13
+AL001179,T318471,C100460,High-risk country + High-risk customer,2025-05-18,35,Closed,Suspicious Activity,INV114,2025-05-22
+AL001180,T318478,C101656,High-value transaction,2025-12-14,20,Closed,False Positive,INV116,2025-12-21
+AL001181,T318503,C100827,High-value transaction,2025-09-11,20,Open,Suspicious Activity,INV104,2025-09-12
+AL001182,T318515,C100695,High-risk country,2025-12-04,25,Open,Suspicious Activity,INV116,2025-12-11
+AL001183,T318525,C100780,High-value transaction,2025-07-17,20,Open,No Suspicious Activity,INV115,2025-07-23
+AL001184,T318529,C100754,High-value transaction,2025-03-11,20,Open,No Suspicious Activity,INV119,2025-03-23
+AL001185,T318541,C100446,High-risk country,2025-04-27,25,Closed,Suspicious Activity,INV121,2025-05-08
+AL001186,T318557,C101894,High-risk country,2025-11-24,25,Closed,False Positive,INV124,2025-12-03
+AL001187,T318620,C100541,High-value transaction,2025-03-23,20,Closed,False Positive,INV118,2025-03-26
+AL001188,T318633,C101329,High-risk country + Near-threshold transaction + High-risk customer,2025-08-12,50,Closed,Suspicious Activity,INV124,2025-08-19
+AL001189,T318658,C101873,High-risk country,2025-11-07,25,Open,No Suspicious Activity,INV128,2025-11-11
+AL001190,T318672,C101762,High-risk country,2025-03-29,25,Closed,False Positive,INV101,2025-04-07
+AL001191,T318673,C101690,High-risk country,2025-12-05,25,Closed,No Suspicious Activity,INV119,2025-12-09
+AL001192,T318708,C100624,High-risk country,2025-07-20,25,Closed,False Positive,INV109,2025-07-25
+AL001193,T318734,C100889,High-risk country,2025-10-01,25,Closed,Suspicious Activity,INV124,2025-10-10
+AL001194,T318761,C101418,High-risk country,2025-04-11,25,Closed,No Suspicious Activity,INV120,2025-04-17
+AL001195,T318767,C101065,High-risk country,2025-05-01,25,Closed,No Suspicious Activity,INV107,2025-05-10
+AL001196,T318782,C101870,High-risk country,2025-09-11,25,Closed,False Positive,INV124,2025-09-21
+AL001197,T318821,C101363,High-risk country,2025-03-07,25,Closed,Suspicious Activity,INV109,2025-03-18
+AL001198,T318837,C101002,High-value transaction,2025-08-07,20,Open,No Suspicious Activity,INV107,2025-08-17
+AL001199,T318843,C101812,High-risk country + High-risk customer,2025-03-17,35,Closed,Suspicious Activity,INV128,2025-03-25
+AL001200,T318879,C101067,High-risk country,2025-10-29,25,Closed,False Positive,INV103,2025-11-10
+AL001201,T318897,C100700,High-risk country,2025-08-07,25,Open,False Positive,INV107,2025-08-16
+AL001202,T318898,C100030,High-risk country,2025-01-18,25,Closed,Suspicious Activity,INV103,2025-01-19
+AL001203,T318934,C100979,High-risk country,2025-09-17,25,Closed,False Positive,INV129,2025-09-17
+AL001204,T318951,C100608,High-risk country + High-risk customer,2025-01-21,35,Closed,False Positive,INV123,2025-01-25
+AL001205,T318952,C101658,High-risk country,2025-01-18,25,Closed,Suspicious Activity,INV106,2025-01-20
+AL001206,T318957,C100295,High-risk country,2025-06-05,25,Closed,No Suspicious Activity,INV122,2025-06-12
+AL001207,T318962,C100368,High-risk country,2025-07-23,25,Closed,False Positive,INV104,2025-07-30
+AL001208,T319014,C100159,High-value transaction,2025-05-18,20,Open,False Positive,INV113,2025-05-27
+AL001209,T319018,C101741,High-value transaction,2025-02-27,20,Closed,False Positive,INV120,2025-02-28
+AL001210,T319028,C100929,High-risk country,2025-02-15,25,Closed,False Positive,INV128,2025-02-20
+AL001211,T319041,C101094,High-risk country,2025-11-03,25,Closed,Suspicious Activity,INV107,2025-11-11
+AL001212,T319055,C100116,High-risk country + High-risk customer,2025-06-28,35,Closed,Suspicious Activity,INV115,2025-06-30
+AL001213,T319057,C100763,High-risk country,2025-10-30,25,Closed,False Positive,INV122,2025-11-05
+AL001214,T319064,C100480,Near-threshold transaction + High-risk customer,2025-06-09,25,Closed,No Suspicious Activity,INV112,2025-06-17
+AL001215,T319068,C101575,High-risk country,2025-10-15,25,Closed,False Positive,INV113,2025-10-24
+AL001216,T319074,C101401,High-risk country,2025-08-29,25,Closed,No Suspicious Activity,INV119,2025-09-06
+AL001217,T319086,C101654,High-risk country,2025-05-15,25,Open,No Suspicious Activity,INV119,2025-05-19
+AL001218,T319106,C101893,High-risk country,2025-03-16,25,Closed,False Positive,INV125,2025-03-17
+AL001219,T319117,C101316,High-risk country,2025-03-06,25,Closed,Suspicious Activity,INV129,2025-03-11
+AL001220,T319146,C100815,High-risk country,2025-12-19,25,Closed,Suspicious Activity,INV106,2025-12-25
+AL001221,T319153,C101885,High-risk country,2025-03-24,25,Closed,Suspicious Activity,INV102,2025-03-30
+AL001222,T319200,C101876,High-risk country,2025-05-25,25,Closed,False Positive,INV112,2025-05-25
+AL001223,T319205,C100343,High-risk country + High-risk customer,2025-11-22,35,Closed,False Positive,INV108,2025-12-01
+AL001224,T319218,C101072,High-value transaction,2025-10-31,20,Closed,False Positive,INV115,2025-11-05
+AL001225,T319221,C100097,High-risk country + High-risk customer,2025-03-31,35,Closed,No Suspicious Activity,INV102,2025-04-02
+AL001226,T319222,C101033,High-risk country,2025-09-01,25,Open,No Suspicious Activity,INV101,2025-09-02
+AL001227,T319233,C100454,High-risk country,2025-04-16,25,Closed,No Suspicious Activity,INV112,2025-04-27
+AL001228,T319236,C100662,High-risk country + High-risk customer,2025-09-20,35,Closed,No Suspicious Activity,INV112,2025-09-27
+AL001229,T319238,C101322,High-risk country,2025-01-05,25,Closed,False Positive,INV117,2025-01-03
+AL001230,T319251,C100036,High-risk country,2025-05-11,25,Open,No Suspicious Activity,INV121,2025-05-21
+AL001231,T319296,C100898,High-value transaction,2025-05-13,20,Closed,False Positive,INV113,2025-05-16
+AL001232,T319308,C100166,High-risk country + High-risk customer,2025-10-01,35,Open,Suspicious Activity,INV108,2025-09-30
+AL001233,T319313,C100144,High-risk country,2025-02-11,25,Closed,No Suspicious Activity,INV117,2025-02-25
+AL001234,T319331,C101463,High-risk country,2025-12-09,25,Closed,False Positive,INV115,2025-12-19
+AL001235,T319351,C100077,High-risk country,2025-12-07,25,Closed,False Positive,INV128,2025-12-05
+AL001236,T319380,C101180,High-risk country,2025-04-06,25,Closed,No Suspicious Activity,INV113,2025-04-12
+AL001237,T319399,C101059,High-value transaction,2025-07-21,20,Closed,No Suspicious Activity,INV115,2025-07-27
+AL001238,T319412,C101794,High-risk country,2025-01-30,25,Closed,False Positive,INV114,2025-02-02
+AL001239,T319414,C101560,High-risk country,2025-12-26,25,Closed,False Positive,INV109,2026-01-01
+AL001240,T319419,C100945,High-risk country + High-risk customer,2025-08-26,35,Open,Suspicious Activity,INV127,2025-09-03
+AL001241,T319421,C101605,High-value transaction,2025-04-25,20,Closed,No Suspicious Activity,INV107,2025-04-28
+AL001242,T319432,C101811,High-risk country,2025-04-19,25,Open,No Suspicious Activity,INV128,2025-04-25
+AL001243,T319468,C101614,High-risk country,2025-11-04,25,Open,False Positive,INV127,2025-11-07
+AL001244,T319475,C100186,High-risk country,2025-03-26,25,Closed,False Positive,INV123,2025-03-27
+AL001245,T319503,C100345,High-risk country,2025-06-19,25,Closed,No Suspicious Activity,INV125,2025-06-29
+AL001246,T319510,C100447,High-risk country,2025-11-26,25,Closed,False Positive,INV121,2025-12-06
+AL001247,T319548,C101285,High-risk country + Near-threshold transaction,2025-08-15,40,Open,No Suspicious Activity,INV119,2025-08-16
+AL001248,T319563,C101048,High-risk country,2025-10-30,25,Closed,False Positive,INV110,2025-11-10
+AL001249,T319567,C101253,High-risk country,2025-01-24,25,Closed,False Positive,INV109,2025-01-31
+AL001250,T319569,C100699,High-value transaction,2025-10-13,20,Closed,False Positive,INV107,2025-10-25
+AL001251,T319586,C101936,High-value transaction,2025-03-16,20,Closed,No Suspicious Activity,INV120,2025-03-24
+AL001252,T319592,C100293,High-value transaction,2025-01-17,20,Closed,False Positive,INV119,2025-01-22
+AL001253,T319667,C100570,High-risk country,2025-04-13,25,Closed,False Positive,INV110,2025-04-18
+AL001254,T319702,C101871,High-risk country,2025-06-23,25,Closed,False Positive,INV120,2025-06-29
+AL001255,T319725,C100587,Near-threshold transaction + High-risk customer,2025-08-02,25,Closed,No Suspicious Activity,INV117,2025-08-04
+AL001256,T319737,C101503,High-risk country,2025-02-16,25,Closed,False Positive,INV122,2025-02-26
+AL001257,T319760,C101451,Near-threshold transaction + High-risk customer,2025-06-27,25,Closed,False Positive,INV105,2025-07-03
+AL001258,T319790,C100144,High-value transaction,2025-05-03,20,Closed,False Positive,INV113,2025-05-10
+AL001259,T319793,C101108,High-risk country,2025-09-22,25,Closed,Suspicious Activity,INV128,2025-09-30
+AL001260,T319798,C101109,High-value transaction,2025-04-01,20,Closed,No Suspicious Activity,INV109,2025-04-11
+AL001261,T319799,C101448,High-risk country,2025-12-14,25,Closed,False Positive,INV108,2025-12-18
+AL001262,T319808,C100575,High-value transaction,2025-04-25,20,Open,No Suspicious Activity,INV104,2025-04-27
+AL001263,T319844,C100480,High-risk country + High-risk customer,2025-11-08,35,Closed,No Suspicious Activity,INV118,2025-11-07
+AL001264,T319851,C100486,High-value transaction,2025-07-02,20,Open,False Positive,INV128,2025-07-12
+AL001265,T319853,C100284,High-risk country,2025-05-31,25,Closed,No Suspicious Activity,INV122,2025-06-05
+AL001266,T319858,C100763,High-risk country,2025-12-17,25,Closed,No Suspicious Activity,INV123,2025-12-26
+AL001267,T319871,C100057,High-risk country,2025-05-03,25,Closed,False Positive,INV129,2025-05-14
+AL001268,T319877,C101063,High-value transaction,2025-05-23,20,Closed,False Positive,INV127,2025-05-27
+AL001269,T319886,C101212,High-risk country,2025-04-24,25,Closed,No Suspicious Activity,INV104,2025-05-01
+AL001270,T319924,C101267,High-risk country,2025-08-15,25,Closed,No Suspicious Activity,INV101,2025-08-29
+AL001271,T319971,C101243,High-value transaction,2025-11-29,20,Closed,False Positive,INV114,2025-12-04
+AL001272,T319985,C100534,High-risk country,2025-09-29,25,Open,No Suspicious Activity,INV101,2025-10-06
+AL001273,T319989,C101814,High-risk country,2025-07-25,25,Open,Suspicious Activity,INV105,2025-07-31

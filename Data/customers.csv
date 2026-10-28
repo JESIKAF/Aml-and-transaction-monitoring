@@ -1,0 +1,2001 @@
+customer_id,customer_name,age,gender,occupation,country,city,customer_type,account_open_date,risk_rating,annual_income
+C100000,Customer_0001,25,Female,Consultant,India,Delhi,Individual,2024-03-03,Medium,4629546
+C100001,Customer_0002,58,Female,Student,India,Hyderabad,SME,2025-06-01,Medium,2734908
+C100002,Customer_0003,53,Female,Consultant,UK,Chennai,Individual,2019-03-21,Low,3186320
+C100003,Customer_0004,42,Female,Consultant,India,Chennai,Individual,2020-02-02,Low,1962079
+C100004,Customer_0005,42,Male,Business Owner,India,Delhi,SME,2018-04-26,Low,4486150
+C100005,Customer_0006,63,Female,Self-Employed,India,Delhi,Individual,2022-02-24,Low,652762
+C100006,Customer_0007,25,Male,Self-Employed,India,Delhi,SME,2022-03-12,Low,1598863
+C100007,Customer_0008,55,Female,Student,India,Mumbai,Individual,2018-04-03,High,4957568
+C100008,Customer_0009,30,Male,Salaried,India,Delhi,Individual,2023-08-13,Low,2575385
+C100009,Customer_0010,25,Female,Salaried,India,Chennai,Individual,2018-01-28,Low,1121436
+C100010,Customer_0011,46,Male,Business Owner,India,Mumbai,Individual,2024-09-23,Medium,2244589
+C100011,Customer_0012,68,Male,Student,India,Hyderabad,Corporate,2023-12-27,Low,1499949
+C100012,Customer_0013,57,Female,Consultant,Singapore,Delhi,Individual,2024-12-01,Low,2768847
+C100013,Customer_0014,58,Male,Consultant,India,Pune,Individual,2019-01-02,Low,1408804
+C100014,Customer_0015,56,Female,Consultant,India,Ahmedabad,Individual,2025-05-22,High,2176855
+C100015,Customer_0016,59,Female,Salaried,India,Kolkata,Corporate,2022-08-26,Low,4567324
+C100016,Customer_0017,46,Male,Self-Employed,India,Hyderabad,Individual,2025-04-30,Medium,687128
+C100017,Customer_0018,27,Male,Salaried,India,Kolkata,Individual,2023-11-28,Medium,3889335
+C100018,Customer_0019,62,Female,Student,India,Chennai,Individual,2023-07-28,Low,667494
+C100019,Customer_0020,43,Female,Student,USA,Kolkata,Individual,2018-04-10,Medium,2449450
+C100020,Customer_0021,45,Male,Self-Employed,India,Hyderabad,Corporate,2023-11-16,Low,3441163
+C100021,Customer_0022,39,Male,Self-Employed,India,Kolkata,Corporate,2021-10-23,Low,4790488
+C100022,Customer_0023,29,Other,Self-Employed,India,Ahmedabad,Individual,2025-03-17,Low,1475387
+C100023,Customer_0024,66,Male,Retired,Singapore,Pune,Individual,2023-10-22,High,548081
+C100024,Customer_0025,59,Male,Business Owner,USA,Ahmedabad,Individual,2018-08-19,Low,3828989
+C100025,Customer_0026,52,Female,Student,UAE,Chennai,Individual,2025-07-21,Low,4500250
+C100026,Customer_0027,40,Male,Business Owner,India,Mumbai,Individual,2018-07-15,High,2955770
+C100027,Customer_0028,61,Female,Student,India,Pune,Individual,2020-07-16,Low,584008
+C100028,Customer_0029,47,Male,Consultant,India,Delhi,Individual,2019-11-04,Medium,2653156
+C100029,Customer_0030,42,Female,Self-Employed,Singapore,Chennai,SME,2026-04-09,Medium,2138314
+C100030,Customer_0031,43,Male,Retired,India,Pune,Individual,2019-04-20,Low,2421960
+C100031,Customer_0032,32,Male,Student,India,Chennai,Individual,2025-03-03,Medium,553822
+C100032,Customer_0033,25,Male,Student,India,Ahmedabad,Individual,2019-11-20,Medium,1791554
+C100033,Customer_0034,48,Male,Retired,India,Mumbai,Individual,2023-07-10,Low,4995154
+C100034,Customer_0035,64,Female,Self-Employed,India,Hyderabad,Individual,2018-10-08,High,515236
+C100035,Customer_0036,24,Male,Salaried,India,Kolkata,Individual,2021-04-29,High,4597630
+C100036,Customer_0037,63,Female,Consultant,India,Delhi,Individual,2023-04-16,Medium,2732393
+C100037,Customer_0038,61,Female,Self-Employed,UK,Pune,Individual,2024-01-14,Medium,3048555
+C100038,Customer_0039,34,Female,Business Owner,India,Pune,SME,2025-05-28,Low,4687527
+C100039,Customer_0040,51,Female,Self-Employed,UK,Ahmedabad,SME,2024-12-05,Low,1323869
+C100040,Customer_0041,29,Female,Business Owner,India,Hyderabad,Individual,2022-05-27,Low,4926706
+C100041,Customer_0042,58,Male,Business Owner,USA,Ahmedabad,Individual,2020-07-29,Low,1600855
+C100042,Customer_0043,55,Male,Business Owner,India,Delhi,Individual,2020-03-20,Medium,1940716
+C100043,Customer_0044,38,Male,Student,Singapore,Ahmedabad,Individual,2026-06-05,Medium,2412853
+C100044,Customer_0045,24,Female,Consultant,India,Pune,Corporate,2023-03-01,Low,3127223
+C100045,Customer_0046,68,Female,Business Owner,India,Mumbai,Corporate,2025-09-17,Low,1817066
+C100046,Customer_0047,42,Female,Salaried,India,Pune,Individual,2021-09-06,Medium,4027603
+C100047,Customer_0048,64,Male,Consultant,India,Ahmedabad,Individual,2022-02-14,Low,400175
+C100048,Customer_0049,54,Male,Self-Employed,India,Mumbai,Individual,2025-01-03,High,3433037
+C100049,Customer_0050,59,Female,Self-Employed,India,Kolkata,Individual,2024-02-19,Medium,3384403
+C100050,Customer_0051,58,Male,Business Owner,UAE,Chennai,Corporate,2019-09-15,Low,2812402
+C100051,Customer_0052,30,Female,Salaried,India,Kolkata,Individual,2022-06-13,Low,3183111
+C100052,Customer_0053,38,Female,Business Owner,India,Kolkata,Individual,2019-10-24,Medium,3814110
+C100053,Customer_0054,43,Female,Self-Employed,India,Mumbai,Individual,2024-06-16,Low,4550260
+C100054,Customer_0055,45,Female,Retired,UK,Pune,Individual,2018-04-03,Medium,1326395
+C100055,Customer_0056,23,Male,Retired,UK,Chennai,Individual,2025-01-07,Low,2541213
+C100056,Customer_0057,47,Male,Salaried,India,Delhi,SME,2025-11-20,Low,2942289
+C100057,Customer_0058,28,Female,Consultant,UAE,Ahmedabad,Individual,2018-03-13,Low,1920132
+C100058,Customer_0059,57,Male,Consultant,India,Mumbai,Individual,2023-05-09,Medium,4877138
+C100059,Customer_0060,54,Male,Business Owner,UK,Mumbai,Individual,2018-09-03,High,2704130
+C100060,Customer_0061,66,Male,Business Owner,UAE,Hyderabad,Individual,2021-01-21,Medium,3085452
+C100061,Customer_0062,57,Male,Student,India,Bengaluru,Individual,2020-11-09,Low,1215066
+C100062,Customer_0063,38,Female,Business Owner,India,Chennai,Individual,2022-05-31,Medium,2254220
+C100063,Customer_0064,68,Male,Salaried,India,Hyderabad,Individual,2025-10-15,Low,3240039
+C100064,Customer_0065,41,Female,Business Owner,India,Bengaluru,Individual,2021-12-01,Low,2313222
+C100065,Customer_0066,36,Other,Self-Employed,USA,Chennai,SME,2021-05-19,High,3919154
+C100066,Customer_0067,65,Female,Business Owner,India,Bengaluru,Individual,2018-10-15,Low,942601
+C100067,Customer_0068,39,Male,Self-Employed,India,Chennai,SME,2025-07-14,High,1021270
+C100068,Customer_0069,24,Female,Salaried,Singapore,Ahmedabad,Individual,2020-09-02,Low,1893251
+C100069,Customer_0070,44,Female,Retired,India,Ahmedabad,Individual,2021-12-04,Low,1796401
+C100070,Customer_0071,59,Male,Salaried,India,Bengaluru,Individual,2018-10-14,Low,4132630
+C100071,Customer_0072,30,Male,Student,India,Ahmedabad,Individual,2020-06-14,High,4378664
+C100072,Customer_0073,43,Female,Student,India,Hyderabad,Individual,2022-09-12,Low,2518202
+C100073,Customer_0074,27,Male,Consultant,India,Ahmedabad,Individual,2025-08-24,Medium,2675999
+C100074,Customer_0075,54,Male,Retired,India,Mumbai,SME,2020-10-16,Low,1683540
+C100075,Customer_0076,44,Female,Salaried,India,Bengaluru,Individual,2022-10-05,Medium,2799632
+C100076,Customer_0077,37,Male,Self-Employed,India,Pune,Individual,2025-06-07,Low,3620403
+C100077,Customer_0078,32,Male,Self-Employed,India,Mumbai,Corporate,2021-01-22,Low,3695318
+C100078,Customer_0079,48,Male,Consultant,India,Kolkata,Individual,2020-07-02,Medium,4854151
+C100079,Customer_0080,53,Female,Consultant,India,Hyderabad,Corporate,2018-05-18,Medium,3016096
+C100080,Customer_0081,67,Female,Retired,India,Hyderabad,SME,2025-09-15,Low,1899496
+C100081,Customer_0082,42,Male,Business Owner,India,Hyderabad,SME,2018-12-10,Low,627024
+C100082,Customer_0083,28,Male,Self-Employed,USA,Kolkata,SME,2019-10-30,Low,3533196
+C100083,Customer_0084,61,Male,Retired,India,Chennai,Individual,2019-03-08,High,4078620
+C100084,Customer_0085,51,Other,Student,India,Kolkata,Individual,2024-01-03,Medium,2896312
+C100085,Customer_0086,55,Male,Student,Singapore,Kolkata,Individual,2021-02-04,Medium,4637329
+C100086,Customer_0087,25,Male,Business Owner,India,Kolkata,Individual,2023-12-26,Medium,1789482
+C100087,Customer_0088,36,Male,Business Owner,India,Ahmedabad,Individual,2023-02-26,Medium,550402
+C100088,Customer_0089,58,Male,Business Owner,India,Kolkata,Individual,2018-02-16,Low,3275789
+C100089,Customer_0090,61,Female,Student,India,Delhi,Individual,2020-08-11,Low,869873
+C100090,Customer_0091,42,Female,Self-Employed,India,Hyderabad,Individual,2018-01-13,Medium,695344
+C100091,Customer_0092,60,Male,Retired,USA,Hyderabad,Individual,2018-07-23,Low,3599283
+C100092,Customer_0093,62,Female,Self-Employed,UK,Kolkata,SME,2022-01-06,Low,2341672
+C100093,Customer_0094,39,Female,Business Owner,India,Hyderabad,Individual,2020-03-31,Medium,3141027
+C100094,Customer_0095,65,Male,Self-Employed,India,Delhi,Individual,2018-10-04,Medium,3814256
+C100095,Customer_0096,35,Female,Consultant,India,Chennai,Individual,2021-06-20,Medium,2097829
+C100096,Customer_0097,32,Female,Student,India,Bengaluru,Individual,2021-11-01,Low,3172077
+C100097,Customer_0098,54,Male,Retired,India,Bengaluru,Individual,2026-06-04,High,2834468
+C100098,Customer_0099,52,Male,Student,India,Hyderabad,Individual,2023-08-13,Low,3026093
+C100099,Customer_0100,27,Female,Self-Employed,Singapore,Delhi,Individual,2021-05-03,Low,3605691
+C100100,Customer_0101,61,Female,Self-Employed,India,Pune,Individual,2022-01-07,High,2087797
+C100101,Customer_0102,30,Female,Retired,India,Hyderabad,Individual,2018-10-04,Medium,2671039
+C100102,Customer_0103,60,Male,Business Owner,India,Mumbai,Individual,2021-04-13,High,3078379
+C100103,Customer_0104,21,Male,Salaried,India,Delhi,Individual,2022-12-07,Medium,958885
+C100104,Customer_0105,60,Female,Student,Singapore,Chennai,Individual,2018-03-07,Medium,1294448
+C100105,Customer_0106,59,Male,Consultant,India,Kolkata,Individual,2025-10-21,Low,720349
+C100106,Customer_0107,59,Female,Salaried,India,Kolkata,Individual,2022-05-16,Low,1230712
+C100107,Customer_0108,53,Female,Student,USA,Mumbai,Individual,2024-09-04,High,2362636
+C100108,Customer_0109,44,Other,Consultant,Singapore,Bengaluru,Individual,2020-05-04,Medium,4706815
+C100109,Customer_0110,55,Female,Consultant,India,Chennai,Individual,2025-02-05,Low,4637558
+C100110,Customer_0111,34,Female,Retired,India,Bengaluru,Corporate,2021-02-11,Low,3885401
+C100111,Customer_0112,59,Female,Business Owner,UK,Chennai,Individual,2025-11-17,Low,2921562
+C100112,Customer_0113,48,Male,Business Owner,USA,Ahmedabad,Individual,2022-06-07,Low,1251866
+C100113,Customer_0114,43,Male,Consultant,India,Mumbai,Individual,2023-05-28,Medium,1983634
+C100114,Customer_0115,45,Other,Self-Employed,USA,Pune,SME,2019-09-24,Low,3901513
+C100115,Customer_0116,48,Female,Salaried,India,Delhi,SME,2026-06-12,Low,4570918
+C100116,Customer_0117,22,Female,Retired,India,Mumbai,Individual,2019-08-21,High,4823767
+C100117,Customer_0118,27,Male,Self-Employed,UK,Kolkata,Individual,2018-04-14,Low,2126571
+C100118,Customer_0119,33,Female,Consultant,India,Chennai,Individual,2021-09-25,Low,2587158
+C100119,Customer_0120,26,Male,Self-Employed,India,Ahmedabad,Individual,2025-02-01,Low,2692988
+C100120,Customer_0121,42,Male,Self-Employed,UAE,Pune,Individual,2025-10-26,Low,564368
+C100121,Customer_0122,53,Female,Consultant,USA,Pune,Individual,2025-04-10,Low,847546
+C100122,Customer_0123,53,Male,Student,Singapore,Ahmedabad,Corporate,2022-09-11,Low,512534
+C100123,Customer_0124,44,Female,Business Owner,India,Hyderabad,SME,2025-10-12,Low,3765784
+C100124,Customer_0125,62,Female,Salaried,UAE,Bengaluru,Individual,2022-03-06,Low,1354437
+C100125,Customer_0126,48,Male,Self-Employed,India,Mumbai,Corporate,2022-01-22,Low,3591423
+C100126,Customer_0127,24,Male,Salaried,India,Ahmedabad,Individual,2019-07-15,Low,2063797
+C100127,Customer_0128,58,Male,Retired,India,Hyderabad,Individual,2024-09-08,High,4032946
+C100128,Customer_0129,49,Male,Self-Employed,USA,Kolkata,SME,2020-09-06,Low,842989
+C100129,Customer_0130,52,Other,Business Owner,Singapore,Bengaluru,Individual,2019-08-28,Low,1828399
+C100130,Customer_0131,48,Other,Salaried,USA,Ahmedabad,Individual,2021-02-19,Medium,1262645
+C100131,Customer_0132,48,Male,Business Owner,India,Kolkata,Individual,2023-02-13,Low,2349450
+C100132,Customer_0133,25,Female,Retired,India,Bengaluru,Individual,2020-04-17,Low,2941321
+C100133,Customer_0134,48,Male,Business Owner,India,Hyderabad,Individual,2021-01-16,Medium,1091206
+C100134,Customer_0135,59,Other,Consultant,India,Kolkata,Individual,2020-10-20,Low,3434886
+C100135,Customer_0136,35,Female,Self-Employed,India,Mumbai,Individual,2023-01-23,Low,4833172
+C100136,Customer_0137,50,Female,Salaried,India,Chennai,Individual,2024-01-23,Medium,503446
+C100137,Customer_0138,22,Female,Student,UK,Bengaluru,Individual,2023-09-26,Medium,704563
+C100138,Customer_0139,38,Female,Salaried,India,Delhi,Individual,2019-03-14,Low,4775406
+C100139,Customer_0140,42,Male,Business Owner,USA,Mumbai,Individual,2020-12-11,Low,3350362
+C100140,Customer_0141,69,Female,Self-Employed,India,Bengaluru,Individual,2023-07-04,Low,4622323
+C100141,Customer_0142,31,Male,Salaried,India,Ahmedabad,Individual,2019-11-02,Medium,3614709
+C100142,Customer_0143,34,Male,Consultant,India,Chennai,Individual,2018-08-04,Low,3671420
+C100143,Customer_0144,41,Male,Retired,India,Chennai,Individual,2020-09-24,Low,1041361
+C100144,Customer_0145,69,Female,Salaried,India,Hyderabad,SME,2023-10-06,Low,2705603
+C100145,Customer_0146,62,Female,Student,India,Chennai,Individual,2023-08-21,High,2017019
+C100146,Customer_0147,22,Male,Consultant,India,Chennai,Individual,2019-02-07,Low,4218044
+C100147,Customer_0148,32,Male,Student,India,Mumbai,Individual,2023-09-30,Low,502694
+C100148,Customer_0149,61,Male,Salaried,India,Chennai,Individual,2019-08-26,Low,385386
+C100149,Customer_0150,23,Male,Retired,India,Kolkata,Individual,2024-04-17,Medium,2916058
+C100150,Customer_0151,62,Female,Salaried,India,Chennai,Individual,2022-10-23,Low,4861082
+C100151,Customer_0152,34,Male,Retired,India,Delhi,Individual,2019-01-28,Medium,4976209
+C100152,Customer_0153,65,Female,Consultant,India,Pune,Corporate,2020-12-21,Low,3089659
+C100153,Customer_0154,35,Female,Business Owner,India,Pune,Individual,2024-12-12,Low,2320459
+C100154,Customer_0155,42,Male,Salaried,India,Pune,SME,2021-09-03,Low,1582738
+C100155,Customer_0156,53,Female,Consultant,India,Bengaluru,Individual,2023-11-04,Low,4953038
+C100156,Customer_0157,27,Female,Salaried,Singapore,Ahmedabad,SME,2024-05-08,Low,1161200
+C100157,Customer_0158,48,Female,Consultant,India,Chennai,Corporate,2018-04-05,Medium,893259
+C100158,Customer_0159,45,Female,Student,India,Chennai,Individual,2025-11-27,Low,2689200
+C100159,Customer_0160,59,Male,Self-Employed,India,Kolkata,Individual,2020-11-06,Medium,2144535
+C100160,Customer_0161,69,Female,Self-Employed,India,Chennai,Individual,2024-09-25,Low,2630291
+C100161,Customer_0162,53,Male,Self-Employed,India,Mumbai,Individual,2021-12-17,Low,4539235
+C100162,Customer_0163,41,Male,Self-Employed,UK,Mumbai,Individual,2022-11-24,Low,1568111
+C100163,Customer_0164,40,Female,Salaried,India,Chennai,SME,2021-01-22,Low,4420468
+C100164,Customer_0165,41,Female,Self-Employed,India,Chennai,SME,2025-03-29,Low,1295276
+C100165,Customer_0166,60,Male,Consultant,India,Delhi,Individual,2018-12-30,High,1820880
+C100166,Customer_0167,36,Male,Self-Employed,India,Pune,Individual,2025-08-09,High,320929
+C100167,Customer_0168,29,Male,Student,India,Chennai,Individual,2019-10-05,Medium,3489469
+C100168,Customer_0169,37,Male,Student,India,Ahmedabad,Individual,2025-06-30,Medium,4334766
+C100169,Customer_0170,22,Female,Student,India,Chennai,Individual,2018-03-18,Low,4464952
+C100170,Customer_0171,26,Female,Consultant,UAE,Pune,Individual,2018-02-12,Low,1087062
+C100171,Customer_0172,25,Male,Self-Employed,India,Kolkata,Individual,2018-10-16,Low,3904324
+C100172,Customer_0173,58,Female,Retired,UAE,Delhi,Individual,2022-08-26,Medium,964280
+C100173,Customer_0174,56,Male,Self-Employed,India,Hyderabad,Individual,2020-04-05,Low,3253838
+C100174,Customer_0175,55,Male,Business Owner,USA,Chennai,Individual,2023-01-28,Low,3601272
+C100175,Customer_0176,43,Male,Business Owner,India,Mumbai,Individual,2024-12-16,Medium,1017105
+C100176,Customer_0177,56,Female,Student,India,Kolkata,Individual,2018-03-26,Low,819409
+C100177,Customer_0178,28,Female,Consultant,UAE,Bengaluru,Corporate,2022-06-21,Medium,643112
+C100178,Customer_0179,65,Female,Student,India,Chennai,SME,2024-04-10,Low,3629295
+C100179,Customer_0180,45,Female,Retired,Singapore,Pune,Individual,2021-08-08,Medium,3188724
+C100180,Customer_0181,66,Male,Business Owner,USA,Pune,Individual,2025-11-07,Medium,860938
+C100181,Customer_0182,28,Female,Retired,India,Chennai,Individual,2023-08-15,Medium,2651295
+C100182,Customer_0183,45,Female,Self-Employed,India,Chennai,Individual,2018-04-18,Low,4040287
+C100183,Customer_0184,55,Female,Retired,India,Chennai,Individual,2022-08-06,Low,1418772
+C100184,Customer_0185,45,Female,Self-Employed,Singapore,Chennai,Individual,2021-04-05,Low,3146494
+C100185,Customer_0186,42,Male,Retired,UK,Delhi,Individual,2019-02-12,Low,1676018
+C100186,Customer_0187,29,Female,Business Owner,India,Mumbai,Individual,2026-01-25,Low,1526763
+C100187,Customer_0188,39,Other,Retired,India,Delhi,Individual,2019-11-22,Low,2142809
+C100188,Customer_0189,32,Female,Salaried,India,Mumbai,Individual,2018-09-16,Low,1955407
+C100189,Customer_0190,35,Male,Business Owner,India,Ahmedabad,Individual,2019-11-21,Low,2628948
+C100190,Customer_0191,54,Female,Retired,India,Pune,Individual,2024-12-26,High,1265412
+C100191,Customer_0192,51,Female,Salaried,USA,Bengaluru,Individual,2023-02-03,Low,2134217
+C100192,Customer_0193,50,Male,Self-Employed,India,Hyderabad,Individual,2024-12-16,Low,3225199
+C100193,Customer_0194,38,Other,Salaried,UK,Chennai,Individual,2021-12-02,Low,2120270
+C100194,Customer_0195,68,Male,Self-Employed,India,Chennai,SME,2018-12-29,Low,3385080
+C100195,Customer_0196,25,Female,Business Owner,India,Delhi,Corporate,2021-04-16,High,843944
+C100196,Customer_0197,37,Female,Consultant,India,Chennai,Individual,2019-09-12,Low,947006
+C100197,Customer_0198,26,Male,Self-Employed,Singapore,Pune,SME,2022-09-22,Medium,4368274
+C100198,Customer_0199,37,Female,Salaried,India,Hyderabad,Individual,2020-04-15,Medium,2470575
+C100199,Customer_0200,68,Male,Self-Employed,India,Mumbai,Individual,2026-03-27,Medium,3163024
+C100200,Customer_0201,38,Male,Retired,India,Delhi,Individual,2021-03-15,Medium,3777039
+C100201,Customer_0202,65,Male,Retired,UK,Delhi,Individual,2020-08-31,Medium,986680
+C100202,Customer_0203,45,Male,Self-Employed,India,Pune,Individual,2026-05-10,Low,4869634
+C100203,Customer_0204,55,Male,Self-Employed,India,Mumbai,Corporate,2022-06-01,Low,2292209
+C100204,Customer_0205,43,Female,Salaried,USA,Delhi,Individual,2019-06-13,Medium,4481642
+C100205,Customer_0206,34,Female,Retired,USA,Kolkata,Individual,2022-01-29,Low,2258564
+C100206,Customer_0207,58,Male,Student,India,Bengaluru,Individual,2020-02-29,Low,2206190
+C100207,Customer_0208,68,Male,Student,India,Kolkata,Individual,2024-01-31,Low,3122918
+C100208,Customer_0209,33,Female,Self-Employed,India,Pune,Individual,2022-11-14,Low,1197215
+C100209,Customer_0210,59,Female,Consultant,India,Hyderabad,Individual,2024-03-13,Low,3161687
+C100210,Customer_0211,33,Male,Salaried,India,Ahmedabad,Individual,2025-12-24,Low,4921565
+C100211,Customer_0212,56,Male,Student,India,Ahmedabad,SME,2024-03-10,Low,3332544
+C100212,Customer_0213,59,Male,Consultant,India,Mumbai,Individual,2020-11-21,Low,629308
+C100213,Customer_0214,43,Female,Self-Employed,India,Ahmedabad,Individual,2019-09-17,Low,3580144
+C100214,Customer_0215,57,Female,Student,India,Chennai,SME,2022-06-30,Medium,456985
+C100215,Customer_0216,34,Male,Consultant,India,Mumbai,Individual,2021-10-24,Low,785764
+C100216,Customer_0217,24,Female,Business Owner,India,Chennai,Individual,2020-08-28,Medium,1637528
+C100217,Customer_0218,25,Male,Self-Employed,India,Bengaluru,Individual,2024-11-19,Low,1733134
+C100218,Customer_0219,42,Male,Salaried,UAE,Ahmedabad,Individual,2025-09-20,Low,316684
+C100219,Customer_0220,65,Female,Retired,India,Delhi,Individual,2021-03-28,Medium,381534
+C100220,Customer_0221,27,Female,Self-Employed,India,Delhi,Individual,2023-10-12,Medium,4009400
+C100221,Customer_0222,43,Female,Self-Employed,India,Chennai,Individual,2026-05-10,Medium,2436815
+C100222,Customer_0223,55,Male,Student,India,Delhi,Individual,2018-02-06,Medium,1239147
+C100223,Customer_0224,30,Male,Self-Employed,India,Hyderabad,Individual,2021-02-04,Medium,2318321
+C100224,Customer_0225,56,Female,Business Owner,India,Hyderabad,Individual,2024-04-06,Medium,3556801
+C100225,Customer_0226,35,Male,Student,Singapore,Bengaluru,Individual,2022-03-23,Medium,3751336
+C100226,Customer_0227,60,Female,Consultant,India,Mumbai,Individual,2024-09-20,Medium,1654268
+C100227,Customer_0228,49,Female,Consultant,India,Ahmedabad,Individual,2022-01-11,Low,1085449
+C100228,Customer_0229,47,Male,Salaried,India,Delhi,Individual,2018-07-19,Low,4808916
+C100229,Customer_0230,29,Female,Business Owner,India,Hyderabad,Corporate,2021-09-06,Low,3268023
+C100230,Customer_0231,43,Female,Business Owner,UAE,Chennai,Individual,2021-06-07,Low,4919887
+C100231,Customer_0232,62,Male,Consultant,India,Kolkata,Individual,2025-03-06,Medium,1741462
+C100232,Customer_0233,21,Female,Salaried,USA,Hyderabad,Individual,2019-04-02,Low,822949
+C100233,Customer_0234,58,Male,Salaried,USA,Hyderabad,Individual,2019-04-27,Low,2095007
+C100234,Customer_0235,45,Female,Student,India,Pune,Individual,2019-03-15,Medium,1840888
+C100235,Customer_0236,56,Female,Student,India,Mumbai,SME,2022-10-26,Low,3680648
+C100236,Customer_0237,53,Female,Student,India,Delhi,Individual,2026-06-14,Medium,3665790
+C100237,Customer_0238,42,Female,Self-Employed,UK,Kolkata,Individual,2023-04-02,Low,636275
+C100238,Customer_0239,36,Female,Retired,India,Hyderabad,Individual,2024-12-05,Low,3062394
+C100239,Customer_0240,51,Female,Self-Employed,India,Chennai,SME,2025-03-23,Low,1911079
+C100240,Customer_0241,27,Male,Consultant,USA,Mumbai,Individual,2023-02-05,Low,3189966
+C100241,Customer_0242,49,Female,Salaried,UK,Chennai,Individual,2023-03-04,Low,2139219
+C100242,Customer_0243,25,Female,Retired,India,Delhi,Individual,2020-01-24,Low,2825886
+C100243,Customer_0244,52,Female,Self-Employed,India,Bengaluru,SME,2026-02-24,Low,3664021
+C100244,Customer_0245,51,Female,Student,India,Mumbai,Individual,2024-09-08,Low,1678928
+C100245,Customer_0246,25,Female,Self-Employed,India,Pune,Corporate,2025-05-27,Medium,1236354
+C100246,Customer_0247,58,Male,Student,UK,Mumbai,SME,2026-05-08,Low,3618169
+C100247,Customer_0248,41,Female,Business Owner,India,Bengaluru,Individual,2020-12-17,Low,4752841
+C100248,Customer_0249,59,Male,Salaried,India,Ahmedabad,SME,2019-03-22,Low,2386824
+C100249,Customer_0250,23,Male,Self-Employed,UK,Chennai,Individual,2025-04-19,High,4989481
+C100250,Customer_0251,29,Female,Student,India,Mumbai,Individual,2022-01-06,Medium,1168994
+C100251,Customer_0252,45,Female,Self-Employed,India,Bengaluru,Individual,2026-02-19,High,4148877
+C100252,Customer_0253,30,Female,Self-Employed,India,Delhi,SME,2023-11-23,High,4944565
+C100253,Customer_0254,37,Male,Consultant,India,Mumbai,Individual,2020-03-08,Low,1708648
+C100254,Customer_0255,53,Female,Self-Employed,UK,Ahmedabad,Individual,2021-01-04,Medium,994922
+C100255,Customer_0256,28,Male,Salaried,India,Chennai,Individual,2023-03-07,Low,3420173
+C100256,Customer_0257,54,Male,Consultant,India,Ahmedabad,Individual,2021-05-07,Medium,4386152
+C100257,Customer_0258,26,Male,Student,India,Delhi,SME,2020-05-23,Low,690795
+C100258,Customer_0259,29,Male,Student,UAE,Chennai,Individual,2019-10-13,Low,3311395
+C100259,Customer_0260,49,Other,Retired,India,Chennai,Individual,2023-07-07,High,4395012
+C100260,Customer_0261,59,Female,Salaried,UAE,Chennai,SME,2018-04-20,Medium,450467
+C100261,Customer_0262,29,Female,Business Owner,Singapore,Bengaluru,SME,2018-10-18,High,2725166
+C100262,Customer_0263,35,Female,Self-Employed,India,Bengaluru,Individual,2018-05-12,Low,661827
+C100263,Customer_0264,66,Male,Retired,UK,Pune,Individual,2024-03-25,Low,1129264
+C100264,Customer_0265,69,Male,Consultant,India,Bengaluru,Individual,2018-04-01,Low,2585840
+C100265,Customer_0266,49,Male,Salaried,India,Pune,Individual,2021-07-25,Low,1838857
+C100266,Customer_0267,42,Female,Student,India,Bengaluru,Individual,2019-01-12,Low,700139
+C100267,Customer_0268,37,Other,Salaried,UK,Bengaluru,Individual,2022-12-26,Low,4063490
+C100268,Customer_0269,51,Male,Self-Employed,USA,Bengaluru,SME,2018-04-17,Medium,1253923
+C100269,Customer_0270,49,Male,Student,USA,Bengaluru,Individual,2018-03-22,Low,4390065
+C100270,Customer_0271,35,Other,Consultant,UAE,Kolkata,SME,2021-06-28,Medium,1130691
+C100271,Customer_0272,22,Female,Student,India,Mumbai,SME,2023-11-26,Medium,2742652
+C100272,Customer_0273,28,Female,Consultant,UK,Bengaluru,Individual,2018-12-06,Medium,3717065
+C100273,Customer_0274,67,Male,Retired,UK,Ahmedabad,Individual,2022-03-18,Low,2557464
+C100274,Customer_0275,41,Female,Consultant,India,Pune,Individual,2024-11-17,Low,2260360
+C100275,Customer_0276,44,Female,Salaried,India,Mumbai,Individual,2023-04-23,Low,3828453
+C100276,Customer_0277,43,Female,Salaried,India,Kolkata,Individual,2024-05-14,Medium,355358
+C100277,Customer_0278,59,Female,Student,UK,Mumbai,Individual,2020-09-05,Low,4183091
+C100278,Customer_0279,24,Male,Salaried,India,Mumbai,Individual,2025-12-30,Low,3542513
+C100279,Customer_0280,25,Male,Business Owner,India,Hyderabad,Individual,2019-03-29,High,3894780
+C100280,Customer_0281,34,Female,Salaried,India,Pune,Individual,2023-02-20,Medium,2278547
+C100281,Customer_0282,44,Female,Self-Employed,India,Mumbai,Individual,2021-09-11,Medium,2106811
+C100282,Customer_0283,53,Female,Consultant,India,Kolkata,Individual,2018-04-09,Low,2988019
+C100283,Customer_0284,45,Male,Self-Employed,India,Mumbai,Individual,2026-01-05,High,3317051
+C100284,Customer_0285,42,Male,Business Owner,Singapore,Kolkata,SME,2023-12-17,Low,4648414
+C100285,Customer_0286,66,Male,Retired,India,Chennai,SME,2019-12-08,Low,4329591
+C100286,Customer_0287,28,Female,Salaried,Singapore,Hyderabad,SME,2018-06-12,Medium,553289
+C100287,Customer_0288,49,Female,Salaried,India,Pune,Individual,2023-09-27,Medium,1013274
+C100288,Customer_0289,47,Female,Self-Employed,UAE,Bengaluru,Individual,2022-08-17,Low,4749099
+C100289,Customer_0290,44,Male,Student,India,Delhi,Individual,2018-06-04,Low,2124242
+C100290,Customer_0291,60,Female,Business Owner,India,Pune,Individual,2026-05-15,Low,3027333
+C100291,Customer_0292,34,Male,Consultant,India,Pune,Individual,2024-02-05,Medium,566108
+C100292,Customer_0293,67,Male,Salaried,India,Hyderabad,SME,2021-12-05,Medium,791768
+C100293,Customer_0294,37,Female,Student,India,Kolkata,Individual,2020-01-10,Low,2221723
+C100294,Customer_0295,47,Female,Salaried,UK,Pune,Individual,2020-04-20,Low,3671426
+C100295,Customer_0296,46,Female,Student,India,Bengaluru,Corporate,2021-10-31,Medium,3929725
+C100296,Customer_0297,62,Female,Salaried,India,Pune,Individual,2018-06-27,Medium,4505018
+C100297,Customer_0298,42,Female,Retired,India,Ahmedabad,Individual,2021-02-14,Low,1226033
+C100298,Customer_0299,34,Male,Self-Employed,India,Kolkata,SME,2019-11-06,Low,1248637
+C100299,Customer_0300,22,Female,Self-Employed,India,Pune,Individual,2018-12-16,High,2846869
+C100300,Customer_0301,38,Female,Business Owner,India,Kolkata,Individual,2019-01-26,Low,2870532
+C100301,Customer_0302,61,Male,Salaried,India,Kolkata,Individual,2020-12-07,Low,471952
+C100302,Customer_0303,21,Male,Salaried,UAE,Bengaluru,SME,2021-04-01,Medium,2401724
+C100303,Customer_0304,64,Female,Consultant,India,Pune,Individual,2020-12-21,Low,4518954
+C100304,Customer_0305,47,Male,Self-Employed,India,Mumbai,Individual,2023-11-09,Medium,1070314
+C100305,Customer_0306,27,Male,Business Owner,India,Bengaluru,Individual,2022-06-07,Medium,4154022
+C100306,Customer_0307,35,Male,Student,India,Ahmedabad,Individual,2019-08-21,Low,2402029
+C100307,Customer_0308,48,Male,Salaried,India,Bengaluru,SME,2026-04-03,Low,2764723
+C100308,Customer_0309,36,Female,Business Owner,Singapore,Kolkata,Individual,2024-03-13,Medium,3315558
+C100309,Customer_0310,26,Male,Self-Employed,India,Hyderabad,Individual,2021-12-28,Low,3617198
+C100310,Customer_0311,53,Female,Business Owner,India,Mumbai,Individual,2018-06-02,Low,3296219
+C100311,Customer_0312,53,Male,Self-Employed,USA,Chennai,Individual,2025-10-05,Low,788405
+C100312,Customer_0313,26,Male,Salaried,India,Delhi,Individual,2024-04-26,Low,1688080
+C100313,Customer_0314,34,Female,Salaried,UK,Hyderabad,Individual,2021-12-01,High,4272484
+C100314,Customer_0315,32,Female,Retired,India,Delhi,Individual,2019-05-17,Medium,488686
+C100315,Customer_0316,53,Male,Salaried,India,Chennai,Individual,2018-11-30,Medium,3661729
+C100316,Customer_0317,56,Male,Student,Singapore,Bengaluru,SME,2020-06-17,Low,2746248
+C100317,Customer_0318,56,Female,Retired,USA,Chennai,Corporate,2019-12-15,Low,863846
+C100318,Customer_0319,66,Male,Business Owner,UK,Bengaluru,Individual,2019-10-11,High,877014
+C100319,Customer_0320,58,Male,Self-Employed,India,Ahmedabad,Individual,2021-06-17,Low,4909239
+C100320,Customer_0321,36,Male,Student,UK,Mumbai,Individual,2018-05-25,Medium,445894
+C100321,Customer_0322,26,Female,Retired,India,Pune,Individual,2020-10-05,Low,405893
+C100322,Customer_0323,51,Female,Salaried,India,Chennai,Individual,2025-05-24,Low,378548
+C100323,Customer_0324,65,Male,Retired,India,Delhi,SME,2025-05-08,Low,3254001
+C100324,Customer_0325,68,Female,Retired,India,Ahmedabad,Individual,2018-01-27,Low,4654054
+C100325,Customer_0326,32,Male,Salaried,India,Bengaluru,Individual,2023-10-05,Low,1107248
+C100326,Customer_0327,32,Female,Salaried,India,Mumbai,Corporate,2026-05-31,Low,4040026
+C100327,Customer_0328,22,Male,Student,USA,Delhi,Individual,2022-11-28,Low,3680510
+C100328,Customer_0329,27,Female,Salaried,UK,Bengaluru,Individual,2021-04-25,Low,1379947
+C100329,Customer_0330,48,Female,Consultant,Singapore,Ahmedabad,Individual,2022-03-03,Medium,630909
+C100330,Customer_0331,47,Male,Salaried,India,Kolkata,Individual,2019-10-24,Low,2593183
+C100331,Customer_0332,39,Male,Student,Singapore,Pune,SME,2021-05-16,Medium,681174
+C100332,Customer_0333,36,Male,Self-Employed,India,Pune,Individual,2025-12-14,Low,833779
+C100333,Customer_0334,61,Male,Salaried,India,Delhi,Individual,2023-03-13,Low,2491571
+C100334,Customer_0335,43,Male,Salaried,UK,Pune,Individual,2021-08-28,Low,4133600
+C100335,Customer_0336,60,Male,Self-Employed,India,Hyderabad,SME,2019-01-22,High,4971844
+C100336,Customer_0337,68,Female,Consultant,India,Ahmedabad,Individual,2025-09-10,Medium,3250856
+C100337,Customer_0338,36,Male,Salaried,India,Bengaluru,Individual,2019-05-19,High,1599626
+C100338,Customer_0339,30,Male,Student,India,Chennai,Individual,2024-02-15,Low,1842988
+C100339,Customer_0340,67,Female,Consultant,UK,Pune,SME,2020-07-28,Medium,3178882
+C100340,Customer_0341,52,Female,Self-Employed,India,Pune,Individual,2020-05-13,Medium,1114101
+C100341,Customer_0342,35,Male,Retired,India,Ahmedabad,Individual,2019-06-15,High,2737415
+C100342,Customer_0343,51,Male,Consultant,India,Hyderabad,SME,2021-03-08,Low,3913901
+C100343,Customer_0344,46,Male,Student,India,Hyderabad,Individual,2023-10-01,High,4257962
+C100344,Customer_0345,65,Other,Self-Employed,USA,Delhi,Individual,2021-07-15,Low,577924
+C100345,Customer_0346,33,Male,Student,UAE,Hyderabad,Individual,2018-03-18,Medium,1656371
+C100346,Customer_0347,69,Female,Consultant,USA,Kolkata,Individual,2020-03-29,Low,1497591
+C100347,Customer_0348,66,Female,Retired,Singapore,Hyderabad,Individual,2019-05-12,Low,2908238
+C100348,Customer_0349,29,Female,Business Owner,India,Kolkata,Individual,2021-05-30,Low,1170975
+C100349,Customer_0350,29,Female,Student,UK,Hyderabad,Individual,2025-08-30,Medium,4767930
+C100350,Customer_0351,47,Male,Business Owner,India,Mumbai,Individual,2026-03-04,Low,4610330
+C100351,Customer_0352,23,Male,Salaried,India,Ahmedabad,Individual,2026-06-20,Low,1863153
+C100352,Customer_0353,35,Female,Salaried,India,Delhi,Corporate,2018-12-16,Low,2213353
+C100353,Customer_0354,42,Female,Retired,India,Pune,Individual,2022-02-20,Medium,2365206
+C100354,Customer_0355,68,Male,Student,Singapore,Delhi,Individual,2018-05-22,Low,500368
+C100355,Customer_0356,69,Female,Business Owner,India,Bengaluru,Individual,2022-03-16,Medium,4477422
+C100356,Customer_0357,28,Male,Student,UAE,Ahmedabad,Individual,2022-11-23,Low,3963037
+C100357,Customer_0358,64,Female,Salaried,India,Bengaluru,Individual,2024-07-25,Medium,1862744
+C100358,Customer_0359,25,Male,Salaried,India,Ahmedabad,Individual,2020-11-08,Medium,2872964
+C100359,Customer_0360,57,Female,Consultant,USA,Hyderabad,Individual,2018-04-23,Medium,2089166
+C100360,Customer_0361,62,Male,Consultant,India,Chennai,Individual,2021-11-08,Medium,1372486
+C100361,Customer_0362,64,Female,Retired,India,Chennai,Individual,2021-08-16,Low,1729358
+C100362,Customer_0363,31,Male,Student,India,Ahmedabad,SME,2023-04-20,Low,803321
+C100363,Customer_0364,64,Female,Self-Employed,UAE,Delhi,SME,2018-11-06,Medium,4104797
+C100364,Customer_0365,26,Female,Student,USA,Hyderabad,Individual,2023-03-16,Low,3377482
+C100365,Customer_0366,46,Male,Business Owner,India,Kolkata,Individual,2021-05-27,Low,4672818
+C100366,Customer_0367,44,Female,Student,India,Delhi,Individual,2024-04-09,Medium,330864
+C100367,Customer_0368,36,Female,Self-Employed,India,Pune,SME,2026-05-08,Low,3266164
+C100368,Customer_0369,22,Female,Salaried,India,Pune,SME,2019-12-07,Low,2933856
+C100369,Customer_0370,58,Female,Salaried,India,Mumbai,SME,2024-05-25,High,3231061
+C100370,Customer_0371,37,Female,Retired,India,Chennai,Individual,2019-01-31,Low,4951628
+C100371,Customer_0372,53,Male,Salaried,India,Pune,SME,2026-05-12,Low,2133017
+C100372,Customer_0373,41,Female,Retired,India,Chennai,Individual,2022-01-31,Low,962852
+C100373,Customer_0374,39,Male,Student,India,Pune,SME,2024-05-01,Low,358673
+C100374,Customer_0375,64,Other,Salaried,India,Mumbai,Individual,2024-08-07,Medium,2612472
+C100375,Customer_0376,25,Female,Retired,India,Bengaluru,Individual,2023-03-01,Medium,1117506
+C100376,Customer_0377,57,Male,Salaried,USA,Pune,Individual,2021-04-06,Low,963210
+C100377,Customer_0378,57,Male,Salaried,India,Delhi,Corporate,2024-05-27,Low,992960
+C100378,Customer_0379,39,Male,Consultant,Singapore,Kolkata,Individual,2022-01-16,Low,1601773
+C100379,Customer_0380,33,Female,Self-Employed,India,Delhi,Individual,2023-08-06,Low,844645
+C100380,Customer_0381,21,Female,Self-Employed,India,Chennai,Individual,2023-03-17,Medium,2583771
+C100381,Customer_0382,66,Female,Self-Employed,India,Kolkata,Individual,2021-12-09,Medium,3374022
+C100382,Customer_0383,67,Male,Consultant,India,Mumbai,SME,2018-12-29,Low,1659815
+C100383,Customer_0384,32,Other,Salaried,India,Mumbai,Individual,2020-06-25,Medium,940840
+C100384,Customer_0385,22,Male,Self-Employed,UK,Ahmedabad,Individual,2025-12-17,Medium,2990399
+C100385,Customer_0386,27,Female,Consultant,Singapore,Mumbai,SME,2022-06-01,Low,702479
+C100386,Customer_0387,24,Male,Business Owner,India,Delhi,Individual,2023-05-26,Medium,3766674
+C100387,Customer_0388,61,Female,Student,India,Hyderabad,Individual,2020-03-12,Medium,2098133
+C100388,Customer_0389,64,Male,Self-Employed,USA,Kolkata,Individual,2023-12-28,Low,2226786
+C100389,Customer_0390,28,Female,Consultant,India,Chennai,Individual,2022-02-17,Low,1470406
+C100390,Customer_0391,57,Male,Student,India,Chennai,Individual,2019-11-10,Medium,1629302
+C100391,Customer_0392,29,Male,Business Owner,USA,Hyderabad,Individual,2019-03-30,High,985544
+C100392,Customer_0393,38,Female,Self-Employed,India,Hyderabad,Individual,2021-05-09,Low,2922634
+C100393,Customer_0394,50,Female,Consultant,India,Kolkata,Individual,2022-10-19,Low,986801
+C100394,Customer_0395,56,Male,Consultant,India,Delhi,SME,2020-05-18,Medium,3498559
+C100395,Customer_0396,63,Female,Salaried,India,Mumbai,SME,2020-01-31,Low,1504166
+C100396,Customer_0397,23,Male,Consultant,India,Ahmedabad,Individual,2020-04-15,Low,2957552
+C100397,Customer_0398,30,Male,Salaried,USA,Hyderabad,Individual,2020-06-29,Low,2823193
+C100398,Customer_0399,34,Male,Consultant,India,Ahmedabad,Corporate,2024-04-09,High,3277070
+C100399,Customer_0400,36,Female,Retired,USA,Ahmedabad,Individual,2022-03-27,Medium,3863049
+C100400,Customer_0401,69,Female,Consultant,USA,Chennai,Individual,2021-12-25,High,2934812
+C100401,Customer_0402,59,Female,Student,USA,Delhi,Individual,2019-05-19,Low,4308050
+C100402,Customer_0403,36,Male,Self-Employed,India,Hyderabad,Individual,2022-08-16,Low,1517318
+C100403,Customer_0404,68,Female,Retired,India,Hyderabad,Individual,2026-03-03,Low,3831663
+C100404,Customer_0405,45,Female,Student,India,Bengaluru,Individual,2024-04-30,Low,1911949
+C100405,Customer_0406,45,Female,Retired,India,Delhi,Individual,2021-10-17,Low,3252602
+C100406,Customer_0407,42,Male,Student,Singapore,Hyderabad,Corporate,2020-08-09,Medium,2612388
+C100407,Customer_0408,28,Female,Consultant,India,Mumbai,Individual,2020-12-28,Medium,4565835
+C100408,Customer_0409,66,Male,Consultant,Singapore,Bengaluru,Individual,2018-03-25,Medium,1574687
+C100409,Customer_0410,21,Male,Retired,India,Mumbai,Individual,2018-04-01,Low,2742762
+C100410,Customer_0411,29,Male,Retired,India,Kolkata,Individual,2024-08-03,Low,1073062
+C100411,Customer_0412,32,Other,Business Owner,India,Pune,Individual,2025-02-27,Low,3276777
+C100412,Customer_0413,34,Male,Salaried,USA,Hyderabad,Individual,2026-03-22,Low,473416
+C100413,Customer_0414,27,Male,Salaried,India,Hyderabad,Individual,2023-04-25,Low,2234616
+C100414,Customer_0415,21,Female,Self-Employed,India,Chennai,Individual,2025-11-20,Low,346523
+C100415,Customer_0416,54,Male,Salaried,USA,Bengaluru,SME,2021-07-14,High,1838705
+C100416,Customer_0417,68,Male,Self-Employed,India,Ahmedabad,Individual,2020-02-27,Low,2575026
+C100417,Customer_0418,26,Male,Salaried,India,Chennai,SME,2020-02-01,Low,1859045
+C100418,Customer_0419,35,Male,Retired,India,Mumbai,Individual,2020-01-04,Low,2113806
+C100419,Customer_0420,45,Other,Salaried,India,Kolkata,Individual,2024-04-28,Medium,997091
+C100420,Customer_0421,66,Male,Consultant,India,Delhi,Individual,2018-01-31,Low,3658732
+C100421,Customer_0422,55,Male,Business Owner,India,Chennai,Individual,2026-01-09,Low,4044008
+C100422,Customer_0423,58,Female,Self-Employed,India,Hyderabad,Individual,2024-07-29,Low,2437281
+C100423,Customer_0424,49,Female,Student,India,Pune,Individual,2021-03-26,Low,560229
+C100424,Customer_0425,41,Female,Retired,India,Bengaluru,Individual,2023-12-16,Medium,593288
+C100425,Customer_0426,30,Female,Student,India,Hyderabad,Individual,2019-02-23,Low,3471020
+C100426,Customer_0427,63,Female,Retired,India,Pune,Corporate,2021-08-30,Low,4665934
+C100427,Customer_0428,60,Female,Consultant,India,Delhi,Individual,2018-12-05,Medium,4362962
+C100428,Customer_0429,22,Male,Student,India,Ahmedabad,Individual,2018-12-14,Low,2205814
+C100429,Customer_0430,56,Female,Salaried,India,Mumbai,SME,2018-01-20,Medium,2637913
+C100430,Customer_0431,25,Male,Retired,India,Bengaluru,SME,2024-10-03,Low,1066519
+C100431,Customer_0432,57,Male,Student,Singapore,Mumbai,Individual,2024-04-25,Medium,629943
+C100432,Customer_0433,61,Female,Self-Employed,UK,Pune,Individual,2025-07-31,Low,3899171
+C100433,Customer_0434,27,Female,Business Owner,India,Delhi,Individual,2026-05-01,Low,2313562
+C100434,Customer_0435,42,Female,Consultant,India,Bengaluru,Individual,2026-03-10,Low,2635300
+C100435,Customer_0436,27,Other,Salaried,India,Pune,Individual,2026-06-05,High,1913165
+C100436,Customer_0437,48,Female,Student,UK,Hyderabad,Individual,2018-02-19,Low,1771837
+C100437,Customer_0438,66,Male,Self-Employed,India,Mumbai,Individual,2024-08-28,High,4932034
+C100438,Customer_0439,24,Male,Salaried,India,Delhi,Individual,2024-02-20,High,4136198
+C100439,Customer_0440,40,Other,Self-Employed,India,Hyderabad,SME,2019-05-18,Low,3548946
+C100440,Customer_0441,68,Female,Retired,India,Hyderabad,SME,2019-03-01,Low,2129023
+C100441,Customer_0442,35,Female,Self-Employed,India,Hyderabad,SME,2026-04-19,Low,3690391
+C100442,Customer_0443,27,Female,Consultant,Singapore,Ahmedabad,Individual,2025-06-28,High,1894355
+C100443,Customer_0444,44,Female,Student,Singapore,Mumbai,Individual,2020-10-13,Medium,2724386
+C100444,Customer_0445,45,Female,Salaried,India,Bengaluru,Individual,2018-08-20,Low,981629
+C100445,Customer_0446,53,Male,Student,India,Delhi,Individual,2020-10-31,Low,3634246
+C100446,Customer_0447,36,Male,Self-Employed,India,Chennai,Individual,2018-01-17,Medium,584301
+C100447,Customer_0448,67,Male,Student,India,Mumbai,Individual,2023-11-01,Low,3696083
+C100448,Customer_0449,46,Male,Self-Employed,India,Delhi,Individual,2021-03-24,Low,3137316
+C100449,Customer_0450,35,Female,Salaried,India,Delhi,Individual,2018-06-02,Low,611886
+C100450,Customer_0451,68,Male,Student,UK,Pune,Individual,2026-04-26,Low,2678670
+C100451,Customer_0452,66,Male,Student,UAE,Chennai,Individual,2025-01-03,Medium,1346250
+C100452,Customer_0453,45,Male,Retired,India,Kolkata,Individual,2025-09-05,Medium,2537825
+C100453,Customer_0454,22,Male,Student,India,Hyderabad,Individual,2026-06-19,Low,360947
+C100454,Customer_0455,50,Female,Business Owner,India,Mumbai,Corporate,2018-02-13,Low,3692520
+C100455,Customer_0456,48,Female,Self-Employed,India,Bengaluru,Individual,2024-07-30,Medium,2696094
+C100456,Customer_0457,28,Female,Self-Employed,India,Mumbai,Individual,2024-09-07,Low,2002724
+C100457,Customer_0458,52,Female,Consultant,India,Hyderabad,SME,2024-08-20,Low,4416259
+C100458,Customer_0459,62,Male,Business Owner,India,Hyderabad,Individual,2020-04-01,Low,3331184
+C100459,Customer_0460,26,Female,Business Owner,UK,Hyderabad,Individual,2021-04-24,Medium,3164906
+C100460,Customer_0461,56,Male,Self-Employed,India,Hyderabad,Individual,2025-11-20,High,991476
+C100461,Customer_0462,27,Male,Business Owner,India,Ahmedabad,Individual,2018-07-24,Medium,2650975
+C100462,Customer_0463,57,Female,Self-Employed,India,Ahmedabad,Individual,2023-06-11,Low,3592906
+C100463,Customer_0464,41,Female,Salaried,UAE,Hyderabad,SME,2024-09-23,Medium,4652039
+C100464,Customer_0465,21,Male,Salaried,India,Ahmedabad,Corporate,2024-10-09,Low,3139969
+C100465,Customer_0466,68,Male,Consultant,India,Kolkata,Individual,2023-01-26,Medium,1109427
+C100466,Customer_0467,29,Female,Business Owner,India,Kolkata,Individual,2024-07-05,Low,3486441
+C100467,Customer_0468,50,Female,Salaried,India,Mumbai,Individual,2025-09-19,Low,650640
+C100468,Customer_0469,29,Male,Consultant,UAE,Hyderabad,SME,2024-07-02,Low,1770790
+C100469,Customer_0470,66,Female,Salaried,India,Bengaluru,Individual,2018-12-26,Low,4611336
+C100470,Customer_0471,57,Male,Salaried,Singapore,Chennai,Individual,2020-01-29,Low,4068414
+C100471,Customer_0472,60,Female,Salaried,India,Chennai,SME,2020-08-03,Low,4543074
+C100472,Customer_0473,42,Female,Business Owner,India,Delhi,Individual,2020-11-29,Medium,1956416
+C100473,Customer_0474,43,Male,Retired,India,Hyderabad,Individual,2021-01-23,Medium,3509970
+C100474,Customer_0475,52,Male,Self-Employed,India,Kolkata,Individual,2019-11-13,Low,3590123
+C100475,Customer_0476,59,Male,Self-Employed,India,Pune,Individual,2023-10-20,Low,1456102
+C100476,Customer_0477,62,Female,Self-Employed,India,Chennai,Individual,2018-12-08,Low,4730260
+C100477,Customer_0478,21,Other,Business Owner,India,Kolkata,Individual,2024-09-08,Low,4857890
+C100478,Customer_0479,53,Male,Student,UK,Hyderabad,Individual,2023-08-04,Low,818628
+C100479,Customer_0480,26,Female,Self-Employed,UAE,Delhi,SME,2026-02-27,Medium,3897127
+C100480,Customer_0481,35,Female,Consultant,India,Ahmedabad,Individual,2018-01-21,High,2404155
+C100481,Customer_0482,61,Female,Retired,India,Pune,SME,2020-07-04,Low,3467304
+C100482,Customer_0483,33,Male,Retired,USA,Chennai,Individual,2025-08-16,Medium,2905715
+C100483,Customer_0484,60,Female,Consultant,India,Mumbai,Individual,2022-03-11,Medium,1347683
+C100484,Customer_0485,43,Male,Student,UK,Hyderabad,Individual,2022-10-05,Low,751024
+C100485,Customer_0486,32,Female,Retired,India,Chennai,SME,2018-03-31,Medium,2711519
+C100486,Customer_0487,37,Other,Student,USA,Mumbai,Individual,2024-06-20,Low,4234929
+C100487,Customer_0488,47,Female,Self-Employed,India,Kolkata,Individual,2020-02-24,Low,4166108
+C100488,Customer_0489,58,Male,Salaried,India,Mumbai,Individual,2026-03-05,High,1591460
+C100489,Customer_0490,50,Female,Salaried,India,Mumbai,Individual,2021-03-05,Medium,4343223
+C100490,Customer_0491,66,Female,Retired,India,Delhi,SME,2019-08-08,Low,1972913
+C100491,Customer_0492,63,Male,Consultant,UK,Chennai,Corporate,2023-01-15,Low,2938721
+C100492,Customer_0493,57,Male,Self-Employed,UAE,Bengaluru,Individual,2022-01-20,High,1824562
+C100493,Customer_0494,50,Male,Business Owner,India,Ahmedabad,Individual,2021-12-30,Low,2757131
+C100494,Customer_0495,35,Female,Self-Employed,India,Pune,SME,2026-01-23,High,2788159
+C100495,Customer_0496,41,Male,Student,India,Ahmedabad,Individual,2021-02-03,Medium,3579113
+C100496,Customer_0497,26,Male,Consultant,India,Bengaluru,Individual,2021-05-17,Low,2517773
+C100497,Customer_0498,39,Male,Retired,India,Delhi,Individual,2023-04-19,Medium,2782769
+C100498,Customer_0499,66,Female,Self-Employed,UK,Mumbai,Individual,2019-06-13,Medium,3361322
+C100499,Customer_0500,41,Male,Business Owner,USA,Hyderabad,Individual,2025-01-12,Medium,2263100
+C100500,Customer_0501,26,Male,Salaried,India,Mumbai,Individual,2019-12-14,Low,2764678
+C100501,Customer_0502,52,Male,Retired,India,Kolkata,Individual,2020-01-20,Low,701469
+C100502,Customer_0503,68,Female,Consultant,India,Mumbai,Individual,2018-02-03,Low,4388163
+C100503,Customer_0504,63,Female,Consultant,India,Mumbai,Individual,2020-11-28,Medium,892433
+C100504,Customer_0505,34,Male,Business Owner,India,Hyderabad,Individual,2022-12-12,Medium,4402886
+C100505,Customer_0506,43,Male,Self-Employed,India,Hyderabad,Individual,2023-12-26,Medium,3873294
+C100506,Customer_0507,47,Male,Retired,India,Bengaluru,Corporate,2025-08-17,Low,4754012
+C100507,Customer_0508,33,Female,Business Owner,India,Bengaluru,SME,2024-08-08,Low,415921
+C100508,Customer_0509,34,Female,Student,USA,Bengaluru,Individual,2020-09-22,Low,1320678
+C100509,Customer_0510,32,Male,Salaried,India,Ahmedabad,Individual,2025-01-02,Medium,545833
+C100510,Customer_0511,69,Female,Self-Employed,India,Delhi,Individual,2019-08-27,Low,2262653
+C100511,Customer_0512,57,Female,Student,India,Ahmedabad,Individual,2019-10-11,Medium,4551824
+C100512,Customer_0513,62,Male,Salaried,Singapore,Ahmedabad,Individual,2021-01-15,Low,3901484
+C100513,Customer_0514,61,Male,Salaried,India,Pune,Individual,2022-07-30,Low,3608786
+C100514,Customer_0515,67,Male,Student,India,Kolkata,Individual,2019-09-22,High,4287481
+C100515,Customer_0516,26,Female,Self-Employed,India,Chennai,Individual,2025-08-22,Low,319799
+C100516,Customer_0517,64,Female,Self-Employed,India,Ahmedabad,SME,2020-04-17,Low,4002020
+C100517,Customer_0518,24,Male,Consultant,India,Hyderabad,Individual,2021-04-30,Medium,1766603
+C100518,Customer_0519,44,Female,Self-Employed,USA,Pune,Individual,2023-02-19,Low,3547370
+C100519,Customer_0520,50,Female,Salaried,India,Mumbai,Individual,2021-08-25,High,3887596
+C100520,Customer_0521,38,Female,Salaried,India,Chennai,Individual,2021-06-06,High,3523028
+C100521,Customer_0522,28,Male,Salaried,India,Ahmedabad,Individual,2026-05-11,Medium,2262723
+C100522,Customer_0523,30,Male,Salaried,USA,Hyderabad,Individual,2021-09-13,Low,3174478
+C100523,Customer_0524,61,Male,Student,UK,Mumbai,Individual,2018-12-17,Low,2503349
+C100524,Customer_0525,36,Male,Self-Employed,USA,Pune,Individual,2024-03-13,Medium,3253084
+C100525,Customer_0526,36,Female,Salaried,India,Chennai,Individual,2023-12-28,Low,2456355
+C100526,Customer_0527,66,Female,Salaried,USA,Hyderabad,SME,2019-11-10,High,2152060
+C100527,Customer_0528,28,Female,Business Owner,India,Pune,Individual,2025-03-20,Medium,1250031
+C100528,Customer_0529,65,Female,Retired,India,Pune,Individual,2021-04-30,Low,2120994
+C100529,Customer_0530,66,Female,Business Owner,India,Hyderabad,Individual,2019-04-13,Low,3690539
+C100530,Customer_0531,50,Female,Salaried,USA,Bengaluru,Individual,2019-06-19,Medium,4390172
+C100531,Customer_0532,29,Female,Self-Employed,India,Kolkata,Individual,2024-01-24,Low,784129
+C100532,Customer_0533,28,Male,Business Owner,India,Mumbai,Individual,2019-11-01,Low,1159144
+C100533,Customer_0534,34,Male,Self-Employed,India,Chennai,Individual,2021-12-27,Medium,2684080
+C100534,Customer_0535,49,Female,Retired,India,Mumbai,Individual,2024-03-25,Low,3602116
+C100535,Customer_0536,28,Male,Student,India,Kolkata,Corporate,2025-03-28,Low,1098792
+C100536,Customer_0537,43,Male,Business Owner,India,Hyderabad,Individual,2022-02-26,Medium,1826940
+C100537,Customer_0538,26,Male,Retired,UK,Chennai,SME,2025-09-14,Medium,518704
+C100538,Customer_0539,47,Male,Self-Employed,India,Mumbai,Individual,2020-07-27,Low,547177
+C100539,Customer_0540,22,Female,Salaried,India,Chennai,Individual,2025-05-28,High,973246
+C100540,Customer_0541,55,Male,Retired,India,Kolkata,SME,2020-02-15,High,3727117
+C100541,Customer_0542,23,Female,Retired,India,Hyderabad,Individual,2018-07-19,Low,4385874
+C100542,Customer_0543,30,Female,Self-Employed,UAE,Chennai,Individual,2024-02-27,Low,2644604
+C100543,Customer_0544,29,Female,Consultant,India,Mumbai,Corporate,2024-06-04,Medium,1127894
+C100544,Customer_0545,61,Female,Self-Employed,India,Delhi,Individual,2025-11-11,Low,4630741
+C100545,Customer_0546,23,Female,Consultant,India,Delhi,Individual,2025-10-27,Medium,1608335
+C100546,Customer_0547,42,Female,Student,UAE,Kolkata,Individual,2018-11-13,Low,1027046
+C100547,Customer_0548,49,Male,Student,India,Chennai,Individual,2023-04-11,Low,949045
+C100548,Customer_0549,46,Female,Consultant,USA,Chennai,Individual,2023-12-24,Low,1959424
+C100549,Customer_0550,54,Female,Student,India,Chennai,Individual,2023-02-06,Low,3757061
+C100550,Customer_0551,60,Female,Consultant,India,Hyderabad,SME,2018-02-27,High,2166408
+C100551,Customer_0552,40,Female,Student,India,Pune,Individual,2018-05-20,Low,2393611
+C100552,Customer_0553,61,Female,Self-Employed,India,Pune,Individual,2023-09-10,High,1899296
+C100553,Customer_0554,36,Female,Business Owner,India,Mumbai,Individual,2025-04-07,Low,4735084
+C100554,Customer_0555,69,Female,Business Owner,India,Pune,Individual,2019-07-10,Medium,3512933
+C100555,Customer_0556,45,Male,Consultant,USA,Pune,SME,2018-05-24,High,3422325
+C100556,Customer_0557,57,Male,Salaried,USA,Mumbai,Individual,2021-06-06,Low,2356803
+C100557,Customer_0558,63,Male,Self-Employed,USA,Pune,Individual,2020-08-29,Low,2797529
+C100558,Customer_0559,59,Male,Retired,India,Hyderabad,SME,2026-05-06,Medium,4459469
+C100559,Customer_0560,62,Male,Salaried,India,Chennai,SME,2025-11-10,Medium,3386165
+C100560,Customer_0561,47,Other,Consultant,UAE,Hyderabad,SME,2022-09-27,Low,4124743
+C100561,Customer_0562,23,Male,Consultant,India,Kolkata,Individual,2026-01-23,Low,489999
+C100562,Customer_0563,45,Male,Business Owner,India,Pune,Individual,2019-12-11,Medium,4340018
+C100563,Customer_0564,29,Male,Salaried,UK,Bengaluru,Individual,2026-06-02,Low,4768103
+C100564,Customer_0565,64,Male,Salaried,India,Kolkata,Individual,2021-10-17,Medium,3440076
+C100565,Customer_0566,32,Female,Self-Employed,India,Hyderabad,SME,2022-01-16,Low,4795219
+C100566,Customer_0567,32,Female,Salaried,USA,Hyderabad,Individual,2018-06-06,Low,2968372
+C100567,Customer_0568,33,Female,Salaried,India,Chennai,Individual,2019-07-05,Medium,1597857
+C100568,Customer_0569,52,Female,Salaried,India,Ahmedabad,SME,2019-08-26,Low,3149570
+C100569,Customer_0570,48,Male,Self-Employed,India,Kolkata,Corporate,2022-02-21,High,3252988
+C100570,Customer_0571,67,Female,Retired,India,Mumbai,Individual,2019-08-12,Low,979702
+C100571,Customer_0572,41,Male,Consultant,Singapore,Delhi,SME,2018-11-14,Low,1249001
+C100572,Customer_0573,34,Male,Salaried,India,Kolkata,Individual,2023-02-19,Low,1669584
+C100573,Customer_0574,23,Male,Consultant,India,Delhi,Individual,2025-05-28,Low,2873117
+C100574,Customer_0575,21,Female,Salaried,UK,Mumbai,Individual,2018-08-05,Medium,995569
+C100575,Customer_0576,39,Female,Business Owner,India,Ahmedabad,Corporate,2022-10-04,Medium,3922709
+C100576,Customer_0577,66,Male,Salaried,UK,Bengaluru,SME,2026-02-24,Medium,814516
+C100577,Customer_0578,46,Male,Salaried,India,Bengaluru,Individual,2021-06-07,Low,4717162
+C100578,Customer_0579,64,Other,Salaried,India,Bengaluru,Individual,2019-07-22,Low,3476272
+C100579,Customer_0580,25,Male,Business Owner,India,Ahmedabad,Individual,2018-09-04,Low,1894319
+C100580,Customer_0581,25,Male,Business Owner,India,Delhi,Individual,2025-12-12,Medium,2050930
+C100581,Customer_0582,61,Female,Business Owner,USA,Pune,SME,2021-06-10,Low,3559474
+C100582,Customer_0583,26,Female,Consultant,UK,Ahmedabad,Individual,2018-11-22,Low,717304
+C100583,Customer_0584,23,Female,Student,UAE,Ahmedabad,SME,2025-05-09,Low,3667207
+C100584,Customer_0585,40,Male,Student,India,Kolkata,Individual,2024-10-22,Low,2895200
+C100585,Customer_0586,66,Male,Consultant,USA,Ahmedabad,Individual,2023-12-21,Medium,1339399
+C100586,Customer_0587,54,Female,Consultant,India,Ahmedabad,Individual,2018-09-19,Medium,4517268
+C100587,Customer_0588,25,Male,Business Owner,Singapore,Ahmedabad,Corporate,2018-09-13,High,3256451
+C100588,Customer_0589,62,Female,Self-Employed,India,Pune,Individual,2019-11-10,Low,1069199
+C100589,Customer_0590,62,Female,Business Owner,Singapore,Mumbai,Individual,2019-05-11,Low,3380480
+C100590,Customer_0591,60,Female,Salaried,India,Chennai,Individual,2022-07-07,Low,2232806
+C100591,Customer_0592,65,Female,Retired,India,Kolkata,SME,2021-05-01,Medium,3891157
+C100592,Customer_0593,32,Male,Business Owner,USA,Bengaluru,SME,2024-06-30,Medium,2612938
+C100593,Customer_0594,68,Female,Student,India,Kolkata,SME,2018-11-11,Low,4999752
+C100594,Customer_0595,36,Male,Retired,India,Ahmedabad,Individual,2024-03-06,Medium,4658424
+C100595,Customer_0596,60,Male,Business Owner,UAE,Pune,SME,2025-12-05,Low,489092
+C100596,Customer_0597,49,Female,Retired,India,Kolkata,Individual,2019-02-09,Low,2231530
+C100597,Customer_0598,59,Female,Business Owner,India,Bengaluru,Individual,2023-07-16,Low,1250833
+C100598,Customer_0599,51,Male,Salaried,India,Hyderabad,Individual,2022-04-27,Low,2416169
+C100599,Customer_0600,52,Female,Salaried,India,Ahmedabad,Individual,2018-10-21,Medium,981868
+C100600,Customer_0601,51,Male,Salaried,India,Kolkata,Corporate,2020-06-26,Medium,2817636
+C100601,Customer_0602,59,Female,Retired,Singapore,Mumbai,Corporate,2024-09-08,Medium,1025840
+C100602,Customer_0603,57,Male,Business Owner,UAE,Ahmedabad,Individual,2025-05-17,Medium,3228773
+C100603,Customer_0604,27,Male,Self-Employed,India,Hyderabad,Individual,2021-02-16,Medium,2434968
+C100604,Customer_0605,61,Female,Business Owner,India,Kolkata,SME,2018-11-27,Low,4967188
+C100605,Customer_0606,47,Female,Self-Employed,India,Delhi,Corporate,2020-01-30,Low,4429121
+C100606,Customer_0607,36,Male,Retired,UK,Delhi,Individual,2025-02-27,Low,3121017
+C100607,Customer_0608,46,Female,Retired,India,Mumbai,Individual,2022-11-02,High,2408999
+C100608,Customer_0609,68,Female,Salaried,India,Bengaluru,Individual,2021-08-27,High,3664608
+C100609,Customer_0610,63,Female,Student,UAE,Pune,SME,2018-02-11,Medium,3441857
+C100610,Customer_0611,61,Female,Business Owner,UK,Kolkata,Individual,2024-08-23,Low,954870
+C100611,Customer_0612,43,Male,Salaried,India,Chennai,Individual,2021-12-13,Low,2069545
+C100612,Customer_0613,59,Male,Retired,India,Chennai,Individual,2022-08-18,Medium,4963225
+C100613,Customer_0614,39,Female,Salaried,India,Pune,Individual,2025-02-28,Low,1802417
+C100614,Customer_0615,54,Male,Self-Employed,India,Hyderabad,Individual,2022-10-10,Low,362284
+C100615,Customer_0616,52,Female,Salaried,India,Kolkata,SME,2025-11-16,Low,4220905
+C100616,Customer_0617,33,Female,Business Owner,India,Chennai,Individual,2022-10-01,Low,4684354
+C100617,Customer_0618,34,Male,Consultant,India,Bengaluru,Individual,2020-11-27,Medium,3381073
+C100618,Customer_0619,23,Other,Self-Employed,India,Chennai,Individual,2025-10-31,High,3284457
+C100619,Customer_0620,27,Female,Salaried,India,Pune,SME,2023-06-15,Medium,1949207
+C100620,Customer_0621,42,Female,Salaried,India,Kolkata,Individual,2024-06-15,Low,1989131
+C100621,Customer_0622,44,Male,Retired,Singapore,Mumbai,Individual,2019-12-05,Low,4596553
+C100622,Customer_0623,29,Male,Student,India,Bengaluru,Individual,2023-09-12,High,4332875
+C100623,Customer_0624,41,Female,Retired,Singapore,Kolkata,Individual,2022-10-03,Low,2643004
+C100624,Customer_0625,50,Female,Consultant,India,Chennai,Individual,2018-11-23,Low,1771610
+C100625,Customer_0626,32,Male,Consultant,India,Ahmedabad,Individual,2020-02-27,Medium,1184891
+C100626,Customer_0627,37,Female,Student,UK,Ahmedabad,SME,2025-09-27,Low,351232
+C100627,Customer_0628,39,Female,Consultant,India,Mumbai,SME,2022-11-07,Low,2571142
+C100628,Customer_0629,45,Female,Business Owner,India,Mumbai,Individual,2024-07-28,Medium,2903144
+C100629,Customer_0630,38,Female,Self-Employed,India,Pune,SME,2019-06-17,Medium,3471087
+C100630,Customer_0631,57,Female,Business Owner,India,Chennai,Individual,2019-11-07,Low,4083960
+C100631,Customer_0632,37,Male,Salaried,India,Delhi,Individual,2025-12-27,Low,2025429
+C100632,Customer_0633,42,Male,Self-Employed,India,Chennai,SME,2021-07-26,High,1083959
+C100633,Customer_0634,39,Male,Student,India,Delhi,Individual,2025-07-12,Medium,4265788
+C100634,Customer_0635,29,Other,Retired,India,Bengaluru,Individual,2024-11-10,Medium,3883570
+C100635,Customer_0636,54,Female,Salaried,India,Pune,Individual,2020-11-10,Low,2805776
+C100636,Customer_0637,32,Female,Salaried,India,Ahmedabad,Individual,2026-01-22,High,484099
+C100637,Customer_0638,35,Male,Salaried,India,Hyderabad,SME,2024-08-04,Medium,2498494
+C100638,Customer_0639,59,Female,Student,India,Pune,Individual,2019-01-31,Low,3210642
+C100639,Customer_0640,67,Male,Self-Employed,India,Delhi,Individual,2018-10-24,Low,4335943
+C100640,Customer_0641,53,Male,Self-Employed,India,Ahmedabad,Individual,2019-01-28,Medium,2688468
+C100641,Customer_0642,65,Female,Salaried,India,Mumbai,SME,2024-04-14,Medium,2475713
+C100642,Customer_0643,62,Female,Retired,India,Mumbai,Individual,2019-03-20,Medium,2085896
+C100643,Customer_0644,44,Female,Business Owner,India,Hyderabad,Individual,2020-05-25,High,2247727
+C100644,Customer_0645,58,Female,Student,India,Pune,Individual,2021-09-08,Medium,376949
+C100645,Customer_0646,37,Female,Student,UAE,Kolkata,Individual,2019-02-25,Low,787467
+C100646,Customer_0647,43,Female,Salaried,Singapore,Bengaluru,Individual,2020-10-21,Low,3854420
+C100647,Customer_0648,47,Male,Student,India,Chennai,Individual,2023-10-04,Medium,2003711
+C100648,Customer_0649,68,Male,Consultant,India,Delhi,Individual,2026-04-02,Low,4298828
+C100649,Customer_0650,62,Male,Consultant,India,Delhi,Individual,2021-12-27,Low,2166127
+C100650,Customer_0651,44,Female,Self-Employed,UK,Bengaluru,SME,2024-05-03,Medium,4985223
+C100651,Customer_0652,52,Female,Retired,UK,Mumbai,Individual,2022-07-02,Low,1148924
+C100652,Customer_0653,30,Female,Retired,India,Kolkata,Individual,2021-12-16,Medium,1183913
+C100653,Customer_0654,60,Female,Business Owner,India,Kolkata,Individual,2022-06-02,Low,3062769
+C100654,Customer_0655,48,Male,Salaried,India,Pune,Individual,2026-02-19,Low,4072540
+C100655,Customer_0656,47,Female,Retired,Singapore,Delhi,Individual,2018-07-04,Low,976057
+C100656,Customer_0657,58,Female,Retired,Singapore,Bengaluru,SME,2022-05-11,Medium,2663466
+C100657,Customer_0658,52,Male,Consultant,India,Hyderabad,Individual,2018-06-09,Medium,1351342
+C100658,Customer_0659,24,Female,Consultant,India,Chennai,Individual,2025-06-05,Low,3764736
+C100659,Customer_0660,35,Female,Self-Employed,India,Mumbai,Individual,2023-02-07,Low,2937132
+C100660,Customer_0661,29,Female,Salaried,India,Hyderabad,Individual,2018-05-27,Low,3374952
+C100661,Customer_0662,57,Male,Retired,Singapore,Hyderabad,Corporate,2023-04-18,Medium,1564222
+C100662,Customer_0663,22,Male,Business Owner,India,Chennai,Individual,2021-09-12,High,1657657
+C100663,Customer_0664,30,Female,Self-Employed,India,Ahmedabad,SME,2018-05-27,Medium,3306441
+C100664,Customer_0665,50,Male,Student,India,Bengaluru,Individual,2026-04-21,Low,1958756
+C100665,Customer_0666,55,Male,Salaried,India,Delhi,Individual,2021-03-19,Medium,3545411
+C100666,Customer_0667,45,Male,Salaried,UK,Hyderabad,Individual,2018-03-15,Low,1023682
+C100667,Customer_0668,63,Female,Self-Employed,India,Hyderabad,Individual,2023-03-15,Low,1716064
+C100668,Customer_0669,66,Female,Business Owner,Singapore,Kolkata,Individual,2021-03-09,Low,777879
+C100669,Customer_0670,27,Male,Business Owner,India,Pune,Individual,2023-07-29,Low,710722
+C100670,Customer_0671,67,Female,Self-Employed,India,Kolkata,Corporate,2019-05-19,Low,1533425
+C100671,Customer_0672,51,Male,Business Owner,India,Hyderabad,Individual,2025-01-11,Medium,2600423
+C100672,Customer_0673,52,Male,Business Owner,India,Bengaluru,SME,2021-07-26,Low,978793
+C100673,Customer_0674,25,Female,Consultant,India,Hyderabad,Individual,2021-07-28,Medium,736622
+C100674,Customer_0675,51,Male,Consultant,India,Delhi,Individual,2024-10-27,High,4423240
+C100675,Customer_0676,56,Male,Retired,India,Bengaluru,Individual,2022-08-27,Low,2721607
+C100676,Customer_0677,49,Male,Student,India,Hyderabad,Individual,2018-01-05,Low,3663201
+C100677,Customer_0678,25,Female,Self-Employed,India,Mumbai,Corporate,2022-11-29,Medium,3713223
+C100678,Customer_0679,46,Male,Retired,India,Delhi,SME,2023-06-26,Low,777521
+C100679,Customer_0680,66,Male,Consultant,Singapore,Pune,Corporate,2020-08-25,Low,3215550
+C100680,Customer_0681,56,Male,Self-Employed,UAE,Delhi,Corporate,2019-07-15,Low,4345184
+C100681,Customer_0682,27,Male,Business Owner,India,Kolkata,Individual,2018-06-16,Medium,2406857
+C100682,Customer_0683,68,Male,Student,USA,Ahmedabad,Individual,2025-03-08,Medium,4351476
+C100683,Customer_0684,67,Female,Student,USA,Ahmedabad,SME,2018-01-14,Medium,4745535
+C100684,Customer_0685,29,Female,Business Owner,UAE,Chennai,Individual,2022-12-14,Medium,2868134
+C100685,Customer_0686,60,Female,Salaried,India,Ahmedabad,SME,2025-02-04,Low,778211
+C100686,Customer_0687,40,Male,Self-Employed,India,Bengaluru,Individual,2020-12-27,Medium,3202075
+C100687,Customer_0688,50,Male,Salaried,India,Hyderabad,Individual,2019-09-13,Medium,4436007
+C100688,Customer_0689,42,Male,Student,UK,Hyderabad,Individual,2024-01-26,Low,3022787
+C100689,Customer_0690,59,Female,Consultant,USA,Bengaluru,Individual,2023-05-08,High,4060605
+C100690,Customer_0691,69,Male,Business Owner,India,Ahmedabad,Individual,2018-02-16,Medium,2816186
+C100691,Customer_0692,59,Male,Student,India,Pune,Individual,2022-11-24,Low,2272771
+C100692,Customer_0693,66,Female,Student,USA,Ahmedabad,Individual,2018-01-02,Low,4744220
+C100693,Customer_0694,67,Male,Student,UK,Ahmedabad,Individual,2021-05-23,Low,1018475
+C100694,Customer_0695,25,Male,Salaried,India,Hyderabad,Individual,2020-07-31,Medium,2403753
+C100695,Customer_0696,33,Male,Consultant,India,Pune,Individual,2025-01-27,Low,1032573
+C100696,Customer_0697,56,Female,Retired,India,Delhi,Individual,2026-04-18,Low,3377162
+C100697,Customer_0698,49,Male,Student,India,Hyderabad,SME,2023-12-06,Medium,4632487
+C100698,Customer_0699,23,Male,Self-Employed,India,Pune,Individual,2024-03-26,Medium,4989597
+C100699,Customer_0700,25,Male,Business Owner,USA,Pune,Individual,2018-03-12,Medium,1398411
+C100700,Customer_0701,46,Male,Retired,UAE,Ahmedabad,Individual,2018-07-18,Medium,3719768
+C100701,Customer_0702,51,Other,Salaried,India,Kolkata,Individual,2024-08-04,Low,4408343
+C100702,Customer_0703,29,Female,Consultant,India,Delhi,Individual,2021-08-20,Low,4218478
+C100703,Customer_0704,29,Male,Salaried,India,Ahmedabad,Individual,2022-04-21,Medium,2665487
+C100704,Customer_0705,27,Female,Retired,India,Chennai,Individual,2023-11-16,Low,1120056
+C100705,Customer_0706,48,Other,Salaried,India,Kolkata,Individual,2020-12-11,Low,2470152
+C100706,Customer_0707,21,Female,Salaried,India,Hyderabad,Individual,2023-10-15,High,3947269
+C100707,Customer_0708,49,Female,Self-Employed,India,Hyderabad,Individual,2024-03-03,Low,3211702
+C100708,Customer_0709,44,Male,Self-Employed,India,Kolkata,Individual,2020-01-16,Medium,2124862
+C100709,Customer_0710,43,Female,Business Owner,India,Bengaluru,Individual,2023-10-28,Medium,1310683
+C100710,Customer_0711,54,Male,Self-Employed,USA,Ahmedabad,Individual,2019-06-10,Medium,3363749
+C100711,Customer_0712,46,Female,Business Owner,India,Hyderabad,Individual,2020-08-20,Low,2313342
+C100712,Customer_0713,56,Other,Consultant,India,Bengaluru,Individual,2024-08-15,Low,2518809
+C100713,Customer_0714,58,Male,Consultant,Singapore,Bengaluru,Individual,2026-05-06,Low,4710876
+C100714,Customer_0715,66,Female,Retired,India,Hyderabad,Individual,2018-07-20,Medium,342889
+C100715,Customer_0716,60,Male,Business Owner,India,Ahmedabad,Individual,2023-07-04,Low,1419807
+C100716,Customer_0717,46,Female,Consultant,India,Chennai,Individual,2022-11-02,Low,4623173
+C100717,Customer_0718,45,Male,Student,India,Delhi,SME,2023-02-21,Medium,4631442
+C100718,Customer_0719,32,Male,Self-Employed,India,Kolkata,Individual,2024-09-05,Low,1721772
+C100719,Customer_0720,50,Male,Student,India,Hyderabad,Individual,2018-08-05,Low,4972785
+C100720,Customer_0721,27,Female,Retired,India,Delhi,Individual,2024-04-10,Low,1294427
+C100721,Customer_0722,66,Female,Self-Employed,India,Bengaluru,SME,2020-05-15,Low,543963
+C100722,Customer_0723,62,Male,Self-Employed,India,Mumbai,Individual,2019-04-24,Low,1743443
+C100723,Customer_0724,26,Male,Business Owner,India,Pune,Individual,2021-10-17,Low,2797481
+C100724,Customer_0725,59,Male,Self-Employed,India,Ahmedabad,SME,2018-03-25,High,328273
+C100725,Customer_0726,26,Female,Consultant,India,Delhi,Individual,2023-05-09,High,1107550
+C100726,Customer_0727,56,Female,Retired,UK,Hyderabad,Individual,2022-10-19,Medium,4017241
+C100727,Customer_0728,25,Male,Consultant,India,Mumbai,Individual,2022-05-09,Medium,3222057
+C100728,Customer_0729,44,Female,Salaried,India,Ahmedabad,Individual,2018-04-05,Medium,3144851
+C100729,Customer_0730,53,Female,Self-Employed,India,Kolkata,Individual,2024-06-23,Medium,4950850
+C100730,Customer_0731,56,Male,Student,India,Ahmedabad,Individual,2018-04-20,Low,1373435
+C100731,Customer_0732,41,Female,Self-Employed,Singapore,Bengaluru,Individual,2020-03-24,Low,4515340
+C100732,Customer_0733,66,Male,Consultant,India,Pune,Individual,2021-05-12,Medium,1969439
+C100733,Customer_0734,58,Female,Student,India,Hyderabad,Individual,2023-12-17,High,4646787
+C100734,Customer_0735,31,Male,Self-Employed,Singapore,Mumbai,SME,2021-06-17,Low,3980910
+C100735,Customer_0736,53,Male,Consultant,USA,Mumbai,Individual,2024-12-06,Low,1302744
+C100736,Customer_0737,56,Male,Business Owner,India,Hyderabad,Individual,2025-12-06,Low,1284124
+C100737,Customer_0738,37,Female,Salaried,India,Delhi,Individual,2024-06-29,Low,2848902
+C100738,Customer_0739,57,Male,Business Owner,India,Chennai,Individual,2018-05-01,Medium,2662938
+C100739,Customer_0740,65,Male,Business Owner,India,Pune,Individual,2024-07-17,Low,1403705
+C100740,Customer_0741,61,Female,Salaried,India,Hyderabad,Individual,2019-10-02,High,1523767
+C100741,Customer_0742,58,Female,Retired,India,Ahmedabad,Individual,2025-07-17,Medium,4527296
+C100742,Customer_0743,52,Female,Consultant,USA,Bengaluru,SME,2026-04-22,Low,3842387
+C100743,Customer_0744,34,Male,Salaried,India,Chennai,SME,2018-09-18,Medium,1198423
+C100744,Customer_0745,59,Male,Retired,India,Bengaluru,SME,2018-11-02,Medium,3708637
+C100745,Customer_0746,38,Male,Retired,India,Ahmedabad,Individual,2023-12-02,Low,1023606
+C100746,Customer_0747,47,Male,Salaried,India,Bengaluru,Individual,2019-03-21,Low,2391514
+C100747,Customer_0748,36,Male,Salaried,India,Pune,Individual,2026-03-22,Medium,357164
+C100748,Customer_0749,36,Female,Business Owner,UK,Kolkata,Individual,2022-08-02,Low,3351353
+C100749,Customer_0750,28,Female,Consultant,India,Bengaluru,SME,2022-11-14,Low,1155154
+C100750,Customer_0751,68,Male,Student,India,Pune,SME,2025-04-20,Low,1409554
+C100751,Customer_0752,28,Female,Business Owner,India,Mumbai,Individual,2019-11-05,Low,1191885
+C100752,Customer_0753,25,Male,Consultant,India,Bengaluru,SME,2022-09-19,Medium,1162025
+C100753,Customer_0754,66,Male,Salaried,India,Bengaluru,SME,2026-06-24,Low,664203
+C100754,Customer_0755,48,Female,Consultant,Singapore,Pune,Individual,2018-03-10,Medium,2906016
+C100755,Customer_0756,42,Male,Retired,India,Ahmedabad,SME,2019-06-26,Low,4378383
+C100756,Customer_0757,57,Female,Consultant,India,Bengaluru,Individual,2019-03-29,Medium,1717129
+C100757,Customer_0758,39,Other,Business Owner,UAE,Bengaluru,Individual,2020-11-06,Low,3965989
+C100758,Customer_0759,27,Male,Self-Employed,India,Kolkata,Individual,2019-02-07,High,2854821
+C100759,Customer_0760,56,Male,Retired,Singapore,Hyderabad,Individual,2019-06-18,High,1496063
+C100760,Customer_0761,29,Female,Salaried,India,Delhi,Individual,2025-03-28,Low,3981311
+C100761,Customer_0762,48,Female,Self-Employed,India,Pune,SME,2021-12-10,Medium,407677
+C100762,Customer_0763,67,Female,Salaried,Singapore,Mumbai,Individual,2021-01-14,Low,2284173
+C100763,Customer_0764,66,Female,Retired,India,Kolkata,Individual,2021-07-22,Medium,461002
+C100764,Customer_0765,38,Female,Business Owner,India,Bengaluru,Individual,2026-03-28,Medium,3944945
+C100765,Customer_0766,59,Female,Retired,India,Pune,Individual,2022-03-03,Low,4952177
+C100766,Customer_0767,51,Other,Consultant,India,Hyderabad,Individual,2021-12-24,Low,1818135
+C100767,Customer_0768,44,Female,Consultant,India,Kolkata,Individual,2025-11-16,Low,1773963
+C100768,Customer_0769,27,Female,Consultant,India,Delhi,Corporate,2018-04-26,Medium,2953874
+C100769,Customer_0770,39,Male,Self-Employed,India,Mumbai,Individual,2022-01-22,Medium,2659353
+C100770,Customer_0771,52,Male,Consultant,India,Mumbai,Individual,2024-05-08,Low,2093569
+C100771,Customer_0772,69,Male,Student,India,Ahmedabad,Individual,2022-05-15,Low,2019637
+C100772,Customer_0773,21,Male,Retired,India,Delhi,Individual,2025-05-15,Low,1182076
+C100773,Customer_0774,56,Male,Consultant,India,Bengaluru,Corporate,2025-07-11,Low,1478548
+C100774,Customer_0775,62,Male,Retired,India,Mumbai,Individual,2020-11-08,Low,3052474
+C100775,Customer_0776,67,Male,Retired,India,Mumbai,Individual,2024-12-10,Low,3751624
+C100776,Customer_0777,41,Male,Consultant,India,Ahmedabad,Individual,2020-01-27,Medium,3828904
+C100777,Customer_0778,26,Female,Business Owner,India,Ahmedabad,SME,2020-01-14,Low,2727394
+C100778,Customer_0779,34,Female,Salaried,India,Hyderabad,Individual,2026-04-19,Medium,3839603
+C100779,Customer_0780,62,Female,Self-Employed,India,Mumbai,Individual,2018-02-10,Low,3082467
+C100780,Customer_0781,64,Female,Retired,India,Hyderabad,Individual,2020-12-30,Low,1974560
+C100781,Customer_0782,52,Male,Salaried,UAE,Mumbai,Individual,2023-05-06,Medium,1960780
+C100782,Customer_0783,27,Female,Business Owner,Singapore,Delhi,Individual,2021-07-05,Low,2737945
+C100783,Customer_0784,26,Female,Student,India,Pune,Individual,2025-03-04,Low,1745992
+C100784,Customer_0785,44,Female,Self-Employed,UAE,Ahmedabad,Individual,2020-02-19,High,3889759
+C100785,Customer_0786,49,Male,Retired,UK,Bengaluru,Corporate,2022-09-10,Medium,1170423
+C100786,Customer_0787,22,Female,Consultant,India,Mumbai,Individual,2019-01-24,Medium,556138
+C100787,Customer_0788,54,Male,Salaried,USA,Mumbai,SME,2019-10-17,Low,2608372
+C100788,Customer_0789,47,Male,Self-Employed,India,Hyderabad,Individual,2019-06-23,Low,637875
+C100789,Customer_0790,21,Female,Student,India,Delhi,Individual,2024-04-17,Low,1200445
+C100790,Customer_0791,25,Male,Retired,India,Chennai,Individual,2019-09-21,High,2068246
+C100791,Customer_0792,43,Female,Retired,India,Kolkata,Individual,2023-09-07,Medium,319611
+C100792,Customer_0793,56,Female,Retired,India,Hyderabad,Individual,2020-12-07,Low,1350316
+C100793,Customer_0794,61,Male,Salaried,UAE,Kolkata,Individual,2022-10-18,High,2860434
+C100794,Customer_0795,42,Male,Student,India,Hyderabad,Individual,2025-06-02,Low,2060836
+C100795,Customer_0796,35,Female,Salaried,India,Mumbai,Individual,2025-04-30,Low,4512889
+C100796,Customer_0797,68,Male,Salaried,India,Chennai,Individual,2018-02-04,Low,740639
+C100797,Customer_0798,43,Female,Student,India,Delhi,SME,2024-08-28,Low,3682706
+C100798,Customer_0799,36,Male,Business Owner,UK,Delhi,Individual,2026-02-10,High,3082437
+C100799,Customer_0800,42,Male,Consultant,USA,Kolkata,Individual,2023-09-02,Medium,3327948
+C100800,Customer_0801,21,Male,Retired,India,Ahmedabad,Individual,2019-08-04,Low,3457180
+C100801,Customer_0802,35,Male,Salaried,India,Mumbai,SME,2023-08-23,Low,546080
+C100802,Customer_0803,46,Female,Consultant,India,Bengaluru,Individual,2023-05-27,Low,4021650
+C100803,Customer_0804,66,Male,Retired,India,Mumbai,Individual,2023-08-15,Low,1857403
+C100804,Customer_0805,57,Male,Business Owner,UK,Chennai,Individual,2021-08-22,Low,3357457
+C100805,Customer_0806,59,Male,Consultant,USA,Chennai,Individual,2022-06-17,Low,1681581
+C100806,Customer_0807,47,Female,Business Owner,India,Chennai,SME,2023-07-14,Low,2162992
+C100807,Customer_0808,26,Female,Retired,India,Delhi,Individual,2021-12-09,Low,3590162
+C100808,Customer_0809,40,Female,Salaried,India,Mumbai,SME,2024-07-26,Low,4694162
+C100809,Customer_0810,69,Female,Retired,India,Mumbai,Individual,2024-01-09,High,4426445
+C100810,Customer_0811,23,Female,Student,India,Chennai,Individual,2020-07-28,Low,3713760
+C100811,Customer_0812,64,Female,Student,India,Pune,Individual,2023-03-08,Low,2831127
+C100812,Customer_0813,54,Male,Business Owner,India,Pune,Individual,2024-06-03,Low,2780101
+C100813,Customer_0814,34,Female,Consultant,UAE,Ahmedabad,Individual,2022-02-27,Medium,4838387
+C100814,Customer_0815,59,Male,Business Owner,India,Chennai,Individual,2024-01-26,Low,1272196
+C100815,Customer_0816,62,Male,Self-Employed,India,Mumbai,Individual,2019-01-28,Low,4784177
+C100816,Customer_0817,23,Male,Retired,India,Hyderabad,Individual,2021-04-12,Medium,3350182
+C100817,Customer_0818,26,Female,Consultant,India,Pune,Individual,2023-12-16,Medium,3195806
+C100818,Customer_0819,53,Male,Student,India,Mumbai,Corporate,2025-08-06,Low,3081086
+C100819,Customer_0820,69,Male,Salaried,India,Mumbai,Individual,2023-06-26,Low,4118643
+C100820,Customer_0821,22,Male,Student,India,Hyderabad,Individual,2023-08-20,High,3511650
+C100821,Customer_0822,53,Male,Consultant,India,Chennai,Individual,2020-11-26,Low,745698
+C100822,Customer_0823,27,Male,Retired,India,Hyderabad,Individual,2023-12-13,Low,3971286
+C100823,Customer_0824,52,Male,Salaried,India,Kolkata,Individual,2021-01-09,Low,3725046
+C100824,Customer_0825,51,Male,Consultant,India,Delhi,Corporate,2018-06-11,Low,4600733
+C100825,Customer_0826,25,Female,Consultant,India,Hyderabad,Individual,2020-02-04,Medium,4701421
+C100826,Customer_0827,54,Male,Consultant,India,Hyderabad,SME,2023-03-10,Medium,4760565
+C100827,Customer_0828,64,Male,Salaried,India,Ahmedabad,Individual,2026-03-01,Low,501040
+C100828,Customer_0829,63,Male,Business Owner,USA,Delhi,SME,2022-03-17,Medium,3261871
+C100829,Customer_0830,22,Male,Self-Employed,Singapore,Delhi,Individual,2025-04-20,Low,4691757
+C100830,Customer_0831,33,Female,Consultant,India,Ahmedabad,Corporate,2024-08-08,Medium,4839993
+C100831,Customer_0832,32,Male,Self-Employed,India,Mumbai,Individual,2022-10-06,Low,2881713
+C100832,Customer_0833,43,Female,Business Owner,India,Chennai,Individual,2024-10-29,Low,4583685
+C100833,Customer_0834,28,Female,Consultant,USA,Hyderabad,Individual,2021-05-30,Medium,4438081
+C100834,Customer_0835,62,Female,Salaried,India,Bengaluru,Individual,2021-10-04,Low,312287
+C100835,Customer_0836,59,Female,Student,UK,Mumbai,Individual,2024-04-03,Low,4459441
+C100836,Customer_0837,60,Female,Student,India,Chennai,Individual,2023-06-04,Low,3296802
+C100837,Customer_0838,30,Female,Salaried,India,Ahmedabad,Individual,2022-06-24,Medium,2996502
+C100838,Customer_0839,21,Male,Salaried,India,Delhi,Individual,2021-09-04,Low,1138806
+C100839,Customer_0840,65,Male,Retired,India,Pune,Individual,2026-04-14,Medium,4617793
+C100840,Customer_0841,35,Female,Self-Employed,Singapore,Chennai,SME,2018-07-23,Medium,1687405
+C100841,Customer_0842,53,Male,Retired,India,Bengaluru,Individual,2018-06-20,Medium,2263763
+C100842,Customer_0843,65,Female,Business Owner,India,Delhi,Individual,2022-01-24,Low,1698250
+C100843,Customer_0844,22,Male,Business Owner,India,Delhi,Individual,2018-04-17,Medium,4857317
+C100844,Customer_0845,21,Female,Self-Employed,India,Pune,Individual,2020-11-22,Low,2570709
+C100845,Customer_0846,21,Male,Consultant,India,Pune,Individual,2022-10-29,High,835911
+C100846,Customer_0847,28,Female,Salaried,India,Hyderabad,Individual,2021-06-09,Medium,351071
+C100847,Customer_0848,23,Male,Business Owner,India,Kolkata,Individual,2019-09-23,Low,4906808
+C100848,Customer_0849,61,Female,Business Owner,India,Bengaluru,Individual,2020-06-01,Medium,1408243
+C100849,Customer_0850,50,Male,Salaried,USA,Chennai,Individual,2023-02-17,Low,3922393
+C100850,Customer_0851,69,Female,Business Owner,India,Ahmedabad,Individual,2026-01-28,Low,436868
+C100851,Customer_0852,60,Male,Consultant,USA,Chennai,SME,2024-08-19,Low,4514930
+C100852,Customer_0853,68,Male,Student,UK,Bengaluru,Individual,2022-08-24,Medium,3357625
+C100853,Customer_0854,32,Male,Salaried,India,Chennai,Individual,2019-03-05,Medium,1356302
+C100854,Customer_0855,35,Male,Retired,India,Mumbai,Individual,2020-01-23,Medium,4479651
+C100855,Customer_0856,62,Other,Retired,UAE,Hyderabad,SME,2021-09-27,Low,1699742
+C100856,Customer_0857,32,Female,Student,India,Mumbai,Individual,2020-02-04,Medium,4989606
+C100857,Customer_0858,23,Female,Retired,India,Hyderabad,Individual,2023-11-05,Medium,3117743
+C100858,Customer_0859,53,Female,Business Owner,India,Ahmedabad,SME,2021-02-09,Medium,2408217
+C100859,Customer_0860,60,Female,Student,India,Mumbai,Individual,2025-01-28,Low,575022
+C100860,Customer_0861,68,Male,Student,India,Ahmedabad,Individual,2020-04-14,Low,1522663
+C100861,Customer_0862,66,Other,Consultant,Singapore,Hyderabad,Individual,2022-03-19,Medium,573994
+C100862,Customer_0863,26,Other,Self-Employed,India,Delhi,Individual,2024-01-24,Low,4309586
+C100863,Customer_0864,58,Male,Consultant,USA,Hyderabad,Individual,2019-10-02,Low,770813
+C100864,Customer_0865,62,Male,Retired,India,Bengaluru,Individual,2024-06-18,Low,831845
+C100865,Customer_0866,55,Male,Retired,India,Chennai,Individual,2022-12-21,Low,885096
+C100866,Customer_0867,61,Male,Business Owner,India,Delhi,Individual,2023-07-01,Low,4878923
+C100867,Customer_0868,62,Female,Self-Employed,India,Ahmedabad,Individual,2021-11-10,Low,4861631
+C100868,Customer_0869,42,Male,Student,India,Delhi,Individual,2025-12-08,Medium,3659736
+C100869,Customer_0870,22,Male,Salaried,India,Delhi,Individual,2024-07-20,High,646616
+C100870,Customer_0871,43,Female,Salaried,India,Pune,Individual,2019-08-19,Low,2668492
+C100871,Customer_0872,30,Female,Consultant,India,Hyderabad,Individual,2022-09-19,Low,4757525
+C100872,Customer_0873,26,Other,Retired,India,Chennai,Individual,2025-09-01,Medium,754257
+C100873,Customer_0874,27,Other,Self-Employed,India,Delhi,Individual,2020-05-16,Low,4029858
+C100874,Customer_0875,55,Male,Business Owner,India,Kolkata,Individual,2022-07-22,High,385520
+C100875,Customer_0876,45,Male,Self-Employed,India,Bengaluru,Individual,2024-05-27,Low,4078530
+C100876,Customer_0877,47,Female,Business Owner,India,Kolkata,Individual,2020-04-27,Low,2859301
+C100877,Customer_0878,57,Female,Salaried,India,Kolkata,Individual,2022-05-25,Low,4473114
+C100878,Customer_0879,47,Male,Consultant,India,Mumbai,Corporate,2022-09-11,Low,2245097
+C100879,Customer_0880,51,Male,Consultant,India,Delhi,SME,2019-07-05,Medium,3991025
+C100880,Customer_0881,25,Male,Self-Employed,India,Pune,Individual,2019-07-05,Low,4260523
+C100881,Customer_0882,62,Male,Self-Employed,India,Hyderabad,Individual,2022-10-12,Medium,1827048
+C100882,Customer_0883,42,Female,Student,India,Pune,Individual,2019-07-09,Medium,3318835
+C100883,Customer_0884,28,Male,Self-Employed,India,Ahmedabad,Individual,2026-01-18,Medium,2466204
+C100884,Customer_0885,60,Female,Salaried,UK,Pune,Individual,2022-06-12,Medium,2329912
+C100885,Customer_0886,56,Female,Salaried,UK,Kolkata,Individual,2023-12-28,Low,4058752
+C100886,Customer_0887,23,Female,Retired,India,Kolkata,Individual,2021-05-15,Low,1362233
+C100887,Customer_0888,30,Female,Business Owner,India,Kolkata,Individual,2020-07-15,Medium,862352
+C100888,Customer_0889,21,Male,Salaried,India,Kolkata,Individual,2022-02-17,Low,2557984
+C100889,Customer_0890,34,Female,Retired,UAE,Mumbai,Individual,2024-01-13,Low,4161751
+C100890,Customer_0891,25,Female,Salaried,India,Chennai,Individual,2021-05-17,Low,1066073
+C100891,Customer_0892,55,Male,Business Owner,India,Mumbai,SME,2020-05-26,Low,1899024
+C100892,Customer_0893,46,Male,Salaried,India,Mumbai,Individual,2019-03-23,Medium,3434959
+C100893,Customer_0894,69,Female,Student,India,Pune,Individual,2022-08-10,Low,2541212
+C100894,Customer_0895,57,Female,Student,India,Delhi,Individual,2023-10-09,Medium,3146926
+C100895,Customer_0896,50,Female,Student,India,Hyderabad,Individual,2022-06-21,High,2781686
+C100896,Customer_0897,45,Male,Self-Employed,India,Chennai,Individual,2020-03-01,Low,4107335
+C100897,Customer_0898,23,Female,Self-Employed,India,Pune,Individual,2020-02-06,Medium,4413708
+C100898,Customer_0899,24,Female,Retired,Singapore,Bengaluru,Corporate,2021-03-14,Low,2412787
+C100899,Customer_0900,51,Female,Student,USA,Kolkata,Individual,2020-12-14,Low,2328582
+C100900,Customer_0901,21,Male,Salaried,India,Chennai,Individual,2019-09-24,Low,1609648
+C100901,Customer_0902,23,Female,Student,India,Bengaluru,Individual,2025-12-30,Low,2385585
+C100902,Customer_0903,31,Male,Student,India,Chennai,SME,2020-10-19,Low,4231058
+C100903,Customer_0904,64,Female,Consultant,Singapore,Bengaluru,Individual,2020-02-16,Low,2657768
+C100904,Customer_0905,43,Male,Consultant,India,Ahmedabad,Corporate,2023-02-24,Low,3547686
+C100905,Customer_0906,55,Female,Salaried,India,Hyderabad,Individual,2024-10-19,Low,2266514
+C100906,Customer_0907,41,Female,Salaried,Singapore,Hyderabad,Individual,2021-12-11,Medium,3621533
+C100907,Customer_0908,29,Female,Salaried,India,Bengaluru,SME,2023-08-31,Low,3648426
+C100908,Customer_0909,39,Male,Salaried,India,Bengaluru,Individual,2018-10-22,Medium,2781997
+C100909,Customer_0910,25,Male,Retired,India,Pune,Individual,2022-07-10,High,4692143
+C100910,Customer_0911,58,Female,Consultant,India,Ahmedabad,Corporate,2018-07-26,Medium,4417099
+C100911,Customer_0912,29,Female,Student,India,Pune,Individual,2019-03-03,Low,1044566
+C100912,Customer_0913,39,Male,Self-Employed,India,Pune,Individual,2023-01-10,Medium,1370582
+C100913,Customer_0914,69,Male,Retired,UAE,Hyderabad,SME,2019-09-27,Medium,4787545
+C100914,Customer_0915,50,Female,Self-Employed,India,Chennai,SME,2018-04-24,High,2187952
+C100915,Customer_0916,43,Female,Retired,UK,Pune,Corporate,2019-07-09,High,1758852
+C100916,Customer_0917,47,Male,Salaried,USA,Kolkata,SME,2024-07-23,Low,4042293
+C100917,Customer_0918,59,Male,Salaried,India,Delhi,Individual,2022-12-25,Medium,3130095
+C100918,Customer_0919,33,Male,Salaried,Singapore,Chennai,SME,2021-03-29,Medium,924916
+C100919,Customer_0920,52,Male,Student,India,Pune,Individual,2026-04-06,Low,731378
+C100920,Customer_0921,63,Male,Self-Employed,India,Ahmedabad,Individual,2021-04-10,Low,4098114
+C100921,Customer_0922,49,Female,Business Owner,India,Mumbai,Individual,2025-06-12,Medium,3894844
+C100922,Customer_0923,42,Female,Business Owner,India,Mumbai,SME,2020-12-05,Medium,1957197
+C100923,Customer_0924,28,Female,Student,Singapore,Pune,Individual,2018-03-20,Low,4353530
+C100924,Customer_0925,33,Female,Business Owner,India,Bengaluru,SME,2018-12-08,Low,889867
+C100925,Customer_0926,67,Female,Salaried,India,Pune,Individual,2020-04-28,Low,4384459
+C100926,Customer_0927,47,Female,Business Owner,India,Pune,Individual,2019-08-02,Low,672002
+C100927,Customer_0928,35,Male,Self-Employed,India,Bengaluru,Individual,2019-05-03,High,3289531
+C100928,Customer_0929,41,Female,Student,India,Chennai,Individual,2021-04-03,Medium,4262234
+C100929,Customer_0930,49,Female,Student,India,Delhi,Individual,2026-04-13,Low,3210714
+C100930,Customer_0931,47,Male,Salaried,USA,Hyderabad,Individual,2019-09-14,Low,3959493
+C100931,Customer_0932,55,Male,Student,India,Kolkata,Individual,2020-01-01,Medium,1915925
+C100932,Customer_0933,33,Male,Salaried,USA,Bengaluru,Individual,2026-06-13,Medium,1653794
+C100933,Customer_0934,52,Male,Consultant,India,Mumbai,Individual,2019-09-17,Low,1549881
+C100934,Customer_0935,42,Male,Business Owner,India,Kolkata,Individual,2025-01-17,Low,846902
+C100935,Customer_0936,67,Female,Self-Employed,India,Pune,Individual,2023-04-09,Low,1603452
+C100936,Customer_0937,28,Female,Business Owner,India,Delhi,Individual,2025-11-15,Medium,1462001
+C100937,Customer_0938,28,Male,Self-Employed,USA,Ahmedabad,Individual,2022-09-21,Medium,3856488
+C100938,Customer_0939,43,Female,Student,India,Kolkata,Individual,2023-01-14,Low,1301041
+C100939,Customer_0940,45,Female,Retired,India,Kolkata,Individual,2019-12-02,High,1080005
+C100940,Customer_0941,54,Female,Student,UK,Kolkata,Individual,2022-11-18,Medium,3745361
+C100941,Customer_0942,40,Female,Business Owner,India,Hyderabad,Individual,2023-09-10,High,2827895
+C100942,Customer_0943,65,Female,Consultant,India,Chennai,Individual,2026-05-18,Low,1313146
+C100943,Customer_0944,44,Female,Business Owner,UAE,Delhi,Individual,2018-10-28,Low,3617702
+C100944,Customer_0945,27,Male,Student,India,Kolkata,Individual,2019-05-01,High,1315663
+C100945,Customer_0946,26,Male,Consultant,UK,Ahmedabad,Individual,2018-03-02,High,3992220
+C100946,Customer_0947,68,Female,Business Owner,India,Pune,SME,2024-09-16,High,451660
+C100947,Customer_0948,27,Male,Business Owner,USA,Delhi,Individual,2018-09-13,Medium,3073628
+C100948,Customer_0949,67,Female,Business Owner,India,Delhi,Individual,2025-10-08,Low,3105240
+C100949,Customer_0950,34,Male,Consultant,India,Chennai,SME,2021-02-05,Low,2052324
+C100950,Customer_0951,25,Male,Student,India,Chennai,Individual,2020-06-12,Low,3538203
+C100951,Customer_0952,35,Female,Business Owner,USA,Chennai,Individual,2026-04-11,High,2084703
+C100952,Customer_0953,51,Male,Student,India,Ahmedabad,SME,2024-02-12,Low,3371405
+C100953,Customer_0954,41,Other,Student,UAE,Kolkata,Individual,2022-08-24,Medium,1350705
+C100954,Customer_0955,59,Male,Business Owner,India,Bengaluru,SME,2025-07-18,High,2972416
+C100955,Customer_0956,50,Other,Retired,India,Hyderabad,Individual,2024-05-28,High,3854425
+C100956,Customer_0957,40,Male,Self-Employed,UK,Hyderabad,Individual,2023-05-31,High,4840552
+C100957,Customer_0958,52,Female,Retired,India,Mumbai,Individual,2020-09-23,Low,1993372
+C100958,Customer_0959,68,Male,Self-Employed,India,Hyderabad,Individual,2026-05-15,Low,2521871
+C100959,Customer_0960,41,Male,Consultant,India,Bengaluru,SME,2024-02-08,High,2538806
+C100960,Customer_0961,28,Male,Self-Employed,India,Pune,Individual,2026-01-10,Low,4342641
+C100961,Customer_0962,41,Female,Business Owner,India,Kolkata,Individual,2026-03-15,Low,4824037
+C100962,Customer_0963,62,Male,Business Owner,India,Chennai,Individual,2022-08-30,High,3336246
+C100963,Customer_0964,31,Female,Student,India,Hyderabad,Individual,2021-01-14,Medium,4164093
+C100964,Customer_0965,67,Male,Salaried,India,Ahmedabad,Individual,2026-01-15,Low,695561
+C100965,Customer_0966,49,Female,Retired,India,Kolkata,SME,2026-06-25,Low,3868595
+C100966,Customer_0967,50,Male,Retired,India,Kolkata,Individual,2019-01-14,Low,4107415
+C100967,Customer_0968,36,Male,Consultant,India,Pune,SME,2023-06-03,High,3660041
+C100968,Customer_0969,66,Female,Consultant,India,Chennai,Individual,2023-02-11,Medium,3046626
+C100969,Customer_0970,22,Male,Student,India,Ahmedabad,Individual,2024-05-09,Low,4528022
+C100970,Customer_0971,35,Female,Self-Employed,India,Pune,Individual,2026-04-12,Low,3371570
+C100971,Customer_0972,41,Male,Student,India,Ahmedabad,Individual,2020-02-21,Medium,4278031
+C100972,Customer_0973,44,Male,Self-Employed,India,Ahmedabad,Individual,2026-04-13,High,1147068
+C100973,Customer_0974,44,Female,Student,Singapore,Bengaluru,Individual,2023-06-17,Low,3427315
+C100974,Customer_0975,28,Female,Self-Employed,India,Chennai,Individual,2018-09-13,Medium,2356203
+C100975,Customer_0976,32,Female,Student,India,Pune,SME,2022-05-04,Low,4381052
+C100976,Customer_0977,25,Female,Student,India,Hyderabad,SME,2019-02-18,Low,4438737
+C100977,Customer_0978,49,Male,Self-Employed,India,Chennai,Corporate,2026-02-12,Low,4266733
+C100978,Customer_0979,38,Male,Consultant,UK,Bengaluru,SME,2024-06-23,Low,1312526
+C100979,Customer_0980,48,Female,Business Owner,Singapore,Ahmedabad,Individual,2025-09-05,Low,2613827
+C100980,Customer_0981,49,Male,Self-Employed,Singapore,Bengaluru,Individual,2023-02-11,Low,300587
+C100981,Customer_0982,55,Female,Consultant,India,Bengaluru,SME,2021-05-14,Low,4904281
+C100982,Customer_0983,47,Male,Retired,India,Pune,SME,2021-08-20,Low,1510290
+C100983,Customer_0984,52,Female,Salaried,India,Pune,Corporate,2026-01-14,Low,3234829
+C100984,Customer_0985,49,Male,Retired,India,Bengaluru,Individual,2019-04-15,Medium,2591449
+C100985,Customer_0986,52,Male,Retired,India,Kolkata,Individual,2025-07-05,Low,4551734
+C100986,Customer_0987,51,Female,Consultant,India,Delhi,SME,2021-08-01,Low,4160006
+C100987,Customer_0988,36,Male,Consultant,India,Mumbai,SME,2023-01-05,High,3951571
+C100988,Customer_0989,33,Other,Business Owner,Singapore,Bengaluru,Individual,2023-08-30,Low,3323467
+C100989,Customer_0990,59,Female,Salaried,India,Kolkata,SME,2018-09-12,Medium,861093
+C100990,Customer_0991,37,Female,Consultant,India,Chennai,Individual,2019-04-06,Medium,4619598
+C100991,Customer_0992,47,Male,Student,UK,Chennai,SME,2019-05-14,Medium,594366
+C100992,Customer_0993,30,Female,Self-Employed,India,Pune,Individual,2024-08-10,Low,2441152
+C100993,Customer_0994,42,Female,Student,India,Hyderabad,SME,2018-08-27,Low,2083291
+C100994,Customer_0995,46,Female,Student,India,Bengaluru,Individual,2023-03-09,Medium,2136831
+C100995,Customer_0996,51,Male,Student,India,Hyderabad,Individual,2018-12-01,Medium,4892996
+C100996,Customer_0997,46,Female,Business Owner,India,Mumbai,Individual,2024-07-08,Low,1387665
+C100997,Customer_0998,38,Female,Business Owner,India,Bengaluru,Individual,2026-04-17,Medium,3025804
+C100998,Customer_0999,68,Male,Business Owner,India,Mumbai,Individual,2021-07-07,Low,1324893
+C100999,Customer_1000,46,Male,Retired,India,Delhi,Corporate,2019-10-20,High,4584275
+C101000,Customer_1001,60,Male,Retired,India,Pune,Individual,2021-10-11,Medium,3759716
+C101001,Customer_1002,57,Female,Business Owner,India,Ahmedabad,SME,2023-11-12,Low,2249762
+C101002,Customer_1003,48,Male,Retired,USA,Chennai,Individual,2024-03-04,Medium,677687
+C101003,Customer_1004,64,Male,Consultant,India,Bengaluru,Individual,2023-05-28,High,1017660
+C101004,Customer_1005,27,Female,Business Owner,India,Bengaluru,Individual,2022-12-10,Medium,1440753
+C101005,Customer_1006,66,Male,Salaried,India,Delhi,Individual,2023-05-11,Low,2209560
+C101006,Customer_1007,62,Male,Consultant,USA,Delhi,Individual,2019-11-05,Medium,4463707
+C101007,Customer_1008,45,Female,Consultant,India,Ahmedabad,SME,2019-10-03,Medium,861998
+C101008,Customer_1009,56,Female,Retired,India,Ahmedabad,SME,2025-11-25,Low,3011527
+C101009,Customer_1010,46,Male,Student,India,Kolkata,Individual,2022-12-01,Medium,1932405
+C101010,Customer_1011,34,Female,Salaried,India,Mumbai,Corporate,2025-04-23,Low,518961
+C101011,Customer_1012,60,Female,Consultant,India,Chennai,Individual,2023-04-24,Medium,3210842
+C101012,Customer_1013,33,Female,Student,India,Ahmedabad,Individual,2021-11-12,Medium,3609998
+C101013,Customer_1014,36,Female,Business Owner,USA,Ahmedabad,Individual,2022-11-04,Low,4809557
+C101014,Customer_1015,46,Female,Business Owner,India,Bengaluru,Individual,2023-11-15,High,2681407
+C101015,Customer_1016,62,Male,Student,India,Chennai,Individual,2019-08-01,Low,1829384
+C101016,Customer_1017,39,Female,Consultant,India,Pune,Individual,2021-12-03,Low,4316252
+C101017,Customer_1018,45,Female,Student,India,Delhi,Individual,2024-02-20,Low,1462579
+C101018,Customer_1019,23,Male,Business Owner,India,Ahmedabad,Individual,2018-09-27,Low,3507439
+C101019,Customer_1020,26,Female,Self-Employed,India,Delhi,Individual,2018-08-16,Medium,4733928
+C101020,Customer_1021,23,Male,Consultant,Singapore,Kolkata,Individual,2019-05-12,Low,320898
+C101021,Customer_1022,24,Female,Retired,UK,Kolkata,Individual,2023-01-07,High,4648332
+C101022,Customer_1023,63,Female,Consultant,Singapore,Chennai,SME,2020-01-10,High,1266973
+C101023,Customer_1024,62,Female,Student,India,Mumbai,Individual,2021-09-14,Medium,2563406
+C101024,Customer_1025,61,Female,Salaried,India,Kolkata,Individual,2019-02-19,Low,1512429
+C101025,Customer_1026,23,Female,Retired,India,Mumbai,Individual,2020-02-15,Medium,979160
+C101026,Customer_1027,24,Male,Self-Employed,India,Mumbai,Individual,2018-02-25,Low,3600491
+C101027,Customer_1028,34,Female,Retired,India,Kolkata,Individual,2024-11-07,Medium,2566286
+C101028,Customer_1029,48,Male,Business Owner,India,Mumbai,Corporate,2021-12-17,Low,2693776
+C101029,Customer_1030,37,Male,Retired,India,Mumbai,Individual,2019-06-30,High,2572924
+C101030,Customer_1031,44,Female,Retired,India,Chennai,Individual,2022-06-20,Low,3813003
+C101031,Customer_1032,29,Male,Student,UK,Hyderabad,Individual,2025-12-02,Low,4840683
+C101032,Customer_1033,56,Female,Retired,India,Pune,Individual,2024-12-31,High,2710475
+C101033,Customer_1034,36,Female,Consultant,India,Pune,Individual,2025-07-05,Low,1031287
+C101034,Customer_1035,24,Female,Retired,India,Ahmedabad,Individual,2021-06-12,Medium,1838707
+C101035,Customer_1036,57,Male,Self-Employed,India,Pune,SME,2021-01-22,High,2631345
+C101036,Customer_1037,65,Male,Salaried,Singapore,Kolkata,Individual,2020-09-07,Low,787205
+C101037,Customer_1038,21,Female,Consultant,India,Mumbai,Individual,2020-08-03,Low,1376805
+C101038,Customer_1039,42,Male,Student,Singapore,Bengaluru,Individual,2025-10-22,Low,1252323
+C101039,Customer_1040,61,Male,Student,USA,Bengaluru,SME,2019-03-03,Medium,4872891
+C101040,Customer_1041,55,Female,Consultant,India,Chennai,Individual,2025-03-24,High,2183666
+C101041,Customer_1042,62,Male,Consultant,India,Ahmedabad,Individual,2025-10-11,Low,4431509
+C101042,Customer_1043,41,Male,Consultant,India,Mumbai,SME,2025-03-01,Medium,2891835
+C101043,Customer_1044,39,Male,Retired,India,Hyderabad,Individual,2023-04-30,Low,2678625
+C101044,Customer_1045,55,Other,Retired,India,Bengaluru,SME,2025-04-06,Medium,4711595
+C101045,Customer_1046,28,Female,Salaried,UAE,Chennai,Individual,2018-04-09,Medium,3552175
+C101046,Customer_1047,32,Female,Consultant,India,Ahmedabad,Individual,2024-12-08,Medium,1426684
+C101047,Customer_1048,50,Male,Business Owner,UK,Mumbai,Corporate,2022-05-04,Low,1623743
+C101048,Customer_1049,53,Female,Student,India,Chennai,Individual,2026-02-19,Low,3430599
+C101049,Customer_1050,26,Female,Consultant,UAE,Bengaluru,Individual,2018-09-23,Low,310534
+C101050,Customer_1051,45,Other,Retired,India,Mumbai,Individual,2025-11-23,Low,1016965
+C101051,Customer_1052,38,Female,Business Owner,India,Ahmedabad,Individual,2022-11-14,Low,649330
+C101052,Customer_1053,45,Female,Student,India,Mumbai,SME,2018-11-18,Medium,3654639
+C101053,Customer_1054,67,Male,Salaried,India,Bengaluru,Individual,2022-04-27,Low,2374317
+C101054,Customer_1055,24,Female,Retired,UK,Bengaluru,SME,2018-04-26,Low,353302
+C101055,Customer_1056,69,Female,Salaried,India,Chennai,Individual,2018-09-14,Medium,3785787
+C101056,Customer_1057,43,Other,Business Owner,India,Chennai,Individual,2022-07-07,Low,3382823
+C101057,Customer_1058,58,Female,Retired,India,Delhi,Individual,2024-12-04,Low,3677594
+C101058,Customer_1059,41,Female,Retired,India,Mumbai,Individual,2018-12-02,High,1067122
+C101059,Customer_1060,36,Female,Business Owner,India,Chennai,SME,2020-03-24,Low,4412226
+C101060,Customer_1061,58,Male,Business Owner,India,Bengaluru,Individual,2021-04-28,Low,1147524
+C101061,Customer_1062,54,Female,Salaried,India,Bengaluru,Individual,2022-08-06,Low,2983088
+C101062,Customer_1063,28,Male,Retired,India,Hyderabad,Individual,2018-01-03,Low,2926865
+C101063,Customer_1064,55,Female,Salaried,India,Ahmedabad,Individual,2023-06-05,Low,1327995
+C101064,Customer_1065,57,Female,Salaried,Singapore,Bengaluru,SME,2022-03-24,Low,2064434
+C101065,Customer_1066,40,Male,Business Owner,India,Pune,Individual,2026-03-03,Low,545330
+C101066,Customer_1067,66,Male,Salaried,India,Kolkata,Individual,2020-07-23,Medium,2515134
+C101067,Customer_1068,52,Other,Salaried,India,Chennai,Individual,2022-03-11,Low,3482429
+C101068,Customer_1069,37,Female,Consultant,India,Delhi,Individual,2018-09-11,Low,1751777
+C101069,Customer_1070,21,Male,Student,India,Hyderabad,Corporate,2025-10-14,Low,2827513
+C101070,Customer_1071,54,Male,Self-Employed,India,Delhi,Individual,2025-01-29,High,4781295
+C101071,Customer_1072,31,Female,Student,India,Mumbai,Individual,2021-01-05,Low,1402692
+C101072,Customer_1073,58,Female,Consultant,India,Hyderabad,Individual,2021-11-28,Medium,1666083
+C101073,Customer_1074,46,Male,Self-Employed,India,Chennai,Individual,2025-04-12,Low,863971
+C101074,Customer_1075,43,Female,Student,UAE,Ahmedabad,Corporate,2020-07-04,High,2847622
+C101075,Customer_1076,29,Male,Consultant,India,Delhi,Individual,2020-01-02,Low,1258057
+C101076,Customer_1077,55,Other,Student,India,Chennai,Individual,2020-01-21,Low,4315471
+C101077,Customer_1078,29,Female,Salaried,India,Delhi,Individual,2024-01-03,Low,1667432
+C101078,Customer_1079,41,Female,Self-Employed,India,Ahmedabad,Corporate,2019-10-17,Low,3421649
+C101079,Customer_1080,61,Female,Self-Employed,India,Pune,Corporate,2018-10-02,Medium,1189317
+C101080,Customer_1081,66,Female,Business Owner,India,Bengaluru,Individual,2019-05-28,Medium,1817051
+C101081,Customer_1082,69,Female,Retired,India,Ahmedabad,Individual,2026-05-15,Medium,1104624
+C101082,Customer_1083,67,Male,Student,India,Mumbai,Individual,2025-05-29,Low,2896452
+C101083,Customer_1084,48,Female,Consultant,India,Mumbai,Individual,2026-02-05,Medium,430529
+C101084,Customer_1085,30,Male,Consultant,Singapore,Mumbai,Individual,2020-05-09,Low,690058
+C101085,Customer_1086,62,Female,Retired,India,Ahmedabad,SME,2021-10-02,High,2656692
+C101086,Customer_1087,60,Female,Business Owner,USA,Pune,SME,2022-03-02,Medium,2864726
+C101087,Customer_1088,69,Female,Self-Employed,India,Delhi,Individual,2022-06-13,Low,1849671
+C101088,Customer_1089,52,Male,Salaried,Singapore,Pune,Individual,2018-03-25,Medium,2327528
+C101089,Customer_1090,27,Female,Self-Employed,India,Bengaluru,Individual,2023-01-28,Low,2257487
+C101090,Customer_1091,45,Female,Consultant,India,Chennai,Individual,2018-05-01,Low,3862288
+C101091,Customer_1092,42,Male,Business Owner,USA,Kolkata,Individual,2020-05-02,Low,2398322
+C101092,Customer_1093,62,Male,Business Owner,India,Ahmedabad,Individual,2020-06-25,Medium,4285143
+C101093,Customer_1094,40,Female,Business Owner,India,Chennai,Corporate,2023-09-22,Low,1320026
+C101094,Customer_1095,37,Male,Retired,UAE,Chennai,Individual,2025-08-11,Low,1238197
+C101095,Customer_1096,24,Female,Retired,India,Delhi,SME,2023-12-06,Medium,2197510
+C101096,Customer_1097,61,Female,Salaried,India,Chennai,Individual,2021-09-11,Low,683218
+C101097,Customer_1098,58,Male,Salaried,India,Pune,Individual,2022-06-16,Medium,3453956
+C101098,Customer_1099,23,Female,Self-Employed,UK,Ahmedabad,Individual,2022-05-08,Low,2135617
+C101099,Customer_1100,42,Female,Retired,UK,Bengaluru,SME,2019-04-03,Low,2022079
+C101100,Customer_1101,44,Male,Business Owner,India,Bengaluru,Individual,2026-02-15,Medium,2810506
+C101101,Customer_1102,43,Female,Retired,India,Kolkata,Individual,2025-10-20,Low,685891
+C101102,Customer_1103,66,Male,Consultant,India,Bengaluru,Individual,2020-01-15,Medium,2070969
+C101103,Customer_1104,28,Male,Consultant,India,Mumbai,Individual,2018-12-23,Medium,4869423
+C101104,Customer_1105,36,Male,Self-Employed,UK,Chennai,Individual,2019-05-27,Medium,3254237
+C101105,Customer_1106,29,Male,Business Owner,India,Kolkata,Individual,2023-05-05,Low,2997686
+C101106,Customer_1107,32,Male,Salaried,India,Ahmedabad,Individual,2018-04-02,Medium,2676561
+C101107,Customer_1108,65,Other,Consultant,India,Chennai,SME,2018-11-16,Low,2502998
+C101108,Customer_1109,67,Female,Self-Employed,India,Kolkata,Individual,2023-07-03,Low,4702142
+C101109,Customer_1110,23,Female,Self-Employed,UK,Mumbai,Individual,2019-03-29,Low,4672669
+C101110,Customer_1111,51,Male,Salaried,India,Mumbai,Individual,2018-08-02,Low,2224138
+C101111,Customer_1112,32,Male,Student,India,Hyderabad,Individual,2018-03-05,Low,4646229
+C101112,Customer_1113,30,Female,Retired,USA,Hyderabad,SME,2023-12-28,Low,687722
+C101113,Customer_1114,35,Male,Business Owner,Singapore,Kolkata,Individual,2021-01-31,Low,1802651
+C101114,Customer_1115,30,Female,Consultant,India,Pune,Individual,2020-05-31,Medium,1719094
+C101115,Customer_1116,45,Male,Retired,Singapore,Mumbai,SME,2023-06-06,Low,3577124
+C101116,Customer_1117,69,Female,Consultant,India,Delhi,Individual,2019-06-13,Low,3147701
+C101117,Customer_1118,49,Female,Consultant,USA,Ahmedabad,Individual,2022-06-05,Low,2521267
+C101118,Customer_1119,56,Female,Business Owner,India,Pune,Individual,2022-02-08,Low,1503317
+C101119,Customer_1120,45,Female,Consultant,India,Mumbai,Individual,2023-09-23,Medium,2682286
+C101120,Customer_1121,21,Female,Consultant,India,Mumbai,Individual,2023-04-19,High,1564245
+C101121,Customer_1122,25,Female,Student,India,Hyderabad,Individual,2023-09-24,Low,2638155
+C101122,Customer_1123,34,Female,Consultant,India,Hyderabad,Individual,2019-10-23,Medium,1895990
+C101123,Customer_1124,32,Female,Consultant,India,Bengaluru,Individual,2019-03-11,Low,4476524
+C101124,Customer_1125,62,Female,Salaried,India,Chennai,SME,2022-07-13,High,3806866
+C101125,Customer_1126,62,Female,Retired,India,Chennai,Individual,2018-06-27,Low,1123771
+C101126,Customer_1127,62,Female,Retired,India,Delhi,Individual,2021-11-09,Low,4718626
+C101127,Customer_1128,52,Female,Self-Employed,India,Ahmedabad,Individual,2023-04-23,Low,3396274
+C101128,Customer_1129,48,Female,Self-Employed,Singapore,Delhi,Individual,2024-12-20,Low,1946770
+C101129,Customer_1130,52,Female,Retired,UAE,Hyderabad,Individual,2023-07-18,Medium,2793164
+C101130,Customer_1131,40,Female,Self-Employed,India,Ahmedabad,Individual,2026-06-11,Low,1218793
+C101131,Customer_1132,53,Male,Student,India,Pune,SME,2022-09-22,Low,520073
+C101132,Customer_1133,59,Other,Student,India,Pune,SME,2021-10-15,Low,2276993
+C101133,Customer_1134,58,Male,Retired,India,Delhi,SME,2020-02-01,High,3976224
+C101134,Customer_1135,51,Male,Salaried,Singapore,Kolkata,Individual,2023-09-18,Medium,1953646
+C101135,Customer_1136,23,Male,Business Owner,India,Delhi,Individual,2024-11-18,High,2105971
+C101136,Customer_1137,56,Female,Consultant,India,Delhi,Individual,2020-09-22,Medium,4953117
+C101137,Customer_1138,38,Male,Retired,India,Delhi,Individual,2018-08-23,High,4940081
+C101138,Customer_1139,57,Male,Self-Employed,India,Kolkata,Individual,2018-02-02,Low,2480180
+C101139,Customer_1140,47,Male,Self-Employed,UK,Ahmedabad,Individual,2023-05-15,Low,507673
+C101140,Customer_1141,64,Male,Self-Employed,India,Bengaluru,Individual,2023-08-18,Low,3492631
+C101141,Customer_1142,37,Female,Student,India,Pune,Individual,2019-01-09,Low,3659153
+C101142,Customer_1143,66,Male,Retired,India,Chennai,Individual,2018-03-12,Medium,4594803
+C101143,Customer_1144,62,Male,Salaried,Singapore,Delhi,Individual,2023-07-22,Low,4755850
+C101144,Customer_1145,37,Female,Self-Employed,India,Ahmedabad,Individual,2021-05-18,Low,3256589
+C101145,Customer_1146,44,Male,Self-Employed,UK,Pune,Individual,2021-07-18,Medium,803506
+C101146,Customer_1147,47,Female,Retired,Singapore,Bengaluru,Individual,2020-03-24,Low,1472078
+C101147,Customer_1148,58,Other,Business Owner,India,Delhi,Individual,2024-02-05,Low,3668401
+C101148,Customer_1149,54,Male,Self-Employed,Singapore,Bengaluru,SME,2024-04-27,Low,3154827
+C101149,Customer_1150,62,Female,Self-Employed,India,Hyderabad,Individual,2018-06-11,Medium,2349102
+C101150,Customer_1151,39,Male,Consultant,India,Mumbai,Individual,2018-10-04,Low,2188818
+C101151,Customer_1152,45,Female,Business Owner,India,Delhi,Individual,2022-09-17,Low,3634867
+C101152,Customer_1153,42,Male,Salaried,India,Mumbai,Individual,2023-02-13,Low,2285044
+C101153,Customer_1154,65,Male,Student,India,Hyderabad,SME,2019-03-26,Medium,1027468
+C101154,Customer_1155,35,Male,Business Owner,India,Ahmedabad,Individual,2019-05-06,Low,4902825
+C101155,Customer_1156,49,Male,Self-Employed,India,Kolkata,Corporate,2023-10-17,Low,1942102
+C101156,Customer_1157,26,Female,Student,India,Hyderabad,SME,2021-11-10,High,1609377
+C101157,Customer_1158,62,Female,Student,India,Ahmedabad,Individual,2019-01-07,Medium,625778
+C101158,Customer_1159,39,Female,Salaried,India,Chennai,Individual,2023-03-05,Low,2503995
+C101159,Customer_1160,37,Female,Salaried,India,Ahmedabad,Individual,2018-08-17,Low,4935153
+C101160,Customer_1161,49,Female,Salaried,UAE,Bengaluru,Individual,2019-12-16,Low,1051375
+C101161,Customer_1162,45,Female,Student,Singapore,Kolkata,Individual,2024-01-20,Medium,1450093
+C101162,Customer_1163,62,Female,Consultant,India,Ahmedabad,Individual,2019-11-21,Low,1139157
+C101163,Customer_1164,47,Female,Student,India,Delhi,Individual,2018-07-16,High,742041
+C101164,Customer_1165,46,Male,Consultant,India,Delhi,Individual,2026-02-23,Medium,3136376
+C101165,Customer_1166,26,Female,Business Owner,USA,Pune,Individual,2019-11-28,Low,1701495
+C101166,Customer_1167,22,Male,Consultant,India,Mumbai,Individual,2022-05-16,Low,3829773
+C101167,Customer_1168,40,Female,Student,USA,Mumbai,Corporate,2024-12-31,Medium,2183023
+C101168,Customer_1169,69,Female,Business Owner,India,Bengaluru,Individual,2026-05-27,Medium,3291361
+C101169,Customer_1170,65,Male,Retired,India,Hyderabad,Individual,2024-11-15,Medium,720143
+C101170,Customer_1171,51,Female,Retired,India,Pune,Corporate,2020-11-18,Low,1847634
+C101171,Customer_1172,51,Female,Student,India,Bengaluru,Individual,2025-04-01,Medium,2246010
+C101172,Customer_1173,40,Male,Retired,UK,Delhi,Individual,2018-02-09,Medium,580205
+C101173,Customer_1174,29,Female,Business Owner,India,Chennai,Individual,2020-10-07,High,2270639
+C101174,Customer_1175,21,Female,Salaried,India,Chennai,Individual,2019-09-11,Low,2510240
+C101175,Customer_1176,37,Male,Business Owner,India,Ahmedabad,SME,2022-06-25,Low,2198050
+C101176,Customer_1177,36,Female,Student,India,Kolkata,Individual,2025-07-26,Low,2670067
+C101177,Customer_1178,30,Male,Student,India,Kolkata,Individual,2024-07-25,Medium,4047001
+C101178,Customer_1179,33,Female,Business Owner,India,Bengaluru,Individual,2026-06-22,High,3922062
+C101179,Customer_1180,22,Male,Self-Employed,India,Delhi,Individual,2019-03-01,Low,366272
+C101180,Customer_1181,50,Male,Business Owner,India,Pune,Individual,2024-05-20,Low,3309360
+C101181,Customer_1182,66,Male,Student,India,Bengaluru,Individual,2024-02-24,Low,4549183
+C101182,Customer_1183,54,Male,Salaried,India,Pune,Individual,2021-11-16,Medium,4394915
+C101183,Customer_1184,42,Female,Self-Employed,India,Pune,Individual,2018-10-30,Medium,1819763
+C101184,Customer_1185,41,Male,Self-Employed,India,Hyderabad,Individual,2018-11-20,Low,3980019
+C101185,Customer_1186,36,Female,Student,UK,Hyderabad,SME,2025-10-02,Low,4064583
+C101186,Customer_1187,27,Male,Business Owner,India,Bengaluru,Individual,2020-07-04,High,2019625
+C101187,Customer_1188,50,Male,Salaried,India,Kolkata,Individual,2023-05-30,Low,4384977
+C101188,Customer_1189,48,Female,Self-Employed,Singapore,Ahmedabad,Individual,2026-01-10,Low,3271440
+C101189,Customer_1190,21,Male,Salaried,India,Ahmedabad,SME,2022-03-10,Low,3830216
+C101190,Customer_1191,41,Female,Business Owner,India,Kolkata,Individual,2019-10-13,Low,3812246
+C101191,Customer_1192,34,Male,Retired,India,Bengaluru,SME,2022-02-11,Low,3972325
+C101192,Customer_1193,29,Male,Consultant,India,Kolkata,Individual,2019-12-13,Medium,4797337
+C101193,Customer_1194,55,Female,Retired,India,Mumbai,SME,2019-07-17,Low,4329872
+C101194,Customer_1195,46,Male,Student,Singapore,Ahmedabad,SME,2024-11-19,Medium,2285055
+C101195,Customer_1196,52,Male,Retired,UAE,Bengaluru,Individual,2020-12-08,Medium,2941648
+C101196,Customer_1197,55,Female,Self-Employed,India,Hyderabad,Individual,2023-10-24,Low,3346925
+C101197,Customer_1198,69,Male,Retired,India,Chennai,Individual,2024-03-04,Low,4325784
+C101198,Customer_1199,60,Female,Self-Employed,USA,Chennai,Individual,2022-08-31,Low,2145520
+C101199,Customer_1200,51,Male,Business Owner,India,Hyderabad,Individual,2022-08-04,Low,1770976
+C101200,Customer_1201,64,Female,Student,India,Delhi,Individual,2019-07-14,Medium,3767792
+C101201,Customer_1202,44,Male,Self-Employed,India,Chennai,Corporate,2022-06-29,Low,4784594
+C101202,Customer_1203,69,Male,Self-Employed,India,Kolkata,Individual,2024-05-18,Medium,4586367
+C101203,Customer_1204,58,Female,Salaried,India,Chennai,Individual,2019-08-29,Low,995398
+C101204,Customer_1205,52,Female,Salaried,India,Ahmedabad,Individual,2019-12-21,Low,4620362
+C101205,Customer_1206,65,Male,Consultant,India,Bengaluru,Individual,2023-11-11,Low,4009180
+C101206,Customer_1207,46,Male,Retired,India,Hyderabad,Individual,2026-05-02,Low,1038311
+C101207,Customer_1208,56,Female,Self-Employed,Singapore,Mumbai,Individual,2021-04-30,Medium,330768
+C101208,Customer_1209,34,Female,Business Owner,India,Kolkata,Individual,2025-01-11,Medium,1259254
+C101209,Customer_1210,68,Female,Retired,India,Pune,Corporate,2019-07-21,Low,4668305
+C101210,Customer_1211,51,Other,Student,India,Chennai,Individual,2022-11-02,Medium,3848168
+C101211,Customer_1212,59,Female,Salaried,India,Chennai,Corporate,2026-01-04,Medium,3003941
+C101212,Customer_1213,43,Male,Consultant,UAE,Delhi,Individual,2021-09-30,Low,3265746
+C101213,Customer_1214,63,Male,Salaried,Singapore,Kolkata,Individual,2022-04-21,Low,2242613
+C101214,Customer_1215,24,Male,Self-Employed,India,Chennai,Individual,2019-04-26,Low,4554004
+C101215,Customer_1216,26,Female,Self-Employed,India,Mumbai,Individual,2022-06-25,Low,1034280
+C101216,Customer_1217,45,Female,Consultant,India,Delhi,SME,2022-12-21,Medium,1774862
+C101217,Customer_1218,56,Male,Self-Employed,India,Chennai,Individual,2026-05-01,Low,1242782
+C101218,Customer_1219,60,Male,Self-Employed,India,Bengaluru,Individual,2019-09-15,Low,4285697
+C101219,Customer_1220,42,Female,Self-Employed,India,Chennai,SME,2021-02-09,Medium,2838242
+C101220,Customer_1221,52,Female,Business Owner,India,Hyderabad,Individual,2023-06-30,Low,3513746
+C101221,Customer_1222,48,Female,Consultant,India,Pune,SME,2026-01-02,Medium,4621310
+C101222,Customer_1223,68,Female,Business Owner,India,Hyderabad,Individual,2020-01-08,Low,1218644
+C101223,Customer_1224,53,Female,Self-Employed,India,Bengaluru,SME,2023-11-25,Low,4832806
+C101224,Customer_1225,41,Male,Consultant,India,Hyderabad,Individual,2025-06-18,Low,894523
+C101225,Customer_1226,68,Female,Consultant,India,Delhi,Individual,2023-05-17,Low,3845161
+C101226,Customer_1227,26,Male,Salaried,India,Mumbai,Individual,2021-08-16,Low,3602800
+C101227,Customer_1228,69,Female,Retired,India,Chennai,Individual,2019-12-28,Medium,4179469
+C101228,Customer_1229,28,Female,Retired,India,Mumbai,SME,2020-06-11,Medium,1044769
+C101229,Customer_1230,35,Male,Consultant,India,Ahmedabad,Individual,2018-06-10,Medium,4811558
+C101230,Customer_1231,61,Female,Consultant,UK,Pune,Individual,2019-04-17,Low,4033346
+C101231,Customer_1232,56,Male,Student,Singapore,Mumbai,Individual,2021-09-19,High,819986
+C101232,Customer_1233,68,Female,Business Owner,India,Bengaluru,SME,2019-03-12,Low,2918346
+C101233,Customer_1234,57,Male,Business Owner,India,Hyderabad,Individual,2018-02-01,Medium,4141176
+C101234,Customer_1235,52,Male,Business Owner,India,Mumbai,SME,2023-11-18,Medium,2541275
+C101235,Customer_1236,37,Male,Salaried,India,Kolkata,Individual,2018-08-09,Low,2090262
+C101236,Customer_1237,21,Female,Retired,India,Ahmedabad,SME,2019-03-14,Low,1594986
+C101237,Customer_1238,27,Female,Self-Employed,India,Mumbai,Individual,2023-01-20,Medium,2724901
+C101238,Customer_1239,35,Female,Self-Employed,India,Chennai,Individual,2025-10-28,Medium,4924074
+C101239,Customer_1240,23,Male,Retired,India,Bengaluru,Individual,2024-02-24,Low,3155326
+C101240,Customer_1241,45,Female,Consultant,India,Delhi,Individual,2018-04-11,Medium,3694185
+C101241,Customer_1242,59,Female,Consultant,India,Kolkata,Corporate,2019-06-05,Low,3964260
+C101242,Customer_1243,68,Female,Self-Employed,India,Bengaluru,Corporate,2024-04-14,Low,3956899
+C101243,Customer_1244,44,Female,Self-Employed,India,Bengaluru,Individual,2024-03-20,Medium,2182113
+C101244,Customer_1245,63,Female,Student,India,Mumbai,SME,2021-04-27,Medium,3912941
+C101245,Customer_1246,69,Female,Business Owner,India,Chennai,Individual,2026-01-23,Low,1841819
+C101246,Customer_1247,63,Female,Salaried,India,Chennai,Individual,2025-07-17,Low,3044873
+C101247,Customer_1248,43,Male,Retired,India,Hyderabad,Individual,2024-04-22,Low,1721529
+C101248,Customer_1249,36,Female,Business Owner,India,Delhi,Individual,2024-05-08,Low,4716584
+C101249,Customer_1250,68,Female,Student,UK,Chennai,Individual,2024-08-29,Low,3731707
+C101250,Customer_1251,32,Male,Business Owner,India,Mumbai,Individual,2019-04-06,Low,3043961
+C101251,Customer_1252,41,Male,Consultant,India,Ahmedabad,Individual,2023-12-13,Medium,2422082
+C101252,Customer_1253,24,Female,Student,India,Ahmedabad,Individual,2025-12-23,Low,2744214
+C101253,Customer_1254,59,Male,Retired,UK,Pune,SME,2019-11-28,Low,3965558
+C101254,Customer_1255,52,Male,Self-Employed,USA,Delhi,Individual,2018-02-15,Low,1586439
+C101255,Customer_1256,25,Male,Student,Singapore,Delhi,Individual,2021-01-23,Low,4193786
+C101256,Customer_1257,31,Male,Retired,India,Bengaluru,Individual,2020-04-15,Low,1624158
+C101257,Customer_1258,48,Male,Consultant,India,Mumbai,Individual,2026-01-21,Low,965594
+C101258,Customer_1259,47,Female,Salaried,India,Hyderabad,Individual,2021-10-14,Low,3763354
+C101259,Customer_1260,60,Female,Self-Employed,India,Pune,Individual,2023-08-12,Low,3629238
+C101260,Customer_1261,34,Male,Self-Employed,India,Pune,Individual,2026-05-03,Low,1873406
+C101261,Customer_1262,66,Other,Salaried,India,Pune,Individual,2024-09-11,Medium,3349231
+C101262,Customer_1263,42,Female,Student,India,Delhi,SME,2024-05-11,Low,3724940
+C101263,Customer_1264,61,Female,Retired,Singapore,Chennai,SME,2026-03-22,Low,4002816
+C101264,Customer_1265,32,Male,Consultant,India,Pune,Individual,2023-11-06,Low,4777721
+C101265,Customer_1266,22,Female,Consultant,India,Ahmedabad,Corporate,2019-12-19,Low,4315479
+C101266,Customer_1267,23,Male,Student,India,Pune,SME,2024-03-03,Low,2364744
+C101267,Customer_1268,39,Male,Business Owner,UK,Delhi,Individual,2020-09-24,Medium,1382117
+C101268,Customer_1269,67,Male,Business Owner,Singapore,Mumbai,Individual,2020-10-22,Low,757430
+C101269,Customer_1270,23,Male,Consultant,India,Kolkata,Individual,2023-06-22,Low,2996874
+C101270,Customer_1271,39,Male,Self-Employed,UAE,Hyderabad,Individual,2020-09-05,Low,3432768
+C101271,Customer_1272,26,Male,Salaried,Singapore,Bengaluru,Individual,2018-03-17,Low,3547147
+C101272,Customer_1273,66,Male,Consultant,UK,Hyderabad,Corporate,2026-06-26,High,344758
+C101273,Customer_1274,54,Male,Student,UK,Chennai,Individual,2022-11-06,Low,3596369
+C101274,Customer_1275,58,Male,Salaried,India,Ahmedabad,Individual,2023-09-09,Low,3998916
+C101275,Customer_1276,55,Female,Self-Employed,USA,Pune,Individual,2024-11-11,Low,3692254
+C101276,Customer_1277,53,Male,Self-Employed,India,Bengaluru,Individual,2023-05-22,Low,2770569
+C101277,Customer_1278,58,Female,Student,India,Kolkata,Individual,2023-03-08,Low,371315
+C101278,Customer_1279,21,Male,Consultant,India,Chennai,SME,2024-09-20,Low,2601741
+C101279,Customer_1280,63,Male,Consultant,USA,Hyderabad,Individual,2020-07-04,Low,3330313
+C101280,Customer_1281,57,Female,Consultant,UAE,Pune,Individual,2025-01-12,Low,2976378
+C101281,Customer_1282,57,Female,Self-Employed,India,Chennai,Individual,2024-02-23,Medium,3000546
+C101282,Customer_1283,40,Female,Student,UAE,Pune,Individual,2019-07-19,Low,2727120
+C101283,Customer_1284,60,Male,Salaried,India,Kolkata,Individual,2019-03-29,Low,2894498
+C101284,Customer_1285,39,Female,Salaried,India,Delhi,Individual,2025-06-20,Medium,1821753
+C101285,Customer_1286,23,Female,Student,India,Mumbai,Individual,2025-08-05,Low,3143322
+C101286,Customer_1287,65,Male,Consultant,USA,Pune,Individual,2026-06-08,High,1623091
+C101287,Customer_1288,32,Male,Self-Employed,India,Bengaluru,SME,2018-11-09,High,2609945
+C101288,Customer_1289,25,Female,Business Owner,India,Pune,Individual,2025-08-08,Low,2251898
+C101289,Customer_1290,51,Female,Salaried,India,Pune,Individual,2025-04-30,Low,3656756
+C101290,Customer_1291,32,Other,Student,India,Chennai,Individual,2024-07-07,Medium,4506073
+C101291,Customer_1292,63,Male,Student,India,Chennai,SME,2022-03-24,Low,3276365
+C101292,Customer_1293,42,Male,Self-Employed,UK,Chennai,Individual,2022-04-26,Low,936241
+C101293,Customer_1294,21,Female,Business Owner,India,Chennai,Individual,2021-08-21,Low,3437275
+C101294,Customer_1295,67,Female,Self-Employed,USA,Bengaluru,Individual,2018-04-01,Low,1826393
+C101295,Customer_1296,46,Female,Business Owner,India,Chennai,Individual,2022-04-02,Medium,532633
+C101296,Customer_1297,33,Male,Self-Employed,UAE,Ahmedabad,Individual,2020-01-06,Medium,1203812
+C101297,Customer_1298,54,Female,Self-Employed,India,Ahmedabad,Individual,2019-09-13,Medium,4997031
+C101298,Customer_1299,46,Female,Business Owner,India,Mumbai,Individual,2018-06-23,Medium,2307543
+C101299,Customer_1300,22,Male,Retired,India,Bengaluru,Individual,2021-11-19,Medium,1248090
+C101300,Customer_1301,58,Male,Student,India,Pune,Individual,2018-05-29,Low,927442
+C101301,Customer_1302,40,Male,Self-Employed,India,Pune,Individual,2025-03-19,High,3356551
+C101302,Customer_1303,55,Female,Retired,USA,Delhi,Individual,2025-07-20,High,3875739
+C101303,Customer_1304,64,Male,Self-Employed,India,Ahmedabad,Individual,2024-10-18,Medium,1959764
+C101304,Customer_1305,50,Female,Retired,India,Pune,Individual,2020-07-22,Medium,786296
+C101305,Customer_1306,53,Female,Self-Employed,India,Pune,Individual,2019-05-21,Low,1966940
+C101306,Customer_1307,33,Male,Consultant,UAE,Delhi,Individual,2022-04-14,Low,3426731
+C101307,Customer_1308,32,Female,Self-Employed,India,Delhi,Individual,2023-09-19,Medium,835760
+C101308,Customer_1309,41,Male,Student,India,Bengaluru,Individual,2018-03-05,Low,1558238
+C101309,Customer_1310,62,Male,Self-Employed,India,Delhi,Corporate,2025-04-10,Low,309420
+C101310,Customer_1311,46,Other,Retired,India,Ahmedabad,SME,2021-09-21,Low,2519292
+C101311,Customer_1312,38,Female,Salaried,India,Hyderabad,Individual,2024-12-16,Low,1101541
+C101312,Customer_1313,59,Female,Consultant,India,Mumbai,Individual,2018-08-30,Low,1239943
+C101313,Customer_1314,62,Female,Salaried,India,Delhi,Individual,2021-08-12,Low,831100
+C101314,Customer_1315,65,Female,Retired,India,Kolkata,Individual,2021-11-21,Low,3732051
+C101315,Customer_1316,35,Female,Business Owner,India,Ahmedabad,Individual,2018-05-30,Low,2600650
+C101316,Customer_1317,55,Female,Student,India,Delhi,SME,2024-01-03,Low,4756897
+C101317,Customer_1318,49,Male,Retired,Singapore,Kolkata,SME,2025-11-26,Low,2156681
+C101318,Customer_1319,42,Male,Consultant,India,Bengaluru,Individual,2022-08-03,Medium,1342202
+C101319,Customer_1320,40,Male,Salaried,India,Hyderabad,Individual,2021-05-12,Low,1259236
+C101320,Customer_1321,26,Female,Self-Employed,India,Hyderabad,Individual,2023-05-26,Low,4779820
+C101321,Customer_1322,34,Female,Self-Employed,India,Bengaluru,Individual,2021-01-24,Low,3071688
+C101322,Customer_1323,47,Female,Retired,UK,Pune,Individual,2021-01-20,Low,1828786
+C101323,Customer_1324,64,Female,Retired,India,Ahmedabad,SME,2024-06-12,Medium,3374582
+C101324,Customer_1325,63,Female,Business Owner,India,Bengaluru,SME,2023-01-06,Low,2921881
+C101325,Customer_1326,30,Other,Retired,India,Mumbai,Individual,2020-03-29,Low,839509
+C101326,Customer_1327,54,Female,Self-Employed,India,Kolkata,Individual,2021-06-17,Medium,3597472
+C101327,Customer_1328,25,Female,Student,Singapore,Kolkata,Individual,2025-01-31,Low,860179
+C101328,Customer_1329,54,Male,Business Owner,India,Ahmedabad,SME,2022-06-28,Medium,1236562
+C101329,Customer_1330,37,Male,Self-Employed,India,Bengaluru,Individual,2018-08-24,High,3652632
+C101330,Customer_1331,43,Male,Self-Employed,USA,Pune,Individual,2025-04-10,Medium,2390390
+C101331,Customer_1332,56,Female,Business Owner,USA,Pune,Individual,2024-04-15,High,1344187
+C101332,Customer_1333,41,Male,Business Owner,India,Kolkata,Individual,2020-04-07,Low,618789
+C101333,Customer_1334,60,Female,Self-Employed,India,Kolkata,Individual,2026-03-13,Low,3090178
+C101334,Customer_1335,47,Female,Business Owner,India,Ahmedabad,Individual,2026-01-29,Low,3576152
+C101335,Customer_1336,69,Male,Salaried,USA,Hyderabad,Individual,2026-06-14,Low,1254360
+C101336,Customer_1337,52,Male,Retired,India,Chennai,SME,2021-03-17,Low,2258095
+C101337,Customer_1338,35,Female,Business Owner,India,Mumbai,Individual,2025-11-03,Low,1917964
+C101338,Customer_1339,58,Male,Salaried,UK,Ahmedabad,Individual,2024-11-04,Low,4490729
+C101339,Customer_1340,40,Female,Consultant,India,Kolkata,Individual,2025-05-23,Low,4017247
+C101340,Customer_1341,47,Female,Retired,India,Chennai,Individual,2022-08-23,Medium,1587761
+C101341,Customer_1342,27,Female,Business Owner,India,Bengaluru,Individual,2020-05-14,Low,2713711
+C101342,Customer_1343,26,Male,Retired,UK,Mumbai,Individual,2019-12-05,Low,4640926
+C101343,Customer_1344,49,Female,Consultant,India,Bengaluru,Individual,2026-03-16,Low,1924972
+C101344,Customer_1345,30,Male,Student,India,Pune,SME,2022-04-07,Medium,962887
+C101345,Customer_1346,69,Female,Self-Employed,India,Delhi,Individual,2025-11-16,Low,1702124
+C101346,Customer_1347,62,Male,Salaried,USA,Hyderabad,Individual,2022-09-16,Medium,3152742
+C101347,Customer_1348,55,Male,Business Owner,USA,Hyderabad,Individual,2022-07-15,Low,4963781
+C101348,Customer_1349,57,Female,Retired,India,Pune,Individual,2018-08-16,Low,1746698
+C101349,Customer_1350,50,Female,Student,India,Pune,Individual,2021-05-31,High,575254
+C101350,Customer_1351,23,Female,Student,Singapore,Chennai,SME,2022-09-21,Low,1154373
+C101351,Customer_1352,40,Male,Retired,USA,Mumbai,SME,2018-12-05,Low,2238994
+C101352,Customer_1353,45,Female,Business Owner,India,Bengaluru,SME,2019-05-18,Low,741504
+C101353,Customer_1354,65,Male,Self-Employed,India,Hyderabad,Individual,2023-01-05,Low,464404
+C101354,Customer_1355,31,Female,Retired,Singapore,Ahmedabad,Individual,2020-02-09,Low,3381520
+C101355,Customer_1356,45,Male,Consultant,Singapore,Ahmedabad,SME,2023-12-12,Low,4174538
+C101356,Customer_1357,37,Male,Self-Employed,India,Pune,Individual,2021-11-28,Low,1395889
+C101357,Customer_1358,27,Male,Self-Employed,India,Chennai,Individual,2021-06-06,High,2756301
+C101358,Customer_1359,26,Other,Retired,India,Chennai,SME,2018-12-30,Low,2992227
+C101359,Customer_1360,38,Female,Salaried,UK,Hyderabad,Individual,2021-06-12,Low,3437753
+C101360,Customer_1361,25,Male,Salaried,India,Delhi,Individual,2022-08-08,Medium,4903267
+C101361,Customer_1362,24,Female,Student,India,Pune,SME,2022-11-13,Low,4460524
+C101362,Customer_1363,38,Female,Salaried,India,Mumbai,Individual,2020-04-17,Medium,1785020
+C101363,Customer_1364,30,Male,Self-Employed,Singapore,Ahmedabad,Individual,2018-03-28,Low,4885751
+C101364,Customer_1365,48,Male,Retired,Singapore,Hyderabad,Individual,2025-12-07,Medium,464238
+C101365,Customer_1366,21,Male,Business Owner,UAE,Delhi,Corporate,2026-02-17,High,4820672
+C101366,Customer_1367,35,Female,Student,India,Chennai,Individual,2025-09-03,Low,971266
+C101367,Customer_1368,43,Female,Business Owner,USA,Kolkata,Individual,2020-06-17,Medium,835720
+C101368,Customer_1369,68,Female,Salaried,UK,Delhi,Individual,2023-02-12,Medium,860813
+C101369,Customer_1370,52,Male,Self-Employed,India,Mumbai,Individual,2019-03-13,Medium,873466
+C101370,Customer_1371,64,Female,Student,India,Bengaluru,Individual,2025-09-08,Low,2477432
+C101371,Customer_1372,37,Female,Salaried,UAE,Bengaluru,Individual,2018-01-18,Low,3308772
+C101372,Customer_1373,43,Female,Consultant,India,Chennai,Individual,2021-12-30,Low,3799857
+C101373,Customer_1374,41,Female,Business Owner,India,Ahmedabad,Individual,2025-04-10,High,374680
+C101374,Customer_1375,64,Female,Business Owner,India,Kolkata,Individual,2024-02-28,Low,1693288
+C101375,Customer_1376,68,Female,Retired,India,Ahmedabad,Individual,2025-04-29,Low,921948
+C101376,Customer_1377,68,Male,Consultant,India,Bengaluru,Individual,2022-03-19,Medium,985461
+C101377,Customer_1378,57,Male,Consultant,USA,Delhi,SME,2018-10-23,Low,3808151
+C101378,Customer_1379,45,Female,Business Owner,India,Hyderabad,Individual,2018-01-25,Low,3311603
+C101379,Customer_1380,47,Male,Business Owner,UK,Hyderabad,Individual,2019-04-17,Low,1286747
+C101380,Customer_1381,69,Male,Student,India,Delhi,Individual,2018-06-28,Medium,1715546
+C101381,Customer_1382,34,Female,Salaried,India,Hyderabad,Individual,2021-10-20,Low,4647196
+C101382,Customer_1383,37,Female,Self-Employed,USA,Kolkata,Individual,2018-06-06,Low,3003300
+C101383,Customer_1384,64,Female,Consultant,India,Chennai,Individual,2019-07-30,Low,1422465
+C101384,Customer_1385,39,Female,Consultant,India,Mumbai,Individual,2021-07-24,Low,4688796
+C101385,Customer_1386,32,Male,Salaried,USA,Ahmedabad,Individual,2024-03-31,Low,1233496
+C101386,Customer_1387,48,Other,Student,India,Ahmedabad,Corporate,2023-09-22,Low,1669330
+C101387,Customer_1388,36,Female,Consultant,India,Kolkata,Individual,2018-06-29,Medium,3555988
+C101388,Customer_1389,64,Male,Self-Employed,India,Bengaluru,Individual,2025-09-01,Low,2708710
+C101389,Customer_1390,65,Female,Student,Singapore,Hyderabad,Individual,2022-09-01,Low,625479
+C101390,Customer_1391,35,Male,Retired,India,Chennai,Individual,2020-12-17,Low,4092015
+C101391,Customer_1392,46,Male,Business Owner,India,Bengaluru,Individual,2021-04-01,Low,1372361
+C101392,Customer_1393,69,Female,Self-Employed,UAE,Pune,Individual,2025-03-15,Medium,3551075
+C101393,Customer_1394,57,Female,Self-Employed,India,Bengaluru,Individual,2021-12-12,Low,1871564
+C101394,Customer_1395,31,Male,Consultant,India,Hyderabad,Individual,2020-02-02,Medium,3831947
+C101395,Customer_1396,49,Other,Salaried,India,Chennai,Individual,2021-08-09,Medium,4521141
+C101396,Customer_1397,51,Female,Business Owner,India,Hyderabad,Individual,2018-08-01,Medium,3931076
+C101397,Customer_1398,53,Female,Salaried,India,Pune,Individual,2019-04-20,Medium,4629574
+C101398,Customer_1399,22,Female,Salaried,India,Delhi,Corporate,2020-09-02,Low,2837605
+C101399,Customer_1400,35,Male,Business Owner,India,Delhi,SME,2019-11-14,High,605743
+C101400,Customer_1401,62,Male,Student,India,Ahmedabad,Individual,2020-12-18,Medium,2819491
+C101401,Customer_1402,32,Male,Retired,India,Mumbai,Individual,2018-07-20,Low,2467840
+C101402,Customer_1403,35,Male,Salaried,India,Bengaluru,Individual,2023-03-07,Low,3678781
+C101403,Customer_1404,36,Male,Self-Employed,India,Delhi,SME,2018-12-24,Low,1468870
+C101404,Customer_1405,29,Male,Business Owner,India,Hyderabad,SME,2019-11-04,Medium,3578946
+C101405,Customer_1406,28,Female,Consultant,USA,Ahmedabad,SME,2026-04-20,Low,2375771
+C101406,Customer_1407,38,Male,Retired,India,Chennai,Individual,2018-01-19,Medium,3449271
+C101407,Customer_1408,63,Female,Student,India,Chennai,Individual,2020-05-17,Low,2272913
+C101408,Customer_1409,21,Female,Consultant,India,Bengaluru,SME,2022-03-31,Low,2096033
+C101409,Customer_1410,34,Male,Salaried,UK,Hyderabad,Individual,2020-08-09,Low,1307040
+C101410,Customer_1411,23,Male,Salaried,India,Ahmedabad,Individual,2020-09-20,Low,4194150
+C101411,Customer_1412,48,Other,Salaried,USA,Hyderabad,Individual,2019-01-30,Low,622775
+C101412,Customer_1413,33,Female,Consultant,India,Hyderabad,Individual,2021-08-05,Medium,1410153
+C101413,Customer_1414,59,Male,Self-Employed,India,Mumbai,Individual,2024-05-30,Low,2305356
+C101414,Customer_1415,49,Male,Self-Employed,USA,Hyderabad,Individual,2022-12-28,High,1031940
+C101415,Customer_1416,59,Female,Student,India,Delhi,SME,2025-11-04,Medium,4608605
+C101416,Customer_1417,52,Female,Student,India,Delhi,SME,2023-12-10,Medium,1922262
+C101417,Customer_1418,42,Male,Business Owner,UAE,Delhi,SME,2024-09-14,Low,1439278
+C101418,Customer_1419,63,Female,Retired,India,Hyderabad,Individual,2021-08-31,Medium,1493006
+C101419,Customer_1420,44,Male,Student,India,Mumbai,Individual,2023-03-15,High,1200886
+C101420,Customer_1421,67,Female,Student,India,Mumbai,Individual,2022-11-28,Medium,3416957
+C101421,Customer_1422,69,Female,Retired,India,Mumbai,SME,2024-11-26,Low,2562008
+C101422,Customer_1423,49,Male,Self-Employed,USA,Delhi,Individual,2022-04-03,Medium,1385783
+C101423,Customer_1424,54,Female,Student,India,Kolkata,Corporate,2021-06-07,Low,4404552
+C101424,Customer_1425,33,Male,Retired,Singapore,Ahmedabad,Individual,2018-08-06,Low,3385502
+C101425,Customer_1426,60,Male,Retired,India,Bengaluru,Individual,2025-04-18,Medium,2193650
+C101426,Customer_1427,53,Female,Consultant,UAE,Chennai,SME,2021-09-12,Medium,2712147
+C101427,Customer_1428,65,Male,Student,UK,Pune,Individual,2024-10-11,Low,3384206
+C101428,Customer_1429,34,Male,Retired,Singapore,Chennai,Corporate,2023-10-04,Low,1016515
+C101429,Customer_1430,59,Male,Retired,India,Pune,Individual,2018-01-06,Medium,4099347
+C101430,Customer_1431,44,Male,Retired,India,Hyderabad,Individual,2023-07-13,Low,1514462
+C101431,Customer_1432,30,Male,Student,India,Kolkata,Individual,2022-02-21,Low,439065
+C101432,Customer_1433,29,Male,Business Owner,India,Pune,SME,2020-01-14,Medium,2752115
+C101433,Customer_1434,48,Female,Student,India,Pune,Individual,2020-03-31,Medium,4419194
+C101434,Customer_1435,36,Male,Business Owner,USA,Hyderabad,Individual,2023-06-01,Low,3745594
+C101435,Customer_1436,25,Male,Student,India,Kolkata,SME,2018-09-25,Low,1749773
+C101436,Customer_1437,41,Male,Student,UK,Delhi,Individual,2023-02-23,Low,2171782
+C101437,Customer_1438,52,Male,Retired,India,Pune,SME,2025-03-08,Low,3100974
+C101438,Customer_1439,36,Female,Consultant,UAE,Bengaluru,SME,2018-09-27,Medium,1394313
+C101439,Customer_1440,67,Male,Business Owner,India,Hyderabad,Individual,2018-01-25,Medium,4154342
+C101440,Customer_1441,59,Other,Salaried,India,Kolkata,Individual,2018-07-07,Low,1686867
+C101441,Customer_1442,46,Female,Consultant,UK,Hyderabad,Individual,2024-03-13,Low,1318403
+C101442,Customer_1443,66,Female,Consultant,UK,Chennai,Individual,2025-03-13,Low,747050
+C101443,Customer_1444,42,Male,Consultant,USA,Hyderabad,Individual,2026-05-22,Low,3558356
+C101444,Customer_1445,27,Male,Student,UAE,Hyderabad,SME,2018-03-31,Low,418202
+C101445,Customer_1446,22,Male,Retired,India,Hyderabad,Individual,2022-02-03,Low,4085705
+C101446,Customer_1447,66,Female,Salaried,UK,Chennai,Individual,2018-05-30,Medium,4873707
+C101447,Customer_1448,68,Female,Business Owner,India,Mumbai,Individual,2021-02-24,Low,822233
+C101448,Customer_1449,57,Male,Student,India,Bengaluru,Individual,2020-08-12,Medium,753126
+C101449,Customer_1450,26,Male,Student,India,Hyderabad,SME,2023-02-22,Low,4692185
+C101450,Customer_1451,35,Male,Student,India,Chennai,SME,2025-09-18,Medium,886970
+C101451,Customer_1452,23,Male,Student,India,Hyderabad,Individual,2024-10-30,High,2215847
+C101452,Customer_1453,23,Male,Retired,USA,Bengaluru,Individual,2018-07-17,Low,4393531
+C101453,Customer_1454,33,Male,Retired,India,Chennai,Corporate,2020-01-15,Low,953227
+C101454,Customer_1455,49,Male,Consultant,Singapore,Bengaluru,Individual,2020-05-02,Medium,3418474
+C101455,Customer_1456,24,Male,Self-Employed,India,Bengaluru,Individual,2020-02-17,Low,2098289
+C101456,Customer_1457,69,Male,Consultant,India,Mumbai,Corporate,2020-12-31,Low,2349540
+C101457,Customer_1458,43,Female,Student,India,Kolkata,SME,2023-02-26,Low,4675995
+C101458,Customer_1459,33,Female,Salaried,India,Chennai,Individual,2024-04-11,Medium,3350410
+C101459,Customer_1460,46,Male,Student,India,Delhi,Individual,2025-12-23,Low,1801384
+C101460,Customer_1461,59,Male,Consultant,India,Pune,SME,2023-12-20,Low,4694428
+C101461,Customer_1462,36,Male,Retired,India,Kolkata,Individual,2020-07-14,Low,3029591
+C101462,Customer_1463,23,Female,Self-Employed,India,Delhi,Individual,2019-07-25,Medium,767073
+C101463,Customer_1464,23,Male,Retired,USA,Delhi,SME,2021-03-13,Low,2145310
+C101464,Customer_1465,62,Female,Business Owner,India,Kolkata,Individual,2024-10-14,Medium,1445441
+C101465,Customer_1466,26,Male,Consultant,UK,Kolkata,Individual,2026-06-07,Medium,3319454
+C101466,Customer_1467,52,Male,Consultant,USA,Mumbai,Individual,2021-05-01,Low,4343411
+C101467,Customer_1468,39,Male,Consultant,India,Kolkata,Individual,2019-07-01,Low,483799
+C101468,Customer_1469,59,Male,Retired,India,Hyderabad,Individual,2018-01-16,Medium,3969004
+C101469,Customer_1470,23,Female,Self-Employed,India,Chennai,Individual,2018-08-27,Medium,4606670
+C101470,Customer_1471,64,Female,Student,India,Delhi,Individual,2023-05-29,Low,4973006
+C101471,Customer_1472,55,Male,Retired,India,Ahmedabad,SME,2023-01-03,Low,3407541
+C101472,Customer_1473,43,Male,Self-Employed,UAE,Mumbai,Individual,2023-06-18,Low,1775371
+C101473,Customer_1474,31,Male,Self-Employed,India,Chennai,Individual,2018-03-17,Low,983003
+C101474,Customer_1475,68,Female,Business Owner,India,Ahmedabad,Individual,2021-09-16,Low,4740966
+C101475,Customer_1476,35,Female,Student,India,Delhi,Individual,2019-07-14,Low,2238770
+C101476,Customer_1477,45,Female,Retired,India,Mumbai,SME,2020-11-09,Low,1915337
+C101477,Customer_1478,40,Female,Student,India,Kolkata,Individual,2023-04-13,Medium,3749655
+C101478,Customer_1479,32,Female,Student,India,Hyderabad,Individual,2020-05-04,Medium,3660937
+C101479,Customer_1480,41,Male,Business Owner,UAE,Bengaluru,SME,2023-08-07,Medium,4103968
+C101480,Customer_1481,28,Male,Consultant,India,Bengaluru,Individual,2020-06-15,Medium,4448891
+C101481,Customer_1482,21,Female,Self-Employed,India,Delhi,Individual,2022-05-02,Medium,4421996
+C101482,Customer_1483,35,Female,Business Owner,India,Mumbai,SME,2021-11-24,Low,1102675
+C101483,Customer_1484,26,Female,Self-Employed,India,Bengaluru,Individual,2021-04-04,Medium,1097173
+C101484,Customer_1485,41,Male,Salaried,Singapore,Bengaluru,Individual,2019-01-26,Low,1266501
+C101485,Customer_1486,63,Female,Retired,Singapore,Chennai,SME,2022-11-22,Low,3248328
+C101486,Customer_1487,28,Male,Student,Singapore,Kolkata,SME,2026-05-28,High,3030505
+C101487,Customer_1488,21,Male,Consultant,India,Chennai,Individual,2023-06-18,Medium,4329095
+C101488,Customer_1489,26,Female,Salaried,India,Ahmedabad,SME,2024-04-30,Low,4265976
+C101489,Customer_1490,45,Male,Salaried,USA,Chennai,Individual,2024-10-26,Medium,4122839
+C101490,Customer_1491,34,Male,Salaried,India,Bengaluru,Individual,2018-04-29,Low,671062
+C101491,Customer_1492,44,Female,Student,India,Chennai,SME,2024-09-23,Low,3569337
+C101492,Customer_1493,22,Female,Self-Employed,India,Bengaluru,Individual,2020-01-22,Low,4299139
+C101493,Customer_1494,37,Male,Self-Employed,India,Delhi,SME,2023-08-23,Low,4917240
+C101494,Customer_1495,41,Male,Retired,UK,Chennai,Individual,2026-05-08,Medium,1912666
+C101495,Customer_1496,42,Male,Retired,India,Delhi,Individual,2025-08-04,Low,3950547
+C101496,Customer_1497,48,Male,Student,UAE,Kolkata,Individual,2021-07-08,Low,2209265
+C101497,Customer_1498,59,Female,Self-Employed,India,Hyderabad,SME,2025-02-10,High,1055666
+C101498,Customer_1499,43,Male,Consultant,India,Chennai,Individual,2023-04-02,Low,1897347
+C101499,Customer_1500,62,Male,Self-Employed,India,Pune,Individual,2019-02-18,Low,1480721
+C101500,Customer_1501,46,Female,Retired,India,Mumbai,Individual,2020-01-14,Low,4583955
+C101501,Customer_1502,33,Male,Salaried,India,Chennai,Individual,2026-02-13,Low,1125496
+C101502,Customer_1503,32,Male,Student,India,Hyderabad,Individual,2025-10-08,Low,914733
+C101503,Customer_1504,36,Male,Consultant,India,Bengaluru,Individual,2025-07-27,Medium,3024882
+C101504,Customer_1505,50,Female,Student,Singapore,Chennai,Individual,2021-04-06,Medium,2999090
+C101505,Customer_1506,32,Female,Business Owner,India,Kolkata,Individual,2020-09-21,Low,2937202
+C101506,Customer_1507,65,Male,Salaried,India,Delhi,Individual,2024-11-03,Low,996107
+C101507,Customer_1508,44,Male,Student,India,Ahmedabad,Individual,2018-03-04,Low,2643238
+C101508,Customer_1509,63,Male,Consultant,USA,Hyderabad,SME,2025-08-14,Medium,4664394
+C101509,Customer_1510,54,Male,Business Owner,India,Hyderabad,SME,2023-02-16,Low,722096
+C101510,Customer_1511,37,Female,Business Owner,India,Kolkata,Individual,2023-05-16,Low,4050277
+C101511,Customer_1512,32,Female,Business Owner,India,Chennai,Individual,2021-09-21,High,891185
+C101512,Customer_1513,57,Female,Business Owner,India,Bengaluru,Individual,2026-04-24,Low,1398950
+C101513,Customer_1514,37,Female,Self-Employed,India,Kolkata,Corporate,2024-05-12,Low,4521259
+C101514,Customer_1515,33,Female,Self-Employed,India,Bengaluru,Individual,2018-06-16,Low,1699557
+C101515,Customer_1516,66,Male,Self-Employed,UAE,Ahmedabad,Individual,2022-06-15,Low,2755348
+C101516,Customer_1517,44,Female,Salaried,India,Bengaluru,SME,2025-04-18,High,2093122
+C101517,Customer_1518,23,Female,Retired,India,Hyderabad,Individual,2018-08-26,Low,3186961
+C101518,Customer_1519,45,Male,Self-Employed,India,Ahmedabad,Individual,2024-04-03,Low,2205463
+C101519,Customer_1520,43,Female,Salaried,India,Mumbai,Individual,2020-01-29,Low,2385992
+C101520,Customer_1521,63,Female,Salaried,India,Ahmedabad,Individual,2022-04-20,Low,4141511
+C101521,Customer_1522,55,Male,Retired,India,Chennai,Individual,2025-06-28,Low,2904367
+C101522,Customer_1523,30,Female,Business Owner,India,Bengaluru,Corporate,2022-03-07,Medium,2953306
+C101523,Customer_1524,28,Male,Self-Employed,India,Delhi,Individual,2018-04-27,Low,4086216
+C101524,Customer_1525,50,Male,Business Owner,India,Delhi,Individual,2018-03-06,Medium,2311361
+C101525,Customer_1526,23,Female,Salaried,Singapore,Ahmedabad,SME,2024-04-02,Medium,4170804
+C101526,Customer_1527,36,Male,Self-Employed,India,Ahmedabad,SME,2025-11-25,Low,3681389
+C101527,Customer_1528,27,Male,Self-Employed,India,Pune,Individual,2020-06-24,Medium,4453546
+C101528,Customer_1529,22,Male,Student,UAE,Pune,Individual,2025-12-09,Medium,2451964
+C101529,Customer_1530,66,Male,Salaried,UK,Bengaluru,Individual,2021-11-04,Medium,2925715
+C101530,Customer_1531,25,Male,Business Owner,India,Kolkata,Individual,2018-07-02,Low,902728
+C101531,Customer_1532,21,Male,Student,UK,Pune,Individual,2022-07-05,Low,823307
+C101532,Customer_1533,66,Male,Retired,India,Chennai,Individual,2026-04-07,Low,805199
+C101533,Customer_1534,30,Female,Consultant,India,Kolkata,SME,2020-02-15,Medium,3275131
+C101534,Customer_1535,61,Male,Self-Employed,UK,Bengaluru,Individual,2026-02-25,Low,1831996
+C101535,Customer_1536,22,Male,Business Owner,USA,Hyderabad,Individual,2023-07-15,Low,1657894
+C101536,Customer_1537,28,Male,Self-Employed,India,Hyderabad,Individual,2021-05-12,Low,3133490
+C101537,Customer_1538,26,Female,Consultant,India,Kolkata,SME,2023-11-20,Low,2172421
+C101538,Customer_1539,55,Female,Self-Employed,India,Bengaluru,Individual,2021-05-27,Medium,933754
+C101539,Customer_1540,51,Male,Consultant,India,Hyderabad,Individual,2018-09-21,Medium,2919997
+C101540,Customer_1541,44,Male,Consultant,UAE,Chennai,Individual,2025-05-23,Medium,2885630
+C101541,Customer_1542,32,Female,Retired,India,Bengaluru,Individual,2021-03-05,Low,956527
+C101542,Customer_1543,25,Female,Business Owner,India,Chennai,Individual,2022-10-20,Low,1567165
+C101543,Customer_1544,48,Female,Retired,India,Delhi,Corporate,2024-04-26,Medium,1415165
+C101544,Customer_1545,32,Male,Business Owner,India,Ahmedabad,Individual,2018-09-15,Low,3568443
+C101545,Customer_1546,49,Female,Student,India,Hyderabad,Individual,2024-02-16,Medium,1470925
+C101546,Customer_1547,54,Male,Consultant,UAE,Ahmedabad,Individual,2021-02-06,Low,432834
+C101547,Customer_1548,62,Female,Student,India,Ahmedabad,Individual,2022-08-16,Low,1553762
+C101548,Customer_1549,45,Female,Business Owner,India,Chennai,Individual,2021-11-18,Low,2504410
+C101549,Customer_1550,21,Female,Student,India,Delhi,Individual,2024-08-07,Medium,3916179
+C101550,Customer_1551,34,Male,Business Owner,India,Delhi,Individual,2019-08-05,Low,545641
+C101551,Customer_1552,62,Male,Business Owner,India,Hyderabad,Individual,2018-11-30,Medium,4441729
+C101552,Customer_1553,47,Male,Business Owner,India,Kolkata,SME,2021-06-27,Low,1853386
+C101553,Customer_1554,51,Male,Student,India,Hyderabad,Individual,2019-01-02,Low,1910349
+C101554,Customer_1555,43,Female,Consultant,India,Chennai,SME,2020-01-23,Medium,373203
+C101555,Customer_1556,28,Male,Salaried,Singapore,Delhi,Individual,2023-08-01,Low,1598841
+C101556,Customer_1557,64,Female,Student,India,Mumbai,Individual,2024-12-13,Low,2504764
+C101557,Customer_1558,58,Female,Student,India,Bengaluru,Individual,2023-11-20,High,3242658
+C101558,Customer_1559,69,Female,Salaried,India,Delhi,Individual,2020-09-11,Medium,3904974
+C101559,Customer_1560,62,Female,Retired,India,Pune,SME,2024-11-30,Low,2756772
+C101560,Customer_1561,35,Male,Consultant,Singapore,Bengaluru,Individual,2021-06-12,Medium,771034
+C101561,Customer_1562,33,Male,Salaried,India,Hyderabad,Individual,2019-07-16,Low,2139710
+C101562,Customer_1563,33,Male,Business Owner,India,Chennai,SME,2024-06-02,Low,3755546
+C101563,Customer_1564,66,Male,Retired,India,Hyderabad,Individual,2022-05-21,Low,3305874
+C101564,Customer_1565,48,Male,Self-Employed,Singapore,Delhi,Individual,2021-02-22,Low,3045717
+C101565,Customer_1566,43,Female,Retired,India,Delhi,Individual,2023-08-11,Low,2689264
+C101566,Customer_1567,68,Female,Business Owner,India,Bengaluru,SME,2024-02-25,Low,2671644
+C101567,Customer_1568,50,Female,Self-Employed,India,Chennai,Individual,2019-11-25,Medium,4967234
+C101568,Customer_1569,65,Male,Business Owner,India,Delhi,Individual,2018-12-30,Low,3117571
+C101569,Customer_1570,69,Other,Consultant,Singapore,Pune,SME,2022-05-22,Low,3106365
+C101570,Customer_1571,24,Female,Student,India,Chennai,Individual,2018-06-09,Medium,1878716
+C101571,Customer_1572,38,Male,Retired,India,Delhi,SME,2023-06-03,High,2603173
+C101572,Customer_1573,56,Male,Self-Employed,India,Chennai,SME,2021-09-25,Low,3638595
+C101573,Customer_1574,60,Male,Retired,UK,Hyderabad,Individual,2019-10-27,High,4332708
+C101574,Customer_1575,28,Male,Consultant,India,Pune,Corporate,2023-01-30,Medium,3964429
+C101575,Customer_1576,36,Male,Salaried,India,Pune,Individual,2021-03-10,Low,3412990
+C101576,Customer_1577,47,Male,Retired,UAE,Pune,Individual,2021-04-19,Low,3957652
+C101577,Customer_1578,60,Male,Business Owner,India,Kolkata,Individual,2019-11-02,Low,454815
+C101578,Customer_1579,26,Female,Consultant,UK,Mumbai,Individual,2023-09-27,Medium,1566461
+C101579,Customer_1580,50,Male,Student,USA,Kolkata,Individual,2025-08-31,Low,1442436
+C101580,Customer_1581,35,Female,Salaried,India,Bengaluru,Individual,2023-04-02,Low,3373362
+C101581,Customer_1582,31,Male,Self-Employed,India,Bengaluru,Individual,2020-01-05,Medium,3840734
+C101582,Customer_1583,46,Female,Student,India,Kolkata,Individual,2025-01-27,Low,996049
+C101583,Customer_1584,41,Female,Self-Employed,India,Bengaluru,Individual,2019-01-10,Low,1206745
+C101584,Customer_1585,52,Female,Salaried,India,Chennai,SME,2020-06-17,Medium,2628472
+C101585,Customer_1586,36,Female,Salaried,UAE,Pune,Individual,2018-04-19,High,4851043
+C101586,Customer_1587,61,Female,Student,India,Pune,Individual,2025-03-15,Medium,312357
+C101587,Customer_1588,24,Female,Salaried,India,Delhi,Individual,2018-05-20,Low,4433455
+C101588,Customer_1589,63,Female,Salaried,India,Mumbai,Individual,2022-08-21,Low,1209857
+C101589,Customer_1590,22,Female,Consultant,India,Pune,Individual,2019-08-17,Low,1562031
+C101590,Customer_1591,57,Male,Salaried,India,Mumbai,Individual,2019-10-20,Low,3269150
+C101591,Customer_1592,37,Male,Consultant,USA,Delhi,Individual,2023-03-01,Low,3725241
+C101592,Customer_1593,39,Male,Consultant,India,Delhi,SME,2024-10-27,High,4409499
+C101593,Customer_1594,21,Female,Consultant,India,Kolkata,Individual,2018-02-24,Medium,325839
+C101594,Customer_1595,55,Female,Business Owner,India,Ahmedabad,Individual,2019-05-07,Low,530433
+C101595,Customer_1596,29,Male,Student,India,Mumbai,Individual,2020-06-07,Low,2547693
+C101596,Customer_1597,53,Female,Consultant,Singapore,Chennai,Individual,2026-01-04,Low,2925198
+C101597,Customer_1598,56,Female,Business Owner,India,Delhi,Individual,2018-06-30,Low,1525989
+C101598,Customer_1599,62,Male,Salaried,India,Ahmedabad,Individual,2019-07-08,Medium,3292842
+C101599,Customer_1600,55,Male,Self-Employed,India,Mumbai,Individual,2021-06-05,Low,1546659
+C101600,Customer_1601,35,Female,Salaried,India,Hyderabad,Individual,2020-10-06,Medium,4682237
+C101601,Customer_1602,57,Male,Salaried,India,Hyderabad,Individual,2018-05-31,Low,1133914
+C101602,Customer_1603,61,Female,Self-Employed,Singapore,Bengaluru,Individual,2022-08-02,Low,3379175
+C101603,Customer_1604,36,Male,Self-Employed,Singapore,Pune,Corporate,2023-02-27,High,2792503
+C101604,Customer_1605,27,Female,Salaried,India,Bengaluru,Individual,2019-07-03,Low,784253
+C101605,Customer_1606,64,Female,Self-Employed,India,Hyderabad,Individual,2023-11-05,Low,3142728
+C101606,Customer_1607,28,Male,Consultant,India,Kolkata,Individual,2018-06-25,Medium,989697
+C101607,Customer_1608,50,Female,Self-Employed,India,Hyderabad,Individual,2024-03-17,Low,2836046
+C101608,Customer_1609,32,Male,Self-Employed,India,Chennai,Individual,2020-03-14,Low,3288091
+C101609,Customer_1610,27,Female,Salaried,India,Ahmedabad,Individual,2019-11-27,Low,639226
+C101610,Customer_1611,59,Male,Salaried,India,Bengaluru,Individual,2019-09-01,Low,1313412
+C101611,Customer_1612,28,Male,Salaried,India,Kolkata,Individual,2025-05-16,Low,1689802
+C101612,Customer_1613,53,Male,Business Owner,India,Kolkata,Individual,2022-04-06,Low,4663035
+C101613,Customer_1614,54,Male,Consultant,India,Delhi,Individual,2023-11-10,Medium,1339483
+C101614,Customer_1615,23,Female,Student,India,Chennai,Individual,2019-09-25,Medium,4627229
+C101615,Customer_1616,29,Male,Consultant,India,Ahmedabad,Individual,2018-06-25,Low,2809712
+C101616,Customer_1617,59,Female,Consultant,India,Pune,Individual,2018-04-29,Low,4758682
+C101617,Customer_1618,45,Male,Retired,UK,Hyderabad,Individual,2021-09-28,Low,4207039
+C101618,Customer_1619,26,Male,Self-Employed,India,Kolkata,Individual,2020-10-08,Low,1676877
+C101619,Customer_1620,69,Male,Student,India,Kolkata,Individual,2024-07-08,Low,2930916
+C101620,Customer_1621,33,Male,Retired,India,Kolkata,SME,2024-09-10,Medium,3669664
+C101621,Customer_1622,21,Male,Consultant,India,Mumbai,Individual,2020-08-21,Low,668323
+C101622,Customer_1623,66,Female,Retired,India,Pune,Individual,2021-09-06,Low,3416165
+C101623,Customer_1624,21,Male,Salaried,India,Bengaluru,Individual,2021-03-28,Medium,2460431
+C101624,Customer_1625,48,Male,Retired,India,Chennai,Individual,2023-09-24,Medium,467337
+C101625,Customer_1626,69,Female,Consultant,India,Bengaluru,Individual,2023-05-06,Low,4374968
+C101626,Customer_1627,49,Male,Self-Employed,USA,Chennai,Individual,2023-07-12,Low,1548155
+C101627,Customer_1628,49,Female,Salaried,USA,Chennai,SME,2018-06-21,High,4408690
+C101628,Customer_1629,40,Female,Student,India,Pune,Individual,2020-11-13,Low,1271803
+C101629,Customer_1630,27,Female,Business Owner,India,Delhi,SME,2026-03-17,Medium,2845798
+C101630,Customer_1631,49,Female,Self-Employed,India,Hyderabad,Individual,2020-11-25,Medium,2042800
+C101631,Customer_1632,64,Male,Business Owner,India,Mumbai,Individual,2019-06-25,Low,4497080
+C101632,Customer_1633,25,Male,Retired,India,Kolkata,Individual,2019-09-11,Low,4779352
+C101633,Customer_1634,64,Male,Business Owner,India,Pune,Individual,2018-03-24,Low,3919293
+C101634,Customer_1635,41,Male,Salaried,India,Delhi,Individual,2024-08-17,Low,4274327
+C101635,Customer_1636,47,Female,Self-Employed,India,Mumbai,Individual,2018-01-17,Low,3913892
+C101636,Customer_1637,29,Female,Salaried,India,Chennai,Individual,2023-01-22,Medium,1679095
+C101637,Customer_1638,51,Female,Student,India,Chennai,Individual,2021-05-23,Medium,4625879
+C101638,Customer_1639,29,Male,Student,India,Chennai,Individual,2018-10-21,High,2791148
+C101639,Customer_1640,34,Female,Retired,India,Ahmedabad,Individual,2025-07-04,High,1914321
+C101640,Customer_1641,56,Male,Consultant,India,Bengaluru,Individual,2024-04-19,Medium,1203650
+C101641,Customer_1642,23,Male,Student,USA,Pune,Corporate,2024-12-16,Low,3635923
+C101642,Customer_1643,42,Male,Business Owner,USA,Ahmedabad,Individual,2025-12-13,Low,1603939
+C101643,Customer_1644,50,Male,Consultant,India,Ahmedabad,Individual,2025-09-28,Medium,3367565
+C101644,Customer_1645,27,Female,Salaried,India,Bengaluru,Individual,2023-12-13,Low,605515
+C101645,Customer_1646,35,Male,Consultant,India,Hyderabad,Individual,2022-07-13,Low,3283594
+C101646,Customer_1647,37,Male,Consultant,India,Hyderabad,Individual,2023-12-01,Low,3320250
+C101647,Customer_1648,53,Male,Salaried,India,Chennai,Individual,2021-10-23,Low,2766201
+C101648,Customer_1649,68,Male,Consultant,India,Kolkata,Individual,2019-07-17,Low,3387527
+C101649,Customer_1650,61,Male,Student,India,Delhi,Individual,2021-04-11,Medium,4970780
+C101650,Customer_1651,30,Other,Business Owner,Singapore,Bengaluru,Individual,2021-12-18,Low,4240957
+C101651,Customer_1652,21,Female,Consultant,India,Delhi,SME,2018-05-24,Low,2365885
+C101652,Customer_1653,23,Male,Self-Employed,India,Pune,Corporate,2025-03-12,Low,4396293
+C101653,Customer_1654,50,Male,Self-Employed,India,Chennai,Individual,2025-09-20,Low,4785908
+C101654,Customer_1655,28,Female,Salaried,India,Pune,Individual,2021-07-25,Low,1052279
+C101655,Customer_1656,32,Male,Self-Employed,India,Kolkata,Individual,2022-03-19,Low,1986957
+C101656,Customer_1657,62,Female,Student,Singapore,Pune,Individual,2025-02-20,Low,3792292
+C101657,Customer_1658,63,Male,Retired,USA,Delhi,Individual,2021-11-11,Medium,2720352
+C101658,Customer_1659,62,Female,Consultant,India,Chennai,Individual,2023-11-04,Low,933125
+C101659,Customer_1660,33,Female,Consultant,USA,Pune,Individual,2022-05-17,High,2520814
+C101660,Customer_1661,51,Male,Consultant,India,Kolkata,Individual,2020-04-20,Medium,2056460
+C101661,Customer_1662,50,Female,Business Owner,India,Hyderabad,Individual,2024-09-27,Low,3772448
+C101662,Customer_1663,30,Female,Business Owner,India,Delhi,Corporate,2019-08-21,Low,2723021
+C101663,Customer_1664,48,Female,Consultant,India,Delhi,SME,2019-11-27,Low,957630
+C101664,Customer_1665,46,Male,Student,India,Chennai,Individual,2023-11-14,Medium,532508
+C101665,Customer_1666,40,Male,Business Owner,India,Bengaluru,Individual,2024-01-10,Medium,1650329
+C101666,Customer_1667,57,Male,Consultant,India,Kolkata,Individual,2026-02-06,Medium,1036789
+C101667,Customer_1668,54,Female,Business Owner,Singapore,Ahmedabad,Individual,2024-01-13,Medium,4418515
+C101668,Customer_1669,47,Male,Self-Employed,India,Bengaluru,Individual,2018-03-18,Low,1574245
+C101669,Customer_1670,56,Female,Self-Employed,UK,Hyderabad,SME,2025-03-18,Medium,3282125
+C101670,Customer_1671,58,Male,Salaried,India,Ahmedabad,Individual,2021-07-07,Low,899448
+C101671,Customer_1672,48,Female,Business Owner,UK,Mumbai,Individual,2018-01-27,Medium,2376058
+C101672,Customer_1673,34,Female,Student,India,Bengaluru,Corporate,2022-12-01,Low,4690252
+C101673,Customer_1674,58,Female,Student,India,Chennai,Individual,2019-06-13,Medium,3324156
+C101674,Customer_1675,56,Male,Retired,India,Mumbai,Individual,2021-07-13,Low,1655100
+C101675,Customer_1676,69,Male,Salaried,Singapore,Pune,Individual,2021-12-31,Low,3814043
+C101676,Customer_1677,28,Female,Student,India,Bengaluru,Individual,2018-08-19,Low,2655506
+C101677,Customer_1678,41,Male,Student,India,Ahmedabad,Individual,2025-03-21,High,1404994
+C101678,Customer_1679,66,Male,Business Owner,USA,Ahmedabad,Individual,2022-05-02,Low,4983710
+C101679,Customer_1680,46,Female,Self-Employed,India,Ahmedabad,Individual,2026-03-11,Low,4706657
+C101680,Customer_1681,67,Male,Business Owner,UK,Pune,Individual,2021-12-12,Low,2963220
+C101681,Customer_1682,21,Male,Student,India,Pune,Individual,2023-01-19,Low,455939
+C101682,Customer_1683,22,Female,Retired,India,Delhi,Individual,2024-11-23,Medium,2234030
+C101683,Customer_1684,60,Male,Consultant,India,Ahmedabad,SME,2019-10-20,High,2715619
+C101684,Customer_1685,38,Female,Consultant,India,Chennai,Individual,2025-09-18,Medium,4670024
+C101685,Customer_1686,46,Male,Consultant,India,Pune,Individual,2019-07-27,Medium,3745065
+C101686,Customer_1687,41,Female,Salaried,India,Mumbai,SME,2026-06-15,Low,1345739
+C101687,Customer_1688,40,Male,Consultant,India,Bengaluru,Individual,2023-06-06,Low,2697106
+C101688,Customer_1689,67,Female,Salaried,USA,Bengaluru,Individual,2022-05-28,Low,1143653
+C101689,Customer_1690,25,Male,Retired,Singapore,Delhi,SME,2019-10-14,Medium,2527050
+C101690,Customer_1691,58,Male,Retired,India,Kolkata,Individual,2022-10-31,Low,2816212
+C101691,Customer_1692,64,Female,Consultant,India,Chennai,Individual,2022-09-11,Medium,2695997
+C101692,Customer_1693,53,Male,Business Owner,India,Delhi,Individual,2026-05-08,Low,2308318
+C101693,Customer_1694,40,Other,Student,UK,Mumbai,Individual,2025-01-31,Low,2355073
+C101694,Customer_1695,28,Male,Consultant,USA,Chennai,SME,2022-02-05,Low,4045834
+C101695,Customer_1696,54,Female,Student,India,Hyderabad,Individual,2021-04-23,Medium,2677574
+C101696,Customer_1697,43,Male,Consultant,India,Delhi,Individual,2021-04-14,Medium,497447
+C101697,Customer_1698,28,Female,Self-Employed,Singapore,Mumbai,Individual,2021-03-19,Low,3781892
+C101698,Customer_1699,38,Female,Salaried,UK,Hyderabad,Individual,2018-02-12,Medium,3203311
+C101699,Customer_1700,68,Male,Self-Employed,India,Ahmedabad,Individual,2018-04-23,Medium,3569744
+C101700,Customer_1701,34,Male,Consultant,UK,Bengaluru,Individual,2024-05-18,Low,3640191
+C101701,Customer_1702,29,Male,Business Owner,India,Ahmedabad,Individual,2020-02-27,Medium,1114003
+C101702,Customer_1703,54,Female,Consultant,India,Kolkata,Individual,2021-06-28,Low,4868008
+C101703,Customer_1704,30,Male,Self-Employed,USA,Bengaluru,Individual,2023-12-05,Low,4954847
+C101704,Customer_1705,66,Male,Retired,India,Delhi,Individual,2023-02-27,Low,985087
+C101705,Customer_1706,63,Female,Business Owner,India,Pune,Individual,2021-01-22,Low,1329012
+C101706,Customer_1707,69,Male,Retired,Singapore,Hyderabad,Individual,2024-05-21,Low,1457343
+C101707,Customer_1708,65,Female,Business Owner,UK,Hyderabad,Individual,2019-05-06,Low,4842316
+C101708,Customer_1709,32,Female,Business Owner,India,Bengaluru,Individual,2022-01-05,Low,4682483
+C101709,Customer_1710,31,Male,Consultant,India,Mumbai,Individual,2018-11-24,Medium,1545564
+C101710,Customer_1711,37,Other,Self-Employed,USA,Chennai,Individual,2022-07-07,Medium,3263955
+C101711,Customer_1712,44,Female,Self-Employed,India,Bengaluru,Individual,2018-10-22,Low,1444244
+C101712,Customer_1713,64,Female,Business Owner,UAE,Kolkata,SME,2025-12-28,Low,478830
+C101713,Customer_1714,56,Female,Student,India,Mumbai,Individual,2023-08-06,Low,1382510
+C101714,Customer_1715,52,Male,Salaried,India,Mumbai,Individual,2020-01-31,Medium,663516
+C101715,Customer_1716,64,Female,Business Owner,India,Bengaluru,Individual,2023-03-15,Medium,4284381
+C101716,Customer_1717,52,Male,Student,UK,Delhi,Individual,2020-12-20,Low,3991570
+C101717,Customer_1718,39,Other,Student,UAE,Mumbai,Individual,2022-05-27,Medium,1166249
+C101718,Customer_1719,41,Female,Business Owner,India,Mumbai,Individual,2019-06-03,Low,2967130
+C101719,Customer_1720,46,Male,Salaried,India,Chennai,Individual,2022-04-01,High,1264217
+C101720,Customer_1721,25,Male,Salaried,USA,Bengaluru,SME,2018-11-28,Low,2957452
+C101721,Customer_1722,57,Male,Business Owner,India,Mumbai,Individual,2019-04-20,Low,4511068
+C101722,Customer_1723,52,Female,Student,India,Kolkata,Individual,2022-12-16,Low,4435368
+C101723,Customer_1724,56,Female,Salaried,Singapore,Ahmedabad,Individual,2022-04-01,Low,4215430
+C101724,Customer_1725,47,Female,Retired,UK,Bengaluru,Individual,2020-06-29,Low,1433160
+C101725,Customer_1726,59,Male,Student,Singapore,Chennai,SME,2018-07-05,Low,1196508
+C101726,Customer_1727,67,Male,Salaried,India,Chennai,Corporate,2021-08-05,Low,1054025
+C101727,Customer_1728,48,Female,Business Owner,India,Bengaluru,Individual,2025-11-10,Medium,897488
+C101728,Customer_1729,42,Female,Self-Employed,Singapore,Hyderabad,Individual,2024-01-05,Medium,3184887
+C101729,Customer_1730,26,Male,Retired,India,Delhi,Individual,2018-06-29,Low,3394685
+C101730,Customer_1731,59,Female,Consultant,India,Bengaluru,Individual,2025-12-17,Medium,4447388
+C101731,Customer_1732,65,Female,Self-Employed,Singapore,Bengaluru,Individual,2021-08-05,Low,724583
+C101732,Customer_1733,55,Male,Self-Employed,India,Bengaluru,Individual,2022-11-20,High,1546678
+C101733,Customer_1734,63,Female,Consultant,Singapore,Delhi,Individual,2018-01-02,Low,3721369
+C101734,Customer_1735,63,Female,Salaried,India,Pune,Individual,2020-08-19,Medium,3502083
+C101735,Customer_1736,60,Female,Self-Employed,UAE,Chennai,Individual,2024-09-03,High,2308919
+C101736,Customer_1737,45,Female,Salaried,India,Hyderabad,Individual,2020-10-22,Medium,1016181
+C101737,Customer_1738,25,Male,Consultant,India,Pune,Individual,2019-05-31,Medium,2575770
+C101738,Customer_1739,21,Male,Student,Singapore,Pune,SME,2018-10-09,Low,1107970
+C101739,Customer_1740,31,Male,Business Owner,India,Delhi,Individual,2025-11-07,Medium,2816966
+C101740,Customer_1741,42,Female,Salaried,India,Delhi,Individual,2024-11-24,Low,4537097
+C101741,Customer_1742,57,Male,Business Owner,India,Pune,Individual,2018-05-17,Low,1219737
+C101742,Customer_1743,43,Female,Retired,USA,Hyderabad,Individual,2025-11-08,High,854435
+C101743,Customer_1744,22,Male,Self-Employed,Singapore,Delhi,Individual,2024-12-19,Low,3766864
+C101744,Customer_1745,31,Female,Salaried,India,Bengaluru,Individual,2021-01-20,Low,414424
+C101745,Customer_1746,68,Male,Salaried,India,Hyderabad,Individual,2023-07-29,High,4921996
+C101746,Customer_1747,69,Female,Student,India,Chennai,Individual,2020-03-10,Low,3942220
+C101747,Customer_1748,39,Female,Salaried,UAE,Bengaluru,SME,2020-02-14,Low,2195862
+C101748,Customer_1749,60,Male,Consultant,UAE,Mumbai,Individual,2024-01-24,Low,2003794
+C101749,Customer_1750,56,Female,Retired,UAE,Mumbai,Individual,2019-09-20,Medium,2118246
+C101750,Customer_1751,66,Female,Consultant,India,Hyderabad,Individual,2021-01-06,Medium,2164295
+C101751,Customer_1752,64,Male,Business Owner,India,Delhi,Individual,2021-01-13,Low,4245890
+C101752,Customer_1753,51,Male,Self-Employed,USA,Ahmedabad,SME,2019-04-11,Medium,4059330
+C101753,Customer_1754,40,Female,Salaried,USA,Chennai,SME,2025-01-12,Low,1261540
+C101754,Customer_1755,51,Male,Salaried,India,Ahmedabad,Individual,2023-09-20,Medium,1145698
+C101755,Customer_1756,36,Male,Retired,India,Bengaluru,Individual,2025-04-26,Medium,2840598
+C101756,Customer_1757,38,Male,Salaried,India,Pune,Individual,2022-06-13,High,3356536
+C101757,Customer_1758,50,Male,Salaried,India,Pune,Individual,2019-06-28,Low,3717717
+C101758,Customer_1759,48,Male,Student,India,Ahmedabad,Individual,2020-05-16,Low,1773583
+C101759,Customer_1760,49,Male,Business Owner,India,Chennai,Individual,2020-12-31,Low,2567555
+C101760,Customer_1761,39,Male,Business Owner,India,Ahmedabad,Individual,2025-12-30,Low,790061
+C101761,Customer_1762,41,Male,Student,Singapore,Chennai,Individual,2020-01-07,Low,2441988
+C101762,Customer_1763,21,Female,Consultant,USA,Ahmedabad,Individual,2023-11-19,Low,3531231
+C101763,Customer_1764,50,Female,Retired,Singapore,Pune,Individual,2019-01-16,Low,1730748
+C101764,Customer_1765,49,Female,Business Owner,India,Hyderabad,Individual,2026-02-11,High,1797721
+C101765,Customer_1766,66,Male,Student,India,Hyderabad,Individual,2023-06-27,Low,2472705
+C101766,Customer_1767,45,Female,Retired,India,Chennai,SME,2021-08-28,Low,4373039
+C101767,Customer_1768,43,Male,Business Owner,India,Kolkata,Corporate,2020-12-08,Medium,3139313
+C101768,Customer_1769,24,Male,Self-Employed,India,Pune,Individual,2021-01-04,Low,4619467
+C101769,Customer_1770,30,Other,Retired,USA,Ahmedabad,Individual,2019-11-30,Low,589852
+C101770,Customer_1771,37,Female,Self-Employed,UK,Pune,Individual,2023-02-03,Low,4290543
+C101771,Customer_1772,39,Male,Salaried,Singapore,Ahmedabad,Corporate,2025-05-08,Low,505677
+C101772,Customer_1773,38,Male,Consultant,India,Ahmedabad,Individual,2020-01-18,Low,1815053
+C101773,Customer_1774,40,Female,Retired,India,Hyderabad,Individual,2024-05-08,Medium,2304907
+C101774,Customer_1775,58,Male,Salaried,India,Pune,Individual,2022-10-22,Low,1411938
+C101775,Customer_1776,27,Female,Retired,India,Bengaluru,Individual,2024-07-26,Low,4949668
+C101776,Customer_1777,37,Male,Student,India,Kolkata,Individual,2024-07-14,Low,4496163
+C101777,Customer_1778,28,Male,Retired,India,Delhi,SME,2018-05-02,Low,2984831
+C101778,Customer_1779,36,Female,Business Owner,USA,Hyderabad,SME,2018-03-07,Low,2428850
+C101779,Customer_1780,54,Female,Self-Employed,India,Pune,Individual,2025-10-07,High,3880264
+C101780,Customer_1781,23,Female,Consultant,UAE,Bengaluru,Individual,2019-04-27,Low,3626376
+C101781,Customer_1782,37,Female,Salaried,UAE,Delhi,Individual,2022-11-17,Low,2558968
+C101782,Customer_1783,22,Male,Retired,India,Hyderabad,Corporate,2024-05-23,Low,4187671
+C101783,Customer_1784,67,Female,Consultant,UK,Bengaluru,Individual,2022-04-11,Medium,1206804
+C101784,Customer_1785,56,Female,Business Owner,India,Ahmedabad,Individual,2018-01-20,Medium,1605127
+C101785,Customer_1786,32,Male,Consultant,USA,Chennai,Individual,2018-02-02,Low,382912
+C101786,Customer_1787,30,Male,Student,Singapore,Kolkata,Individual,2023-09-07,Medium,859757
+C101787,Customer_1788,25,Male,Consultant,UK,Mumbai,Individual,2025-08-14,Low,1234272
+C101788,Customer_1789,44,Male,Retired,UK,Mumbai,Individual,2020-11-30,Medium,3236689
+C101789,Customer_1790,57,Female,Retired,India,Mumbai,SME,2022-08-14,Low,4320940
+C101790,Customer_1791,49,Male,Retired,UK,Chennai,SME,2025-12-04,Medium,3073903
+C101791,Customer_1792,64,Female,Consultant,India,Chennai,SME,2025-01-01,Medium,2393414
+C101792,Customer_1793,37,Male,Student,India,Kolkata,Individual,2022-08-03,Medium,1569940
+C101793,Customer_1794,34,Other,Self-Employed,India,Ahmedabad,Individual,2023-07-26,Low,776714
+C101794,Customer_1795,44,Male,Salaried,USA,Delhi,Individual,2026-02-28,Medium,3048121
+C101795,Customer_1796,30,Male,Business Owner,India,Chennai,Individual,2024-10-05,Medium,961913
+C101796,Customer_1797,68,Male,Retired,India,Kolkata,Individual,2021-07-13,Low,4014679
+C101797,Customer_1798,30,Female,Salaried,Singapore,Delhi,Individual,2023-11-19,Low,2221647
+C101798,Customer_1799,44,Male,Consultant,India,Delhi,Individual,2020-10-16,Low,1945051
+C101799,Customer_1800,46,Male,Self-Employed,India,Ahmedabad,Individual,2025-10-25,Low,425268
+C101800,Customer_1801,23,Other,Business Owner,India,Hyderabad,Individual,2018-10-17,Medium,1438893
+C101801,Customer_1802,43,Male,Salaried,India,Bengaluru,Individual,2019-12-01,Low,362764
+C101802,Customer_1803,43,Female,Student,USA,Kolkata,Individual,2020-12-08,Medium,3707505
+C101803,Customer_1804,33,Male,Student,India,Delhi,Individual,2019-09-19,Medium,2602413
+C101804,Customer_1805,27,Female,Student,India,Pune,SME,2023-01-19,Medium,3993598
+C101805,Customer_1806,23,Female,Student,USA,Pune,Individual,2024-01-18,Medium,2956611
+C101806,Customer_1807,21,Female,Self-Employed,India,Kolkata,Individual,2025-07-23,Medium,4785160
+C101807,Customer_1808,44,Male,Consultant,UK,Bengaluru,SME,2022-04-04,Low,3983794
+C101808,Customer_1809,25,Female,Salaried,India,Chennai,SME,2023-04-11,Low,993653
+C101809,Customer_1810,68,Female,Business Owner,USA,Hyderabad,SME,2023-02-01,Medium,848060
+C101810,Customer_1811,32,Female,Consultant,India,Pune,SME,2018-01-11,High,4479541
+C101811,Customer_1812,52,Male,Student,India,Kolkata,Corporate,2024-01-06,Low,1564817
+C101812,Customer_1813,54,Male,Salaried,India,Bengaluru,Individual,2018-03-14,High,3895964
+C101813,Customer_1814,45,Female,Student,India,Pune,Corporate,2022-08-25,High,3254301
+C101814,Customer_1815,64,Female,Business Owner,India,Kolkata,SME,2026-06-27,Low,3598929
+C101815,Customer_1816,26,Male,Retired,USA,Kolkata,Individual,2024-09-07,Medium,1553891
+C101816,Customer_1817,32,Female,Consultant,India,Kolkata,SME,2022-04-20,Medium,1771352
+C101817,Customer_1818,33,Male,Consultant,India,Ahmedabad,SME,2020-09-15,Low,2907778
+C101818,Customer_1819,27,Female,Student,India,Pune,Individual,2025-02-08,Low,404306
+C101819,Customer_1820,35,Male,Student,India,Bengaluru,SME,2025-04-16,Low,1764733
+C101820,Customer_1821,36,Female,Salaried,India,Hyderabad,Individual,2021-02-14,Medium,2685487
+C101821,Customer_1822,58,Male,Consultant,UK,Pune,Individual,2018-11-30,Low,1260976
+C101822,Customer_1823,35,Female,Salaried,USA,Mumbai,Individual,2022-12-10,Medium,1643116
+C101823,Customer_1824,63,Male,Business Owner,India,Delhi,Individual,2023-05-20,Medium,4922618
+C101824,Customer_1825,58,Other,Student,India,Delhi,SME,2025-12-05,Medium,1662158
+C101825,Customer_1826,65,Male,Retired,India,Pune,SME,2025-07-22,Low,4541365
+C101826,Customer_1827,26,Female,Self-Employed,India,Hyderabad,Individual,2019-12-12,Low,4657551
+C101827,Customer_1828,69,Female,Business Owner,India,Pune,Corporate,2020-02-23,Low,3467272
+C101828,Customer_1829,51,Male,Consultant,India,Chennai,Individual,2026-06-18,Low,1018953
+C101829,Customer_1830,69,Male,Business Owner,USA,Pune,Corporate,2020-10-10,Low,1266727
+C101830,Customer_1831,38,Female,Self-Employed,India,Kolkata,Individual,2021-11-22,Low,4690892
+C101831,Customer_1832,67,Female,Self-Employed,India,Ahmedabad,Individual,2020-08-04,Low,306976
+C101832,Customer_1833,49,Female,Business Owner,India,Ahmedabad,Individual,2021-05-04,Low,2667891
+C101833,Customer_1834,24,Male,Consultant,India,Bengaluru,Individual,2022-10-16,Low,3102513
+C101834,Customer_1835,41,Male,Retired,India,Chennai,Individual,2020-06-25,Low,4239912
+C101835,Customer_1836,27,Male,Consultant,India,Pune,Individual,2021-07-03,Medium,4506823
+C101836,Customer_1837,67,Male,Business Owner,Singapore,Chennai,Individual,2020-12-29,Low,1632861
+C101837,Customer_1838,35,Female,Consultant,India,Bengaluru,Individual,2018-12-01,High,2661935
+C101838,Customer_1839,31,Female,Student,India,Pune,Individual,2024-09-04,Medium,3279427
+C101839,Customer_1840,48,Female,Business Owner,India,Delhi,Individual,2025-07-25,Low,4836353
+C101840,Customer_1841,41,Male,Business Owner,India,Delhi,Individual,2022-03-06,High,2915965
+C101841,Customer_1842,25,Female,Self-Employed,India,Kolkata,Individual,2019-09-27,Medium,872499
+C101842,Customer_1843,61,Female,Retired,India,Mumbai,Individual,2023-06-17,Medium,4643580
+C101843,Customer_1844,62,Female,Retired,India,Kolkata,Individual,2022-07-14,Low,2708501
+C101844,Customer_1845,57,Female,Self-Employed,India,Delhi,Individual,2022-09-05,Low,1142702
+C101845,Customer_1846,51,Male,Business Owner,Singapore,Hyderabad,Individual,2023-01-18,Low,1194295
+C101846,Customer_1847,40,Female,Self-Employed,UAE,Hyderabad,SME,2024-02-04,Medium,1261478
+C101847,Customer_1848,47,Female,Retired,India,Delhi,Individual,2018-05-07,Low,3689896
+C101848,Customer_1849,46,Male,Salaried,India,Delhi,SME,2018-11-05,Low,4760132
+C101849,Customer_1850,29,Female,Self-Employed,USA,Bengaluru,Corporate,2018-10-24,Low,2374406
+C101850,Customer_1851,25,Female,Self-Employed,UAE,Mumbai,Individual,2019-04-25,Low,760433
+C101851,Customer_1852,33,Female,Consultant,UK,Mumbai,Individual,2026-04-01,Low,4475935
+C101852,Customer_1853,43,Male,Self-Employed,India,Bengaluru,Individual,2024-03-13,Low,3283007
+C101853,Customer_1854,28,Female,Consultant,India,Bengaluru,Individual,2023-08-22,Medium,2982541
+C101854,Customer_1855,26,Male,Student,India,Delhi,Individual,2023-12-07,Low,584651
+C101855,Customer_1856,62,Male,Student,UK,Ahmedabad,Individual,2018-04-15,Low,4861833
+C101856,Customer_1857,39,Male,Salaried,India,Chennai,SME,2019-10-24,Low,661856
+C101857,Customer_1858,49,Female,Salaried,India,Bengaluru,Corporate,2024-09-28,Low,3168916
+C101858,Customer_1859,46,Male,Salaried,India,Chennai,Individual,2021-12-05,Medium,3106599
+C101859,Customer_1860,57,Female,Retired,India,Ahmedabad,Individual,2022-04-26,Low,2715085
+C101860,Customer_1861,57,Female,Consultant,India,Pune,Individual,2024-05-14,High,2891429
+C101861,Customer_1862,35,Male,Consultant,India,Mumbai,Individual,2018-08-22,High,2170022
+C101862,Customer_1863,62,Female,Student,India,Hyderabad,SME,2024-10-11,Medium,2993223
+C101863,Customer_1864,39,Female,Consultant,USA,Pune,Individual,2023-10-12,Medium,2010045
+C101864,Customer_1865,61,Female,Self-Employed,India,Ahmedabad,Individual,2021-06-05,Low,2526164
+C101865,Customer_1866,40,Female,Consultant,India,Delhi,Individual,2022-03-28,Low,3487157
+C101866,Customer_1867,26,Female,Student,UK,Bengaluru,Individual,2018-08-19,Low,3789088
+C101867,Customer_1868,58,Male,Salaried,India,Pune,Individual,2019-09-28,Medium,1020727
+C101868,Customer_1869,22,Male,Consultant,India,Pune,Individual,2020-02-03,Low,4963286
+C101869,Customer_1870,58,Female,Business Owner,India,Pune,Individual,2025-06-13,Low,754469
+C101870,Customer_1871,23,Male,Salaried,India,Chennai,Individual,2018-12-16,Low,1596171
+C101871,Customer_1872,31,Female,Self-Employed,India,Pune,SME,2020-06-22,Medium,1930071
+C101872,Customer_1873,50,Female,Business Owner,India,Chennai,Individual,2019-02-13,Medium,1820166
+C101873,Customer_1874,67,Female,Business Owner,India,Ahmedabad,Individual,2020-06-01,Low,1953810
+C101874,Customer_1875,41,Female,Self-Employed,India,Ahmedabad,Individual,2018-02-02,Low,1818332
+C101875,Customer_1876,26,Female,Consultant,India,Delhi,Individual,2020-04-25,Low,2349276
+C101876,Customer_1877,32,Female,Business Owner,India,Pune,SME,2024-02-22,Medium,3887364
+C101877,Customer_1878,64,Female,Business Owner,India,Chennai,Individual,2024-07-07,Low,4189081
+C101878,Customer_1879,56,Male,Student,India,Kolkata,Individual,2021-03-22,Low,1935672
+C101879,Customer_1880,25,Female,Salaried,India,Bengaluru,Individual,2023-12-29,Medium,1514604
+C101880,Customer_1881,39,Female,Business Owner,India,Bengaluru,Individual,2023-04-02,Low,3480664
+C101881,Customer_1882,33,Female,Salaried,India,Pune,SME,2025-08-31,Medium,579980
+C101882,Customer_1883,29,Male,Retired,USA,Ahmedabad,Individual,2024-10-30,Low,2395671
+C101883,Customer_1884,62,Female,Self-Employed,UAE,Hyderabad,Individual,2019-12-12,High,1334040
+C101884,Customer_1885,51,Male,Student,India,Delhi,Individual,2022-12-30,Low,3156681
+C101885,Customer_1886,29,Female,Self-Employed,India,Delhi,Individual,2024-09-03,Low,667963
+C101886,Customer_1887,52,Female,Self-Employed,India,Bengaluru,Individual,2020-08-05,High,4196372
+C101887,Customer_1888,41,Male,Consultant,India,Delhi,Individual,2022-11-12,Low,1568980
+C101888,Customer_1889,24,Female,Student,UK,Ahmedabad,Individual,2021-05-25,Medium,2716075
+C101889,Customer_1890,43,Female,Self-Employed,India,Hyderabad,Individual,2020-08-14,Low,2989528
+C101890,Customer_1891,30,Female,Self-Employed,UAE,Kolkata,SME,2019-09-10,Low,2533314
+C101891,Customer_1892,33,Other,Retired,India,Kolkata,Individual,2018-04-20,Low,2405574
+C101892,Customer_1893,64,Male,Self-Employed,India,Kolkata,Individual,2024-05-13,Low,1554780
+C101893,Customer_1894,55,Male,Self-Employed,UK,Pune,Individual,2024-12-13,Medium,3930880
+C101894,Customer_1895,27,Other,Student,India,Ahmedabad,Individual,2023-07-14,Low,2724751
+C101895,Customer_1896,62,Female,Salaried,USA,Pune,Individual,2020-01-18,Low,1314145
+C101896,Customer_1897,49,Other,Retired,India,Ahmedabad,Individual,2018-02-28,Low,1533337
+C101897,Customer_1898,63,Female,Retired,UK,Pune,Individual,2023-05-13,Low,2361538
+C101898,Customer_1899,57,Male,Retired,India,Kolkata,Individual,2019-09-12,Low,4264779
+C101899,Customer_1900,37,Female,Self-Employed,India,Ahmedabad,Individual,2022-08-29,High,4818430
+C101900,Customer_1901,47,Female,Salaried,UK,Ahmedabad,Individual,2026-03-27,Low,2127660
+C101901,Customer_1902,47,Male,Business Owner,India,Delhi,SME,2018-01-14,Low,2157137
+C101902,Customer_1903,56,Female,Business Owner,India,Pune,SME,2022-11-25,Low,906805
+C101903,Customer_1904,33,Other,Retired,USA,Ahmedabad,Individual,2026-06-10,Low,2864710
+C101904,Customer_1905,37,Female,Consultant,India,Hyderabad,SME,2020-11-02,Low,1427847
+C101905,Customer_1906,32,Male,Retired,Singapore,Chennai,Individual,2024-11-29,Medium,4151902
+C101906,Customer_1907,35,Male,Student,India,Ahmedabad,Individual,2025-01-11,Medium,2812532
+C101907,Customer_1908,28,Female,Student,India,Pune,SME,2022-02-17,Medium,1342784
+C101908,Customer_1909,22,Male,Salaried,India,Hyderabad,Individual,2020-08-09,Low,4606551
+C101909,Customer_1910,67,Male,Salaried,India,Pune,Individual,2023-10-11,Medium,4132518
+C101910,Customer_1911,24,Male,Salaried,UAE,Chennai,Individual,2023-04-05,Medium,1712639
+C101911,Customer_1912,64,Female,Consultant,India,Hyderabad,Individual,2022-01-17,Medium,864586
+C101912,Customer_1913,21,Male,Self-Employed,India,Bengaluru,Individual,2019-08-21,High,1542615
+C101913,Customer_1914,59,Male,Retired,India,Bengaluru,Individual,2024-04-27,Low,2070461
+C101914,Customer_1915,37,Female,Salaried,India,Ahmedabad,Individual,2019-10-18,High,2210831
+C101915,Customer_1916,46,Female,Retired,India,Delhi,Individual,2019-02-21,Medium,4164862
+C101916,Customer_1917,34,Female,Student,USA,Mumbai,Individual,2018-07-28,Medium,4848446
+C101917,Customer_1918,45,Male,Salaried,USA,Bengaluru,Individual,2021-10-15,Medium,3812225
+C101918,Customer_1919,43,Female,Salaried,UK,Mumbai,SME,2019-01-08,High,4272532
+C101919,Customer_1920,46,Male,Business Owner,India,Ahmedabad,Individual,2020-11-06,Low,888104
+C101920,Customer_1921,40,Other,Business Owner,India,Bengaluru,Individual,2020-01-20,Medium,1003439
+C101921,Customer_1922,47,Female,Self-Employed,India,Bengaluru,Individual,2021-11-25,Medium,4568226
+C101922,Customer_1923,61,Female,Consultant,USA,Bengaluru,Individual,2024-08-07,Medium,3184640
+C101923,Customer_1924,42,Male,Salaried,India,Mumbai,Individual,2021-10-28,Medium,1407897
+C101924,Customer_1925,38,Female,Salaried,India,Kolkata,Individual,2022-09-24,Low,4021761
+C101925,Customer_1926,27,Male,Student,India,Delhi,Individual,2019-03-20,Low,1122342
+C101926,Customer_1927,38,Male,Retired,UK,Hyderabad,Individual,2018-12-17,Low,3909648
+C101927,Customer_1928,27,Male,Self-Employed,UK,Hyderabad,Corporate,2026-04-16,Medium,4450630
+C101928,Customer_1929,29,Female,Retired,Singapore,Pune,Individual,2023-04-06,Medium,2597573
+C101929,Customer_1930,67,Male,Business Owner,India,Chennai,Individual,2018-02-18,Medium,3384957
+C101930,Customer_1931,25,Male,Business Owner,UAE,Ahmedabad,Individual,2022-10-18,Medium,3739607
+C101931,Customer_1932,44,Female,Salaried,India,Delhi,Individual,2018-02-01,Low,4437655
+C101932,Customer_1933,61,Male,Business Owner,India,Mumbai,Individual,2018-08-28,Low,3042857
+C101933,Customer_1934,67,Male,Business Owner,India,Delhi,Corporate,2021-03-03,Medium,1679409
+C101934,Customer_1935,28,Male,Consultant,India,Kolkata,SME,2023-07-29,Medium,1246791
+C101935,Customer_1936,29,Female,Salaried,India,Mumbai,Corporate,2023-04-08,Medium,1971045
+C101936,Customer_1937,39,Female,Self-Employed,India,Delhi,Individual,2024-09-18,Medium,563452
+C101937,Customer_1938,48,Female,Business Owner,India,Delhi,Individual,2019-07-11,High,3583711
+C101938,Customer_1939,68,Female,Salaried,India,Kolkata,Individual,2019-08-18,Low,2036648
+C101939,Customer_1940,31,Female,Salaried,UK,Delhi,SME,2022-07-11,Medium,3644351
+C101940,Customer_1941,29,Other,Consultant,India,Pune,Individual,2025-05-16,Low,591113
+C101941,Customer_1942,33,Female,Retired,India,Kolkata,Individual,2024-02-19,Low,1812788
+C101942,Customer_1943,63,Male,Consultant,India,Ahmedabad,Individual,2023-09-06,Low,2156562
+C101943,Customer_1944,22,Female,Salaried,UK,Bengaluru,Individual,2018-10-19,Low,711468
+C101944,Customer_1945,39,Female,Retired,India,Pune,SME,2025-06-14,Low,4195731
+C101945,Customer_1946,26,Female,Consultant,India,Mumbai,Individual,2026-05-10,Medium,3108499
+C101946,Customer_1947,28,Female,Student,India,Kolkata,Individual,2022-12-11,Low,4268182
+C101947,Customer_1948,65,Male,Self-Employed,India,Ahmedabad,Individual,2020-11-09,Low,4068711
+C101948,Customer_1949,21,Male,Consultant,India,Bengaluru,Individual,2023-08-16,Low,460147
+C101949,Customer_1950,36,Male,Salaried,India,Delhi,Individual,2023-06-15,Low,4367134
+C101950,Customer_1951,65,Female,Consultant,India,Kolkata,Individual,2025-11-20,Medium,626816
+C101951,Customer_1952,50,Male,Self-Employed,India,Chennai,Individual,2018-12-10,Low,4394469
+C101952,Customer_1953,24,Female,Retired,India,Pune,Individual,2022-05-17,Low,3448375
+C101953,Customer_1954,43,Male,Salaried,India,Kolkata,Corporate,2024-01-09,High,4151317
+C101954,Customer_1955,68,Male,Consultant,India,Kolkata,Individual,2020-12-17,Medium,2649993
+C101955,Customer_1956,40,Female,Salaried,India,Mumbai,Individual,2025-02-18,Medium,1052720
+C101956,Customer_1957,46,Female,Student,India,Kolkata,Individual,2018-07-20,Medium,1001984
+C101957,Customer_1958,47,Female,Business Owner,India,Kolkata,Individual,2018-11-23,Low,857993
+C101958,Customer_1959,53,Female,Retired,India,Chennai,Individual,2024-09-17,Medium,4085989
+C101959,Customer_1960,30,Male,Consultant,India,Pune,Individual,2019-01-26,Low,2807812
+C101960,Customer_1961,62,Male,Business Owner,India,Pune,Individual,2021-07-21,Low,1317531
+C101961,Customer_1962,69,Male,Salaried,India,Ahmedabad,Individual,2020-05-21,Low,886806
+C101962,Customer_1963,27,Female,Consultant,India,Chennai,Individual,2023-11-04,Medium,667301
+C101963,Customer_1964,61,Male,Business Owner,India,Ahmedabad,Individual,2018-02-07,Low,1513035
+C101964,Customer_1965,61,Female,Salaried,India,Delhi,Individual,2021-01-11,Low,3822683
+C101965,Customer_1966,57,Male,Consultant,India,Bengaluru,Individual,2026-05-15,Low,4494334
+C101966,Customer_1967,39,Female,Self-Employed,USA,Hyderabad,Individual,2021-02-17,Medium,3158192
+C101967,Customer_1968,43,Female,Self-Employed,India,Kolkata,Individual,2023-01-29,Low,4979826
+C101968,Customer_1969,62,Male,Salaried,India,Ahmedabad,SME,2026-05-21,Low,2153880
+C101969,Customer_1970,28,Female,Business Owner,USA,Bengaluru,Individual,2023-02-27,Low,1862810
+C101970,Customer_1971,61,Female,Self-Employed,India,Ahmedabad,SME,2024-05-29,Medium,3555813
+C101971,Customer_1972,66,Male,Salaried,India,Pune,Individual,2026-02-20,Low,932964
+C101972,Customer_1973,54,Female,Business Owner,India,Mumbai,SME,2023-03-29,High,4583489
+C101973,Customer_1974,37,Male,Self-Employed,UAE,Delhi,Individual,2025-01-23,Low,3966677
+C101974,Customer_1975,48,Male,Salaried,UAE,Kolkata,Individual,2022-04-25,Low,460657
+C101975,Customer_1976,23,Male,Business Owner,India,Chennai,Individual,2024-11-29,Low,1180010
+C101976,Customer_1977,66,Male,Salaried,USA,Chennai,Individual,2023-06-14,Low,3250093
+C101977,Customer_1978,37,Male,Retired,India,Chennai,SME,2020-11-18,Low,3771174
+C101978,Customer_1979,23,Male,Business Owner,India,Delhi,Individual,2022-09-27,Low,1325386
+C101979,Customer_1980,59,Male,Retired,India,Chennai,Individual,2020-11-04,Medium,3810631
+C101980,Customer_1981,53,Male,Retired,India,Ahmedabad,Individual,2021-05-15,Low,2528447
+C101981,Customer_1982,51,Female,Retired,India,Mumbai,Individual,2020-06-23,Low,3473598
+C101982,Customer_1983,23,Female,Consultant,UK,Chennai,Individual,2022-03-03,Low,2292711
+C101983,Customer_1984,57,Male,Business Owner,India,Bengaluru,SME,2020-12-10,Low,2434968
+C101984,Customer_1985,52,Female,Student,India,Kolkata,Individual,2023-04-25,Low,2132904
+C101985,Customer_1986,59,Female,Salaried,India,Ahmedabad,Individual,2021-02-19,Low,1037651
+C101986,Customer_1987,61,Female,Retired,India,Bengaluru,Individual,2022-03-03,Low,1194673
+C101987,Customer_1988,31,Male,Self-Employed,India,Delhi,Corporate,2019-03-11,Low,1088083
+C101988,Customer_1989,31,Female,Salaried,UAE,Kolkata,Individual,2021-04-13,High,4072454
+C101989,Customer_1990,66,Male,Self-Employed,India,Kolkata,Individual,2021-01-08,Medium,2289338
+C101990,Customer_1991,47,Male,Self-Employed,India,Mumbai,SME,2026-02-27,High,2083746
+C101991,Customer_1992,42,Male,Salaried,India,Kolkata,Individual,2021-10-16,Low,4321618
+C101992,Customer_1993,35,Female,Student,UAE,Kolkata,Individual,2018-03-08,Medium,4469822
+C101993,Customer_1994,52,Male,Salaried,Singapore,Pune,Individual,2020-08-16,Low,1399704
+C101994,Customer_1995,57,Male,Retired,India,Delhi,Individual,2024-03-11,Low,1966940
+C101995,Customer_1996,21,Female,Business Owner,India,Hyderabad,SME,2019-05-28,Medium,2235175
+C101996,Customer_1997,48,Male,Student,India,Ahmedabad,SME,2019-05-21,Low,4246652
+C101997,Customer_1998,69,Female,Business Owner,UK,Kolkata,Individual,2021-03-03,Low,3456652
+C101998,Customer_1999,34,Other,Salaried,UK,Delhi,Corporate,2021-01-11,Medium,2858991
+C101999,Customer_2000,34,Female,Self-Employed,UK,Pune,Individual,2022-01-30,Medium,1405094
